@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+ <head>
+  <meta charset="UTF-8">
+  <title>jQuery 기본</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script>
+$(document).ready(function(){	  
+	var arry = [ {name: "naver", link:"http://www.naver.com"},
+	             {name: "google", link:"http://www.google.com"},
+	             {name: "multicampus", link:"http://www.multicampus.com"},
+	             {name: "daum", link:"http://www.daum.net"},
+               {name: "paran", link : "http://www.paran.com"}
+
+             ];
+	var output = "";
+
+	$.each(arry, function(index, item){
+		output += "<a href="+item.link+"><h1>"
+		          +item.name+"</h1></a><br>";
+	});
+	document.body.innerHTML += output;
+});
+  </script>
+ </head>
+ <body>
+
+ </body>
+</html>
