@@ -8,17 +8,18 @@
  .high_light2 { background:red; }
  .high_light3 { background:Yellow; }
  .high_light4 { background:green; }
- .high_light5 { background:Blue; }
+ .high_light5 { background:lightBlue; }
 </style>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script>
 $(document).ready(function(){
-	$("h1").each(function(index, item){
-			//$(item).addClass("high_light"+(index+1));
-			//console.log(index+", "+item);
-			$(this).addClass("high_light"+(index+1));
-		});
-});
+  $.noConflict();
+  var J = jquery;
+  J(document).ready(function(){
+	  J("h1").each(function(index, item){
+		  J(item).removeClass("high_light_"+index);
+		  });
+    });
   </script>
  </head>
  <body>

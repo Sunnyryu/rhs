@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>jQuery 기본</title>
+  <style>
+
+</style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script>
+  $(document).ready(function(){
+    // $('h3').css('background', 'Orange').filter(':even').css('color', '#40E0D0').end().filter(':odd').css('color', 'Blue');
+    // $('h3').eq(0).css('color', 'Turquoise');
+    // $('h3').eq(-1).css('color', 'gold');
+    $('h3').first().css('color', 'silver');
+    $('h3').last().css('color', 'purple');
+
+
+
+});
+  </script>
+ </head>
+ <body>
+ <h3>item - 0</h3>
+<h3>item - 1</h3>
+<h3>item - 2</h3>
+<h3>item - 3</h3>
+<h3>item - 4</h3>
+<h3>item - 5</h3>
+
+
+ </body>
+</html>

@@ -1,0 +1,178 @@
+-## jQuery
+
+#### Basic
+
+- 배열 관리
+  - each 메서드 사용
+    - 매개 변수로 입력한 함수 사용
+    - for in 반복문처럼 객체나 배열의 요소 검사하는 메서드
+  - each() 메서드의 형태
+    - $.each(object, function(index, item){ })
+    - $(selector).each(function(index, item){})
+
+
+- jQuery의 배열 객체
+    - 선택자 사용해 여러 개의 문서 객체 선택할 때 생성
+    - style 태그에서 high_light 클래스의 background 속성 지정
+  - addClass() 메서드
+    - 문서 객체에 class 속성 추가하는 메서드
+  - removeClass() 메서드
+    - 문서 객체의 class 속성 제거하는 메서드
+  - $.extend() 메서드
+    - 객체 생성 후 속성 추가 – 데이터 수가 적을 때는 편
+  - $.extend() 메서드
+    - 많은 수의 속성 추가할 때 생기는 문제를 해결하는 메서드
+    - 사용법
+      - $.extend(object, addObject, addObject, ...)
+  - $.noConflict()
+    - 충돌을 방지할 때 사용하는 메서드
+    - $.noConflict() 메서드 사용
+    - 더 이상 jQuery의 식별자 $를 사용할 수 없음
+- 기본 필터링 메서드
+  - filter(expr)
+    - 대상이 되는 element들 중 입력 값에 일치하는 element를 리턴함
+  - filter(fn)
+    - 대상이 되는 element중 function에 구현된 내용이 true를 리턴할 경우 대상 element
+      집합에 포함시키고, false일 경우 대상 element 집합에서 제외시킴.
+  - 체이닝
+    - 체이닝할 때 추가한 filter() 메서드 제거하려면 end() 메서드 사용함
+  - 필터 선택자
+    - 특정 위치에 존재하는 문서 객체 선택
+    - 필터 선택자는 자주 사용하므로 메서드로 제공
+    - eq(index)
+      - 여러 개의 일치하는 element들 중 입력 값으로 받은 값의 위치에 해당하는 element를 리턴하며, 입력 값의 시작은 '0'부터 시작하며 last는 -1, 입력 값에 해당하는 위치에 element가 존재하지 않을 경우 null을 리턴함.
+    - first,last
+      - first는 처음, last는 마지막 객체 선택
+      - add()
+        - jQuery를 통해 선택된 element set에 add(expr)에 일치하는 element들을 추가
+          - 단, add()에 의해 추가되는 element가 document에 추가되는 것은 아니며, 검색된 대상 집합에만 추가함
+      - is(expr)
+        - 문서 객체 특징 판별
+        - 대상이 되는 element중에서 입력 값인 expr에 만족하는 element가 하나라도 존재할 경우 true를 리턴하고, 그렇지 않을 경우 false를 리턴함
+        - is() 메서드는 매개 변수로 선택자 입력별
+      - find(expr)
+        - 특정 태그 선택
+        - 입력 값으로 받은 표현식에 해당하는 모든 DOM element를 검색
+        - 입력 값으로 받는 표현식은 CSS selector 문법과 기본적인 XPath의 검색 표현식을 따름
+- 문서 객체의 속성 추가
+  - attr() 메서드
+    - 문서 객체에 속성을 추가할 때도 사용
+      - $(selector).attr(name, value);
+      - $(selector).attr(name, function(index, attr){ });
+      - $(selector).attr(object);
+  - removeAttr() 메서드
+    - 첫 번째 매개 변수에 삭제하려는 속성의 이름 입력
+  - css() 메서드
+    - css() 메서드의 매개 변수에 스타일 속성 이름 입력
+    - 코드 실행하면 첫 번째 문서 객체의 스타일 속성 가져옴
+      - $(selector).css(name, value);
+      - $(selector).css(name, function(index, style){ });
+      - $(selector).css(object);
+      - Attr() 메서드와 같은 방법
+      - $(selector).css(name, value); 방법
+  - text() 메서드
+  - html() 메서드
+    - 매개 변수로 입력하고자 하는 HTML 문자열 입력
+- 문서 객체의 제거
+  - Remove()
+    - 한 개의 객체만 지움
+  - div 태그에 empty() 메서드 적용
+    - body 태그의 모든 태그 제거
+- 문서 객체의 추가
+  - appendTo / prependTo
+    - 뒷 부분에 추가 / 앞 부분에 추가
+  - InsertAfter / insertBefore
+    - 뒤에 추가 / 앞에 추가
+- 문서 객체 복제
+    - clone을 사용함
+
+- 이벤트 연결
+  - bind() 메서드
+    - $(selector).bind(eventName, function(event) { })
+      - bind() 메서드의 첫 번째 매개 변수에 이벤트 이름 입력
+      - 두 번째 매개 변수에 이벤트 핸들러 입력
+      - 이벤트 핸들러 안에서 this 키워드는 이벤트 발생한 객체 의미
+    - $(selector).bind(object)
+      - bind() 메서드의 매개 변수에 객체 넣어줌
+      - 속성 이름과 속성값에 이벤트 이름과 이벤트 핸들러 넣음
+  - jQuery 단축 이벤트 메서드
+    - $(selector).method(function(event) { });
+      - toggle()
+        - click 이벤트를 여러 이벤트 핸들러를 번갈아 실행하게 연결
+        - 매개 변수에 여러 개의 함수 입력 가능
+      - hover()
+        - mouseenter와 mouseleave 이벤트를 동시에 연결
+        - 두 개의 함수를 매개 변수로 넣어줌
+  - 이벤트 제거
+    - unbind() 메서드
+      - $(selector).unbind() - 해당 문서 객체와 관련된 모든 이벤트 제거
+      - $(selector).unbind(eventName) - 특정 이벤트와 관련된 모든 이벤트 제거
+      - $(selector).unbind(eventName, function) - 특정 이벤트 핸들러 제거
+  - 매개 변수 context
+    - jQuery 메서드는 매개 변수 두 개 입력 가능
+    - selector 매개 변수 이외에 context 매개 변수 가능
+    - 매개 변수 context = selector 적용하는 범위 한정
+    - 특정 부분에 선택자 적용하고 싶을 때 사용하는 매개 변수
+  - trigger( ) 메서드
+    - $(selector).trigger(eventName, data)
+  - preventDefault() 메서드
+    - 기본 이벤트 제거
+  - stopPropagation() 메서드
+    - 이벤트 전달 제거
+  - on() 메서드
+    - bind(): $(selector).on(eventName, eventHandler)
+    - live(): $(document).on(eventName, selector, eventHandler)
+      - 문서 전체가 이벤트의 지속 범위
+    - delegate(): $(selector).on(eventName, selector, eventHandler)
+      - 이벤트의 지속 범위 한정
+  - 키보드 이벤트
+    - keypress 이벤트는 한글로 사용할 수 없음
+    - 동적으로 글자 수 세기
+      - 키보드 이벤트와 키보드 이벤트의 주의할 점 숙지
+    - textarea 태그에 keyup 이벤트 연결
+      - keyup 이벤트 발생하면 글자 개수 받아 출력
+  - 윈도우 이벤트
+    - window 객체와 document 객체 이외에 img 태그 등이 사용할 수 있는 이벤트
+      - ready, load, unload, resize, scroll, error 등
+    - jQuery 이벤트 사용해 간단하게 무한 스크롤 구현
+      - window 객체에 scroll 이벤트 연결
+        - window 객체는 별도의 선택자 사용하지 않음
+        - 사용자가 마우스 스크롤 움직이면 무조건  scroll 이벤트 발생
+        - 무한 스크롤을 만들려면 화면 끝까지 스크롤이 도달했다는 사실 인식 필요
+        - window 객체 scrollTop +height =document 객체 높이( 스크롤을 끝까지 내릴 때)
+    - submit 이벤트
+      - 입력 양식이 있어야 하므로 body 태그 구성
+      - form 태그에서 발생하는 이벤트
+      - form 객체에 submit() 메서드 연결
+      - 유효성 검사를 할 때는 기본 이벤트 제거해야 함 / submit(fn)
+      - 대상 element에 submit event가 발생했을 때 callback function을 실행
+    - change 이벤트
+      - type 속성이 checkbox와 radio인 input 태그의 상태 변경하는 이벤트
+      - click 이벤트가 아님
+      - change(fn)
+        - 대상 element에 change event가 발생했을 때 callback function을 실행
+- jQuery의 기본 효과
+  - . $(selector).method(); , $(selector).method(speed);, $(selector).method(speed, callback);, (selector).method(speed, easing, callback);
+  - speed
+    - 효과를 진행할 속도 지정, 밀리초 단위의 숫자나 문자열 slow, normal, fast 입력
+  - callback
+    - 효과를 모두 완료한 후에 실행할 함수 지정
+  - easing
+    - 애니메이션의 easing 속성 지정, 별도의 플러그인 사용 않으면 문자열 linear와 swing만 입력 가능
+  - animate() 메서드
+    - 스타일 속성을 동적으로 변경해 애니메이션 효과 내는 것
+    - 현재 스타일 속성 알아내 추가 값 부여
+    - 속성을 상대적으로 변화시키는 형태의 애니메이션
+      - + = 연산자나 -= 연산자 사용으로 더 효과적
+  - 애니메이션 큐
+    - jQuery의 효과 메서드는 계속 누적
+      - 누적된 효과 명령은 큐Queue에 누적되어 실행
+    - clearQueue() 메서드
+      - 현재 실행되는 애니메이션 정지 기능 없음
+      - stop() 메서드의 사용
+      - $(selector).stop();, $(selector).stop(clearQueue);, $(selector).stop(clearQueue, goToEnd);
+      - 매개 변수 clearQueue와 goToEnd는 불리언 입력
+  - 지연 메서드
+    - delay() 메서드
+      - 매개 변수에 정지하려는 시간을 밀리초 단위로 입력
+      - 사각형이 순서대로 오른쪽으로 이동하는 효과

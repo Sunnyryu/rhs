@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Insert title here</title>
+<style>
+ div{  margin:10px;
+       border:3px Solid Black;
+       border-radius:10px;
+       float:left;
+       width:120px; height:120px;
+       text-align:center;
+        }
+    </style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+
+        $(document).ready(function () {
+          var color = ['red', 'blue', 'purple'];
+
+          $('h1').css({
+            color: function (index){
+              return color[index];
+
+            },
+            backgroundColor: 'yellow'
+          })
+
+        });
+    </script>
+</head>
+<body>
+   <h1>Header-0</h1>
+   <h1>Header-1</h1>
+   <h1>Header-2</h1>
+</body>
+</html>
