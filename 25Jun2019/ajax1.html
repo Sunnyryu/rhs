@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ajax 처리 1</title>
+    <script>
+      window.onload = function(){ // 이벤트 발생
+        var req = new XMLHttpRequest(); // 1. XMLHttpRequest
+        req.onloadstart = function(){
+          console.log("loadstart: 요청을 보낼 때");
+        }
+        req.onload = function(){
+          console.log("load: 요청 성공, 응답 가져올 수 있을 때");
+        }
+        req.onloadend = function(){
+          console.log("loadend: 요청 완료");
+        }
+        req.onloadprogress = function(){
+          console.log("progress: 데이터를 주고 받을 때");
+        }
+        req.onreadystatechange = function(){
+          if(req.readyState==4){
+            if(req.status == 200){
+              document.getElementById("view").innerHTML = req.responseText
+            }
+          }
+
+        }//응답 처리 함수
+        req.open("GET", "data.txt");// 같은 페이지일 떄는 내용을 다안쓰고 이름만 써도 됌(요청을 보낼 준비)
+        req.send(null); // 3 요청 보냄
+      };
+    </script>
+  </head>
+  <body>
+    <p id = "view">
+    </p>
+  </body>
+</html>
