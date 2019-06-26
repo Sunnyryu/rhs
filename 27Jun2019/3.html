@@ -16,8 +16,8 @@
       var mapOptions = {center:myLatlng, zoom:16, mapTypeId:google.maps.MapTypeId.ROADMAP};
       var map = new google.maps.Map(mapCanvas, mapOptions);
       var marker = new google.maps.Marker({
-        position: myLatlng, map: map, draggable:true, title: ' 서정주 집에서 만나기.'});
-      var contentString = '<div style="width:500px;height:380px;">여기서 봐</div>';
+        position: myLatlng, map: map, draggable:true, title: ' 시인 서정주의 집 앞에서 만나자.'});
+      var contentString = '<div style="width:500px;height:380px;">지도로 표시하면 이곳과 가까워</div>';
       var infowindow = new google.maps.InfoWindow({
           content: contentString, size: new google.maps.Size(100,50)});
           google.maps.event.addListener(marker, 'click', function(){
