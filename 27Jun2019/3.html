@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src ="https://maps.googleapis.com/maps/api/js?key=AIzaSyChzgHkG9N4fl8JmyQ5HGzFlTT1Axy2Z38">
+
+    </script>
+    <style>
+    #myCanvas {width:500px; height : 380px;}
+    </style>
+    <script>
+    function myMap() {
+      var mapCanvas = document.getElementById("myCanvas");
+      var myLatlng = new google.maps.LatLng(37.473897, 126.973367);
+      var mapOptions = {center:myLatlng, zoom:16, mapTypeId:google.maps.MapTypeId.ROADMAP};
+      var map = new google.maps.Map(mapCanvas, mapOptions);
+      var marker = new google.maps.Marker({
+        position: myLatlng, map: map, draggable:true, title: ' 서정주 집에서 만나기.'});
+      var contentString = '<div style="width:500px;height:380px;">여기서 봐</div>';
+      var infowindow = new google.maps.InfoWindow({
+          content: contentString, size: new google.maps.Size(100,50)});
+          google.maps.event.addListener(marker, 'click', function(){
+            infowindow.open(map, marker);
+            if(marker.getAnimation() != null){
+              marker.setANimation(null);
+            }else{
+              marker.setANimation(google.maps.Anumation.BOUNCE);
+            }
+          });
+          marker.setMap(map);
+        }
+
+
+
+    </script>
+  </head>
+  <body onload = "myMap()">
+    <div id="myCanvas">
+    </div>
+
+
+  </body>
+</html>
