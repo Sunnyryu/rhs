@@ -2,25 +2,20 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
-    <script src ="https://maps.googleapis.com/maps/api/js?key=AIzaSyChzgHkG9N4fl8JmyQ5HGzFlTT1Axy2Z38">
-
-    </script>
-    <script>
-      var myCenter = new google.maps.LatLng(37.5108357, 127.02951879999999);
-      function myMap(){
-        var mapProp={center:myCenter, zoom:5, mapTypeId:google.maps.MapTypeId.ROADMAP};
-        var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
-        var marker = new google.maps.Marker({
-          position:myCenter, animation:google.maps.Animation.BOUNCE});
-          marker.setMap(map);
-        };
-
-    </script>
+    <title>Multi Partition 실습</title>
+    <style>
+    input {
+      margin : 2px;
+    }
+  </style>
   </head>
-  <body onload = "myMap()">
-    <div id="googleMap" style="width:500px;height:380px;">
-    </div>
-
+  <body>
+    <h2>mutipart/form-date 실습</h2>
+      <form action="part" method = "post" enctype="multipart/form-data">
+        <label>작성자 이름 : <input type="text" name = "myname" /></label><br>
+        <label>작성자 폰번호 : <input type="text" name = "myphone" /></label><br>
+        <label>첨부파일 : <input type="text" name = "myfile" multiple /></label><br>
+        <input type = "submit" value="전송"/>
+      </form>
   </body>
 </html>

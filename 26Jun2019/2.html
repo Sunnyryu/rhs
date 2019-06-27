@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src ="https://maps.googleapis.com/maps/api/js?key=AIzaSyChzgHkG9N4fl8JmyQ5HGzFlTT1Axy2Z38">
+
+    </script>
+    <script>
+      var myCenter = new google.maps.LatLng(37.5108357, 127.02951879999999);
+      function myMap(){
+        var mapProp={center:myCenter, zoom:5, mapTypeId:google.maps.MapTypeId.ROADMAP};
+        var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+        var marker = new google.maps.Marker({
+          position:myCenter, animation:google.maps.Animation.BOUNCE});
+          marker.setMap(map);
+        };
+
+    </script>
+  </head>
+  <body onload = "myMap()">
+    <div id="googleMap" style="width:500px;height:380px;">
+    </div>
+
+  </body>
+</html>

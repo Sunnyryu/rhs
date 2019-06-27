@@ -2,31 +2,23 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
-
-    <script>
-      function showPosition(pos){
-        document.getElementById("demo").innerHTML
-        ="위도 :" + pos.coords.latitude + "<br>경도 : " + pos.coords.longitude
-
-      }
-      function locationEventHandler(){
-        if (navigator.geolocation){
-          navigator.geolocation.getCurrentPosition(showPosition);
-        }else{
-          document.getElementById("demo").innerHTML="브라우저가 지원하지 않습니다."
-        }
-        }
-
-    </script>
+    <title>Insert title here</title>
   </head>
   <body>
-    <p>
-      현재 위치가 궁금하신가요?
-    </p>
-    <button onclick="locationEventHandler()">위도/경도</button>
-    <p id="demo">
+    <h3>회원가입 페이지</h3>
+    <form id="f1" action = "Join" method="post">
+      userid : <input type="text" name="userid" ><br>
+      password : <input type="password" name="userpwd"><br>
+        <input type="hidden" name="address" value="서울"><br>
+        관심사항 : <input type="checkbox" name="interest" values="영화">영화<br>
+        관심사항 : <input type="checkbox" name="interest" values="게임">게임<br>
+        관심사항 : <input type="checkbox" name="interest" values="음악">음악<br>
+        관심사항 : <input type="checkbox" name="interest" values="스포츠">스포츠<br>
+        관심사항 : <input type="checkbox" name="interest" values="음식">음식<br>
+        관심사항 : <input type="checkbox" name="interest" values="용어">용어<br>
+        <input type="submit" value="회원가입" ><br>
+        <input type="reset" value="취소" ><br>
 
-    </p>
+    </form>
   </body>
 </html>
