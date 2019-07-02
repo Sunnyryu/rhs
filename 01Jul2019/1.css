@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS document */
+
+table{
+  background-color: lightblue;
+  border-left: 5px
+  padding : 5px;
+  border-style: dotted;
+  border-color: blue;
+
+}

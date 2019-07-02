@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" href="1.css">
+<script>
+function chkLogin() {
+  // 아이디 체크
+  var userId = document.getElementById('userId');
+  if(userId.value == "" || userId.value.length < 4) {
+      alert('아이디는 4글자 이상 입력하세요.');
+      userId.focus();
+  }
+
+  // 비밀번호 체크
+  var pwd = document.getElementById('userPW');
+  if(pwd.value == "" || pwd.value.length < 4) {
+      alert('비밀번호는 4글자 이상 입력하세요');
+      pwd.select();
+      return false;
+  }
+
+
+}
+</script>
+</head>
+<body>
+  <h1>로그인</h1>
+
+    <form name="login" id="login" action="" method="post" onsubmit="return chkLogin();">
+        <table>
+            <tr>
+                <td>아이디</td>
+                <td><input type="text" name="userId" id="userId" /></td>
+            </tr>
+            <tr>
+                <td>비밀번호</td>
+                <td><input type="password" name="userPW" id="userPW" /></td>
+            </tr>
+
+                <td></td>
+                <td><input type="submit" name="submit" value="로그인" />
+
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

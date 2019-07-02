@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>팝업 메뉴 만들기</title>
+<style>
+div{
+float: left;
+}
+.menu{
+background-color : yellow;
+}
+.popUp {
+color : black;
+text-decoration : underline;
+background-color : yellow;
+width : 50px;
+text-align: center;
+visibility : hidden;
+}
+</style>
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+	$("#menu").mouseover(function() {
+		$("#popUp").css("visibility","visible");
+	})
+
+})
+</script>
+
+</head>
+<body>
+<div>
+<div id = "menu" class = "menu">
+<p> 검색 >> </p>
+</div>
+<div id = "popUp" class ="popUp">
+	<a href="https://www.naver.com">Naver</a>
+	<a href="https://www.daum.net">Daum</a>
+	<a href="https://www.google.com">Google</a>
+</div>
+</div>
+</body>
+</html>
