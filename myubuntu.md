@@ -25,3 +25,16 @@ shutdown -r now
 init 6
 
 ```
+
+- 커널 관련 용어
+  - update
+    - sudo apt-get update / apt update
+  - upgrade
+    - sudo apt-get upgrade / apt upgrade
+  - install
+    - sudo apt install [패키지명]
+  - autoremove
+    - sudo apt autoremove / apt-get autoremove
+  - autoclean
+    - sudo apt autoclean / apt-get autoclean
+    - 
