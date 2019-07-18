@@ -56,7 +56,4 @@ unity-control-center 명령어를 사용
 nmtui = 네트워크 설정
 ufw = 방화벽 설정
 
-cron 과 at
-
-네트워크 관련 설정과 명령어
 ```
