@@ -56,4 +56,10 @@ unity-control-center 명령어를 사용
 nmtui = 네트워크 설정
 ufw = 방화벽 설정
 
+CRON / AT
+
+cron
+주기적으로 반복되는 일을 자동으로 실행할 수 있도록 시스템 작업을 예약해 놓음
+at
+일회성 예약을 함
 ```
