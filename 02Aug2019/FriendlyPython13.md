@@ -13,6 +13,7 @@ ASCII(아스키 코드 - American Standard Code for Information Interchange)
 8비트를 메모리에서 "byte"로 정함, ord() ASCII 문자에 대응되는 숫자를 리턴
 
 유니코드
+.
 
 여러바이트로 된 문자
 UTF-16 – 길이 고정됨 - 2 바이트
