@@ -10,7 +10,7 @@ SMTP (Simple Mail Transfer Protocol) : 클라이언트가 메일을 보내거나
 POP3(Post Offilce Protocol): 클라이언트가 메일을 보내거나, 메일 서버끼리 메일을 주고 받을 때 사용
 imap(Internet Mail Access Protocol) : POP3와 용도가 같음
 
-예를 들어 sunny가 ryu에게 메일을 주고 받는 과정이라면
+예를 들어서 sunny가 ryu에게 메일을 주고 받는 과정이라면
 sunny의 pc에서 메일 클라이언트 프로그램(ex: outlook) 등을 실행해서 live.com에 접속 - 편지 쓰기 - ryuryuryu1@live.com에게 메일을 쓴다. (SMTP 프로토콜 이용)
 
 메일 서버 1(live.com)은 sunny가 보낸 메일을 임시 장소에 잠시 보관하며, 메일 수신자의 메일 서버 ip 주소를 네임 서버에게 요청해서 알아옴
