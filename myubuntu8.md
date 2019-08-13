@@ -37,3 +37,4 @@ DELETE FROM 테이블이름 WHERE 조건; - 레코드 삭제
 UPDATE 테이블이름 SET 필드이름=수정할값 ... WHERE 조건; - 레코드 수정
 
 SELECT 필드이름1, 2 ... FROM 테이블이름 WHERE 조건; - 테이블 조회
+```
