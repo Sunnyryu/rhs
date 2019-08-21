@@ -1,10 +1,11 @@
-## hello centos 3
+ㅇ## hello centos 3
 
 #### centos !
 
 ```
 bash shell의 한 줄의 문자열 출력 : echo
 bash shell의 한 줄의 문자열을 %지시자와 |문자를 이용하여 출력 형식으 지정 : printf
+
 
 표준 입력 파일 디스크립터 stdin 0
 표준 오류 파일 디스크립터 stderr 2

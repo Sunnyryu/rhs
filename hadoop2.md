@@ -42,7 +42,7 @@ SecondaryNameNode : (한시간 간격으로) - hdfs 스토리지 메터 정보 �
 
 DataNode - 마스터 노드에 접속 유지, 3초 간격으로 heartbeat, block report를 주기적으로 전송, 마스터 노드의 요청을 처리(block 저장, block 삭제)
 로컬 파일 시스템에 블록을 저장, 데이터 에 대한 읽기 , 쓰기 수행
-데이터 블록 생성 및 삭제 수행 , 클러스터에 데이터 블럭 복제, 주기적으로 하트비트와 블럭 리포트 전송 
+데이터 블록 생성 및 삭제 수행 , 클러스터에 데이터 블럭 복제, 주기적으로 하트비트와 블럭 리포트 전송
 yarn 서비스
 resource manager / node manager / application manager
 
