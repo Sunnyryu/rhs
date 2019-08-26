@@ -14,7 +14,7 @@
 함수가 여러 식으로 이루어진 경우 {}를 사용해 이를 위한 공간 만들기 가능!
 ```
 
-```
+```scala
 ex)
 scala> def name () : Int = {
      | val a = 10
@@ -43,7 +43,7 @@ scala> def name3() = { //error?
        ^
 ```
 
-```
+```scala
 ex2)
 scala> (x: Int) => x + 1
 res14: Int => Int = <function1>
@@ -75,7 +75,7 @@ res17: Int => Int = <function1>
 인자 중에서 원하는 어떤것이든 부분 적용 가능
 ```
 
-```
+```scala
 ex
 scala> def adder(m: Int, n: Int) = m * n
 adder: (m: Int, n: Int)Int
@@ -91,7 +91,7 @@ res18: Int = 6
 커리 함수 : 함수의 인자 중 일부를 적용하고 나머지는 나중에 적용하게 남겨두는 경우 있음
 ```
 
-```
+```scala
 ex)
 scala> def main(args: Array[String]): Unit = {
      | val g = f _
@@ -104,7 +104,7 @@ main: (args: Array[String])Unit
 재귀함수
 ```
 
-```
+```scala
 scala> def default(a: Int = 4, b: Int = 5) : Int = a+b
 default: (a: Int, b: Int)Int
 
@@ -143,6 +143,8 @@ ex)
 암묵적 형변환
 implicit는 에러는 바로 나지 ㅇ않고 해당하는 함수가 있으면 그것을 사용해서 암묵적으로 형 변환을 도와줘 함수의 활용도를 높임
 ```
+
+```scala
 scala> def sayHello(p:Person): Unit = {
      | print("Hello,"+p.name)
      | }
@@ -171,6 +173,9 @@ scala> sayHello("Korea")
 
 ```
 케이스 클래스는 자동으로 멤버 변수를 만들어주며, 외부에서도 멤버 변수에 접근 가능 하도록 함 (toString, hashCode, equals)
+```
+
+```scala
 ex)
 scala> case class Fruit2(name: String)
 defined class Fruit2
@@ -255,7 +260,7 @@ c: Circle = Circle@327ac23
   (트레잇은 멤버 변수를 구현받을 수 없음)
 ```
 
-```
+```scala
 scala> trait Car {
      | val brand: String
      | }
@@ -287,7 +292,7 @@ scala> class BMW extends Car with Shiny {
 defined class BMW
 ```
 
-```
+```scala
 scala> abstract class Robot {
      | def shoot = "뿡뿡"
      | }
@@ -318,7 +323,7 @@ scala> println(robot.shoot)
 쾅쾅
 ```
 
-```
+```scala
 scala> abstract class AnotherRobot {
      |      def shoot = "뿡뿡"
      |      }

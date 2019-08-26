@@ -51,15 +51,15 @@ ex3) COllections.sort(new ArrayList<Intger>(), (x, y) -> x >= y ? -1 : 1);
 ```
 scala
 :history [num], :edit<id>|<line>, :help [command], imports [name name ...]
+```
 
 ```
 스칼라는 기본자료형, 함수, 클래스등 모든 것을 객체로 취급함. 객체는 Any를 최상위 클래스로 값(AnyVal) 타입과 참조(AnyRef) 타입을 상속 하여 구현합니다. Int, Byte, String 같은 기본 자료형은 AnyVal을 상속하고, 클래스는 AnyRef를 상속함
 
 var = 가변 변수 / val = 불변 변수 (가변 변수는 바꿀 수 있지만 불변 변수는 선언하면 .... 재할당 불가능 !!)
-
 ```
 
-```
+```scala
 데이터 선언
 // 암시적인 선언
 var x = 110
@@ -154,7 +154,7 @@ scala> println(s"${minus(2, 3)}")
 -1
 ```
 
-```
+```scala
 scala> for (x <- 1 to 10) {
      | println(x)
      | }
