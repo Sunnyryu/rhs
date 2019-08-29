@@ -97,7 +97,7 @@ $ git init
 
 #### 3. 원격 저장소 (remote) 활용하기
 
-#####1. 기초(basic)
+##### 1. 기초(basic)
   1. remote 저장소 등록
   ```git
   $ git remote add origin {github URL}
@@ -112,7 +112,7 @@ $ git init
   $ git remote rm {저장소 이름}
   ```
 
-#####2. Push  
+##### 2. Push  
   1. 원격 저장소로 push
   ```git
   $ git push origin master
@@ -121,4 +121,59 @@ $ git init
 
   ```git
   $ git pull origin master
+  ```
+
+##### 3. Push-Pull 시나리오
+  - Local A, Local B, Github으로 활용하는 경우 원격저장소 이력과 달라져서 충돌이 발생할 수 있음 / 따라서 항상 작업을 시작하기 전에 pull을 받고 작업을 완료한 이후에 push를 진행하면 충돌 사항이 발생 x
+
+  1. auto-merge
+  - 동일한 파일을 수정하지 않은 경우 자동으로 merge commit이 발생 함
+
+  ```
+  1. Local A에서 작업 후 push
+  2. Local B에서 작업 후 pull을 받지 않음.
+  3. Local B에서 다른 파일 작업 후 commit -> push
+  4. 오류 발생(~git pull~~)
+  5. Local b에서 git pull
+  6. 자동으로 vim coomit 할 수 있도록 뜸.
+  7. 저장하면, merge commit 발생
+  8. local B에서 git push!
+  ```
+
+2. merge conflict
+  - 다른 이력(커밋)으로 동일한 파일이 수정되는 경우 merge conflict 발생
+  - 직접 충돌 파일을 해결해야 한다!
+
+  ```
+  1. Local A에서 작업 후 push
+  2. Local B에서 작업 후 pull을 받지 않음.
+  3. Local B에서 다른 파일 작업 후 commit -> push
+  4. 오류 발생(~git pull~~)
+  5. Local B에서 git pull
+  6. 충돌 발생(merge conflict)
+  7. 직접 오류 수정 및 add, commit
+  8. Local B에서 git push를
+  ```
+
+  - git status 명렁어를 통해 어느 파일에서 충돌이 발생하였는지 확인 가능!
+  - 실제 파일 예시
+  ```git
+  <<<<<<< HEAD
+  Local B작업
+  ===========
+  원격 저장소에 기록된 작업
+  >>>>>>> fsafafafa12313214141
+  ```
+
+  ```git
+  $ git commit --amend
+  (commit 이력이 기록된 뒤에는 commit 메서지를 바꾸게 되면 hash값이 바뀌게 됨 !(ex :41241dasd -> 132dada))
+  이력을 바꾸는 등의 행위를 할 때에는 조심해야 한다.
+
+  $ git commit --amend
+  (특정한 파일을 뺴놓고 했다면 명렁어로 인해서 커밋을 수정할 수 있음 - 보기가 안 좋음)
+
+  $ git rm --cached 파일명
+  rm '파일명'
+  untrack 시키는 형태임
   ```
