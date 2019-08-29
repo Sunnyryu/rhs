@@ -1,6 +1,6 @@
 ## My Ubuntu
 
-#### 편하게 정리해 !
+#### Ubuntu 3
 ```
 네트워크 관련 설정과 명령어
 
@@ -122,4 +122,4 @@ ex) firefox는 하드디스크의 어딘가에 저장되어 있을거임..
             systemctl enable/disable 서비스 이름(서비스 사용/사용안함 설정 )
   소켓  
     외부에서 특정 서비스를 요청할 경우에 systemd가 구동시킴(요청 종료시 소켓 종료 )
-    스크립트 파일은 /lib/systemd/system/ 디렉토리에 소켓이름.socket이라는 파일로 존재 
+    스크립트 파일은 /lib/systemd/system/ 디렉토리에 소켓이름.socket이라는 파일로 존재

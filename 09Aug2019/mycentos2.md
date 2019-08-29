@@ -1,6 +1,6 @@
 ## hello centos 7
 
-#### centos !2
+#### centos 2
 
 ```
 file
@@ -80,4 +80,4 @@ yellow dog Updater, Modified의 약자로 RPM 기반의 시스템을 위한 자�
 
 sudo yum upgrade && yum Update
 
-yum -y install 
+yum -y install

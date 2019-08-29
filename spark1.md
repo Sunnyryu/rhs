@@ -18,7 +18,7 @@ HDFS / Hive / HBase / PostgreSQL / MySQL / CSV (다양한 데이터소스 제공
   반복처리와 연속으로 이루어지는 변환처리의 고속화
       맵 리듀스와 다르게 스파크는 연속으로 이루어지는 처리에서 매번 불필요한 디스크와 네트워크 I/O가 발생하지 않도록 처리
   시행착오에 적합한 환경 제공
-      RDD(Resiient Distributed Dataset)라는 데이터셋을 사용 - RDD가 제공하는 API로 변환을 기술하기만 하면 처리됨.
+      RDD(Resilent Distributed Dataset)라는 데이터셋을 사용 - RDD가 제공하는 API로 변환을 기술하기만 하면 처리됨.
   서로 다른 처리를 통합에 이용할 수 있는 환경
       서로 다른 처리방식을 통합하여 다룰 수 있음 (배치, 스트림, SQL, 머신러닝, 그래프처리 등
 ```
@@ -68,4 +68,33 @@ RDD 영속화
 
 ```
 spark context  - RDD 생성 - 스파크 클러스터 구성 - 분산 데이터로서 RDD로 함 - 파티션으로 분할함
+```
+
+```
+SparkApplication => job
+Spark 클러스터 환경에서 node들 : SparkClient, Masternode, Worknode
+
+SparkClient : SparkApplication 배포, 실행 요청
+Masternode : Spark 클러스터 환겨엥서 사용가능한 리소스들의 관리
+Worknode : 할당받은 리소스(CPU core, memory)를 사용해서 SparkApplication 실행
+Spark Workernode에서 실행되는 프로세스 - Executor는 RDD의 partition을 task단위로 실행
+
+SparkApplication 구현 단계 :
+  SparkContext 생성
+   Spark애플리케이션과 Spark 클러스터와의 연결을 담당하는 객체
+   모든 스파크 애플리케이션은 SparkContext를 이용해 RDD나 accumulator 또는 broadcast 변수 등을 다룸
+   Spark 애플리케이션을 수행하는 데 필요한 각종 설정 정보를 담는 역할
+  RDD (불변데이터 모델, parition가능) 생성
+   collection, HDFS, hive , CSV 등..
+  RDD 처리
+    변환연산(RDD의 요소의 구조 변경, filter처리, grouping...)    
+  집계, 요약 처리 - Action연산
+  영속화
+```
+
+```
+sc.textFile() : file로 부터 RDD생성
+collect : 배열
+map, flatMap()
+mkString("구분자")
 ```
