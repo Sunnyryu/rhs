@@ -7,6 +7,7 @@
 - 참고 문서
 [Git scm] (http://git-scm.com/book/ko/v2/)
 [git 입문] (http://backlog.com/git-tutorial/kr/)
+[git 참고사이트] ()
 
 
 ```
@@ -164,6 +165,7 @@ $ git init
   원격 저장소에 기록된 작업
   >>>>>>> fsafafafa12313214141
   ```
+##### 4.undo
 
   ```git
   $ git commit --amend
