@@ -178,4 +178,5 @@ $ git init
   $ git rm --cached 파일명
   rm '파일명'
   untrack 시키는 형태임
+  
   ```
