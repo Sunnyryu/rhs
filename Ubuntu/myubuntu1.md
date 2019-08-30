@@ -1,6 +1,6 @@
 ## My Ubuntu
 
-#### Ubuntu 1
+#### Yes Ubuntu 1
 
 ```
 커널 사용자 관련 명령어
