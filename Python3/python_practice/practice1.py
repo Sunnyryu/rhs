@@ -8,7 +8,7 @@ if __name__ == '__main__':
     assert say_hi("Sunny", 26) == "Hi. My name is Sunny and I'm 26 years old", "First"
 
     assert say_hi("Sam", 29) == "Hi. My name is Sam and I'm 29 years old", "Second"
-    print("Done, It`s finish")
+    print("Done, It`s finish!!")
 
 
 # def = 함수 정의, return은 이걸로 해주라!,
