@@ -98,7 +98,7 @@ print('WOW Python') # WOW Python을 출력 (WOW Python가 상수)
     v = 999
     type( v ) # int 타입
     r = float( v ) # float 타입으로 변환
-    print( r ) # 492.0으로 출력
+    print( r ) #999.0으로 출력
     type( r ) # float 타입
     # int는 정수 타입이며, float는 부동 소수점 수 타입(실수 타입)
     # 부동 소수점은 3123.02 , 999.44 같은 것
@@ -133,4 +133,4 @@ print('WOW Python') # WOW Python을 출력 (WOW Python가 상수)
 
   a = 22 % 7
   print(a) # 1이 나옴
-  ``` 
+  ```
