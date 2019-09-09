@@ -47,3 +47,35 @@ $ sudo gdebi rstudio-server-1.2.1335-amd64.deb
 방법 2. desktop의 경우에는 deb파일로 설치를 할 수 있음
 deb 파일 설치후 install 도우미로 설치해주면 바로 사용 가능!!
 ```
+
+
+R package 설치 시 에러 발생 !! - 해결법
+
+오늘 r을 사용하다가 패키지를 설치하지 못하는 사고가 났다.?
+```
+ERROR: configuration failed for package ‘curl’
+* removing ‘/usr/local/lib/R/site-library/curl’
+ERROR: dependency ‘curl’ is not available for package ‘httr’
+* removing ‘/usr/local/lib/R/site-library/httr’
+
+다운로드한 소스 패키지들은 다음의 위치에 있습니다
+	‘/tmp/Rtmpx43u2v/downloaded_packages’
+경고메시지(들):
+1: In install.packages("httr") :
+  패키지 ‘curl’의 설치가 0이 아닌 종료상태를 가졌습니다
+2: In install.packages("httr") :
+  패키지 ‘httr’의 설치가 0이 아닌 종료상태를 가졌습니다
+```
+
+```
+그래서 다른 방법을 사용하여 설치하였다.
+(cu)
+apt-get install r-cran-http
+
+xml의 경우에도 에러가 발생하여 설치하였음..
+
+apt-get install-r-cran-xml
+
+관련된 패키지 및 curl도 생성이 되었다.
+안되면 당황하지말고 터미널에서 r-cran-*을 이용해서 설치하자 ~~~~
+```
