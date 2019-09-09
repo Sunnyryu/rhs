@@ -51,12 +51,12 @@ type(abc)
 #class 'str'
 print(abc +1)
 # error int+str !
-def = int(abc)
+kkk = int(abc)
 #class int
-print(def + 1)
+print(kkk + 1)
 124
 ghi = 'hi sunny'
-mno = 'int(ghi)'
+mno = int(ghi)
 # error 문자를 int화 하려고함
 ```
 
@@ -78,12 +78,12 @@ mno = 'int(ghi)'
 ```Python
 
 def greet(lang):
-if lang == 'sks':
-return 'Hola'
-elif lang == 'dkd':
-return 'Bonjour'
-else:
-return 'Hello'
+    if lang == 'sks':
+        return 'Hola'
+    elif lang == 'dkd':
+        return 'Bonjour'
+    else:
+        return 'Hello'
 >>> print(greet('aka'),'Glenn')
 Hello Glenn
 >>> print(greet('sks'),'Sally')
@@ -94,7 +94,7 @@ Bonjour Michael
 
 big = max('Hello Sunny')
 print(big)
-w
+>>>y
 # 'Hello Sunny' - 인자
 # def(inp)가 있다면 inp가 매개변수 / w 가 결과
 
@@ -125,14 +125,15 @@ def computepay(hour, rate):
     commonpay = rate * hour
     overtimepay = (hour-40.0) * (rate * 0.5)
     pay = commonpay + overtimepay
+    return pay
   else :
     pay = hour * rate
     return pay
 
-inputhour = input("Enter Hour")
-inputrate = input("Enter Rate")
-floathour = float(inputhour)
-floatrate = float(inputrate)
+hour = input("Enter Hour")
+rate = input("Enter Rate")
+floathour = float(hour)
+floatrate = float(rate)
 
 compay = computepay(floathour, floatrate)
 

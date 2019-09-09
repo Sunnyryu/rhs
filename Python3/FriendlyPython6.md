@@ -17,7 +17,7 @@ x = numbername - 20
 # numbername is str - > str - int => error
 x = int(numbername) - 20
 print(x)
-# 80
+# ex 100 -> x = 80
 ```
 
 - 문자열 파악하기
@@ -96,7 +96,15 @@ count = 0
 for letter in word :
   if letter == 'y':
     count = count + 1
-print(count)
+    print(count)
+
+word1 = 'aaabbb'
+count = 0
+for letter in word1 :
+  if letter == 'a':
+    count = count + 1
+    print(count)
+count = 3
 # letter 반복변수 / word는 문자열 6개로 이뤄진것
 # 반복 변수는 시퀀스(순서가 있는 집합)를 통해 “반복”
 # 코드의 루프 블럭 (본문)은 시퀀스 안의 각 값에 대해 한번씩 실행
@@ -144,19 +152,19 @@ True
 False
 'yth' in comlang
 True
-if 'a' in comlang :
+if 'n' in comlang :
 ... print('Found it!')
 ...
 # Found it!
 
 if word == 'python':
-print('All right, python.')
-if word < 'python':
-print('Your word,' + word + ', comes before python.')
+    print('All right, python.')
+elif word < 'python':
+    print('Your word,' + word + ', comes before python.')
 elif word > 'python':
-print('Your word,' + word + ', comes after python.')
+    print('Your word,' + word + ', comes after python.')
 else:
-print('All right, python.')
+    print('All right, python.')
 ```
 - 문자열 라이브러리
   - 파이썬은 여러 개의 문자열 함수를 정의하는 문자열 라이브러리가 존재
@@ -223,8 +231,7 @@ print(www)
 공백을 제거
   - strip() 문자열 시작과 끝에 있는 모든 공백을 제거
 ```python
-greet = '
-Hello sunny
+greet = ' Hello sunny '
 greet.lstrip()
 'Hello sunny '
 greet.rstrip()
