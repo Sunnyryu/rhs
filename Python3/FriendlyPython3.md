@@ -90,46 +90,7 @@ else: # 40이 안된다면 else로 적용되어 식이 계산될 것임.
     xp = fh * fr
 print("Pay:", xp)
 
-#ex2)# ex)
-sh = input("enter hours: ") # 시간 입력
-sr = input("enter rate: ") 	# 요금 입력
-try:
-    fh = float(sh)
-    fr = float(sr)
-except:
-    print("Error, please enter numeric input") # 에러 발생을 예방하기 위함
-    quit() # 끝내는 예약어
-
-print(fh, fr)
-if fh > 40 : #40시간이 넘은 경우 초과수당을 받을 때 사용함.
-    reg = fr * fh
-    otp = (fh- 40.0) * (fr * 0.5)
-    xp = reg + otp
-else: # 40이 안된다면 else로 적용되어 식이 계산될 것임.
-    xp = fh * fr
-print("Pay:", xp)
-
 #ex2)
-score = input("Enter Score: ") # 점수 입력
-
-try:
-    score = float(score)
-except:
-    print("Error, please enter numeric input") # 애러 대비 except
-    quit()
-
-if score > 1.0 :
-    print("that`s out of range.") #1.0보다 크면 학점을 평가할 수 없음.
-elif score >= 0.9 :
-    print("A")
-elif score >= 0.8 :
-    print("B")
-elif score >= 0.7 :
-    print("C")
-elif score >= 0.6 :
-    print("D")
-else:
-    print("F") #0.6보다 낮으면 무조건 f임..
 score = input("Enter Score: ") # 점수 입력
 
 try:
