@@ -80,16 +80,17 @@ num = 0
 tot = 0.0
 while True :
     ohyes = input('Enter a number:') # 숫자 입력
-    if opid == 'done' : # done이면 break로 반복문 빠져나옴
+    if ohyes == 'done' : # done이면 break로 반복문 빠져나옴
         break
     try: # try는 문제가 없으면 그냥 진행.
-       opid = float(ohyes) # 부동 소수점으로 바꿔줌
+       ohyes = float(ohyes) # 부동 소수점으로 바꿔줌
+        break
     except: # 문제가 있으면 해당 except 진행
         print('Invalid input') # 호출
         continue # 빠져나간 후에 처음 루프로 돌아감.
 
     num = num + 1
-    tot = tot + opid
+    tot = tot + ohyes
 
 print(tot,num,tot/num)
 
