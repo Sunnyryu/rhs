@@ -12,7 +12,6 @@ n = 5 # n을 선언해줌.
 while n > 0: #n이 0보다 크다면 반복 (5.4.3.2.1)
     print(n)
     n = n - 1
-
 print('Blastoff!')
 print(n) #5,4,3,2,1,;Blasftoff!가 나올 것임.
 #ex)2
@@ -23,7 +22,7 @@ while True: # 무한루프가 걸릴 수 있음
     if line == 'done' : # 종료 후에 루프 시작 지점으로 돌아감.
         break # done을 치면 while문을 나와서 바로 뒤를 실행
     print(line)
-print('Done!')
+    print('Done!')
 
 # > hello there 입력
 # hello there로 출력
