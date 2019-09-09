@@ -77,7 +77,8 @@ friends = ['sunny', 'huni', 'honi']
 for friend in friends :
 print('Happy New Year:', friend)
 for i in range(len(friends)) :
-friend = friends[i]
+     friend = friends[i]
+
 print('Happy New Year:', friend)
 # Happy New Year sunny
 # Happy New Year huni
