@@ -21,6 +21,7 @@ if __name__ == '__main__':
 
     print(first_word("hello,world")) # hello가 나옴 !!
 
+
     # replace(a,b)는 a를 b로 바꿔주는 것이다. strip은 lstrip과 rstrip도 있는데 아무것도 안 넣으면
     # 공백을 제거 해주고 lstrip은 왼쪽만, rstrip은 오른쪽만 strip은 양쪽임!
     # split은 나눠주는 것인데 여기서는 공백단위로 나눠줌
@@ -39,3 +40,5 @@ if __name__ == '__main__':
     # \S - whitespace 문자가 아닌 것과 매치, [^ \t\n\r\f\v]와 동일한 표현식이다.
     # \w - 문자+숫자(alphanumeric)와 매치, [a-zA-Z0-9_]와 동일한 표현식이다.
     # \W - 문자+숫자(alphanumeric)가 아닌 문자와 매치, [^a-zA-Z0-9_]와 동일한 표현식이다.
+    # re.search() 를 사용하면 find() 메소드를 쓴 것처럼 정규식에 매칭되는 문자열을 찾을 수 있음
+    # re.findall() 을 사용하면 정규식에 맞는 문자열 추출 가능 (find() 와 slicing: var[5:10] 을 조합한 것과 유사)
