@@ -133,7 +133,7 @@ XSD 구조
 XSD 제한
 
 <person>
-<full_name>Sunny`</full_name>
+<full_name>Sunny</full_name>
 <child_name>ryu</child_name>
 <child_name>ky</child_name>
 <child_name>john</child_name>

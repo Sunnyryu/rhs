@@ -91,12 +91,14 @@
 # 클래스 예시
 
 class PartyAnimal:   # PartyAnimal 객체를 만드는 템플릿  / 클래스는 예약어임 !
- x = 0 # 각각의 PartyAnimal = 객체에는 일정량의 = 데이터가 있음
- def party(self) :
- self.x = self.x + 1
- print("So far",self.x)
- an = PartyAnimal()  # PartyAnimal 객체를 생성하여 an 에 저장
- an.party()
- an.party() # PartyAnimal.party(an)
- an.party() # 객체에게 party() 를 실행하라고 알려줌
+    x = 0 # 각각의 PartyAnimal = 객체에는 일정량의 = 데이터가 있음
+    def party(self) :
+        self.x = self.x + 1
+        print("So far",self.x)
+
+an = PartyAnimal()  # PartyAnimal 객체를 생성하여 an 에 저장
+an.party() # So far 1
+an.party() # So far 2
+#an.party() # PartyAnimal.party(an)
+#an.party() # 객체에게 party() 를 실행하라고 알려줌
 ```
