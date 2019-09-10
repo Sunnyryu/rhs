@@ -10,7 +10,22 @@ sudo apt install qemu-kvm libvirt-bin bridge-utils ubuntu-vm-builder
 의 패키지들을 먼저 설치한 후에 sudo apt install virt-manager를 진행하였다. 그 후에 lvm2 에러는
 나오지 않고 완료됨!
 ```
-
+![Deepin스크린샷_select-area_20190903110531](https://i.imgur.com/dNtVno0.png)
+```
+가상머신 생성
+```
+![Deepin스크린샷_select-area_20190903110921](https://i.imgur.com/I3CFemY.png)
+```
+메모리 설정
+```
+![Deepin스크린샷_select-area_20190903110943](https://i.imgur.com/7A4sEdz.png)
+```
+저장소 용량 설정
+```
+![Deepin스크린샷_select-area_20190903111000](https://i.imgur.com/CozpsBe.png)
+```
+완료전 화면
+```
 2. R 설치
 
 

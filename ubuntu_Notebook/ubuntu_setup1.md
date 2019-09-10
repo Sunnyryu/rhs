@@ -12,13 +12,17 @@ open jdk 11 설치
 
 javac 나 java 이용하여 버전 확인 하기
   javac -version or java -version
-
+```
+![Deepin스크린샷_select-area_20190911084326](https://i.imgur.com/s0yeEk9.png)
+```
 java 환경변수 설정
   vi /etc/bash.bashrc (vim 에디터를 이용해서 bash.bashrc 파일로 들어감)
   맨 아래 줄에 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
   (export 하여 변수 JAVA_HOME 위치 설정)
   source /etc/bash.bashrc (bash 파일 적용)
-
+```
+![Deepin스크린샷_select-area_20190911084623](https://i.imgur.com/feUGuCX.png)
+```
 eclipse 설치
   www.eclipse.org 로 들어가서 eclipse ide java develop 설치
 
@@ -28,7 +32,7 @@ terminal로 eclipse 실행
   eclipse 파일로 넘어가서 ./eclipse로 실행
 ```
 
-2. 우분투에서 python 설치
+2. 우분투에서 python 설치 (추후 terminal 이미지도 추가할 예정~~)
 ```
 우분투를 설치 할 때에 소프트웨어를 설치하는 체크박스에 체크를 하면 python3가 자동적으로 설치되어 있고
 이 것을 삭제하면 시스템이 붕괴될 수 있기에 pyenv, pyenv-virturalenv를 사용하여 개발환경을 구축해야 함!
