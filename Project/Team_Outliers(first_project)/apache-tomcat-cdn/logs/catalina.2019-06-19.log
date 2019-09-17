@@ -1,0 +1,51 @@
+19-Jun-2019 10:08:01.936 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:        Apache Tomcat/9.0.21
+19-Jun-2019 10:08:02.143 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:          Jun 4 2019 20:19:36 UTC
+19-Jun-2019 10:08:02.144 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:         9.0.21.0
+19-Jun-2019 10:08:02.145 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:               Windows 7
+19-Jun-2019 10:08:02.146 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:            6.1
+19-Jun-2019 10:08:02.147 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+19-Jun-2019 10:08:02.148 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:             C:\Program Files\Java\jdk1.8.0_211\jre
+19-Jun-2019 10:08:02.149 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:           1.8.0_211-b12
+19-Jun-2019 10:08:02.150 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:            Oracle Corporation
+19-Jun-2019 10:08:02.151 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\apache-tomcat-9.0.21
+19-Jun-2019 10:08:02.152 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.21
+19-Jun-2019 10:08:02.173 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djava.util.logging.config.file=C:\apache-tomcat-9.0.21\conf\logging.properties
+19-Jun-2019 10:08:02.175 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Jun-2019 10:08:02.176 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djdk.tls.ephemeralDHKeySize=2048
+19-Jun-2019 10:08:02.177 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Jun-2019 10:08:02.179 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Dignore.endorsed.dirs=
+19-Jun-2019 10:08:02.180 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Dcatalina.base=C:\apache-tomcat-9.0.21
+19-Jun-2019 10:08:02.184 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Dcatalina.home=C:\apache-tomcat-9.0.21
+19-Jun-2019 10:08:02.185 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djava.io.tmpdir=C:\apache-tomcat-9.0.21\temp
+19-Jun-2019 10:08:02.188 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 프로덕션 환경들에서 최적의 성능을 제공하는, APR 기반 Apache Tomcat Native 라이브러리가, 다음 java.library.path에서 발견되지 않습니다: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\app\student\product\11.2.0\dbhome_1\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Users\student\AppData\Local\GitHubDesktop\bin;C:\Program Files\Bandizip\;C:\Users\student\AppData\Local\Programs\Microsoft VS Code\bin;.]
+19-Jun-2019 10:08:03.290 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+19-Jun-2019 10:08:03.455 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["ajp-nio-8009"]을(를) 초기화합니다.
+19-Jun-2019 10:08:03.466 정보 [main] org.apache.catalina.startup.Catalina.load [1,897] 밀리초 내에 서버가 초기화되었습니다.
+19-Jun-2019 10:08:03.547 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+19-Jun-2019 10:08:03.548 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/9.0.21]
+19-Jun-2019 10:08:03.555 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\docs]을(를) 배치합니다.
+19-Jun-2019 10:08:04.026 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\docs]에 대한 배치가 [470] 밀리초에 완료되었습니다.
+19-Jun-2019 10:08:04.027 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\examples]을(를) 배치합니다.
+19-Jun-2019 10:08:05.547 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\examples]에 대한 배치가 [1,520] 밀리초에 완료되었습니다.
+19-Jun-2019 10:08:05.549 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\host-manager]을(를) 배치합니다.
+19-Jun-2019 10:08:05.610 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\host-manager]에 대한 배치가 [61] 밀리초에 완료되었습니다.
+19-Jun-2019 10:08:05.612 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\manager]을(를) 배치합니다.
+19-Jun-2019 10:08:05.664 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\manager]에 대한 배치가 [52] 밀리초에 완료되었습니다.
+19-Jun-2019 10:08:05.667 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\ROOT]을(를) 배치합니다.
+19-Jun-2019 10:08:05.701 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\ROOT]에 대한 배치가 [35] 밀리초에 완료되었습니다.
+19-Jun-2019 10:08:05.705 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+19-Jun-2019 10:08:05.713 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["ajp-nio-8009"]을(를) 시작합니다.
+19-Jun-2019 10:08:05.716 정보 [main] org.apache.catalina.startup.Catalina.start 서버가 [2,249] 밀리초 내에 시작되었습니다.
+19-Jun-2019 15:29:14.555 정보 [http-nio-8080-exec-9] org.apache.coyote.http11.Http11Processor.service HTTP 요청 헤더를 파싱하는 중 오류 발생
+비고: HTTP 요청 파싱 오류들이 더 발생하는 경우 DEBUG 레벨 로그로 기록될 것입니다.
+	java.lang.IllegalArgumentException: 메소드 이름에 유효하지 않은 문자가 발견되었습니다. HTTP 메소드 이름은 유효한 토큰이어야 합니다.
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:415)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:294)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)

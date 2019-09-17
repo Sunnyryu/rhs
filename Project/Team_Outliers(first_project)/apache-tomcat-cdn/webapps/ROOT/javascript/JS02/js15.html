@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+        window.onload = function(){
+            var h1 = document.createElement("h1");
+            var text1 = document.createTextNode("새 요소 추가");
+            h1.appendChild(text1);
+            document.body.appendChild(h1);
+
+            var img1 = document.createElement("img");
+            img1.src = "dog.jpg";
+            img1.height= 300;
+            img1.width = 300;
+            document.body.appendChild(img1);
+
+            var img2 = document.createElement("img");
+            img2.setAttribute('src','cat.jpg');
+            img2.setAttribute('width',300);
+            img2.setAttribute('height',300);
+            console.log(img2.getAttribute('src'));
+            document.body.appendChild(img2);
+
+        }
+        
+    </script>
+    <title>js15.html</title>
+</head>
+<body>
+    <h3>document객체를 이용한 문서 구조 변경하는방법!</h3>
+
+
+    
+</body>
+</html>

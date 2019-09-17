@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>이벤트</title>
+<style>
+ 
+</style>
+<script>
+window.addEventListener("load", function(){
+    var panel = document.getElementById("panel");
+    var rNum = 1+Math.floor(Math.random()*100);
+    panel.innerHTML = rNum;
+    panel.style.fontSize = 100+ (Math.random()*100)+"px";
+
+    setTimeout(function(){
+		// //location.href="https://www.w3schools.com";
+		// //location.assign("https://www.naver.com");
+        // location.replace("https://www.daum.net");
+        //location.reload(); //새로고침
+        location.href = location.href; //새로고침
+		}, 3000);
+
+	}, false);
+  
+</script>
+</head>
+<body>
+ <!-- <h3> 이 페이지는 3초 후에 www.w3schools.com으로 이동합니다. </h3> -->
+ <h3>이페이지는 3초후에 reload됩니다</h3>
+ <div id="panel">
+	
+ </div>
+</body>
+</html>

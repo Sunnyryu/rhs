@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+            // window.onload = function(){
+            //     var button = document.getElementsByTagName('input');
+                
+            //     for(var i = 0; i<button.length; i++){
+            //         let _i = i;
+            //         button[_i].onclick = function(){
+            //             console.log(_i);
+            //         }
+            //     }
+            // };
+
+            window.onload = function(){
+                var button = document.getElementsByTagName('input');
+                
+                for(var i = 0; i<button.length; i++)
+                (function (_i){//즉시실행함수
+                    button[_i].onclick = function(){
+                        console.log(_i);
+                    }
+                }
+                )(i);
+            };
+
+        
+    </script>
+
+    <title>Document</title>
+
+</head>
+<body>
+
+    <input type="button" value="0">
+    <input type="button" value="1">
+    <input type="button" value="2">
+
+</body>
+
+</html>

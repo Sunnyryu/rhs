@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Geotest</title>
+<style>
+
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCItPLGKviKSVW7XP-PS-L8N0dHegoxfkA"></script>
+
+<script>
+	
+	
+	window.onload=function(){
+		
+		getGeolocation();
+		
+	}
+	
+	function showPosition(pos) {
+		console.log(parseFloat(pos.coords.latitude));
+		console.log(parseFloat(pos.coords.longitude));
+		
+		var myPos = new google.maps.LatLng(
+				parseFloat(pos.coords.latitude), 
+				parseFloat(pos.coords.longitude)
+		);
+		showMap(myPos)
+	}
+	
+	function getGeolocation(){
+		if(navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(showPosition);
+		}
+		else {
+			console.log("브라우저가 지원하지 않음");
+		}
+	}
+	
+	function showMap(myPos) {
+		var myCenter = new google.maps.LatLng(37.498146, 127.027557);
+		
+		var mapProp = {
+			center:myPos,
+			zoom:15,
+			mapTypeId:google.maps.MapTypeId.ROADMAP
+		};
+		
+		var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+		
+		var marker = new google.maps.Marker({
+			position:myPos,
+			animation:google.maps.Animation.BOUNCE
+		});
+		
+		marker.setMap(map);
+	}
+	
+	
+</script>
+</head>
+<body>
+	<h3>예제2 / 브라우저 위치 정보</h3>
+	<div id="googleMap" style="width:500px;height:380px;"></div>
+</body>
+</html>

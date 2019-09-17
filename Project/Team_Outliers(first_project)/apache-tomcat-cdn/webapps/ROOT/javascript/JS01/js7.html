@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    
+    document.write("null == undefined =>"+(null == undefined)+"<br>");
+    document.write("1 == '1' =>"+(1 == '1')+"<br>");
+    document.write("255 == '0xff' =>"+(255 == '0xff')+"<br>");
+    document.write("true == 1 =>"+(true == 1)+"<br>");
+    document.write("true == '1' =>"+(true == '1')+"<br>");
+    document.write("new String('a') == 'a' =>"+(new String('a') == 'a')+"<br>");
+
+    document.write("<br>")
+    
+    document.write("null === undefined =>"+(null === undefined)+"<br>");
+    document.write("1 === '1' =>"+(1 === '1')+"<br>");
+    document.write("255 === '0xff' =>"+(255 === '0xff')+"<br>");
+    document.write("true === 1 =>"+(true === 1)+"<br>");
+    document.write("true ==='1' =>"+(true === '1')+"<br>");
+    document.write("new String('a') === 'a' =>"+(new String('a') === 'a')+"<br>");
+
+    document.write("10<20<30 :"+(10<20<30)+"<br>");
+
+    var a = "window.alert('eval은 문자열을 자바스크립트 코드로 실행합니다')";
+    eval(a);
+
+    var student = {"name":"kim","ko":85, "en":90, "math":80};
+    document.write("typeof(student) =>" + typeof(student)+"<br>");
+    document.write("student instanceof Object =>" + (student instanceof Object)+"<br>");
+    document.write("ko in student =>" + ('ko'in student)+"<br>");
+
+    var x =1;
+
+    document.write("x의 값은 =>"+x+"<br>");
+    document.write(Boolean(x)+"<br>");
+    document.write(!x+"<br>");
+    document.write(!!x+"<br>");
+
+    // var input1 = window.prompt("점수를 입력하세요",0);
+    // document.write(input1+typeof(input1)+"<br>");
+    var input2 = window.confirm("종료하시겠습니까?");
+    document.write(input2+typeof(input2)+"<br>");
+
+    
+        
+    </script>
+</body>
+</html>

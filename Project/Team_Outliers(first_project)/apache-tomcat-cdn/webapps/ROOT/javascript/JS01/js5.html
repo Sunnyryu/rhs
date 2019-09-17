@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    
+    var a = 1;
+    document.write("a변수의 타입은? : "+typeof(a)+"<br>");
+    var b = 0.5;
+    document.write("b변수의 타입은? : "+typeof(b)+"<br>");        
+
+    a ="javascript";
+    document.write("a변수의 타입은? : "+typeof(a)+"<br>");
+    b= 'ECMAScript6';
+    document.write("b변수의 타입은? : "+typeof(b)+"<br>");  
+    
+    a = function(){};
+    document.write("a변수의 타입은? : "+typeof(a)+"<br>");
+
+    a=[];
+    document.write("a변수의 타입은? : "+typeof(a)+"<br>");
+    b={};
+    document.write("b변수의 타입은? : "+typeof(b)+"<br>");        
+
+    a= new Object();
+    document.write("a변수의 타입은? : "+typeof(a)+"<br>");
+    b= true;
+    document.write("b변수의 타입은? : "+typeof(b)+"<br>");  
+
+    a=0x2a;
+    document.write("0x2a의 10진수값은? "+a+"<br>");
+    a=0o73;
+    document.write("0o73의 10진수값은? "+a+"<br>");
+    a=0b101;
+    document.write("0b101의 10진수값은? "+a+"<br>");
+    a=1.161425e-11;
+    document.write("1.161425e-11의 10진수값은? "+a+"<br>");
+
+    document.write('"javascript"');
+    document.write("'javascript'");
+    document.write("<br>");
+    var c=[];
+    document.write(c[0]+"<br>");
+    a = function(){};
+    document.write(a()+"<br>");
+    a = function(d){
+        alert(d);
+    };
+    document.write(a()+"<br>");
+    
+    </script>
+</body>
+</html>

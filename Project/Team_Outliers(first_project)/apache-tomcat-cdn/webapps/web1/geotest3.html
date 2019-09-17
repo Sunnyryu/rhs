@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Geotest</title>
+<style>
+	#myCanvas {
+		width: 500px;
+		height:	380px;
+	}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCItPLGKviKSVW7XP-PS-L8N0dHegoxfkA"></script>
+
+<script>
+	
+	
+	window.onload=function(){
+		getGeolocation();
+	}
+	
+	function getGeolocation(){
+		if(navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(showPosition);
+		}
+		else {
+			console.log("브라우저가 지원하지 않음");
+		}
+	}
+	
+	function showPosition(pos) {
+		console.log(pos.coords.latitude);
+		console.log(pos.coords.longitude);
+		
+		var myPos = new google.maps.LatLng(
+				pos.coords.latitude, 
+				pos.coords.longitude
+		);
+		
+		showMap(myPos)
+	}
+	
+	
+	function showMap(myPos) {
+		
+		var mapCanvas = document.getElementById("myCanvas");
+		var myLatlng = myPos; //new google.maps.LatLng(37.498146, 127.027557);
+		var mapOptions = {
+			center: myLatlng,
+			zoom: 14,
+			mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+		
+		var map = new google.maps.Map(mapCanvas, mapOptions);
+		
+		var marker = new google.maps.Marker({
+			position: myLatlng,
+			map: map,
+			draggable: true,
+			title: '난 누구 여긴 어디'
+		});
+		
+		var contentString = '<div style="width:100px;height:50px;">여기서 만나</div>';
+		var infowindow = new google.maps.InfoWindow({
+				content: contentString,
+				size: new google.maps.Size(200,100)
+		});
+		
+		google.maps.event.addListener(marker, 'click', function(){
+			infowindow.open(map, marker);
+			if(marker.getAnimation() != null) {
+				marker.setAnimation(null);
+			}
+			else {
+				marker.setAnimation(google.maps.Animation.BOUNCE);
+			}
+		});
+		
+		marker.setMap(map);
+		
+	}
+	
+	
+</script>
+</head>
+<body>
+	<h3>예제3 / 브라우저 위치정보 사용</h3>
+	<div id="myCanvas"></div>
+</body>
+</html>

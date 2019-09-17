@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+        // DOM LEVE0 이벤트당 하나의 이벤트 핸들러만 연결하고
+        // window.onload = function (){
+        //     alert("load event handler1");
+        // }
+    
+        // window.onload = function (){
+        //     alert("load event handler2");
+        // }
+    
+        // window.onload = function (){
+        //     alert("load event handler3");
+        // }
+    
+        //DOM LEVE2 이벤트 당, 하나이상의 이벤트 핸들러만 연결함
+
+        // window.addEventListener("load",function(){
+        //     alert("load event handler1");
+        // }, false);
+        // window.addEventListener("load",function(){
+        //     alert("load event handler2");
+        // }, false);
+        // window.addEventListener("load",function(){
+        //     alert("load event handler3");
+        // }, false);
+
+        
+        //event핸들러를 가져오는데, 한번만 실행되고 나머지 이벤트 핸들러는 취소하려고 할때는 어떻게?
+
+        window.addEventListener("load",function(){
+            var h3 = document.querySelector("#evt");
+            h3.onclick = function(){
+                alert("까꿍");
+            this.onclick = null; //this? 이벤트가발생한 소스 객체 =h3.onclick = null
+            }
+        },false);
+
+        window.addEventListener("load",function(){
+            var evt = document.querySelector("#evt2");
+            this.onclick = function(){
+                evt.style.color  = "blue";
+                evt.style.background = "orange";
+                
+            this.onclick = null; 
+            }
+        },false);
+
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    <h3 id="evt">이벤트 핸들러 한번만 실행하자</h3>
+    <h3 id="evt2">클릭 이벤트가 발생하면, 배경색하고 글자색을 바꿔보자</h3>
+</body>
+</html>

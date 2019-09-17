@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        //jQuery(document).ready(function(){alert("ready event handler1")});
+        //$(function(){alert("즉시실행되는함수")});
+
+        $(document).ready(function(){
+            //$("h3").css("color","blue").css("backgroundColor","orange");
+            //$("*").css("color","red");
+            //$("div, p ").css("color","red"); //div, p태그 선택
+            //$("#simple").css("color","red");
+            $(".simple").css("color","red");
+            $("input[type='text']").val("Hello,jquery~");
+            $("input:password").css("backgroundColor","cyan");
+            $("input:focus").css("backgroundColor","lightgray");
+
+        });
+
+
+    
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    <h3>자바스크립트
+        <h3>색이 변할것인가?</h3>
+        <h3>이것도 변할까?</h3>
+    </h3>
+
+    <div>
+        필통
+
+    </div>
+    <p>
+        연필
+
+    </p>
+    <article id="simple">
+        비전공자를위한
+
+    </article>
+
+    <ul class="simple">
+
+        <li>Open</li>
+        <li>api</li>
+        <li>빅데이터</li>
+        <li>전처리</li>
+    </ul>
+
+    text : <input type="text"><br>
+    password : <input type="password"><br>
+    email : <input type="email"><br>
+    search : <input type="search" autofocus><br>
+
+
+</body>
+</html>

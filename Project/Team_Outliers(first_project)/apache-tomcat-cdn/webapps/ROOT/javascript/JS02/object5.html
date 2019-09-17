@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>    
+var student = { 이름 : '홍길동',  영어:88, 국어:90, 수학:77, 과학:75,
+                total : function(){
+                    let sum = (this.영어+this.국어+this.수학+this.과학)
+                    document.write("총합은 =>"+sum+"점"+"<br>");
+
+                },
+                average : function(){
+                    let avg = (this.영어+this.국어+this.수학+this.과학)/4
+                    document.write("평균은 =>"+avg+"점");
+                }
+
+    }; 
+    student.total();
+    student.average();
+
+    </script>
+
+</body>
+</html>

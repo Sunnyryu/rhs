@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    var employee ={};
+    employee.ename = 'Scott';
+    employee.job = 'Developer';
+    employee.salary = 5000;
+    employee.hiredate = '2013/01/01';
+    employee.address = '삼성동';
+
+    document.write("employee.ename= "+employee.ename+"<br>");
+    document.write("employee['job']= "+employee['job']+"<br>");
+    document.write("<br>");
+
+    for(var key in employee){
+        document.write(key+" : "+ employee[key]+"<br>");
+    }
+    document.write("employee instanceof Object => "+(employee instanceof Object)+"<br>");
+    
+   // document.write(employee+"<br>");
+
+    employee.toString = function(){
+        var ouput = "";
+        for(key in this){
+            if(key != 'toString'){
+                ouput+=key+" : "+this[key]+"<br>";
+            }
+        }
+        return ouput
+    }
+    document.write(employee+"<br>");
+    document.write(employee.toString()+"<br>");
+    delete(employee.address)
+    document.write(employee+"<br>");
+    document.write("hiredate in employee => "+('hiredate' in employee)+"<br>");
+    document.write("address in employee => "+('address' in employee)+"<br>");
+    
+    </script>
+</body>
+</html>

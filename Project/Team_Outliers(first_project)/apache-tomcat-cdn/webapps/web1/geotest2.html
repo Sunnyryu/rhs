@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Geotest</title>
+<style>
+	#myCanvas {
+		width: 500px;
+		height:	380px;
+	}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCItPLGKviKSVW7XP-PS-L8N0dHegoxfkA"></script>
+
+<script>
+	
+	
+	window.onload=function(){
+		console.log('myMap()');
+		var mapCanvas = document.getElementById("myCanvas");
+		var myLatlng = new google.maps.LatLng(37.498146, 127.027557);
+		var mapOptions = {
+			center: myLatlng,
+			zoom: 16,
+			mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+		
+		console.log('1');
+		var map = new google.maps.Map(mapCanvas, mapOptions);
+		var marker = new google.maps.Marker({
+			position: myLatlng,
+			map: map,
+			draggable: true,
+			title: '난 누구 여긴 어디'
+		});
+		
+		console.log('2');
+		var contentString = '<div style="width:100px;height:50px;">여기서 만나</div>';
+		var infowindow = new google.maps.InfoWindow({
+				content: contentString,
+				size: new google.maps.Size(200,100)
+		});
+		
+		google.maps.event.addListener(marker, 'click', function(){
+			infowindow.open(map, marker);
+			if(marker.getAnimation() != null) {
+				marker.setAnimation(null);
+			}
+			else {
+				marker.setAnimation(google.maps.Animation.BOUNCE);
+			}
+		});
+		
+		marker.setMap(map);
+		
+		//getGeolocation();
+		
+	}
+	
+	function showPosition(pos) {
+		console.log(parseFloat(pos.coords.latitude));
+		console.log(parseFloat(pos.coords.longitude));
+		
+		var myPos = new google.maps.LatLng(
+				parseFloat(pos.coords.latitude), 
+				parseFloat(pos.coords.longitude)
+		);
+		showMap(myPos)
+	}
+	
+	function getGeolocation(){
+		if(navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(showPosition);
+		}
+		else {
+			console.log("브라우저가 지원하지 않음");
+		}
+	}
+	
+	function showMap(myPos) {
+		var myCenter = new google.maps.LatLng(37.498146, 127.027557);
+		
+		var mapProp = {
+			center:myPos,
+			zoom:15,
+			mapTypeId:google.maps.MapTypeId.ROADMAP
+		};
+		
+		var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+		
+		var marker = new google.maps.Marker({
+			position:myPos,
+			animation:google.maps.Animation.BOUNCE
+		});
+		
+		marker.setMap(map);
+	}
+	
+	
+</script>
+</head>
+<body>
+	<h3>예제 3 / 강남역 위치정보</h3>
+	<div id="myCanvas"></div>
+</body>
+</html>

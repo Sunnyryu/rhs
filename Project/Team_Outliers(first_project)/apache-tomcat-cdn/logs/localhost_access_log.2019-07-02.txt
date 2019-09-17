@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:01 +0900] "GET /web2/standard-doc HTTP/1.1" 404 1136
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:10 +0900] "GET /standard-doc HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:10 +0900] "GET /standard-doc/ HTTP/1.1" 200 3248
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:26 +0900] "GET /standard-examples HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:26 +0900] "GET /standard-examples/ HTTP/1.1" 200 6613
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:27 +0900] "GET /standard-examples/global.css HTTP/1.1" 200 121
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:27 +0900] "GET /standard-examples/images/execute.gif HTTP/1.1" 200 1242
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:27 +0900] "GET /standard-examples/images/code.gif HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:35:48 +0900] "GET /standard-doc/GettingStarted.html HTTP/1.1" 200 13113
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:36:21 +0900] "GET /standard-examples/elsupport/index.html HTTP/1.1" 200 3702
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:36:45 +0900] "GET /standard-examples/ShowSource.jsp?filename=/elsupport/Out.jsp HTTP/1.1" 200 1629
+0:0:0:0:0:0:0:1 - - [02/Jul/2019:14:37:10 +0900] "GET /standard-examples/elsupport/Out.jsp HTTP/1.1" 200 1126

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        
+        var student = {이름 : '홍길동', 영어: 88, 국어:90, 수학:77, 과학:75};
+
+        document.write(student.이름+"의 총점 : "+(student.영어+student.국어+student.수학+student.과학)+"<br>");
+
+        with(student){
+            document.write(이름+"의 평균 : "+(영어+국어+수학+과학)/4+"<br>");
+        }
+
+        //func1(); 왜 안되지? 아직 변수가 메모리에 안올라가서
+        func2(); // 왜 됨? 호이스팅 때문에
+
+        var func1  = function(){ //변수에 저장된 함수 호출, 함수는 이름 없이 선언하고변수에 저장된것.
+            var jum = Number(window.prompt("1~100수 입력",0));
+            (jum%2==0)? alert("짝수") : alert("홀수");
+        }
+
+        function func2(){ //선언전 함수..함수자체로 선언한것
+            var jum = Number(window.prompt("1~100수 입력",0));
+            (jum%2==0)? alert("짝수") : alert("홀수");
+        }
+
+        
+    
+    
+    </script>
+
+
+</body>
+</html>

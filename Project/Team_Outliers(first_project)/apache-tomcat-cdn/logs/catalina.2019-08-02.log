@@ -1,0 +1,53 @@
+02-Aug-2019 11:16:58.337 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:        Apache Tomcat/9.0.21
+02-Aug-2019 11:16:58.348 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:          Jun 4 2019 20:19:36 UTC
+02-Aug-2019 11:16:58.349 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:         9.0.21.0
+02-Aug-2019 11:16:58.350 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:               Windows 7
+02-Aug-2019 11:16:58.350 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:            6.1
+02-Aug-2019 11:16:58.351 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          amd64
+02-Aug-2019 11:16:58.352 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:             C:\Program Files\Java\jdk1.8.0_211\jre
+02-Aug-2019 11:16:58.353 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:           1.8.0_211-b12
+02-Aug-2019 11:16:58.354 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:            Oracle Corporation
+02-Aug-2019 11:16:58.355 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\apache-tomcat-9.0.21
+02-Aug-2019 11:16:58.355 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.21
+02-Aug-2019 11:16:58.356 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djava.util.logging.config.file=C:\apache-tomcat-9.0.21\conf\logging.properties
+02-Aug-2019 11:16:58.357 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Aug-2019 11:16:58.359 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djdk.tls.ephemeralDHKeySize=2048
+02-Aug-2019 11:16:58.360 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Aug-2019 11:16:58.361 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Dignore.endorsed.dirs=
+02-Aug-2019 11:16:58.362 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Dcatalina.base=C:\apache-tomcat-9.0.21
+02-Aug-2019 11:16:58.368 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Dcatalina.home=C:\apache-tomcat-9.0.21
+02-Aug-2019 11:16:58.369 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트: -Djava.io.tmpdir=C:\apache-tomcat-9.0.21\temp
+02-Aug-2019 11:16:58.373 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 프로덕션 환경들에서 최적의 성능을 제공하는, APR 기반 Apache Tomcat Native 라이브러리가, 다음 java.library.path에서 발견되지 않습니다: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Rtools\bin;C:\app\student\product\11.2.0\dbhome_2\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\nodejs\;C:\Users\student\AppData\Local\GitHubDesktop\bin;C:\Program Files\Bandizip\;C:\Users\student\AppData\Roaming\npm;.]
+02-Aug-2019 11:16:58.610 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8081"]을(를) 초기화합니다.
+02-Aug-2019 11:16:58.665 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["ajp-nio-8010"]을(를) 초기화합니다.
+02-Aug-2019 11:16:58.669 정보 [main] org.apache.catalina.startup.Catalina.load [502] 밀리초 내에 서버가 초기화되었습니다.
+02-Aug-2019 11:16:58.689 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+02-Aug-2019 11:16:58.689 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/9.0.21]
+02-Aug-2019 11:16:58.871 정보 [main] org.apache.catalina.startup.HostConfig.deployWAR 웹 애플리케이션 아카이브 [C:\apache-tomcat-9.0.21\webapps\standard-doc.war]을(를) 배치합니다.
+02-Aug-2019 11:16:58.901 정보 [main] org.apache.catalina.startup.HostConfig.deployWAR 웹 애플리케이션 아카이브 [C:\apache-tomcat-9.0.21\webapps\standard-doc.war]의 배치가 [30] 밀리초에 완료되었습니다.
+02-Aug-2019 11:16:58.925 정보 [main] org.apache.catalina.startup.HostConfig.deployWAR 웹 애플리케이션 아카이브 [C:\apache-tomcat-9.0.21\webapps\standard-examples.war]을(를) 배치합니다.
+02-Aug-2019 11:16:59.268 정보 [main] org.apache.catalina.startup.HostConfig.deployWAR 웹 애플리케이션 아카이브 [C:\apache-tomcat-9.0.21\webapps\standard-examples.war]의 배치가 [343] 밀리초에 완료되었습니다.
+02-Aug-2019 11:16:59.270 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\docs]을(를) 배치합니다.
+02-Aug-2019 11:16:59.297 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\docs]에 대한 배치가 [27] 밀리초에 완료되었습니다.
+02-Aug-2019 11:16:59.298 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\examples]을(를) 배치합니다.
+02-Aug-2019 11:17:00.264 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\examples]에 대한 배치가 [966] 밀리초에 완료되었습니다.
+02-Aug-2019 11:17:00.265 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\host-manager]을(를) 배치합니다.
+02-Aug-2019 11:17:00.313 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\host-manager]에 대한 배치가 [48] 밀리초에 완료되었습니다.
+02-Aug-2019 11:17:00.315 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\manager]을(를) 배치합니다.
+02-Aug-2019 11:17:00.338 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\manager]에 대한 배치가 [24] 밀리초에 완료되었습니다.
+02-Aug-2019 11:17:00.340 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\ROOT]을(를) 배치합니다.
+02-Aug-2019 11:17:00.365 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\ROOT]에 대한 배치가 [26] 밀리초에 완료되었습니다.
+02-Aug-2019 11:17:00.367 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\web1]을(를) 배치합니다.
+02-Aug-2019 11:17:00.440 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\web1]에 대한 배치가 [73] 밀리초에 완료되었습니다.
+02-Aug-2019 11:17:00.442 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\web1_]을(를) 배치합니다.
+02-Aug-2019 11:17:00.474 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [C:\apache-tomcat-9.0.21\webapps\web1_]에 대한 배치가 [32] 밀리초에 완료되었습니다.
+02-Aug-2019 11:17:00.479 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8081"]을(를) 시작합니다.
+02-Aug-2019 11:17:00.487 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["ajp-nio-8010"]을(를) 시작합니다.
+02-Aug-2019 11:17:00.490 정보 [main] org.apache.catalina.startup.Catalina.start 서버가 [1,819] 밀리초 내에 시작되었습니다.
+02-Aug-2019 21:21:09.688 정보 [Thread-5] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8081"]을(를) 일시 정지 중
+02-Aug-2019 21:21:09.781 정보 [Thread-5] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["ajp-nio-8010"]을(를) 일시 정지 중
+02-Aug-2019 21:21:09.829 정보 [Thread-5] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+02-Aug-2019 21:21:09.846 정보 [Thread-5] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8081"]을(를) 중지시킵니다.
+02-Aug-2019 21:21:09.846 정보 [Thread-5] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["ajp-nio-8010"]을(를) 중지시킵니다.
+02-Aug-2019 21:21:09.846 정보 [Thread-5] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8081"]을(를) 소멸시킵니다.
+02-Aug-2019 21:21:09.846 정보 [Thread-5] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["ajp-nio-8010"]을(를) 소멸시킵니다.

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+	<script>    
+	
+
+	var array1 = new Array();
+	var array2 = new Array(10);
+	var array3 = new Array(10,20,30,40,50);
+
+	document.write("array1 =>"+array1.length+"<br>");
+	document.write("array2 =>"+array2.length+"<br>");
+	document.write("array3 =>"+array3.length+"<br>");
+
+
+	array3[5] = 60;
+	array3.push(70);
+
+	for(var idx in array3){
+		document.write("array["+idx+"] => "+ array3[idx]+"<br>");
+	}
+
+    </script>
+
+</body>
+</html>

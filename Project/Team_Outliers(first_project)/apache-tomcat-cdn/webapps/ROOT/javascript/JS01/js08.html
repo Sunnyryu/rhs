@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    
+    //1
+    var input = window.prompt("1보다 큰 정수를 입력해주세요");
+
+    if(input != 1){
+        if(input % 2 == 1){
+        document.write(input+"은 홀수 입니다.")
+        }else{
+        document.write(input+"은 짝수 입니다.")
+        }
+    }else{
+        document.write("잘못된 숫자입니다. 새로고침을 해주세요")
+    }
+
+
+    //2
+    var input = window.prompt("1보다 큰 정수를 입력해주세요");
+    function isOdd(input){
+        document.write(input %2 ==1 ? input+"는 홀수입니다" : input+"는 짝수입니다");
+    }
+    isOdd(input);
+    
+    //3
+    var input = window.prompt("1보다 큰 정수를 입력해주세요");
+    if(input > 1 && input % 2 ==1){
+        document.write(input+"은 홀수 입니다.")
+    }else{
+        document.write(input+"은 짝수 입니다.")
+    }
+
+    //4
+    var input = window.prompt("시험점수를 입력해주세요");
+    
+    var result = parseInt(input / 10);
+    //alert(result);
+    
+    
+    switch (result) {
+        case 10:
+            document.write(input+ "은 A학점입니다.")
+            break;
+
+        case 9:
+            document.write(input+ "은 A학점입니다.")
+            break;
+        case 8:
+            document.write(input+ "은 B학점입니다.")
+            break;
+        case 7:
+            document.write(input+ "은 C학점입니다.")
+            break;
+        case 6:
+            document.write(input+ "은 D학점입니다.")
+            break;
+    
+        default:
+            document.write(input+ "은 F학점입니다.")
+            break;
+    }
+
+    
+    </script>
+</body>
+</html>

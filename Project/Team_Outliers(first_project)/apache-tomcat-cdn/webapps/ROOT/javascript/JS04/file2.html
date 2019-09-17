@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Insert title here</title>
+<script>
+    var dropbox;
+    window.addEventListener("load",function(){
+        dropbox = document.getElementById("dropbox");
+
+        dropbox.addEventListener("drop",drop,false);
+        dropbox.addEventListener("dragenter",dragEnter,false);
+        dropbox.addEventListener("dragover",dragOver,false);
+    },false);
+
+    function dragEnter(event){
+        event.stopPropagation(); //이벤트가 상위로 전달되지 않도록 정지
+        event.preventDefault(); // 현재 이벤트 기본동작을 정지
+    }
+    function dragOver(event){
+        event.stopPropagation();
+        event.preventDefault();
+    }
+    function drop(event){
+        event.stopPropagation();
+        event.preventDefault();
+
+        var files =event.dataTransfer.files;
+        var count = files.length;
+
+        if(count > 0){
+            var file = files[0];
+            document.getElementById("droplabel").innerHTML = "Processing ...." + file.name;
+            var reader = new FileReader();
+            reader.onloadend = function(event){
+                var img = document.getElementById("preview");
+                img.src = this.result;
+            };
+            reader.readAsDataURL(file);
+        }
+    }
+
+</script>	
+</head>
+<body>
+<h1>Drag and Drop Demo</h1>
+	<div id="dropbox"
+		style="width: 360px; height: 80px; border: 1px solid #aaa;">
+		<span id="droplabel"> 이곳에 파일을 드랍해 주세요... </span>
+	</div>
+	<img id="preview" alt="[ preview will display here ]" />
+</body>
+</html>

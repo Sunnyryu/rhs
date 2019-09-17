@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+        window.onload = function(){
+            document.getElementById("up").onclick= function(){
+                window.moveBy(0,-10);
+            };
+            document.getElementById("left").onclick= function(){
+                window.moveBy(-10,0);
+            };
+            document.getElementById("right").onclick= function(){
+                window.moveBy(10,0);
+            };
+            document.getElementById("down").onclick= function(){
+                window.moveBy(0,10);
+            };
+            
+            
+        }
+    </script>
+    <title>js12.html</title>
+</head>
+<body>
+    <h3>js12.html</h3>
+    <input type="button" id="up" value="up"/>
+    <input type="button" id="down" value="down"/><br/>
+    <input type="button" id="left" value="left"/>
+    <input type="button" id="right" value="right"/>
+
+
+    
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+        window.onload = function(){
+        var cnt = 0;
+        var intervalID = setInterval(() => {
+           document.write(++cnt+"<br>");
+        }, 1000);
+
+        setTimeout(() => {
+           clearInterval(intervalID) ;
+           window.close();
+        }, 10500);
+        }
+        
+    </script>
+    <title>js12.html</title>
+</head>
+<body>
+    <h3>1~10까지 1초마다 출력하고 window종료하기.</h3>
+
+
+    
+</body>
+</html>

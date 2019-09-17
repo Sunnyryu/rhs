@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    function makeIterator(array){
+        var index = 0;
+        return {
+            next: function(){//next 프로퍼티를 가지게 해줌.
+                if(index < array.length){
+                    return {value: array[index++], done: false};
+                }else{
+                    return {value: undefined, done: true};
+                }
+            }
+        };
+    }
+    
+    var iter= makeIterator(["A","B","C"])
+    
+    
+    </script>
+</body>
+</html>

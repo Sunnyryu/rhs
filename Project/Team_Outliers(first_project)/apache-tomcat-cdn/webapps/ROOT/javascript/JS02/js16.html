@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+        window.onload = function(){
+            var nodelist = document.getElementsByName("j2");
+            console.log(nodelist.length);
+            console.log(nodelist[0].innerHTML+", "+nodelist[1].innerHTML);
+            nodelist = document.getElementsByTagName("p")
+            console.log(nodelist.length);
+            
+            var p1 = document.getElementById("j1");
+            p1.style.border="2px solid blue";
+            p1.style.color ="orange";
+            p1.style.fontSize="20";
+            
+            
+            console.log(document.getElementById("j1").parentNode.nodeName);
+
+
+        }
+        
+    </script>
+    <title>js15.html</title>
+</head>
+<body>
+    <h3>document객체를 이용한 문서 구조 변경 node</h3>
+    <p id ="j1">Javascript</p>
+    <p name ="j2">jQuery</p>
+    <p name ="j2">Sencatour</p>
+    <p>node.js</p>
+    <p>Augular.js</p>
+
+
+    
+</body>
+</html>

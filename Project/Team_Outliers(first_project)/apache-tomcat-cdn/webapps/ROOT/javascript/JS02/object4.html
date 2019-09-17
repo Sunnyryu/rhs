@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var globalVar = 'korea';
+
+        function test(name){
+            globalVar2 = name;
+            var localVar = "Hello~"+name+"!!";
+            return function(){
+                return localVar;
+            }
+        }   
+    
+    document.write("전역변수 globalVar : "+globalVar+"<br>");
+  //  document.write("전역변수 globalVar2 : "+globalVar2+"<br>");
+    test('독도');
+
+    document.write("전역변수 globalVar2 : "+globalVar2+"<br>");
+    //document.write("지역변수 locallVar : "+localVar+"<br>");
+    document.write("지역변수 locallVar를 클로저 함수를 통해 참조가능 "+test('제주도')()+"<br>");
+    
+
+    function caller(callee){
+        for(var i =0; i<5; i++){
+            callee();
+        }
+    }
+    function callee(){
+        alert("callee");
+    }
+    caller(callee); // 함수의 인자로 함수를 전달할 수 있음!!!
+
+
+    </script>
+
+</body>
+</html>

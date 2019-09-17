@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>    
+    function Student(name, ko, math, en, sci ){
+			this.name = name;
+			this.ko= ko;
+			this.math = math;
+			this.en = en;
+			this.sci = sci;
+			// this.total = function(){
+			// 		return  (this.ko+this.math+this.en+this.sci);
+			// },
+			// this.average = function(){
+            //         return this.total()/4+"<br>";
+			// }
+	}
+	Student.prototype.total =  function(){
+			 		return  (this.ko+this.math+this.en+this.sci);
+					 };
+	Student.prototype.average  = function(){
+                     return this.total()/4+"<br>";
+					 };
+
+	console.dir(Student);
+    var students = [ 
+                 new Student('장기영', 87,  98,  88,  95),
+                 new Student('장기영', 87,  98,  88,  95),
+				 new Student('장기영', 87,  98,  88,  95),
+				 new Student('장기영', 87,  98,  88,  95),
+				 new Student('장기영', 87,  98,  88,  95),
+				 new Student('장기영', 87,  98,  88,  95),
+				 new Student('장기영', 87,  98,  88,  95),
+				 new Student('장기영', 87,  98,  88,  95),
+				 new Student('장기영', 87,  98,  88,  95),
+				 new Student('장기영', 87,  98,  88,  95)
+                 ];
+    
+    for(var idx in students){
+        document.write(students[idx].name+"의 총점은 =>"+students[idx].total()+", 평균은 => "+students[idx].average()) // 함수를호출할때는 항상 ()를 잊지말거라
+    }
+
+
+    </script>
+
+</body>
+</html>
