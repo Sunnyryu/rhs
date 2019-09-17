@@ -44,5 +44,3 @@ I was nearly new
 
 # def popular_words(text, words):
 # return {word:text.lower().split().count(word.lower()) for word in words}
-
-  
