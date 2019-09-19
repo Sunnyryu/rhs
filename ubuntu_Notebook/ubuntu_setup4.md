@@ -80,3 +80,16 @@
 
   - sudo gedit /etc/resolv.onf 명령어 이용하여 네임 서버 변경
   - 홈페이지 들어가보기
+![Deepin스크린샷_select-area_20190918193524](https://i.imgur.com/AfzXaBK.png)
+
+5. 심화로 john.com을 실행시킬 때마다 설정된 다른 홈페이지 실행시키기
+  - john.com.db에 내용을 아래와 같이 수정함!
+![Deepin스크린샷_select-area_20190918200541](https://i.imgur.com/Pr0tJKX.png)
+  - nslookup을 이용해서 www.john.com을 치게되면 아래와 같은 그림이 나타남
+![Deepin스크린샷_select-area_20190918194045](https://i.imgur.com/Jelzveq.png)
+
+  - client로 들어가서 /etc/resolv.conf에 있는 nameserver를 server의 ip로 바꿔줌
+  - www.john.com 을 실행하고 확인 후에 종료 후에 다시 키면 설정된 다른 사이트들이 돌아가면서 1개가 열림!
+![Deepin스크린샷_select-area_20190918195721](https://i.imgur.com/05FXy6y.png)
+![Deepin스크린샷_select-area_20190918195730](https://i.imgur.com/cifNp1O.png)
+![Deepin스크린샷_select-area_20190918195803](https://i.imgur.com/6hxB0zk.png)
