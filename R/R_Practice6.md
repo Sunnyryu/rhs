@@ -93,6 +93,24 @@ sample estimates:
 0.7931034 0.8492063
 # 남자와 여자의 만족도 차이는 없음
 
+# 다른 방법
+data <- read.csv("./data/two_sample.csv", header=TRUE)
+data
+head(data) # 변수명 확인
+data$gender
+data$survey # 1(만족), 0(불만족)
+
+# 데이터 정체/전처리
+x<- data$gender # 성별 추출
+y<- data$survey # 만족도 추출
+
+# 교차테이블 확인
+table(x) # 성별 구분 (1 : 174, 2 : 126)
+table(y) # # 대학진학 만족도(0 : 55, 1 : 245)
+table(x, y, useNA="ifany") # 결측치 까지 출력
+
+# 두 집단 비율차이검증 : prop.test()
+prop.test(c(138,107),c(174,126), alternative="two.sided", conf.level=0.95)
 #ex4)
 mt <- read.csv("./data/twomethod.csv", header=TRUE)
 ak <- subset(mt, !is.na(score), c(method, score))
@@ -106,7 +124,7 @@ mean(as)
 mean(bs)
 length(as)
 length(bs)
-var.test(as, bs)
+var.test(as, bs) #동질성 분포와 차이가 없다. (p-value : 0.8494)
 t.test(as, bs, alter="two.sided", conf.int=TRUE, conf.level=0.95)
 
 data:  as and bs
@@ -119,5 +137,10 @@ mean of x mean of y
  16.40909  29.22857
 
 # p-value가 0.05(a)보다 작으므로 두 가지 방법에 따라 시험성적에는 차이가 있다!
+
+
+t.test(bs, as, alter="greater", conf.int=TRUE, conf.level=0.95) #
+p-value=6.513e-07
+해설> b1 교육 방법이 a1 교육방법 보다 시험성적이 더 좋다.
 
  ```
