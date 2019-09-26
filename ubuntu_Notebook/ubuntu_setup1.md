@@ -77,7 +77,7 @@ cd ~/
 mkdir exname
 cd exname
 mkdir name
-cd namet
+cd name
 
 3. pyenv local name-env 사용 (해당 폴더에 특정 가상환경을 적용)
 
