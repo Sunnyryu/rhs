@@ -36,7 +36,7 @@ https://ftp.harukasan.org/CRAN/ (EX)
 apt-get update
 apt-get install r-base r-base-dev
 
-apt-get install libopenblas-base or apt-get install libopenblas-base
+apt-get install libopenblas-base
 
 이거만 해주면 R은 구동이 됩니다.
 

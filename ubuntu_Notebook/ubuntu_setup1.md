@@ -50,7 +50,7 @@ export PATH="/home/lhy/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
-3. .bash_rc 파일에 2번 메세지(3줄)를 맨 아래 넣어줘야 하므로 vi ./bash_rc를 실행시켜 넣어줌
+3. .bashrc 파일에 2번 메세지(3줄)를 맨 아래 넣어줘야 하므로 vi ~/.bashrc를 실행시켜 넣어줌
 
 4. 설치가 다 된다면 터미널을 재시작함
 
@@ -111,5 +111,5 @@ sudo apt install mariadb-client
 그리고 만약에 외부에서 접속을 허용하게 한다면
 systemctl start mysql / systemctl status mysql 을 친 후에
 
-firewalld 패키지를 설치 후에 firewall-cmd --permanent --add-port=3306/tcp 와 firewall-cmd --reload를 쳤을 때 success가 나오면 완료됨..
+firewalld 패키지를 설치 후에 firewall-cmd --permanent --add-port=3306/tcp && firewall-cmd --reload를 쳤을 때 success가 나오면 완료됨..
 ```
