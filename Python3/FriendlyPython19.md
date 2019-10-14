@@ -1,4 +1,4 @@
-## 파이썬 기초 정리 18
+## 파이썬 기초 정리 19
 
 #### if i can learn to flask, i more useful python3!!
 
@@ -38,3 +38,8 @@ url_for  : 함수명을 통해서 라우트된 주소를 반환하는 함수
 html에서 input은 사용자의 입력을 받는 태그이며, name은 데이터 키 속성, form은 전송의 행 담당해줌
 
 render_template으로 전달한 부분을 받을 때에는 {{키}}로 받음
+```
+
+```
+추후에 추가 정리 예정!
+```
