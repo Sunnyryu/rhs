@@ -1,4 +1,4 @@
-ㅜ## My Ubuntu
+## My Ubuntu
 
 #### Ubuntu 6
 
