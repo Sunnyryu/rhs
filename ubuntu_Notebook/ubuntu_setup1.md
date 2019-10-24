@@ -17,7 +17,7 @@ javac 나 java 이용하여 버전 확인 하기
 ```
 java 환경변수 설정
   vi /etc/bash.bashrc (vim 에디터를 이용해서 bash.bashrc 파일로 들어감)
-  맨 아래 줄에 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+  맨 아래 줄에 export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
   (export 하여 변수 JAVA_HOME 위치 설정)
   source /etc/bash.bashrc (bash 파일 적용)
 ```
@@ -49,6 +49,10 @@ virtualenv, pyenv-virtualenv : 가상환경은 프로젝트별로 설치된 패�
 export PATH="/home/lhy/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+echo "export PATH=\"${PYENV_ROOT}/bin:\$PATH\""
+     echo "eval \"\$(pyenv init -)\""
+     echo "eval \"\$(pyenv virtualenv-init -)\""
+
 
 3. .bashrc 파일에 2번 메세지(3줄)를 맨 아래 넣어줘야 하므로 vi ~/.bashrc를 실행시켜 넣어줌
 
