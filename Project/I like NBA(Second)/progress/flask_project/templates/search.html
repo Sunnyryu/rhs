@@ -26,17 +26,16 @@
 
 
 
+
     <div class="table-responsive">
       <table class="table table-hover">
           <caption class='abc'>NBA 선수 목록</caption><br/>
           <div>
             <fieldset>
-          <form method ="POST" id="searchform">
-            <input type="search" name="fullname" placeholder="플레이어 검색" required />
+          <form action="/search" id="searchform" method="GET">
+            <input type="search" name="fullname" placeholder="플레이어(영문) 검색" required />
             <input type="submit" value="플레이어 검색"/>
-            <div id="">
 
-            </div>
           </fieldset>
           </form>
             </div>
@@ -81,29 +80,7 @@
          $('tbody>tr:odd').css('background', 'lightpink')
          </script>
 
-         <script>
-          $('#searchform').on('submit', (e)=>{
-            e.preventDefault();
-            console.log('검색');
-            var fullname = 'fullname='+$('[name=fullname]').val();
-            $.ajax({
-              url:"/search",
-              type:'post',
-              data:fullname,
-              dataType:"json",
-              success:(data)=>{
-                console.log('성공',data);
-              //showResult(data);
-              },
-              error:(err) => {
-                console.log('실패', err);
-              }
-          });
-          return false;
 
-        });
-
-         </script>
 
 
        </body>

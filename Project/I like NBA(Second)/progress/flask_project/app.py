@@ -1,10 +1,11 @@
 import pandas as pd
 import pymysql
 from flask import Flask, request, render_template, redirect, url_for, jsonify
-from player import *
+from player import playerData
 from flask_paginate import Pagination, get_page_args
-from playersearch import *
-
+from playersearch import playerSearch
+import playersearch
+import json
 
 app = Flask(__name__)
 app.debug = True
@@ -12,6 +13,7 @@ rows = playerData()
 
 
 def get_rows(offset, per_page):
+
     return rows[offset: offset + per_page]
 
 @app.route('/')
@@ -20,9 +22,6 @@ def index():
     per_page = 20
     offset = (page - 1) * per_page
     total = len(rows)
-    print(page)
-    print(per_page)
-    print(offset)
     pagination_rows = get_rows(offset=offset, per_page=per_page)
     pagination = Pagination(page=page, per_page=per_page, total=total,
                             css_framework='bootstrap4')
@@ -35,25 +34,27 @@ def index():
                            )
 
 def get_searchrows(offset, per_page):
+    fullname = request.args.get('fullname') # get 방식 
+    searchrows = playerSearch(fullname)
     return searchrows[offset: offset + per_page]
 
-@app.route('/search', methods=['POST'])
+@app.route('/search', methods=['GET','POST'])
 def search():
-    fullname = request.form['fullname']
+    fullname = request.args.get('fullname') #검색어 받아오기
+    #fullname = request.args.get('fullname') get 방식
+    #fullname = request.form['fullname'] post 방식
     #print(fullname)
-    searchrows = playerSearch(fullname)
-    #print(searchrows)
-    if searchrows :
-        return jsonify(searchrows)
-    else:
-        return jsonify([])
+    searchrows = playerSearch(fullname) # 쿼리 수행
+    #print(rows)
     page = int(request.args.get('page', 1))
     per_page = 20
     offset = (page - 1) * per_page
     total = len(searchrows)
+    print(page)
+    print(per_page)
+    print(offset)
     #print(searchrows)
     pagination_searchrows = get_searchrows(offset=offset, per_page=per_page)
-    print(pagination_searchrows)
     pagination = Pagination(page=page, per_page=per_page, total=total, css_framework='bootstrap4')
     print(pagination)
     return render_template('search.html',
@@ -62,6 +63,9 @@ def search():
                             per_page=per_page,
                             pagination=pagination,
                             )
+
+
+
 
 
 
