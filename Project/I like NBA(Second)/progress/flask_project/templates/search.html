@@ -52,7 +52,7 @@
           {% for searchrow in searchrows: %}
           <tr>
             <td>{{ searchrow['no']}}</td>
-            <td><a href='/newpage'>{{ searchrow['id']}}</a></td>
+            <td><a href="newpage?playerid={{searchrow['id']}}" method="get">{{ searchrow['id']}}</a></td>
             <td>{{ searchrow['firstname']}}</td>
             <td>{{ searchrow['lastname']}}</td>
             <td>{{ searchrow['fullname']}}</td>

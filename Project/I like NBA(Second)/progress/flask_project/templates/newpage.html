@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en">
+<head> <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <style>
+  /* includes alternating gray and white with on-hover color */
+
+
+  .info {
+      font-size: 11pt;
+      font-family: Arial;
+      border-collapse: collapse;
+      border: 1px solid silver;
+      width: 100%;
+
+
+  }
+
+  .info td, th {
+      padding: 5px;
+  }
+
+
+  .info th:nth-child(odd) {
+      background: yellow;
+  }
+  .info th:nth-child(even) {
+      background: yellow;
+  }
+
+  .info td:nth-child(odd) {
+      background: lightpink;
+  }
+
+  .info td:nth-child(even) {
+      background: lightblue;
+  }
+  .info tr:hover {
+      background: silver;
+      cursor: pointer;
+
+  }
+
+  .info1 {
+      font-size: 11pt;
+      font-family: Arial;
+      border-collapse: collapse;
+      border: 1px solid silver;
+      width: 100%;
+
+
+  }
+
+  .info1 td, th {
+      padding: 5px;
+  }
+
+
+  .info1 th:nth-child(odd) {
+      background: yellow;
+  }
+  .info1 th:nth-child(even) {
+      background: yellow;
+  }
+
+  .info1 td:nth-child(odd) {
+      background: lightpink;
+  }
+
+  .info1 td:nth-child(even) {
+      background: lightblue;
+  }
+  .info1 tr:hover {
+      background: silver;
+      cursor: pointer;
+
+  }
+.data {
+    font-size: 11pt;
+    font-family: Arial;
+    border-collapse: collapse;
+    border: 1px solid silver;
+    width: 100%;
+
+
+}
+
+.data td, th {
+    padding: 5px;
+}
+
+
+.data th:nth-child(odd) {
+    background: yellow;
+}
+.data th:nth-child(even) {
+    background: yellow;
+}
+
+.data td:nth-child(odd) {
+    background: lightpink;
+}
+
+.data td:nth-child(even) {
+    background: lightblue;
+}
+.data tr:hover {
+    background: silver;
+    cursor: pointer;
+
+}
+.data1 {
+    font-size: 11pt;
+    font-family: Arial;
+    border-collapse: collapse;
+    border: 1px solid silver;
+    width: 100%;
+
+}
+
+.data1 td, th {
+    padding: 5px;
+}
+
+
+.data1 th:nth-child(odd) {
+    background: yellow;
+}
+.data1 th:nth-child(even) {
+    background: yellow;
+}
+
+.data1 td:nth-child(odd) {
+    background: lightpink;
+}
+
+.data1 td:nth-child(even) {
+    background: lightblue;
+}
+.data1 tr:hover {
+    background: silver;
+    cursor: pointer;
+
+}
+
+.data2 {
+    font-size: 11pt;
+    font-family: Arial;
+    border-collapse: collapse;
+    border: 1px solid silver;
+    width: 100%;
+
+}
+
+.data2 td, th {
+    padding: 5px;
+}
+
+
+.data2 th:nth-child(odd) {
+    background: yellow;
+}
+.data2 th:nth-child(even) {
+    background: yellow;
+}
+
+.data2 td:nth-child(odd) {
+    background: lightpink;
+}
+
+.data2 td:nth-child(even) {
+    background: lightblue;
+}
+.data2 tr:hover {
+    background: silver;
+    cursor: pointer;
+
+}
+.playerfullname{
+    font-size: 30pt;
+    font-family: Arial;
+    border-collapse: collapse;
+    font-weight: bolder;
+    line-height:4em;
+}
+.playerclassname{
+  font-size: 17pt;
+  font-family: Arial;
+  border-collapse: collapse;
+  font-weight: bolder;
+  line-height:2.5em;
+}
+
+.playerclassname1{
+  font-size: 12pt;
+  font-family: Arial;
+  border-collapse: collapse;
+  font-weight: bolder;
+  line-height:3em;
+}
+
+.playerclassname2{
+  font-size: 12pt;
+  font-family: Arial;
+  border-collapse: collapse;
+  font-weight: bolder;
+}
+
+.TOT{
+  font-size: 10pt;
+  color: grey;
+  line-height:2em;
+}
+
+.TOT1{
+  font-size: 10pt;
+  color: grey;
+}
+
+.awards {
+    font-size: 11pt;
+    font-family: Arial;
+    border-collapse: collapse;
+    border: 1px solid silver;
+    width: 100%;
+
+
+}
+
+.awards td, th {
+    padding: 5px;
+}
+
+
+.awards th:nth-child(odd) {
+    background: yellow;
+}
+.awards th:nth-child(even) {
+    background: yellow;
+}
+
+.awards td:nth-child(odd) {
+    background: lightpink;
+}
+
+.awards td:nth-child(even) {
+    background: lightblue;
+}
+.awards tr:hover {
+    background: silver;
+    cursor: pointer;
+
+}
+  </style>
+  <!-- Bootstrap CSS -->
+
+   <title>느바데이터마을</title>
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+      <a class="navbar-brand" href="/" style="color:white">Home</a>
+      <a href="/newpage2" style="color:white">Analysis page</a>
+      </nav>
+        {% for playeridrow in playeridrows %}
+      <div class="playerfullname">
+        {{ playeridrow['fullname']+"의 정보 페이지"}}
+          <img src="http://stats.nba.com/media/players/230x185/{{playerid}}.png" />
+      </div>
+        {% endfor %}
+        <div>
+          <div class="playerclassname">
+            {% for playeridrow in playeridrows %}
+            {{ playeridrow['fullname']+"의 관련정보"}}
+                {% endfor %}
+
+          </div>
+        <table class="dataframe info">
+
+        {% for infotable in infotables %}
+              {{ infotable|safe }}
+        {% endfor %}
+
+        </table>
+      </div><br/>
+        <div class="playerclassname">
+          {% for playeridrow in playeridrows %}
+          {{ playeridrow['fullname']+"의 데이터"}}
+              {% endfor %}
+
+        </div>
+        <div class="playerclassname2">
+          {% for playeridrow in playeridrows %}
+          {{ playeridrow['fullname']+"의 현재시즌 데이터"}}
+              {% endfor %}
+        <div class="TOT1">은퇴선수는 커리어 기록으로 대체됩니다.
+        </div>
+
+
+        </div>
+        <div>
+        <table class="dataframe info1">
+
+        {% for infotable1 in infotables1 %}
+              {{ infotable1|safe }}
+        {% endfor %}
+
+        </table>
+      </div><br />
+
+
+
+
+      <div>
+        <div class="playerclassname1">
+          {% for playeridrow in playeridrows %}
+          {{ playeridrow['fullname']+"의 정규시즌 데이터 1"}}
+              {% endfor %}
+
+        </div>
+  <table class="dataframe data">
+
+      {% for careertable in careertables %}
+            {{ careertable|safe }}
+{% endfor %}
+
+  </table>
+  </div>
+  <div class="TOT">
+    TOT는 해당년도에 2팀 이상에서 뛰었을 경우 2팀 이상에서 뛴 데이터의 합계이며, 현역 선수에 경우 당일 데이터를 실시간으로 받고 있습니다.
+  </div><br />
+
+  <div class="playerclassname1">
+    {% for playeridrow in playeridrows %}
+    {{ playeridrow['fullname']+"의 정규시즌 데이터 2(전체 커리어 통합 데이터)"}}
+        {% endfor %}
+
+  </div>
+  <div>
+<table class="dataframe data1">
+
+  {% for careertable1 in careertables1 %}
+        {{ careertable1|safe }}
+{% endfor %}
+
+</table>
+</div><br />
+
+<div class="playerclassname1">
+  {% for playeridrow in playeridrows %}
+  {{ playeridrow['fullname']+"의 정규시즌 데이터 3(시즌 랭킹)"}}
+      {% endfor %}
+
+</div>
+
+<div>
+<table class="dataframe data2">
+
+{% for careertable2 in careertables2 %}
+      {{ careertable2|safe }}
+{% endfor %}
+
+</table>
+</div><br />
+
+
+<div class="playerclassname2">
+  {% for playeridrow in playeridrows %}
+  {{ playeridrow['fullname']+"의 역대 수상 내역"}}
+      {% endfor %}
+      <div class="TOT1">
+      수상 이력이 없다면 나오지 않습니다.
+          </div>
+</div>
+<div>
+<table class="dataframe awards">
+
+{% for awardstable in awardstables %}
+      {{ awardstable|safe }}
+{% endfor %}
+
+</table>
+</div>
+
+
+         <!-- Optional JavaScript --> <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+
+          <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/carousel.css') }}">
+          <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+         <script src="{{ url_for('static', filename='js/jquery-3.3.1.slim.min.js') }}"></script>
+         <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+         <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.4.1.min.js') }}"></script>
+
+
+
+
+       </body>
+       </html>

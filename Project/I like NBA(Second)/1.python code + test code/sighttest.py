@@ -2,7 +2,12 @@ import requests
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
+from matplotlib._cm_listed import cmaps as cmaps_listed
+from matplotlib import colors
+from matplotlib.colors import LinearSegmentedColormap
+from numpy import nan, inf
 from nba_api.stats.endpoints import shotchartdetail
+import cmaps
 shoter = shotchartdetail.ShotChartDetail(league_id="00",team_id="0", player_id="201939", season_nullable="2018-19")
 a = shoter.get_data_frames()
 print(a[0])
@@ -260,7 +265,7 @@ ax.add_artist(img)
 plt.show()
 
 # import the object that contains the viridis colormap
-from option_d import test_cm as viridis
+import viridis	
 
 # Register and set Viridis as the colormap for the plot
 plt.register_cmap(cmap=viridis)

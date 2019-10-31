@@ -49,9 +49,9 @@
         </thead>
         <tbody>
           {% for row in rows: %}
-          <tr id="rows">
+          <tr>
             <td>{{ row['no']}}</td>
-            <td><a href='/newpage'>{{ row['id']}}</a></td>
+            <td><a href="newpage?playerid={{row['id']}}" method="get">{{ row['id']}}</a></td>
             <td>{{ row['firstname']}}</td>
             <td>{{ row['lastname']}}</td>
             <td>{{ row['fullname']}}</td>
