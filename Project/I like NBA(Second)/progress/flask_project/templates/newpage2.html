@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head> <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <style>
+
+    .abc { caption-side: top;
+
+     }
+
+     .shottopic {
+         font-size: 30pt;
+         font-family: Arial;
+         border-collapse: collapse;
+         font-weight: bolder;
+         width: 100%;
+         line-height: 2.5em;
+         border-top: 1px solid silver;
+
+     }
+     .shottopic2{
+        font-size: 23pt;
+        font-weight: bolder;
+        border-top: 1px solid silver;
+
+     }
+     .shotcontext {
+       font-size: 15pt;
+     }
+
+     .TOT1{
+       font-size: 13pt;
+       color: grey;
+     }
+     .body{
+
+     }
+
+    </style>
+  <!-- Bootstrap CSS -->
+
+   <title>슛데이터마을</title>
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+      <a class="navbar-brand" href="/" style="color:white">Home</a>
+      </nav>
+    <div>
+      <img src ="{{ url_for('static', filename='img/nba2.jpg') }}" width=100% height="300" />
+    </div>
+    <div class="shottopic">
+      {% for playeridrow in playeridrows %}
+      {{ playeridrow['fullname']+"의 슛 데이터 관련 페이지"}}
+          {% endfor %}
+    </div>
+    <div class="TOT1">
+     일부 은퇴 선수의 경우 슛 데이터 기록이 없어서 농구장 화면만 구현하였습니다.
+    </div>
+
+    <div class="shottopic2">
+      들어가기전 !
+    </div>
+      <div class="shotcontext">
+       현재 nba에서는 데이터 분석이 매우 중요하게 자리를 잡았다. 그리고 nba에서 시초가 되어지며, 현재 페이지에서 쓰일 모리볼에 대해서 간단히 소개드리자면, 모리볼은 휴스턴의 모리 단장의 이름을 딴 이론이다.
+       그리고 모리볼에서는 자유투, 골밑슛, 3점슛의 비중을 높이고 불확실한 중장거리 2점슛 비중을 줄이는 것이며, 관련된 지표로 TS%가 높은 선수를 기용하는 방식을 취했는데, TS%란 자유투와 3점슛의 보정치를 준 식이다.
+       모리볼은 현대 NBA에 많은 파급력을 주었기에, 은퇴한 선수들 중에 모리볼에 어울리는 선수가 누구인가, 현재 선수 중에 모리볼에 어울리는 선수가 누구 인지 TS%를 활용한 결과를 통해 확인해보세요.
+       마지막으로 또한 과연 TS%가 높은 선수가 3점슛 시도가 많은 지도 한번 그래프를 통해 확인 해 보세요!
+
+    </div>
+      <div>
+        <img src ="{{ url_for('static', filename='img/graph1.png') }}" width="45%" height="500" />
+        <img src ="{{ url_for('static', filename='img/graph2.png') }}" width="45%" height="500" />
+      </div>
+
+
+      <div class="shottopic2">
+        {% for playeridrow in playeridrows %}
+        {{ playeridrow['fullname']+" 선수의 슛 관련 분석 결과"}}
+            {% endfor %}
+        </div>
+      <div class="shotcontext">
+        1. 커리어 TS% 결과:
+        {% for playeridrow in playeridrows %}
+        {{ playeridrow['fullname']+"의"}}
+            {% endfor %}
+        TS%는 {{TS}}%입니다.
+        </div>
+        <div class="shotcontext">
+          2. TS%와 슛 성공률 비교 결과:
+          {% if TS>=FGPCT %}
+            <span>3점슛 또는 자유투 비중이 더 높은 선수 입니다.</span>
+          {% else %}
+            <span>3점슛 또는 자유투에 비해 2점슛 비중이 더 높은 선수입니다.</span>
+        </div>
+          {% endif %}
+        <div class="shotcontext">
+          3. 2번의 결과와 위의 그래프에서 3점슛 비중이 많다면 모리볼에 어울리는 선수라고 생각됩니다.
+        </div>
+        <div class="shotcontext">
+          4. TS% 커리어 통산 상위 30명을 보여드리며, 예전에는 센터 포지션이나 골밑을 많이 넣는 선수들이 높은 TS%를 차지했지만,
+          트랜드가 바뀔수록 3점슛과 자유투를 잘넣는 선수들이 높은 TS%를 기록하고 있습니다.
+          TS%가 A라는 선수에겐 잘 맞고 B라는 선수에겐 맞지 않을 수 있지만 그래도 요새 트랜드에 맞는 선수들은 상당히 잘 맞다고 생각하며, 최근 우승팀의 경우에도
+          상당히 높은 팀 TS%가 나왔습니다.
+        </div>
+        <div class="shotcontext">
+          5.  2차 스텟에 대해서 믿고 믿지 못함의 차이가 존재하는 만큼 2차 스텟에 대해 알고 농구를 즐기는 것 또한 좋은 흥미요소라 생각합니다.
+        </div>
+        <div>
+          <table class="table table-hover">
+              <caption class='abc'>NBA TS 상위 선수 30</caption><br/>
+            <thead>
+              <tr>
+                <th>풀네임</th>
+                <th>TS%</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for ts30 in ts30s: %}
+              <tr>
+                <td>{{ ts30['fullname']}}</td>
+                <td>{{ ts30['TS30']}}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+          {{ pagination.links }}
+
+
+         <!-- Optional JavaScript --> <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+
+          <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/carousel.css') }}">
+          <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+         <script src="{{ url_for('static', filename='js/jquery-3.3.1.slim.min.js') }}"></script>
+         <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+         <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.4.1.min.js') }}"></script>
+         <script>
+
+         $('tr:first').css('color', 'blue');
+         $('tbody>tr:even').css('background', '#ebffeb')
+         $('tbody>tr:odd').css('background', '#ebfbff')
+         </script>
+
+
+
+
+       </body>
+       </html>

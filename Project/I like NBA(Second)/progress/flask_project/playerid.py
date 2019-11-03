@@ -1,5 +1,15 @@
 import pymysql
 from sqlalchemy import create_engine
+import requests
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+from matplotlib._cm_listed import cmaps as cmaps_listed
+from matplotlib import colors
+from matplotlib.colors import LinearSegmentedColormap
+from numpy import nan, inf
+from nba_api.stats.endpoints import shotchartdetail
+import cmaps
 
 def playerId(playerid):
     connection = None

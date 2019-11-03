@@ -1,8 +1,7 @@
 import pandas as pd
 import pymysql
-from sqlalchemy import create_engine
 
-def playerData():
+def TS30():
     connection = None
     rows = None
     try:
@@ -12,18 +11,15 @@ def playerData():
                                  db='nbaplayerid',
                                  charset='utf8',
                                  cursorclass=pymysql.cursors.DictCursor)
-
-        cursor = connection.cursor()
-        sql = "select no, id, firstname, lastname, fullname from a where no >= %s limit 10;"
-
-        cursor.execute(sql, (no))
-        rows = cursor.fetchall()
-        print(rows)
+        if connection :
+            with connection.cursor() as cursor:
+                sql = "select fullname, TS30 from TS order by TS30 desc;"
+                cursor.execute(sql)
+                rows = cursor.fetchall()
     except Exception as e:
         print('->', e)
         rows= None
     finally:
         if connection:
             connection.close()
-            print('close')
     return rows

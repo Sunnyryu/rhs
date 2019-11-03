@@ -13,6 +13,7 @@ def playerGraph(playerid):
     blkdata = graphdata2.BLK
     tovdata = graphdata2.TOV
     gpdata = graphdata2.GP
+    pfdata = graphdata2.PF
     if stldata[0]==None:
         steal=0
     else:
@@ -42,13 +43,18 @@ def playerGraph(playerid):
         gp=0
     else:
         gp=int(gpdata[0])
+    if pfdata[0]==None:
+        pf=0
+    else:
+        pf=int(pfdata[0])
     playergraph=[]
     playergraph.append(point/gp)
-    playergraph.append(assist/gp)
-    playergraph.append(rebound/gp)
-    playergraph.append(steal/gp)
-    playergraph.append(block/gp)
-    playergraph.append(turnover/gp)
+    playergraph.append(assist*4.67*0.8/gp)
+    playergraph.append(rebound*2.73*0.8/gp)
+    playergraph.append(steal*15.12*0.9/gp)
+    playergraph.append(block*23.24*0.7/gp)
+    playergraph.append(turnover*8.17*0.8/gp)
+    playergraph.append(pf*5.5*1.1/gp)
     print(playergraph)
     #playergraph = json.dumps({'PPG':point/gp, 'RPG':rebound/gp, 'APG':assist/gp, 'SPG':steal/gp, 'BPG':block/gp,
     #'TPG':turnover/gp, 'PFG':pf/gp}, indent=4)

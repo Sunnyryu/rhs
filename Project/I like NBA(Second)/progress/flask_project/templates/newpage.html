@@ -3,10 +3,15 @@
 <head> <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
   <style>
   /* includes alternating gray and white with on-hover color */
 
-
+  .container {
+        width: 10%;
+        margin: 15px auto;
+  }
   .info {
       font-size: 11pt;
       font-family: Arial;
@@ -19,23 +24,22 @@
 
   .info td, th {
       padding: 5px;
+
   }
 
 
   .info th:nth-child(odd) {
-      background: yellow;
+      background: #f0f8ff;
   }
   .info th:nth-child(even) {
-      background: yellow;
+      background: #f0f8ff;
   }
 
-  .info td:nth-child(odd) {
-      background: lightpink;
+  .info tr:nth-child(odd) {
+      background: #f0ffff  ;
   }
 
-  .info td:nth-child(even) {
-      background: lightblue;
-  }
+
   .info tr:hover {
       background: silver;
       cursor: pointer;
@@ -58,19 +62,17 @@
 
 
   .info1 th:nth-child(odd) {
-      background: yellow;
+      background: #f0f8ff;
   }
   .info1 th:nth-child(even) {
-      background: yellow;
+      background: #f0f8ff;
   }
 
-  .info1 td:nth-child(odd) {
-      background: lightpink;
+  .info1 tr:nth-child(odd) {
+      background: #f0ffff;
   }
 
-  .info1 td:nth-child(even) {
-      background: lightblue;
-  }
+
   .info1 tr:hover {
       background: silver;
       cursor: pointer;
@@ -92,18 +94,18 @@
 
 
 .data th:nth-child(odd) {
-    background: yellow;
+    background: #f0f8ff;
 }
 .data th:nth-child(even) {
-    background: yellow;
+    background: #f0f8ff;
 }
 
-.data td:nth-child(odd) {
-    background: lightpink;
+.data tr:nth-child(odd) {
+    background: #f0ffff;
 }
 
-.data td:nth-child(even) {
-    background: lightblue;
+.data tr:nth-child(even) {
+    background: #e0e6fa;
 }
 .data tr:hover {
     background: silver;
@@ -125,18 +127,18 @@
 
 
 .data1 th:nth-child(odd) {
-    background: yellow;
+    background: #f0f8ff;
 }
 .data1 th:nth-child(even) {
-    background: yellow;
+    background: #f0f8ff;
 }
 
-.data1 td:nth-child(odd) {
-    background: lightpink;
+.data1 tr:nth-child(odd) {
+    background: #f0ffff;
 }
 
-.data1 td:nth-child(even) {
-    background: lightblue;
+.data1 tr:nth-child(even) {
+    background: #e0e6fa;
 }
 .data1 tr:hover {
     background: silver;
@@ -159,18 +161,18 @@
 
 
 .data2 th:nth-child(odd) {
-    background: yellow;
+    background: #f0f8ff;
 }
 .data2 th:nth-child(even) {
-    background: yellow;
+    background: #f0f8ff;
 }
 
-.data2 td:nth-child(odd) {
-    background: lightpink;
+.data2 tr:nth-child(odd) {
+    background: #f0ffff;
 }
 
-.data2 td:nth-child(even) {
-    background: lightblue;
+.data2 tr:nth-child(even) {
+    background: #e0e6fa;
 }
 .data2 tr:hover {
     background: silver;
@@ -183,6 +185,7 @@
     border-collapse: collapse;
     font-weight: bolder;
     line-height:4em;
+    border: 1px solid silver;
 }
 .playerclassname{
   font-size: 17pt;
@@ -190,6 +193,7 @@
   border-collapse: collapse;
   font-weight: bolder;
   line-height:2.5em;
+  
 }
 
 .playerclassname1{
@@ -234,18 +238,18 @@
 
 
 .awards th:nth-child(odd) {
-    background: yellow;
+    background: #f0f8ff;
 }
 .awards th:nth-child(even) {
-    background: yellow;
+    background: #f0f8ff;
 }
 
-.awards td:nth-child(odd) {
-    background: lightpink;
+.awards tr:nth-child(odd) {
+    background: #f0ffff;
 }
 
-.awards td:nth-child(even) {
-    background: lightblue;
+.awards tr:nth-child(even) {
+    background: #e0e6fa;
 }
 .awards tr:hover {
     background: silver;
@@ -255,18 +259,31 @@
   </style>
   <!-- Bootstrap CSS -->
 
-   <title>느바데이터마을</title>
+   <title>선수데이터마을</title>
   </head>
   <body>
 
     <nav class="navbar navbar-expand-lg navbar-light bg-primary">
       <a class="navbar-brand" href="/" style="color:white">Home</a>
-      <a href="/newpage2" style="color:white">Analysis page</a>
+      <a href="/newpage2?playerid={{playerid}}" method="get" style="color:white">Analysis page</a>
       </nav>
+      <div>
+        <img src ="{{ url_for('static', filename='img/nba2.jpg') }}" width=100% height="300" />
+      </div>
+
         {% for playeridrow in playeridrows %}
       <div class="playerfullname">
         {{ playeridrow['fullname']+"의 정보 페이지"}}
-          <img src="http://stats.nba.com/media/players/230x185/{{playerid}}.png" />
+          <img src="http://stats.nba.com/media/players/230x185/{{playerid}}.png" /><br />
+
+          <div class="container">
+            <div>
+              <canvas id="myChart"></canvas>
+            </div>
+            <div class="TOT1">
+             초창기 선수들 중 일부는 스틸, 블록, 턴오버의 기록이 없어서 측정치를 구현X, 그래서 점을 누르면 스틸로 구현하였습니다.
+            </div>
+         </div>
       </div>
         {% endfor %}
         <div>
@@ -276,6 +293,8 @@
                 {% endfor %}
 
           </div>
+          <a href="/explain" onclick="window.open(this.href, '_blank', 'width=400px,height=400px,toolbars=no,scrollbars=no'); return false;">
+            꺠알 용어설명</a>
         <table class="dataframe info">
 
         {% for infotable in infotables %}
@@ -382,7 +401,26 @@
 
 </table>
 </div>
+<script>
+var ctx = document.getElementById("myChart");
+var myChart = new Chart(ctx, {
+type: 'radar',
+data: {
+  labels: ["득점", "어시스트", "리바운드", "스틸", "블록", "턴오버", "파울"],
+  datasets: [{
+    {% for playeridrow in playeridrows %}
+    label: '{{playeridrow['fullname']}}',
+          {% endfor %}
+    backgroundColor: "rgba(153,255,51,0.4)",
+    borderColor: "rgba(153,255,51,1)",
+    data: {{playergraph}}
+  }]
 
+}
+
+});
+
+</script>
 
          <!-- Optional JavaScript --> <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
