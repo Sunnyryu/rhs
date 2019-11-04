@@ -4,7 +4,7 @@ from player import playerData
 from flask_paginate import Pagination, get_page_args
 from playersearch import playerSearch
 from playerid import playerId
-from nba_api.stats.endpoints import playercareerstats, playerawards, commonplayerinfo, shotchartdetail
+from nba_api.stats.endpoints import playercareerstats, playerawards, commonplayerinfo, shotchartdetail, leagueleaders
 import json
 import pandas as pd
 from playeriddata import playeridData
@@ -20,11 +20,12 @@ from matplotlib.offsetbox import OffsetImage
 from datetime import date, datetime, timedelta
 from ts30 import TS30
 import os
+from mvp import PredMVP
 app = Flask(__name__)
 app.debug = True
 rows = playerData()
 ts30s = TS30()
-
+predrows = PredMVP()
 @app.context_processor
 def override_url_for():
     return dict(url_for=dated_url_for)
@@ -35,7 +36,7 @@ def dated_url_for(endpoint, **values):
         if filename:
             file_path = os.path.join(app.root_path,
                                      endpoint, filename)
-            values['q'] = int(os.stat(file_path).st_mtime)
+            values['new'] = int(os.stat(file_path).st_mtime)
     return url_for(endpoint, **values)
 
 def get_rows(offset, per_page):
@@ -57,6 +58,9 @@ def index():
                            per_page=per_page,
                            pagination=pagination,
                            )
+
+
+
 
 def get_searchrows(offset, per_page):
     fullname = request.args.get('fullname') # get 방식
@@ -109,7 +113,7 @@ def newpage():
 def explain():
     return render_template('explain.html')
 
-def get_gs30s(offset, per_page):
+def get_ts30s(offset, per_page):
     return ts30s[offset: offset + per_page]
 
 
@@ -129,7 +133,7 @@ def newpage2():
     per_page = 10
     offset = (page - 1) * per_page
     total = len(ts30s)
-    pagination_ts30s = get_gs30s(offset=offset, per_page=per_page)
+    pagination_ts30s = get_ts30s(offset=offset, per_page=per_page)
     pagination = Pagination(page=page, per_page=per_page, total=total,
                             css_framework='bootstrap4')
     shoter = shotchartdetail.ShotChartDetail(league_id="00",team_id="0", player_id=playerid2, season_nullable="")
@@ -272,6 +276,24 @@ def newpage2():
 
 
     return render_template('newpage2.html',TS=TS, FGPCT=FGPCT, playerid2=playerid2, playeridrows=playeridrows, ts30s=pagination_ts30s, page=page, per_page=per_page, pagination=pagination,)
+
+def get_predrows(offset, per_page):
+
+    return predrows[offset: offset + per_page]
+
+@app.route('/etc')
+def etc():
+    page = int(request.args.get('page', 1))
+    per_page = 20
+    offset = (page - 1) * per_page
+    total = len(predrows)
+    pagination_predrows = get_predrows(offset=offset, per_page=per_page)
+    pagination = Pagination(page=page, per_page=per_page, total=total,
+                            css_framework='bootstrap4')
+    return render_template('etc.html', predrows=pagination_predrows,
+    page=page,
+    per_page=per_page,
+    pagination=pagination,)
 
 
 

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head> <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+  <style>
+  /* includes alternating gray and white with on-hover color */
+  .abc { caption-side: top;
+         color: green;
+   }
+
+  .container {
+        width: 10%;
+        margin: 15px auto;
+  }
+  .league {
+      font-size: 11pt;
+      font-family: Arial;
+      border-collapse: collapse;
+      border: 1px solid silver;
+      width: 100%;
+
+
+  }
+
+  .league td, th {
+      padding: 5px;
+
+  }
+
+
+  .league th:nth-child(odd) {
+      background: #f0f8ff;
+  }
+  .league th:nth-child(even) {
+      background: #f0f8ff;
+  }
+
+  .league tr:nth-child(odd) {
+      background: #f0ffff  ;
+  }
+
+
+  .league tr:hover {
+      background: silver;
+      cursor: pointer;
+
+  }
+
+
+  </style>
+  <!-- Bootstrap CSS -->
+
+   <title>선수데이터마을</title>
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+      <a class="navbar-brand" href="/" style="color:white">Home</a>
+      </nav>
+      <div>
+        <img src ="{{ url_for('static', filename='img/nba2.jpg') }}" width=100% height="300" />
+      </div>
+
+
+
+
+
+
+    <div>
+      <table class="table table-hover">
+          <caption class='abc'>NBA 2019-2020 예상 mvp 순위</caption><br/>
+        <thead>
+          <tr>
+            <th>풀네임</th>
+            <th>mvp 예측 점수</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for predrow in predrows: %}
+          <tr>
+            <td>{{ predrow['fullname']}}</td>
+            <td>{{ predrow['predmvppoint']}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {{ pagination.links }}
+    </div>
+
+
+
+
+
+
+
+
+         <!-- Optional JavaScript --> <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+
+          <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/carousel.css') }}">
+          <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+         <script src="{{ url_for('static', filename='js/jquery-3.3.1.slim.min.js') }}"></script>
+         <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+         <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.4.1.min.js') }}"></script>
+         <script>
+
+         $('tr:first').css('color', 'blue').css('background', '#f0ffff');
+         $('tbody>tr:even').css('background', '#faffff')
+         $('tbody>tr:odd').css('background', '#fffaff')
+         </script>
+
+
+
+
+       </body>
+       </html>
