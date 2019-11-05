@@ -9,7 +9,7 @@ from matplotlib import colors
 from matplotlib.colors import LinearSegmentedColormap
 from numpy import nan, inf
 from nba_api.stats.endpoints import shotchartdetail
-import cmaps
+# import cmaps
 
 def playerId(playerid):
     connection = None

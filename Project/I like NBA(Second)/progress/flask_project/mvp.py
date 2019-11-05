@@ -9,8 +9,8 @@ def PredMVP():
     df = pd.DataFrame(columns=['no', 'fullname', 'predmvppoint'])
     for no in range(0, 403):
         fullname = startframe[0].PLAYER[no]
-        predmvppoint =  round((int(startframe[0].PTS[no])+0.82*int(startframe[0].OREB[no])+0.76*int(startframe[0].DREB[no])+1.07*int(startframe[0].AST[no])+1.1*int(startframe[0].STL[no])
-        +1.03*int(startframe[0].BLK[no])-0.7*int(startframe[0].FGA[no])+0.2*int(startframe[0].FG3A[no])-0.4*int(startframe[0].FTA[no])-0.9*int(startframe[0].TOV[no])-0.35*int(startframe[0].PF[no]))/float(startframe[0].GP[no]),2)
+        predmvppoint =  round((int(startframe[0].PTS[no])+0.82*int(startframe[0].OREB[no])+0.76*int(startframe[0].DREB[no])+1.06*int(startframe[0].AST[no])+1.1*int(startframe[0].STL[no])
+        +1.03*int(startframe[0].BLK[no])-0.8*int(startframe[0].FGA[no])+0.2*int(startframe[0].FG3A[no])-0.4*int(startframe[0].FTA[no])-0.9*int(startframe[0].TOV[no])-0.4*int(startframe[0].PF[no]))/float(startframe[0].GP[no]),2)
         df = df.append(pd.DataFrame([[no, fullname, predmvppoint]], columns=['no', 'fullname', 'predmvppoint']), ignore_index= True)
     df.set_index('no', inplace=True)
     #print(df)

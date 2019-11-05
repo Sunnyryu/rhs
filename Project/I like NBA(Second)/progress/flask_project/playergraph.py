@@ -1,6 +1,6 @@
 import pandas as pd
 from nba_api.stats.endpoints import playercareerstats
-import json
+#import json
 
 def playerGraph(playerid):
     graphdata = playercareerstats.PlayerCareerStats(player_id=playerid)
@@ -55,7 +55,6 @@ def playerGraph(playerid):
     playergraph.append(block*23.24*0.7/gp)
     playergraph.append(turnover*8.17*0.8/gp)
     playergraph.append(pf*5.5*1.1/gp)
-    print(playergraph)
     #playergraph = json.dumps({'PPG':point/gp, 'RPG':rebound/gp, 'APG':assist/gp, 'SPG':steal/gp, 'BPG':block/gp,
     #'TPG':turnover/gp, 'PFG':pf/gp}, indent=4)
     return playergraph
