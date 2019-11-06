@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <!-- form 실습-->
+    <h2>Form input</h2>
+    <form action="#">
+        텍스트: <input type="text" placeholder="이름 입력해" autofocus><br>
+        이메일: <input type="email" placeholder="이메일 작성해" autofocus><br>
+        비밀번호: <input type="password" placeholder="암호 작성좀" autofocus><br>
+        날짜: <input type="date"  autofocus><br>
+        <input type="hidden" value="누군가 볼까?" autofocus><br>
+        <input type="submit" value="보내봅시다">
+    </form>
+
+    <div>
+    <!-- form name을 같은 것으로 하면 개별적으로 설정 가능!-->
+        <input type="radio" name="gender" value="male">남자
+        <input type="radio" name="gender"  value="female">여자
+    </div>
+
+    <div>
+        <input type="checkbox" name="check" value="1">a
+        <input type="checkbox" name="check" value="2">b
+        <input type="checkbox" name="check" value="3">c
+    </div>
+    <div>
+        <input type="number" name="size" min="3" max="100" step="7">
+    </div>
+
+    <div>
+        <select type="country">
+        <option value="korea">한국</option>
+        <option value="usa">미국</option>
+        <option value="china">중국</option>
+        </select>
+    </div>
+</body>
+</html>
