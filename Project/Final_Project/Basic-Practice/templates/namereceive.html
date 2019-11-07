@@ -6,9 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
+
 <body>
-    {% for a in year2row %}
-    <h1>"name"+{{a['value']}}</h1>
-    {% endfor %}
+  너의 인디언식 이름은
+    {% for i, k in year2row.items() %}
+  {{ k }}
+  {% endfor %}
+  +
+  {% for i, k in monthrow.items() %}
+  {{ k }}
+  {% endfor %}
+  +
+  {% for i, k in dayrow.items() %}
+  {{ k }}
+  {% endfor %}
+  이야
+  <!--나중에 python에서 수정해서 이거 문법화 시키면 ㄱㅇㄷ? -->
 </body>
+
 </html>

@@ -16,17 +16,16 @@ def Monthname(month):
                                  charset='utf8',
                                  cursorclass=pymysql.cursors.DictCursor)
         if connection :
-            with connection.cursor() as cursor:
-                 sql = '''
-                select
-                    value
-                from
-                    NewTable2
-                where
-                    month like '%s';
-                '''% month
-            print(type(month))
-            print(sql)
+            #with connection.cursor() as cursor:
+            cursor = connection.cursor()
+            sql = '''
+            select
+                value
+            from
+                NewTable2
+            where
+                month like '%s';
+            '''% month
             cursor.execute(sql)
             monthrow = cursor.fetchone()
 

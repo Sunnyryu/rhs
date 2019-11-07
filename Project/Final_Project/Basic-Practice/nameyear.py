@@ -1,6 +1,6 @@
 import pandas as pd
 import pymysql
-from sqlalchemy import create_engine
+
 
 # import cmaps
 
@@ -15,15 +15,16 @@ def Yearname(year2):
                                  charset='utf8',
                                  cursorclass=pymysql.cursors.DictCursor)
         if connection :
-            with connection.cursor() as cursor:
-                 sql = '''
-                 select
-                     value
-                 from
-                     NewTable
-                where
-                    year like '%s';
-                '''% year2
+            #with connection.cursor() as cursor:
+            cursor = connection.cursor()
+            sql = '''
+            select
+                value
+            from
+                NewTable
+            where
+                year like '%s';
+            '''% year2
             cursor.execute(sql)
             year2row = cursor.fetchone()
             print(year2row)

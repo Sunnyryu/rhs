@@ -15,15 +15,16 @@ def Dayname(day):
                                  charset='utf8',
                                  cursorclass=pymysql.cursors.DictCursor)
         if connection :
-            with connection.cursor() as cursor:
-                 sql = '''
-                select
-                    value
-                from
-                    NewTable3
-                where
-                    day like '%s';
-                '''% day
+            cursor = connection.cursor()
+            #with connection.cursor() as cursor:
+            sql = '''
+            select
+                value
+            from
+                NewTable3
+            where
+                day like '%s';
+            '''% day
             cursor.execute(sql)
             dayrow = cursor.fetchone()
     except Exception as e:
