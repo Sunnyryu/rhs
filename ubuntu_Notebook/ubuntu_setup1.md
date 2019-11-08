@@ -88,6 +88,25 @@ cd name
 4. pyenv versions 명렁어로 확인
 
 5. pip list로 가상환경 패키지 목록 확인
+
+설치 방법 2
+virtualenv를 설치 -> pip install virtualenv를 확인 -> virtualenv venv를 하면 venv라는 파일이 생김-> source venv/bin/activate로 시작 -> 종료는 deactivate
+
+virtualenv 버전 바꾸는 법
+ex1) virtualenv venv --python=python3.7
+ex2)alias python='/usr/bin/python2.7'(~/.bashrc 또는 ~/bash_profile 이용 )
+
+virtualenv 패키지 가져오기!
+virtualenv venv --system-site-packages
+
+pip freeze
+다른 사람과의 협업에서 혹은 새로운 개발환경에서도 쉽게 같은 환경으로 동기화하기 위해 많이 사용
+
+pip freeze > requirements.txt를 이용해서 설치되어 있는 python 패키지를 기록에 남긴다.
+
+pip install -r requirements.txt를 이용해서 requirements.txt에 있는 패키지를 가상 파이썬에 설치를 해줌. (requirements는 보통 사용되는 이름, 같은 가상환경 버전에서 사용하는 것을 권장)
+
+
 ```
 
 3. mariadb 설치
