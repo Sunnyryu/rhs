@@ -77,4 +77,10 @@ def index(): return render_template('x.html') [Flask] => view.py [Django]
 
 urls.py / view.py / template.py를 수정을 많이함!!
 
+flask <int:num> => 고정되어 있다면.. 구현을 해야되는 것이 증가하므로.. 공통적인 부분에 일부분만 바뀌는 것을 동적으로 변환하여 처리하면 이지함
+-> 장고에서는 int 0 or 양의 정수와 매치
+-> str : /를 제외한 모든 문자열과 매치 !
+-> slug : slug 형식 (ASCII, 숫자, 하이폰, 밑줄)과 매치
+-> uuid : uuid 형식의 문자열과 매치
+
 ```

@@ -15,7 +15,21 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from pages import views
+#from 폴더명(프로젝트 명)  import 해당 파일.py
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', views.index),
+    path('<int:age>/', views.age),
+    path('plus/<int:num1>/<int:num2>/', views.plus),
+    path('minus/<int:num1>/<int:num2>/', views.minus),
+    path('multiply/<int:num1>/<int:num2>/', views.multiply),
+    path('divide/<int:num1>/<int:num2>/', views.divide),
+    #path('<str:str>/<str:num1>/<str:num2>/', views.cal),
+    path('profile/<str:name>/<int:age>/', views.profile),
+    path('job/<str:name>/', views.job),
+    path('image/', views.image),
+    path('dtl/', views.dtl),
+    path('isyourbirth/', views.birth),
 ]

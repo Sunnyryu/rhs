@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+	  <h3>1.반복문</h3>
+	  {% for f in foods %}
+	  <p>{{ f }}</p>
+	  {% endfor %}
+	  <hr>
+	  {% for f in foods %}
+	      <p>{{ forloop.counter}}. {{f}}</p>
+	  {% endfor%}
+	  <hr>
+	  {% for user in empty_list %}
+	     <p>{{user }}입니다.</p>
+	     {% empty %}
+	     <!-- empty : for 태그 안에 아무것도 없을 때 empty 문의 설정 된 아래의 값이 출력됨-->
+	      <p> 현재 가입한 유저가 없습니다.</p>
+	  {% endfor %}
+	  <hr>
+	  <h3>2.조건문</h3>
+	  {% if '짜장' in foods %}
+	      <p>짜장면엔 단무지가 최고 </p>
+	  {% endif %}
+    <hr>
+    {% for f in foods %}
+       {{forloop.counter }}번째..
+       {% if forloop.first %}
+            <p> 짜장면 + 고춧가루</p>
+       {% else %}
+           <p> {{ f }}</p>
+       {% endif %}
+    {% endfor %}
+    <hr />
+    <h3>3. lorem ipsum</h3>
+    {% lorem %}
+    <hr>
+    {% lorem 3 w %}
+    <hr />
+    {% lorem 4 w random %}
+    <hr />
+    {% lorem 2 p %}
+    <hr />
+
+    <h3>4. lengh filter 활용</h3>
+    {% for message in messages %}
+        {% if message|length > 5 %}
+           <p>
+             글자가 너무 길어요.
+           </p>
+        {% else %}
+            <p>
+              {{ message}}, {{message|length}}
+            </p>
+        {% endif %}
+    {% endfor %}
+    <hr />
+
+    <h3>5. 글자수 제한(truncate)</h3>
+    <p>
+      {{my_sentence }}
+    </p>
+    <p>
+      {{ my_sentence|truncatewords:3}}  단어 위주로 제한
+      {{ my_sentence|truncatechars:5 }}  글자 단위로제한 <!-- chars = charecters-->
+    </p>
+    <hr />
+    <h3>6. 글자 관련 필터</h3>
+    <p>{{'abc' | length }}</p>
+    <p>{{'ABC' | length }}</p>
+    <p>{ {my_sentence|title }}</p>
+    <p>{{ foods|random }}</p>
+    <hr>
+    <h3>7. 연산</h3>
+    <p>{{4|add:6}}</p>
+    <hr>
+    <h3>8. 시간</h3>
+    <p>{{timenow}}</p><br>
+    {% now "DATETIME_FORMAT" %}<br>
+    {% now "SHORT_DATETIME_FORMAT" %}<br>
+    {% now "DATE_FORMAT" %}<br>
+    {% now "SHORT_DATA_FORMAT" %}<br>
+    <hr>
+    {% now "Y년 m월  d일 (D) h:i" %}<br>
+    {% now "Y" as current_year %}
+    Copyright {{ current_year }}
+    <hr>
+    {{ timenow|date:"SHORT_DATE_FORMAT" }} 
+    <hr>
+    <h3> 하이퍼 링크 </h3>
+    {{ 'google.com'|urlize }}
+  </body>
+</html>
