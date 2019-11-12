@@ -35,6 +35,13 @@ TEMPLATES 설정 안에
 DIRS : [os.path.join(BASE_DIR, "프로젝트 셋팅즈가 있는 폴더명","templates")]
 
 ex) 프로젝트 셋팅즈 폴더명/templates/base.html
+{%block (블럭이름) %} {% endblock %}을 html 파일 안 원하는 곳에 둠
 
-
+만들어진 base.html을 상속하려면
+html 상단에
+{% extends 'base.html' %}
+{% extends '상속하는 html' %}
+{% block (블럭이름) %}
+내용을 기술하면 됨.
+{% endblock %}
 ```

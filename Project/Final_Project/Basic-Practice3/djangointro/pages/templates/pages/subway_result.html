@@ -1,9 +1,14 @@
 <!DOCTYPE html>
+
+{% extends 'base.html' %}
+
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <title></title>
   </head>
+  {% block body %}
   <body>
 	  <p>이름:{{name}}</p>
 	  <p>날짜:{{date}}</p>
@@ -12,4 +17,5 @@
 	  <p>빵 종류:{{bread}}</p>
 	  <p>토핑 :{{check}}</p>
   </body>
+  {% endblock %}
 </html>
