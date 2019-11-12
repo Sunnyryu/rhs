@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+	  <h1>{{ count }} 개 구매함 </h1>
+	  <ul>
+	  {% for lotto in lotto_num %}
+	      <li>{{ lotto }}</li>
+	  {% endfor %}
+	  </ul>
+  </body>
+</html>

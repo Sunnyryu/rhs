@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+   {% extends 'base.html' %}
+   <!-- title을 상속받으려면 block title을 이용하고 endblock으로 남긴다.-->
+    {% block body %}
+    <form action="/pages/artii_result/" method="GET">
+		  <label for="text">텍스트 입력</label>
+		  <input type="text" name="text" id="text">
+		  <input type="submit">
+	  </form>
+    {% endblock %}
+  </body>
+</html>

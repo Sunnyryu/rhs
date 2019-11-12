@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>FORM</h1>
+
+    <h4>주문서를 작성하여 주십시오</h4>
+    <form action="/pages/subway_result/", method="POST">
+        {% csrf_token %}
+        <label for ="name">이름 </label>
+        <input type="name" placeholder="이름 작성" autofocus name="name"><br>
+        <label for ="date">날짜 </label>
+        <input type="date" name="date" autofocus><br>
+
+        <h3>1. 샌드위치 선택</h3>
+        <div>
+            <input type="radio" name="sand" value="에그마요">에그 마요<br>
+            <input type="radio" name="sand" value="이탈리아 비엔티">이탈리아 비엔티<br>
+            <input type="radio" name="sand" value="터키 베이컨 아보가토">터키 베이컨 아보가토
+        </div>
+        <hr>
+
+        <h3>2. 사이즈 선택</h3>
+        <input type="number" name="size" id="size" placeholder="사이즈를 작성해주세요" autofocus min="15" max="30" step=>
+        <hr>
+        <h3>3.빵</h3>
+        <div>
+                <select type="bread" name="bread">
+                <option value="호밀" name="bread">호밀</option>
+                <option value="바게트" name="bread">바게트</option>
+                <option value="일반" name="bread">일반</option>
+                </select>
+            </div>
+        <hr>
+        <h3>4. 야채/소스</h3>
+        <input type="checkbox" name="check" value="토마토">토마토<br>
+        <input type="checkbox" name="check" value="오이">오이<br>
+        <input type="checkbox" name="check" value="할라피뇨">할라피뇨<br>
+        <input type="checkbox" name="check" value="핫칠리">핫칠리<br>
+        <input type="checkbox" name="check" value="바베큐">바베큐<br>
+        <input type="checkbox" name="check" value="올리브">올리브<br>
+        <input type="submit" value="제출">
+    </form>
+
+</body>
+</html>
