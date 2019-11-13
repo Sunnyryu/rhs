@@ -29,6 +29,9 @@ Static File
 (templates와 비슷)
 
 템플릿 상속
+templates name space
+
+템플릿 상속(확장))
 
 앱 안에 있는 템플릿만 ....
 TEMPLATES 설정 안에
