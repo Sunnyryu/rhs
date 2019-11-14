@@ -21,7 +21,7 @@ url.py에 앱에 대한 path를 설정 해줍니다.
 
 해당 앱에 들에 urls.py를 만듬..
 
-from django.url import path
+from django.urls import path
 from . import views // .은 현재 위치 / views는 파일명 이라고 생각하면 아주 이지함
 ex)
 urlpatterns = [
@@ -92,6 +92,7 @@ sqlite db.sqlite3
 
 Board.objects.*** (objects는 db와 인터페이스를 연결해주는 아이!)
 ex)
+from orders.models import Subway
 board = Board()
 board.title = "first"
 board.content = "django !!!!"
@@ -100,10 +101,25 @@ ex2) board = Board(title="second", content="django")
 board.save() => db에 저장시켜주는 명령어 !
 ex3)board.save()가 필요없는 방법
 board = Board.objects.create(title="값", content="값")
-
+a = Board.objects.get(id=id)
 
 tip : import os
 os.system('clear') = > python console clear !
+
+나머지는 밑의 그림을 참조하기!!
+
+filter vs get(get은 1개만 filter는 queryset으로 2중 데이터도 받을 수 있음!! - filter는 1개라도 받으면 queryset임)
 ```
 ![board1](https://i.imgur.com/wsZfxqK.png)
 ![board2](https://i.imgur.com/9mJbnce.png)
+![newboard](https://i.imgur.com/hjBjtEu.png)
+![newboard2](https://i.imgur.com/8Zrh0z3.png)
+![newboard3](https://i.imgur.com/vE5JaHm.png)
+![newboard4](https://i.imgur.com/Du4pyvU.png)
+![newboard5](https://i.imgur.com/vyUeeUv.png)
+```
+3. python admin
+
+python manage.py createsuperuser => admin 계정 생성 방법
+id/ 이메일(생략 가능) / 비밀번호
+```
