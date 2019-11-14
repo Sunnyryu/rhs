@@ -1,0 +1,17 @@
+from django.db import models
+
+# Create your models here.
+class Board(models.Model):
+    title = models.CharField(max_length=10)
+    content = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True) # 생성한 시간 관리를 위해!
+    updated_at = models.DateTimeField(auto_now=True) # 수정한 시간을 자동으로 하기 위해 auto_now를 통해 등록을 해줌
+    
+    def __str__(self): #__ = 던더?
+        return f'{self.id} : {self.title}'
+    # 메소드이므로 .. 따로 마이그레이션을 안해줘도 되옵니다.! 
+    # 단 커맨드에는 저장이 안되었으므로 커맨드를 다시 실행시켜줘야함!
+        
+
+
+
