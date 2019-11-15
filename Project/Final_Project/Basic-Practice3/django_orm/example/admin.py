@@ -12,5 +12,5 @@ class ExampleAdmin(admin.ModelAdmin):
 
 
 
-admin.site.register(Example, ExampleAdmin) admin 사이트 등록!
+admin.site.register(Example, ExampleAdmin)  # admin 사이트 등록!
 
