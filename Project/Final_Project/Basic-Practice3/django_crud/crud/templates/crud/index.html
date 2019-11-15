@@ -7,7 +7,14 @@
   </head>
   <body>
 	  {% block body %}
-		<h1>Index Page</h1>
+		<h1>Article List</h1>
+		<ul>
+			{% for art in articles %}
+			<li><a href="/crud/{{ art.pk }}/article/">{{ art.title }}</a></li>
+			{{ art.content }}
+
+			{% endfor %}
+		</ul>
 	  {% endblock %}
   </body>
 </html>

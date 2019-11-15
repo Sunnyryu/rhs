@@ -1,0 +1,16 @@
+{% extends 'base.html' %}  
+<!DOCTYPE html>
+  <html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title></title>
+    </head>
+    <body>
+	    {% block body %}
+	    <h1> 제목 : {{ article.title }}</h1><br>
+	    <h4> 내용 :{{ article.content }}</h4><br>
+	    <a href="/crud/{{ article.id }}/update/">수정하기</a>
+	    <a href="/crud/{{ article.id }}/delete/">삭제하기</a>
+	    {% endblock %}
+    </body>
+  </html>

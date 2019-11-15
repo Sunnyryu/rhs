@@ -122,7 +122,7 @@ https://downloads.mariadb.org/mariadb/repositories/#distro=Ubuntu&distro_release
 
 sudo apt-get install software-properties-common
 sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
-sudo add-apt-repository 'deb [arch=amd64,arm64,ppc64el] http://ftp.kaist.ac.kr/mariadb/repo/10.4/ubuntu bionic main'
+sudo add-apt-repository 'deb [arch=amd64,arm64,ppc64el] https://downloads.mariadb.org/mariadb/repositories/#mirror=yongbokbionic main'
 
 그리고 난 후에 아래 내용을 터미널에 작성을 함
 sudo apt update
