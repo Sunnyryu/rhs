@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+  <!DOCTYPE html>
+  <html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title></title>
+    </head>
+    <body>
+
+	    {% block body %}
+	    <form action = '/game/detail/' method = 'POST'>
+		    {% csrf_token %}
+		    <h1>subway 주문 내역 </h1>
+		    <label for ="name">이름 </label>
+		    <input type="name" placeholder="이름 작성" autofocus name="name"><br>
+		    <label for ="address">주소</label>
+		    <input type="name" placeholder="주소 작성" autofocus name="address"><br>
+		    <label for ="phone">전화번호</label>
+		    <input type="text" id="phone" name="phone"  size="11" onkeypress="onlyNumber();" />
+		    <h3>메뉴 선택</h3>
+		    <div>
+			    <input type="radio" name="menu" value="에그 마요">에그 마요<br>
+			    <input type="radio" name="menu" value="햄">햄<br>
+			    <input type="radio" name="menu" value="로스트 치킨">로스트 치킨<br>
+			    <input type="radio" name="menu" value="쉬림프 아보카도">쉬림프 아보카도<br>
+			    <input type="radio" name="menu" value"=써브웨이 멜트">써브웨이 멜트<br>
+		    </div><br>
+		    <h3> 빵 선택</h3>
+		    <div>
+			    <select type="bread" name="bread">
+				    <option value="화이트" name="bread">화이트</option>
+				    <option value="위트" name="bread">위트</option>
+				    <option value="파마산 오레가노" name="bread">파마산 오레가노</option>
+			    </select>
+		    </div>
+		    <h3>소스</h3>
+		    <div>
+			    <input type="checkbox" name="sauce" value="마요네즈">마요네즈<br>
+			    <input type="checkbox" name="sauce" value="사우전 아일랜드">사우전 아일랜드<br>
+			    <input type="checkbox" name="sauce" value="바베큐">바베큐<br>
+			    <input type="checkbox" name="sauce" value="스윗 칠리">스윗 칠리<br>
+		    </div>
+		    <h3>음료수</h3>
+		    <div>
+			    <input type="radio" name="drink" value="사이다">사이다<br>
+			    <input type="radio" name="drink" value="콜라">콜라<br>
+			    <input type="radio" name="drink" value="아메리카노">아메리카노<br>
+		    </div>
+		    <input type="submit" value="주문하기">
+	    </form>
+
+
+	    {% endblock %}
+    </body>
+  </html>
