@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block body %}
+<h1>who is future question god?</h1>
+<h3>funny question list</h3>
+<ul>
+	{% for que in questions %}
+	<li><a href="{% url 'question:detail' que.id %}">{{que.question}}</a></li>
+	{% empty %}
+	<h2> 질문 등록이 필요하지 않을까?</h2>
+	{% endfor %}
+
+</ul>
+{% endblock %}

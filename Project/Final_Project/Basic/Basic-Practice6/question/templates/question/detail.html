@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block body %}
+<h2>{{ question.question }}</h2>
+<a href="{% url 'question:edit' question.id %}">수정하기</a>
+
+<form action = '{% url "question:delete" question.id %}' method='POST'>
+	{% csrf_token %}
+	<input type='submit' value="삭제하기">
+</form>
+<hr><br>
+<ol>
+	{% for sur in surveys %}
+	<li>
+		<form action="{% url 'question:vote' sur.id %}" method="POST">
+			{% csrf_token %}
+		{{ sur.survey }}[{{ sur.votes }}]
+		<a href="#" onclick="this.parentNode.submit()">투표하기</a>
+		<a href="{% url 'question:survey_edit' sur.id %}">수정하기</a>
+		</form>
+	</li>
+	{% empty %}
+	<h2>등록해 주세여.</h2>
+	{% endfor %}
+</ol>
+
+<hr><br>
+<form action='{% url "question:survey" question.id %}' method="post">
+	{% csrf_token %}
+	질문답변 <input type="text" name="survey">
+	<input type="submit">
+</form>
+{% endblock %}
