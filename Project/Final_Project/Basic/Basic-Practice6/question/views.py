@@ -58,8 +58,11 @@ def survey_edit(request, c_id):
 
     if request.method == "POST":
         text = request.POST.get('survey')
+        if text != survey.survey:
+            survey.votes = 0
         survey.survey = text
         survey.save()
+
         return redirect('question:detail', survey.question_id)
     else:
         context = {
