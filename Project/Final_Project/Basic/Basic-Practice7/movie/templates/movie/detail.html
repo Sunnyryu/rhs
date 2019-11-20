@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+	  {% block body %}
+	  <table>
+		  <thead>
+			  <tr>
+				  <th>영화이름</th>
+				  <th>영화 영문이름</th>
+				  <th>관람객 수</th>
+				  <th>개봉일</th>
+				  <th>장르</th>
+				  <th>관람연령</th>
+				  <th>평점</th>
+				  <th>포스트</th>
+				  <th>영화정보</th>
+			  </tr>
+		  </thead>
+		  <tbody>
+			  <tr>
+				  <td>{{ movie.title }}</td>
+				  <td>{{ movie.title_en }}</td>
+				  <td>{{ movie.audience }}</td>
+				  <td>{{ movie.open_date }}</td>
+				  <td>{{ movie.genre }}</td>
+				  <td>{{ movie.watch_grade }}</td>
+				  <td>{{ movie.score }}</td>
+				  <td><img src="{{ movie.post }}" width="300" height="300"></td>
+				  <td>{{ movie.description }}</td>
+			  </tr>
+		  </tbody>
+    </table>
+		  <hr><br>
+			  <a href= "{% url 'movie:movie' %}">영화목록</a>
+			  <a href= "{% url 'movie:edit' movie.id %}">정보수정</a>
+        <form action="{% url 'movie:delete' movie.id %}" method="POST">
+          {% csrf_token %}
+			  <a onclick="this.parentNode.submit()" href="#" >영화정보삭제</a>
+        </form>
+
+
+	  {% endblock %}
+  </body>
+</html>
