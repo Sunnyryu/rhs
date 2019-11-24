@@ -17,6 +17,8 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
+    path('', include('subway.urls')), # 서브웨이
+    path('prac/', include('prac_form.urls')), # 폼 연습용
+    path('article/', include('article.urls')), # 폼 설명
     path('admin/', admin.site.urls),
-    path('', include('subway.urls')),
 ]
