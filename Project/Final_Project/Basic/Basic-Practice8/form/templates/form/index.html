@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+	  <h2>index page</h2>
+	  <a href="{% url 'form:new' %}">new</a>
+	  <ul>
+		  {% for form in forms %}
+		  <li><form action ="{% url 'form:detail' form.id %}">{{form.title}}</form></li>
+		  {% endfor %}
+	  </ul>
+  </body>
+</html>
