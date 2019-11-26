@@ -1,6 +1,9 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from .forms import BoardForm
 from .models import Board
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
+from django.contrib.auth.decorators import login_required
+
 # Create your views here.
 def index(request):
     boards = Board.objects.all()
@@ -8,12 +11,17 @@ def index(request):
     context = { 'boards':boards}
     return render(request, 'boards/index.html', context)
 
+@login_required
 def new(request):
     
+    #if request.user.is_anonymous :
+    #    return redirect('boards:index')
     if request.method == "POST":
         form = BoardForm(request.POST)
         if form.is_valid():
-            board = form.save()
+            board = form.save(commit=False)
+            board.user = request.user
+            board.save()
             return redirect('boards:index')
     else:
         form = BoardForm()
@@ -32,6 +40,8 @@ def detail(request, b_id):
 def edit(request, b_id):
     board = get_object_or_404(Board, id=b_id)
     
+    if request.user != board.user:
+        return redirect('boards:index')
     if request.method == "POST":
         form = BoardForm(request.POST, instance=board)
         if form.is_valid():
@@ -46,6 +56,8 @@ def edit(request, b_id):
 
 def delete(request, b_id):
     board = get_object_or_404(Board, id=b_id)
+    if request.user != board.user:
+        return redirect('boards:index')
 
     if request.method == "POST":
         board.delete()

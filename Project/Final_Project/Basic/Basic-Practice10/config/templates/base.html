@@ -39,6 +39,19 @@
         </span>
     </div>
 </div>
+{% if user.is_authenticated %}
+<div class='container'>
+    <h3> 안녕하세요, {{ user.username}}</h3>
+    <a href="{% url 'accounts:edit' %}">정보 수정</a> 
+</div>
+<form action="{% url 'accounts:logout' %}" method="POST">
+    {% csrf_token %}
+    <a href="#" onclick='this.parentNode.submit()'>Logout</a><br>
+</form>
+{% else %}
+<a href="{% url 'accounts:signup' %}">Join</a><br>
+<a href="{% url 'accounts:login' %}">Login</a>
+{% endif %}
     {% block body %}
     {% endblock %}
 
