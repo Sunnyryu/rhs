@@ -1,8 +1,9 @@
 from django.shortcuts import render, redirect, get_object_or_404
-from .forms import BoardForm
-from .models import Board
+from .forms import BoardForm, CommentForm
+from .models import Board, Comment
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth.decorators import login_required
+from django.views.decorators.http import require_POST
 
 # Create your views here.
 def index(request):
@@ -32,8 +33,10 @@ def new(request):
 
 def detail(request, b_id):
     board = get_object_or_404(Board, id=b_id)
-
-    context = {'board':board}
+    comment_form = CommentForm()
+    comments = board.comment_set.all()
+    # 부모 객체에서 자식 객체를 사용할 때에는 _set을 사용하며, 
+    context = {'board':board, 'comment_form':comment_form, 'comments':comments}
 
     return render(request, 'boards/detail.html', context)
 
@@ -64,3 +67,28 @@ def delete(request, b_id):
         return redirect('boards:index')
     
     return redirect('boards:detail', b_id)# board_id 가능!
+@require_POST
+def new_comment(request, b_id):
+    form = CommentForm(request.POST)
+
+    if form.is_valid():
+        comment = form.save(commit=False)
+        comment.board_id = b_id 
+        comment.user = request.user #w 작성하고 있는 유저와 지금 보고 있는 유저가 같기에..
+        comment.save() 
+        return redirect('boards:detail', b_id)
+    else:
+        board = Board.objects.get(id=b_id)
+        comments = Board.comment_set.all()
+
+        context = { 'board':board, 'comments':comments, 'comment_form':form }
+        return render(request, 'boards:detail.html', context)
+
+@login_required
+@require_POST
+def del_comment(request, c_id):
+    comment = get_object_or_404(Comment, id=c_id)
+    board_id = comment.board_id
+    if request.user == comment.user:
+        comment.delete()
+    return redirect('boards:detail', board_id)

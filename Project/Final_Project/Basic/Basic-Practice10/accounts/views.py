@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from .forms import UserCustomChangeForm
-from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, PasswordChangeForm
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, PasswordChangeForm #, UserChangeForm
 from IPython import embed
 from django.contrib.auth import login as auth_login
 from django.contrib.auth import logout as auth_logout
@@ -82,3 +82,4 @@ def delete(request):
         request.user.delete()
         
     return redirect('boards:index')
+
