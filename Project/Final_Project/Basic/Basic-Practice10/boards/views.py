@@ -92,3 +92,16 @@ def del_comment(request, c_id):
     if request.user == comment.user:
         comment.delete()
     return redirect('boards:detail', board_id)
+
+@login_required 
+def like(request, b_id):
+    board = get_object_or_404(Board, pk=b_id)
+    
+    #if board.like_users.filter(id=request.user.id).exists():
+    if request.user in board.like_users.all():
+        board.like_users.remove(request.user)
+    else:
+        board.like_users.add(request.user)
+
+    
+    return redirect('boards:index')

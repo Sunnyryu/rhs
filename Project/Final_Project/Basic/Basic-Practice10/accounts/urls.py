@@ -9,5 +9,6 @@ urlpatterns = [
     path('edit/', views.edit, name="edit"),
     path('password/', views.chg_pwd, name='chg.pwd'),
     path('delete/', views.delete, name="delete"),
+    
 
 ]

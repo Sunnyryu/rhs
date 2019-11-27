@@ -82,4 +82,5 @@ def delete(request):
         request.user.delete()
         
     return redirect('boards:index')
+    
 
