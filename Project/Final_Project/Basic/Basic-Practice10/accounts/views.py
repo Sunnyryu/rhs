@@ -1,16 +1,19 @@
-from django.shortcuts import render, redirect
-from .forms import UserCustomChangeForm
-from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, PasswordChangeForm #, UserChangeForm
+from django.shortcuts import render, redirect, get_object_or_404
+from .forms import UserCustomChangeForm, UserCustomCreationForm
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm, PasswordChangeForm, UserChangeForm
 from IPython import embed
 from django.contrib.auth import login as auth_login
 from django.contrib.auth import logout as auth_logout
 from django.contrib.auth import update_session_auth_hash 
+from django.contrib.auth import get_user_model
+from django.contrib.auth.decorators import login_required
 # Create your views here.
 def signup(request):
     if request.user.is_authenticated:
         return redirect('boards:index')
     if request.method == "POST":
-        form = UserCreationForm(request.POST)
+        # form = UserCreationForm(request.POST)
+        form = UserCustomCreationForm(request.POST)
         #embed()
         if form.is_valid():
             user = form.save()
@@ -18,7 +21,8 @@ def signup(request):
             #user = form.save()
             return redirect('boards:index')
     else:
-        form = UserCreationForm()
+        # form = UserCreationForm()
+        form = UserCustomCreationForm()
         #embed()
 
     
@@ -39,7 +43,7 @@ def login(request):
         form = AuthenticationForm()
     
     context = { 'form':form, 'label':"로그인"}
-    return render(request, 'accounts/auth_form.html', context)
+    return render(request, 'accounts/login.html', context)
     #return render(request, 'accounts/login.html', context)
 
 def logout(request):
@@ -82,6 +86,19 @@ def delete(request):
         request.user.delete()
         
     return redirect('boards:index')
-    
 
- 
+@login_required()
+def follow(request, u_id):
+    person = get_object_or_404(get_user_model(), id=u_id)
+
+    if person.followers.filter(id=request.user.id).exists():
+        person.followers.remove(request.user)
+
+    else:
+        person.followers.add(request.user)
+
+    return redirect('boards:index')
+def profile(request, name):
+    person = get_object_or_404(get_user_model(), username=name)
+    context = { 'person':person }
+    return render(request, 'accounts/profile.html', context)

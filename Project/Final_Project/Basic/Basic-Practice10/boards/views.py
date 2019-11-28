@@ -2,14 +2,24 @@ from django.shortcuts import render, redirect, get_object_or_404
 from .forms import BoardForm, CommentForm
 from .models import Board, Comment
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
+from django.contrib.auth import get_user_model
 from django.contrib.auth.decorators import login_required
 from django.views.decorators.http import require_POST
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 
 # Create your views here.
 def index(request):
     boards = Board.objects.all()
-
-    context = { 'boards':boards}
+    paging = Paginator(boards, 5)
+    page = request.GET.get('page')
+    try:
+        page_list = paging.get_page(page)
+    except PageNotAnInteger:
+        page_list = paginator.page(1)
+    except EmptyPage:
+        page_list = paginator.page(paginator.num_pages)
+        
+    context = { 'boards':page_list}
     return render(request, 'boards/index.html', context)
 
 @login_required
@@ -35,8 +45,9 @@ def detail(request, b_id):
     board = get_object_or_404(Board, id=b_id)
     comment_form = CommentForm()
     comments = board.comment_set.all()
+    person = get_object_or_404(get_user_model(),id=board.user_id)
     # 부모 객체에서 자식 객체를 사용할 때에는 _set을 사용하며, 
-    context = {'board':board, 'comment_form':comment_form, 'comments':comments}
+    context = {'board':board, 'comment_form':comment_form, 'comments':comments, 'person':person,}
 
     return render(request, 'boards/detail.html', context)
 
@@ -105,3 +116,9 @@ def like(request, b_id):
 
     
     return redirect('boards:index')
+def search(request):
+    text = request.GET.get('search')
+    
+    results = Board.objects.filter(title__contains=text)
+    context = {'results':results}
+    return render(request, 'boards/search.html', context)

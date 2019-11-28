@@ -12,6 +12,8 @@
     </tr>
 </table>
 <hr>
+{% include "boards/_follow.html" %}
+<hr>
 <h3>댓글</h3>
 {% for comment in comments %}
 <h4>{{comment.user}}:</h4>

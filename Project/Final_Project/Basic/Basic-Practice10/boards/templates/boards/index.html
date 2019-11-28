@@ -3,9 +3,12 @@
 <h1>hello</h1>
 <ul>
     {% for board in boards %}
-    <li><a href="{% url 'boards:detail' board.id %}">{{ board.title }}</a>{{board.id}}</li>
+    <li><a href="{% url 'boards:detail' board.id %}">{{ board.title }}</a>{{board.id}}<br>프로필:<a href="{% url 'accounts:profile' board.user %}">
+        {{ board.user }} </a></li>
+
     {% include 'boards/_board.html' %}
     {% endfor %}
+    {% include 'boards/_page.html' %}
 
 </ul>
 
