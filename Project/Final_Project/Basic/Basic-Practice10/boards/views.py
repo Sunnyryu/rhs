@@ -7,6 +7,7 @@ from django.contrib.auth.decorators import login_required
 from django.views.decorators.http import require_POST
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 
+
 # Create your views here.
 def index(request):
     boards = Board.objects.all()
@@ -18,7 +19,7 @@ def index(request):
         page_list = paginator.page(1)
     except EmptyPage:
         page_list = paginator.page(paginator.num_pages)
-        
+
     context = { 'boards':page_list}
     return render(request, 'boards/index.html', context)
 
