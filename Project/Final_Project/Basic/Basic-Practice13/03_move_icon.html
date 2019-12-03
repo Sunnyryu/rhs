@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    .bg {
+      background-color: skyblue; 
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      display: flex;
+    }
+  </style>
+</head>
+<body>
+  <div class="bg"> 
+    <img id="movcon" src="https://i.ytimg.com/vi/4gi8fSo7Ng0/maxresdefault.jpg">
+    
+  </div>
+  <script>
+    document.addEventListener('keydown', function(event){
+      if (event.code === 'Space'){
+        console.log('눌렀다 스페이스바')
+      }
+      else if (event.code === 'ArrowUp'){
+        console.log(' 올렸다 위쪽 키 ')  
+      }
+      else if (event.code === 'ArrowDown'){
+        console.log('내렸다 아래 키')
+      }
+      else if (event.code === 'ArrowLeft'){
+        console.log('좌로 눌렀다 왼쪽 키')
+      }
+      else if (event.code === 'ArrowRight'){
+        console.log('우로 눌렀다 오른쪽 키')
+      }
+      else{
+        console.log('무언가를 한 거 같은데?')
+      }
+    })
+
+    const movcon = document.querySelector('#movcon')
+    movcon.style.position = 'absolute'
+    //window.innerWidth 브라우저 창의 너비
+    //window.innerHeight 브라우저 창의 높이 
+
+    movcon.addEventListener('mouseover', function(){
+      const newWidth = window.innerWidth * Math.random() - window.innerWidth
+      const newHeight = window.innerHeight * Math.random() - window.innerHeight
+
+      movcon.style.marginLeft = newWidth +'px';
+      movcon.style.marginTop = newHeight + 'px';
+    })
+
+  </script>
+</body>
+</html>

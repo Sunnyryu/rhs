@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <div id="my"></div>
+  <button id="this-button">이것을 누르면?</button>
+
+  <script>
+    // 무엇은? EventTarget! 
+    const button = document.querySelector('#this-button')
+    // 언제!? 첫 번째 인자
+    button.addEventListener('click', function(e){
+      console.log(e)
+      // 3. 으뜨케?
+      const div = document.querySelector('#my')
+      div.innerHTML = '<h1>뚜잇!</h1>'
+    })
+    
+  </script>
+</body>
+</html>
