@@ -1,4 +1,5 @@
 from django.shortcuts import render, redirect, get_object_or_404
+from django.http import JsonResponse, HttpResponseBadRequest
 from .forms import BoardForm, CommentForm
 from .models import Board, Comment
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
@@ -109,14 +110,22 @@ def del_comment(request, c_id):
 def like(request, b_id):
     board = get_object_or_404(Board, pk=b_id)
     
-    #if board.like_users.filter(id=request.user.id).exists():
-    if request.user in board.like_users.all():
-        board.like_users.remove(request.user)
-    else:
-        board.like_users.add(request.user)
+    if request.is_ajax():
 
+        #if board.like_users.filter(id=request.user.id).exists():
+        if request.user in board.like_users.all():
+            board.like_users.remove(request.user)
+            liked = False
+        else:
+            board.like_users.add(request.user)
+            liked = True
+
+        context = {'liked':liked, 'count':board.like_users.count() }
+        return JsonResponse(context)
+    else:
+        return HttpResponseBadRequest
     
-    return redirect('boards:index')
+    #return redirect('boards:index')
 def search(request):
     text = request.GET.get('search')
     

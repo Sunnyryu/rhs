@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+ <script>
+  window.onload = function () {
+
+    var chart = new CanvasJS.Chart("chartContainer", {
+      title: {
+        text: "Trend"
+      },
+      axisX: {
+        valueFormatString: "YYYY-MM-DD"
+      },
+      axisY2: {
+        title: "값",
+        prefix: "$",
+        suffix: "K"
+      },
+      toolTip: {
+        shared: true
+      },
+      legend: {
+        cursor: "pointer",
+        verticalAlign: "top",
+        horizontalAlign: "center",
+        dockInsidePlotArea: true,
+        itemclick: toogleDataSeries
+      },
+      data: [{
+        type: "line",
+        axisYType: "secondary",
+        name: "{{word1}}",
+        showInLegend: true,
+        markerSize: 0,
+        yValueFormatString: "$#,###k",
+        dataPoints: [
+          {{ ab }}
+        ]
+      },
+      {
+        type: "line",
+        axisYType: "secondary",
+        name: "{{word2}}",
+        showInLegend: true,
+        markerSize: 0,
+        yValueFormatString: "$#,###k",
+        dataPoints: [
+          {{ cd }}
+        ]
+      },
+      
+      ]
+    });
+    chart.render();
+
+    function toogleDataSeries(e) {
+      if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+        e.dataSeries.visible = false;
+      } else {
+        e.dataSeries.visible = true;
+      }
+      chart.render();
+    }
+
+  }
+</script>
+</head>
+
+<body>
+  {{ab}}
+  {{cd}}
+
+  
+<div id="chartContainer" style="height: 370px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+  integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+  integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+  integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html>
