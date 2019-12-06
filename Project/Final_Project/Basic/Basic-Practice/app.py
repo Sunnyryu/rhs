@@ -106,10 +106,14 @@ def lotto_num():
 def lotto_get():
     return render_template('lotto_get.html')
 
+@app.route('/data')
+def data():
+    return render_template('data.html')
+
 
 
 
 
 
 if __name__ =='__main__':
-    app.run(debug=True, port=8000)
+    app.run(debug=True, port=8003)

@@ -58,12 +58,25 @@
       chart.render();
       // 적용된 것을 랜더 시킴
       function onClick(e) {
+        $.ajax({
+          url:"{% url 'anal' %}",
+          type: 'POST',
+          headers: {'X-CSRFToken': '{{ csrf_token }}'},
+          data: {"value":e.dataSeries.name, "date":e.dataPoint.label},
+          success:function(data){
+            self.close();
+            //console.log('1');
+          },
+          error:function(jqXHR, textStatus, errorThrown){
+            self.close();
+          }
         
-        //window.open(e.dataPoint.link, '_blank');
+        });
+        window.open(e.dataPoint.link, '_blank');
         //console.log(e.dataPoint.label);
         //console.log(e.dataSeries.name);
-        //window.open('/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name, '_blank')
-        window.location.href = '/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name;
+          //window.open('/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name, '_blank')
+          //window.location.href = '/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name;
 
         }
       

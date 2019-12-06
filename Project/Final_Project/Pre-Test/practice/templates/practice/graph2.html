@@ -58,13 +58,17 @@
       chart.render();
       // 적용된 것을 랜더 시킴
       function onClick(e) {
-        
-        //window.open(e.dataPoint.link, '_blank');
-        //console.log(e.dataPoint.label);
-        //console.log(e.dataSeries.name);
-        //window.open('/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name, '_blank')
-        window.location.href = '/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name;
-
+          window.open(e.dataPoint.link, '_blank');
+          console.log(e.dataPoint.label);
+          console.log(e.dataPoint.y);
+          axios.get(e.dataPoint.link, { label: e.dataPoint.label, y: e.dataPoint.y})
+          .then(function(response){
+          console.log(response)
+          
+          })
+          .catch(err => {
+          console.log(err)
+          })
         }
       
 
@@ -81,7 +85,6 @@
 
     }
   </script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 
 <body>
