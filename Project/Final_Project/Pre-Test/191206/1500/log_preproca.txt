@@ -1,0 +1,24 @@
+1/48	./191206/1500/E_K_01/G_04.txt	unknown
+2/48	./191206/1500/E_K_01/N_13.txt	unknown
+7/48	./191206/1500/E_K_01/G_07.txt	unknown
+9/48	./191206/1500/E_K_01/N_03.txt	unknown
+10/48	./191206/1500/E_K_01/G_18.txt	unknown
+15/48	./191206/1500/E_K_01/N_29.txt	unknown
+16/48	./191206/1500/E_K_01/G_11.txt	unknown
+17/48	./191206/1500/E_K_01/G_14.txt	unknown
+25/48	./191206/1500/E_K_01/G_15.txt	unknown
+27/48	./191206/1500/E_K_01/G_08.txt	unknown
+28/48	./191206/1500/E_K_01/N_08.txt	unknown
+29/48	./191206/1500/E_K_01/G_03.txt	unknown
+32/48	./191206/1500/E_K_01/G_20.txt	unknown
+34/48	./191206/1500/E_K_01/G_09.txt	unknown
+35/48	./191206/1500/E_K_01/G_10.txt	unknown
+36/48	./191206/1500/E_K_01/N_24.txt	unknown
+41/48	./191206/1500/E_K_01/G_21.txt	unknown
+42/48	./191206/1500/E_K_01/N_17.txt	unknown
+43/48	./191206/1500/E_K_01/G_16.txt	unknown
+48/48	./191206/1500/E_K_01/G_19.txt	unknown
+Useless : 1 (2.1%)
+Unknown : 20 (41.7%)
+Hit : 27 (56.2%)
+걸린 시간: 0m 02s

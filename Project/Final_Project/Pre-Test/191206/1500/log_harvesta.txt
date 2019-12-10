@@ -1,0 +1,8 @@
+4	https://economictimes.indiatimes.com/industry/auto/hero-motocorp-sales-rise-marginally-in-november/articleshow/50000438.cms	HTTPSConnectionPool(host='economictimes.indiatimes.com', port=443): Read timed out. (read timeout=10)
+
+9	http://www.domin.co.kr/news/articleView.html?idxno=1097068	HTTPConnectionPool(host='www.domin.co.kr', port=80): Read timed out. (read timeout=10)
+
+46	http://stoo.asiae.co.kr/news/naver_view.htm?idxno=2016013022242715736	'NoneType' object has no attribute 'body'
+
+수집한 문서 개수: 51개
+걸린 시간: 2m 45s

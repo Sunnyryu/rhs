@@ -1,0 +1,4 @@
+34	http://www.dtnews24.com/news/article.html?no=445012	'NoneType' object has no attribute 'body'
+
+수집한 문서 개수: 42개
+걸린 시간: 1m 37s

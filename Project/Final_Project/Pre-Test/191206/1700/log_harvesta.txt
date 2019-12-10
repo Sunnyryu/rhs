@@ -1,0 +1,4 @@
+65	https://cp.news.search.daum.net/p/63350020	'NoneType' object has no attribute 'body'
+
+수집한 문서 개수: 90개
+걸린 시간: 3m 12s

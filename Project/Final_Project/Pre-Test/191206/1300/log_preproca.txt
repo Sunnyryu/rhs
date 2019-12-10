@@ -1,0 +1,19 @@
+10/59	./191206/1300/E_K_01/G_30.txt	unknown
+12/59	./191206/1300/E_K_01/N_02.txt	unknown
+14/59	./191206/1300/E_K_01/N_10.txt	unknown
+15/59	./191206/1300/E_K_01/G_13.txt	unknown
+16/59	./191206/1300/E_K_01/G_27.txt	unknown
+20/59	./191206/1300/E_K_01/G_25.txt	unknown
+22/59	./191206/1300/E_K_01/G_14.txt	unknown
+25/59	./191206/1300/E_K_01/G_28.txt	unknown
+29/59	./191206/1300/E_K_01/N_06.txt	unknown
+31/59	./191206/1300/E_K_01/N_11.txt	unknown
+32/59	./191206/1300/E_K_01/N_25.txt	unknown
+34/59	./191206/1300/E_K_01/N_22.txt	unknown
+47/59	./191206/1300/E_K_01/N_12.txt	unknown
+53/59	./191206/1300/E_K_01/G_16.txt	unknown
+56/59	./191206/1300/E_K_01/G_26.txt	unknown
+Useless : 4 (6.8%)
+Unknown : 15 (25.4%)
+Hit : 40 (67.8%)
+걸린 시간: 0m 09s

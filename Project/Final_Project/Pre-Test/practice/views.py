@@ -1,11 +1,15 @@
 from django.shortcuts import render
 from pytrends.request import TrendReq
-from datetime import datetime
-from django.http import JsonResponse
+from datetime import datetime, time, timedelta
+from .harvesta import harvesta
+from .preproca import preproca
+#from django.http import JsonResponse
 import pandas as pd
 import json
 import requests
-from dateutil.parser import parse
+import sys
+import subprocess
+#from dateutil.parser import parse
 
 
 # Create your views here.
@@ -37,15 +41,14 @@ def graph(request):
     #value5 = value.to_json(force_ascii=False, orient='values', date_format='iso')
     #for value5 range in (0,5):
     abc = json.loads(value2)
-    
+
     ab = []
     cd = []
-    ef = []
     for a in abc['data']:
         k = {}
         z = {}
         u = {}
-        
+
         print(type(a[0]))
         print(a[0])
         h = datetime.strptime(a[0],'%Y-%m-%dT%H:%M:%SZ')
@@ -62,11 +65,11 @@ def graph(request):
         cd.append(z)
         #u['y'] = a[1]
         #ef.append(u)
-    
 
-    
+
+
     #value7 = value.to_json(force_ascii=False, orient='table')
-    
+
     #value2 = value.to_csv(encoding="utf-8")
     #value2 = value.to_json(force_ascii=False)
     #value2 = value.to_json(force_ascii=False, orient='records')
@@ -75,7 +78,21 @@ def graph(request):
 def anal(request):
     date = request.GET.get('date')
     keyword = request.GET.get('keyword')
-    print(date) 
+    datebf7 = datetime.strptime(date, "%Y-%m-%d %H:%M:%S")
+    datebf8 = datebf7 + timedelta(days=-7)
+    datebf8 = datebf8.strftime('%Y%m%d %H:%M:%S')
+    date = datebf7.strftime('%Y%m%d %H:%M:%S')
+    date = date[0:8]
+    datebf7 = datebf8[0:8]
+    startpath = './'
+    print(datebf7)
+    print(date)
     print(keyword)
-    print(type(date))
+    keyword_source_dic = {'ENTERPRISE':[keyword]}
+    outPath = harvesta.harvest(startpath, datebf7, date, keyword_source_dic)
+    preproca.preproc(outPath)
+    p = subprocess.Popen(['./practice/analyzas/analyza.py',outPath])
+    p.wait()
+    print("finish")
+
     return render(request, 'practice/anal.html')

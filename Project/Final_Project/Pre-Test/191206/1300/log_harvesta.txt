@@ -1,0 +1,4 @@
+25	http://www.mt.co.kr/view/mtview.php?type=1&no=2017090312582963680&outlink=1	'NoneType' object has no attribute 'body'
+
+수집한 문서 개수: 60개
+걸린 시간: 2m 11s

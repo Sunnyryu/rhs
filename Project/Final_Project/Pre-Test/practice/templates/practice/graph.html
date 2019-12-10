@@ -19,14 +19,14 @@
           labelFontStyle: "normal",
           labelAngle: null,
           interlacedColor: "#FFF0FB",
-          
+
         },
         axisY: {
           includeZero: false,
           title: "트렌드 검색 수치",
           maximum: 100,
           gridColor: "orange",
-          
+
         },
         toolTip: {
           shared: "true"
@@ -42,10 +42,11 @@
           showInLegend: true, // 그래프를 보여줌
           yValueFormatString: "",
           name: "{{word1}}",
-          dataPoints: 
+          dataPoints:
             {{ ab }}
-          
+
         },
+        
         {
           type: "spline",
           showInLegend: true, // 그래프를 보여줌
@@ -58,7 +59,7 @@
       chart.render();
       // 적용된 것을 랜더 시킴
       function onClick(e) {
-        
+
         //window.open(e.dataPoint.link, '_blank');
         //console.log(e.dataPoint.label);
         //console.log(e.dataSeries.name);
@@ -66,7 +67,7 @@
         window.location.href = '/anal?date='+e.dataPoint.label+'&'+'keyword='+e.dataSeries.name;
 
         }
-      
+
 
       function toggleDataSeries(e) {
         if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
@@ -74,7 +75,7 @@
           // 눌르면 어둡게 하면 .. 차트 사라짐
         } else {
           e.dataSeries.visible = true;
-          // 다시 밣히면 차트 보임 
+          // 다시 밣히면 차트 보임
         }
         chart.render();
       }
@@ -85,11 +86,11 @@
 </head>
 
 <body>
-  
-  
+
+
   {% endautoescape %}
 
-  
+
 <div id="chartContainer" style="height: 400px; width: 2200px"></div>
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
