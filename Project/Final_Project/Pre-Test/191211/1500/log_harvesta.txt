@@ -1,0 +1,2 @@
+3	http://www.hani.co.kr/arti/economy/economy_general/702239.html	HTTPConnectionPool(host='www.hani.co.kr', port=80): Read timed out. (read timeout=10)
+

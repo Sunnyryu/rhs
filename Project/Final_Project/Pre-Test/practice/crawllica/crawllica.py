@@ -13,8 +13,8 @@ import subprocess
     #--------------------------------------------------------------------------
     # naverSearchList = naverfuncs.get_keywords(10)
     # daumSearchList = daumfuncs.getKeywords()
-    enterpriseList = ['삼성전자','현대자동차']
-    keywordsource_dic = {'ENTERPRISE':enterpriseList}
+enterpriseList = ['삼성전자','현대자동차']
+keywordsource_dic = {'ENTERPRISE':enterpriseList}
 
 
 

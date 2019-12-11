@@ -12,6 +12,20 @@
   <style>
     .abc { caption-side: top;
     }
+    table {
+    width: 100%;
+    border: 1px solid #444444;
+    border-collapse: collapse;
+    font-size: 1.5em;
+    text-align: center;
+    margin-left: 10px; 
+    }
+    
+    th, td {
+    border: 1px solid #444444;
+    padding: 10px;
+  }
+    
   </style>
     {% autoescape off %}
   <script>
@@ -103,13 +117,14 @@
   <nav class="navbar navbar-light bg-primary">
     <a class="navbar-brand text-white" href="{% url 'tot:index' %}">trend of tracer</a>
   </nav>
-  <div id="chartContainer" style="height: 400px; width: 2200px; border:1px solid lightgray; margin-top:20px; margin-left:20px; margin-bottom:20px" ></div>
+  <div id="chartContainer" style="height: 400px; width: 100%; border:1px solid lightgray; margin-top:20px; margin-left:20px; margin-bottom:20px" ></div>
   <hr>
     {% if word2 %}
     <div class="row">
     <div class="col-md-6">
     <table>
-    <caption class='abc'>{{word1}}의 연관검색어 </caption><br />
+    <caption class='abc'><a href="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}&cd={{word1}}&date={{date}}"
+        onclick="this.parentNode.submit()">{{word1}}의 연관검색어</a></caption> <br />
     <thead>
       <tr>
         <th>연관 검색어</th>
@@ -129,7 +144,10 @@
 </div>
 <div class="col-md-6">
     <table>
-    <caption class='abc'>{{word2}}의 연관검색어 </caption><br />
+      <form action="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}" method="GET">
+        <caption class='abc'><a href="{% url 'tot:search' %}?word1={{ word1 }}&word2={{ word2 }}&cd={{word2}}&date={{date}}"
+            onclick="this.parentNode.submit()">{{word2}}의 연관검색어</a></caption> <br />
+      </form>
     <thead>
       <tr>
         <th>연관 검색어</th>
@@ -150,7 +168,9 @@
   </div>
     {% else %}
     <table>
-    <caption class='abc'>{{word1}}의 연관검색어 </caption><br />
+      <form action="{% url 'tot:search' %}?word1={{ word1 }}" method="GET">
+        <caption class='abc'><a href="{% url 'tot:search' %}?word1={{ word1 }}&cd={{word1}}&date={{date}}">{{word1}}의 연관검색어</a></caption> <br />
+      </form>
     <thead>
       <tr>
         <th>연관 검색어</th>
@@ -171,6 +191,14 @@
   
   <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-  
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+  </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+  </script>
 </body>
 </html>

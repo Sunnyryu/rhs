@@ -1,0 +1,545 @@
+롯데가 분쟁에 가신 그룹도 전면에 나서···내분 심화
+<body>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId            : '2819874668152275',
+          autoLogAppEvents : true,
+          xfbml            : true,
+          version          : 'v3.3'
+        });
+
+        FB.AppEvents.logPageView();
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/ko_KR/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="wrap">
+<!-- ***Header*** -->
+<div id="header">
+<div class="top_wrap">
+<div class="top_area">
+<dl class="family_site">
+<dd>
+<a href="http://www.khan.co.kr" target="_blank" title="경향신문">경향신문</a>
+<span>I</span>
+<a href="http://sports.khan.co.kr" target="_blank" title="스포츠경향">스포츠경향</a>
+<span>I</span>
+<a href="http://weekly.khan.co.kr" target="_blank" title="주간경향">주간경향</a>
+<span>I</span>
+<a href="http://lady.khan.co.kr" target="_blank" title="레이디경향">레이디경향</a>
+</dd>
+</dl>
+<dl class="membership">
+<dd id="logArea">
+<a class="log" href="https://member.khan.co.kr/login.html?url=http%3A%2F%2Fbiz.khan.co.kr" title="로그인">로그인</a>
+<span>I</span>
+<a href="http://epaper.khan.co.kr/">지면보기</a>
+<span>I</span>
+<a href="http://smile.khan.co.kr/gudoc/gudoc_input_step3.html?media_cd=201" target="_blank">구독신청</a>
+</dd>
+</dl>
+<script>
+				// 로그인 체크
+				var khanUid = $.trim($.cookie('khan_id'));
+				var $logArea = $('#logArea');
+
+				var return_url = encodeURIComponent(thisHref);
+				var log_url = 'login.html';
+				var title = '로그인';
+
+				if (khanUid != '')
+				{
+					log_url = 'login/logout.html';
+					title = '로그아웃';
+				}
+
+				$logArea.find('a:eq(0)').text(title).prop({
+					'href': 'https://member.khan.co.kr/'+ log_url +'?url='+ encodeURIComponent(thisHref),
+					'title': title
+				});
+				</script>
+</div>
+</div>
+<!-- 메뉴박스 -->
+<div id="menuBox">
+<div class="menuBox_wrap">
+<div class="open_menu">
+<h3 class="hide">전체 메뉴</h3>
+<ul class="mn_news">
+<li>
+<a href="http://biz.khan.co.kr/khan_art_list.html">종합</a>
+<span class="arw"></span>
+<ul class="sub_mn" style="display:none;">
+<li><a href="http://biz.khan.co.kr/khan_art_list.html">최신기사</a></li>
+<li><a href="http://biz.khan.co.kr/best_art_list.html">많이 본 기사</a></li>
+<li><a href="http://biz.khan.co.kr/series_list.html">기획·연재</a></li>
+</ul>
+</li>
+<li>
+<a href="http://biz.khan.co.kr/khan_art_list.html?category=market">이코노미</a>
+<span class="arw"></span>
+<ul class="sub_mn" style="display:none;">
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=market">최신기사</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=economy">경제일반</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=finance">금융·재테크</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=industry">산업·통상</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=company">기업</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=job">일자리</a></li>
+</ul>
+</li>
+<li>
+<a href="http://biz.khan.co.kr/khan_art_list.html?category=life">라이프</a>
+<span class="arw"></span>
+<ul class="sub_mn" style="display:none;">
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=life">최신기사</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=consumer">생활경제</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=people">사람들</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=travel">트래블</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=style">스타일</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=health">건강·의학</a></li>
+</ul>
+</li>
+<li>
+<a href="http://biz.khan.co.kr/khan_art_list.html?category=car">자동차</a>
+<span class="arw"></span>
+<ul class="sub_mn" style="display:none;">
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=car">최신기사</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=review">시승</a></li>
+<li><a href="http://cartok.khan.co.kr/" target="_blank">신차정보</a></li>
+</ul>
+</li>
+<li>
+<a href="http://biz.khan.co.kr/khan_art_list.html?category=tech">IT·과학</a>
+<span class="arw"></span>
+<ul class="sub_mn" style="display:none;">
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=tech">최신기사</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=it">IT비즈</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=mobile">모바일</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=pc">PC·기기</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=game">게임</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=science">과학</a></li>
+</ul>
+</li>
+<li>
+<a href="http://biz.khan.co.kr/khan_art_list.html?category=realty">부동산</a>
+<span class="arw"></span>
+<ul class="sub_mn" style="display:none;">
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=realty">최신기사</a></li>
+<li><a href="http://biz.khan.co.kr/kbland.html?category=price">매물·시세</a></li>
+<li><a href="http://biz.khan.co.kr/kbland.html?category=statistics">분양</a></li>
+</ul>
+</li>
+<li>
+<a href="http://biz.khan.co.kr/opinion.html">오피니언</a>
+<span class="arw"></span>
+<ul class="sub_mn" style="display:none;">
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=opinion">최신기사</a></li>
+</ul>
+</li>
+<li>
+<a href="http://biz.khan.co.kr/photo_collection.html" target="_blank">포토</a>
+</li>
+<li><span class="line"></span></li>
+<li>
+<a href="http://www.khan.co.kr/help/mobile/index.html" target="_blank">모바일 서비스</a>
+</li>
+<li class="service">
+<a href="javascript:;">독자 서비스</a>
+<span class="arw"></span>
+<ul class="sub_mn">
+<li><a class="jebo" href="http://jebo.khan.co.kr/" target="_blank">기사제보</a></li>
+<li><a href="http://smile.khan.co.kr/gudoc/gudoc_input_step3.html?media_cd=201" target="_blank">구독신청</a></li>
+<li><a href="http://epaper.khan.co.kr/" target="_blank">지면보기</a></li>
+<li><a href="http://www.khan.co.kr/help/help_rss.html" target="_blank">RSS</a></li>
+<li><a href="http://news.khan.co.kr/kh_notice/" target="_blank">알림</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.khan.co.kr/help/sitemap.html" target="_blank">사이트맵</a>
+</li>
+</ul>
+<div class="bg_sub"></div>
+</div>
+<button class="btn_mb_close" onclick="menubox_onoff();" type="button">닫기</button>
+</div>
+</div>
+<!-- // 메뉴박스 -->
+<!-- 로고영역 -->
+<div class="logo_wrap">
+<div class="sec_title">
+<a href="http://biz.khan.co.kr/khan_art_list.html?category=market">이코노미</a>
+</div>
+<div class="sub_logo">
+<h2>
+<a href="http://biz.khan.co.kr/" title="경향비즈 홈으로 이동"><img alt="경향비즈" src="http://img.khan.co.kr/spko/biznlife/main_2016/biz_logo.png"/></a>
+</h2>
+</div>
+<!-- 검색 -->
+<!-- <div class="search_btn" id="searchBox"> -->
+<div class="search_btn">
+<fieldset class="bbs_srch">
+<legend>검색</legend>
+<form action="http://search.khan.co.kr/search.html" method="get" name="search">
+<input style="display: none;" type="text"/>
+<input name="sect" type="hidden" value="1"/>
+<input name="path" type="hidden" value="1"/>
+<input accesskey="s" class="keyword" name="q" onkeydown="if (event.keyCode == 13) { search_enter(this); return false; }" style="display:none;" title="검색어" type="text"/>
+<img alt="검색" onclick="search_click(this);" src="http://img.khan.co.kr/spko/main_2015/btn_search.gif">
+</img></form>
+</fieldset>
+</div>
+<!-- // 검색 -->
+</div>
+<!-- // 로고영역 -->
+<!-- 네비 -->
+<div class="gnb" id="topMenuArea">
+<div class="bizNavi">
+<ul class="navi_menu">
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=market">최신기사</a></li>
+<li class="on"><a href="http://biz.khan.co.kr/khan_art_list.html?category=economy">경제일반</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=finance">금융·재테크</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=industry">산업·통상</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=company">기업</a></li>
+<li><a href="http://biz.khan.co.kr/khan_art_list.html?category=job">일자리</a></li>
+</ul>
+<div class="btn_all">
+<a href="javascript:;" onclick="menubox_onoff();"><img alt="전체" src="http://img.khan.co.kr/spko/biznlife/main_2016/btn_all_menu.png"/></a>
+</div>
+</div>
+</div>
+<!-- // 네비 -->
+</div>
+<!-- // ***Header*** -->
+<!-- 고정바 -->
+<div class="fx_topbar_wrap" id="fixedTopbar">
+<div class="fx_topbar">
+<div class="btn_all">
+<a href="javascript:;" onclick="menubox_onoff();"><span class="all_txt">전체</span></a>
+</div>
+<div class="logo"><a href="http://biz.khan.co.kr/" title="경향비즈 홈으로 이동"><img alt="경향비즈" src="http://img.khan.co.kr/spko/biznlife/main_2016/biz_logo.png"/></a></div>
+<div class="sns_wrap">
+<div class="social">
+<ul>
+<li class="facebook"><a href="javascript:;" onclick="doShare('http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dfacebook%26utm_medium%3Dsocial_share');" title="페이스북 공유하기">페이스북</a></li>
+<li class="twitter"><a href="javascript:;" onclick="doShare('http://twitter.com/intent/tweet?text=%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94&amp;url=http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dtwitter%26utm_medium%3Dsocial_share');" title="트위터 공유하기">트위터</a></li>
+<li class="kakao"><a href="javascript:;" onclick="doShare('https://story.kakao.com/s/share?url=http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dkakaostory%26utm_medium%3Dsocial_share&amp;text=%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94');" title="카카오스토리 공유하기">카카오스토리</a></li>
+<li class="band"><a href="javascript:;" onclick="doShare('http://band.us/plugin/share?body=%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94 http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dnaver_band%26utm_medium%3Dsocial_share');" title="밴드 공유하기">밴드</a></li>
+<li class="nhnblog"><a href="javascript:;" onclick="doShare('http://blog.naver.com/openapi/share?url=http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dnaver_blog%26utm_medium%3Dsocial_share&amp;title=%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94');" title="네이버블로그 공유하기">네이버블로그</a></li>
+<li class="email"><a href="javascript:;" onclick="send_mail_biz('201508021638291', 'khan');" title="이메일로 기사 공유하기">이메일</a></li>
+</ul>
+</div>
+</div>
+<div class="title"><p>롯데가 분쟁에 가신 그룹도 전면에 나서···내분 심화</p></div>
+</div>
+</div>
+<!-- // 고정바 -->
+<!-- AD : 에이원플랫폼 구글 광고 -->
+<script type="text/javascript">
+(function() {
+        function A1MakeIframe(path) {
+            var h = document;
+            var c = h.createElement("iframe");
+            c.src = path;
+            c.style.margin = "0px";
+            c.style.borderWidth = "0px";
+            c.style.padding = "0px";
+            c.scrolling = "no";
+            c.frameBorder = "0";
+            c.style.width = "0px";
+            c.style.height = "0px";
+            document.body.appendChild(c);
+        }
+        
+    var this_page_url = document.location;
+    var hidden_location = "//adv.khan.co.kr/RealMedia/ads/Creatives/khan/A1_google_gateway/hidden.html?oax_url="+this_page_url;
+    A1MakeIframe(hidden_location);
+
+})();
+
+</script>
+<!-- // AD : 에이원플랫폼 구글 광고 -->
+<form method="post" name="frmPrint">
+<div>
+<input name="title" type="hidden"/>
+<input name="content" type="hidden"/>
+<input name="reporter" type="hidden"/>
+<input name="byline" type="hidden"/>
+<input name="opener_url" type="hidden"/>
+</div>
+</form>
+<!-- **************************************** container **************************************** -->
+<div id="container">
+<div class="ad_subwing_wrap ad_190429edit">
+<!-- 기사면 좌우 날개배너(160x600)_2016 -->
+<div class="left_wing">
+<script src="http://adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/bizn.khan.co.kr/newspage@Left1"></script>
+</div>
+<div class="right_wing">
+<div id="txt2"></div>
+<script src="http://adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/bizn.khan.co.kr/newspage@Right1"></script>
+</div>
+<!-- // 기사면 좌우 날개배너(160x600)_2016 -->
+<!-- 기사면 우측 날개배너 -->
+<div class="ad_subwing_mid" id="AD22">
+<script src="//adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/www.khan.co.kr/newspage@x61"></script>
+</div>
+<!-- // 기사면 우측 날개배너 --> </div>
+<div class="main_container">
+<!-- 기사 헤더 -->
+<div class="view_header">
+<!-- [201904_광고개편] #ad01 탑배너 970*90 -->
+<div class="ad_wide_top">
+<script src="//adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/bizn.khan.co.kr/newspage@Top1"></script>
+</div>
+<!-- //[201904_광고개편] #ad01 탑배너 970*90 -->
+<div class="subject">
+<h1 class="headline" id="articleTtitle">롯데가 분쟁에 가신 그룹도 전면에 나서···내분 심화</h1>
+<span class="name">비즈앤라이프팀</span>
+</div>
+<div class="function_wrap">
+<div class="view_share" id="snsGroup">
+<ul>
+<li><a class="facebook" data-sns="facebook" data-text="" href="javascript:;" onclick="getShortUrl('http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dfacebook%26utm_medium%3Dsocial_share', snsShare, this);">페이스북 공유하기</a></li>
+<li><a class="twitter" data-sns="twitter" data-text="%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94" href="javascript:;" onclick="getShortUrl('http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dtwitter%26utm_medium%3Dsocial_share', snsShare, this);">트위터 공유하기</a></li>
+<li class="hidden_sns" id="hiddenSns" style="width:0;">
+<a class="kakaotalk" data-sns="kakaostory" data-text="%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94" href="javascript:;" onclick="getShortUrl('http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dkakaostory%26utm_medium%3Dsocial_share', snsShare, this);">카카오스토리 공유하기</a>
+<a class="band" data-sns="band" data-text="%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94" href="javascript:;" onclick="getShortUrl('http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dnaver_band%26utm_medium%3Dsocial_share', snsShare, this);">밴드 공유하기</a>
+<a class="nhnblog" data-sns="nblog" data-text="%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94" href="javascript:;" onclick="getShortUrl('http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dnaver_blog%26utm_medium%3Dsocial_share', snsShare, this);">네이버블로그 공유하기</a>
+<a class="email" href="javascript:;" onclick="send_mail_biz('201508021638291', 'khan');">이메일로 공유하기</a>
+</li>
+<li><a class="moresns" href="javascript:;" onclick="set_sns_more();">공유 더보기</a></li>
+</ul>
+<div class="reply" id="replyBalloon"><a href="#replyArea"></a></div>
+</div>
+<script>
+                    getFBCount(); // 페이스북 공유 카운트 가져오기
+                    </script>
+<div class="pagecontrol">
+<div class="byline" id="bylineArea">
+<em>입력 : 2015.08.02 16:38</em>
+<em> 수정 : 2015.08.02 16:39</em>
+</div>
+<a class="btn_print" href="javascript:;" onclick="print_open_biz();">인쇄</a>
+<a class="btn_plus" href="javascript:;" onclick="set_font_size('inc');">글자 작게</a>
+<a class="btn_minus" href="javascript:;" onclick="set_font_size('dec');">글자 크게</a>
+</div>
+</div>
+</div>
+<!-- // 기사 헤더 -->
+<!-- 기사 본문 -->
+<div class="art_cont">
+<div class="art_body" itemprop="articleBody">
+<!-- 기사 이미지 -->
+<div class="art_photo photo_center ft" style="width: 500px;">
+<div class="art_photo_wrap">
+<img alt="신격호 롯데그룹 총괄회장(맨 왼쪽부터), 신동빈 롯데그룹 회장, 신동주 전 일본롯데홀딩스 부회장" src="http://img.khan.co.kr/news/2015/08/02/l_2015080201000164000009731.jpg" width="500">
+<p class="caption">신격호 롯데그룹 총괄회장(맨 왼쪽부터), 신동빈 롯데그룹 회장, 신동주 전 일본롯데홀딩스 부회장</p>
+</img></div>
+<div id="photoAD">
+<!-- 기사면 포토링크_2016 -->
+<!--
+<div id="AD_LIVE_AREA_18822538" class="ad_photolink">
+    <iframe width="390" height="55" frameborder="0" src="http://adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/newspage@x93" scrolling="no" title="포토링크"></iframe>
+</div>
+-->
+<!-- // 기사면 포토링크_2016 -->
+</div>
+</div>
+<!--// 기사 이미지 -->
+<p class="content_text">롯데그룹 경영권 분쟁에 가신그룹의 개입이 본격화하고 있다. 롯데가의 분쟁이 신동주·동빈 형제의 난에서 신격호·동빈 부자 갈등으로 확산되면서 양측의 가신그룹도 전면에 나서고 있다.<br/></p>
+<p class="content_text">이른바 ‘반 신동빈’ 세력은 친인척이 중심이 돼 신격호·동주 부자를 측면 지원하고, 신동빈 롯데그룹 회장 편에선 측근들이 지원사격에 나선 모양새다. 2일 신동빈 회장의 핵심 측근은 연합뉴스와의 통화에서 신 총괄회장 주변의 친인척을 맹공했다.<br/></p>
+<p class="content_text">이 인사는 신 총괄회장의 장녀인 신영자 롯데복지재단 이사장을 ‘이번 건의 주모자’로 지목했다. 그는 신 이사장은 물론 신 총괄회장의 5촌 조카인 신동인 롯데자이언츠 구단주 직무대행도 “그룹이 위기상황에 처하면 득을 볼 사람들로, 그룹에서 한 몫 떼가려 한다”고 밝혔다.<br/></p>
+<p class="content_text">그는 신 이사장 등이 신 총괄회장의 집무실과 거처가 있는 롯데호텔 34층을 점령하고 온갖 감언이설로 신 총괄회장의 눈과 귀를 흐린다고도 했다. 이 측근은 국내 5위의 재벌 롯데그룹을 만든 건 신 총괄회장이지만, 지난 10년간 몸바쳐 오늘의 롯데를 만든 건 신동빈 회장이라는 논리로 경영권 승계의 정당성도 강조했다.<br/></p>
+<p class="content_text">신동빈 회장 측의 다른 핵심 인사는 이날 신 이사장과 신 구단주 직무대행의 ‘월권행위’를 폭로했다. 그룹 경영과 관련해 아무런 법적 권한이 없는 신영자 이사장과 신동인 구단주 대행이 지난달 15일 롯데호텔 34층에 그룹 전·현직 대표이사 10여명을 차례로 불러 신동주 체제 구축에 대한 협조를 강요했다는 것이다.<br/></p>
+<p class="content_text">실제 이처럼 롯데그룹 후계문제와 관련해 내분이 현실화하면서, 롯데 임직원들은 불안해하는 분위기다. 권력의 향배가 어디로 튈지 모르기 때문이다.<br/></p>
+<p class="content_text">신영자 이사장과 신동인 구단주 직무대행은 적어도 표면적으론 ‘중립’을 강조하고 있다. 신동주 전 부회장은 누나 신영자 이사장은 중립적 입장이라면서 “부친 신 총괄회장의 건강을 염려해 지난달 27일 일본행에 동행한 것”이라고 밝혔고, 신 구단주 직무대행도 연합뉴스에 “이번 일과 관련이 없다”고 말했다.<br/></p>
+<p class="content_text">그럼에도 롯데그룹 안팎에선 이들의 해명을 그대로 믿는 분위기는 아니다. 우선 신동주·동빈 형제의 이복 누나인 신 이사장은 신 총괄회장의 직계로서 경영권 승계의 한 축이라고 할 수 있기 때문에 중립에 서기는 쉽지 않다.<br/></p>
+<p class="content_text">그동안 롯데그룹 내에선 한국 롯데는 신동빈, 일본 롯데는 신동주, 면세점 사업은 신영자의 몫이라는 묵계가 있을 것으로 생각해왔다는 점을 고려할 때 신 이사장이 자신의 몫을 찾으려 할 것이라는 게 일반적인 관측이다.<br/></p>
+<p class="content_text">신동인 구단주 직무대행은 신 총괄회장의 큰 아버지 신진걸씨의 손자로 신입사원 때부터 롯데에서 커와 롯데그룹 기획조정실 부사장, 롯데제과·롯데쇼핑 대표이사를 역임한 말 그대로 ‘롯데 맨’으로서 신동빈 회장의 거친 행보에 불만을 가져왔던 것으로 알려졌다.<br/></p>
+<p class="content_text">신 총괄회장의 셋째 동생인 신선호 일본 산사스 식품회사 사장이 작심하고 나선 분위기다. 그는 지난달 31일 서울 성북동 소재 신동주 전 부회장의 자택에서 열린 제사에 참석하면서 취재진에 “신격호의 후계자는 신동주”라고 공언했다.<br/></p>
+<p class="content_text">한편, ‘반 신동빈 세력’에선 신동주 전 부회장이 전면에 나섰다. 신동주 전 부회장은 국내외 언론매체에 연일 나와 ‘신동빈 회장의 경영 퇴진’을 요구하는 신 총괄회장의 육성과 지시서를 공개하는가 하면 경영권을 되찾기 위한 향후 계획을 밝혔다.<br/></p>
+<p class="content_text">신동주 전 부회장은 이날 SBS와의 인터뷰를 통해 “3일 일본으로 가서 (롯데홀딩스) 주주총회를 열어 신격호 총괄회장이 대표이사로 복귀토록 할 것”이라고 밝혔다.<br/></p>
+<div class="article_bottom_ad">
+<!-- 기사면 본문 배너&네이버 파워 링크(250x250) -->
+<script charset="utf-8" language="JavaScript1.1" src="//adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/www.khan.co.kr/newspage@x07" type="text/javascript"></script>
+<!-- 기사면 본문 배너&네이버 파워 링크(250x250) -->
+<!-- 광고 점태그 2018-02-21 -->
+<iframe allowtransparency="true" frameborder="0" height="1" marginheight="0" marginwidth="0" scrolling="NO" src="//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/pvcheck@x01" style="display:block; width:0; height:0;" width="1"></iframe>
+<!-- 광고 점태그 2018-02-21 --> </div>
+<p class="content_text">그러나 신동주 전 부회장은 모국어를 완전히 구사하지 못한 채 일본어로 인터뷰를 하는 통에 시청자들로부터 공감을 크게 얻지 못했다.<br/></p>
+</div>
+<script type="text/javascript">
+            /**
+             * 이미지 원본보기 설정
+             * plugin : fancybox
+             **/
+            $("a.fancy_group").fancybox({
+                'maxWidth': 1500, 
+                'openSpeed': 600, 
+                'closeSpeed': 200, 
+                'hideOnContentClick': true,
+                'fitToView': false
+            });
+
+            /**
+             * 마우스 이벤트 등록
+             * 이미지 원본보기 아이콘 활성화
+             **/
+            $('a.fancy_group')
+                .on('mouseenter', function() { $(this).find('span.img_large').addClass('mover'); })
+                .on('mouseleave', function() { $(this).find('span.img_large').removeClass('mover'); });
+            </script>
+<p class="art_copyright">© 경향신문 &amp; 경향닷컴, 무단 전재 및 재배포 금지</p>
+<!-- 페이스북, 트위터 공유, 기사제보, 지면구독신청 -->
+<div class="sns_share_major">
+<div class="share_wrap circle">
+<div class="circle_sns facebook">
+<a data-sns="facebook" data-text="" href="javascript:;" onclick="getShortUrl('http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dfacebook%26utm_medium%3Dsocial_share', snsShare, this);" title="페이스북 공유하기"><span>페이스북 공유하기</span></a>
+</div>
+<div class="circle_sns twitter">
+<a data-sns="twitter" data-text="%EB%A1%AF%EB%8D%B0%EA%B0%80%20%EB%B6%84%EC%9F%81%EC%97%90%20%EA%B0%80%EC%8B%A0%20%EA%B7%B8%EB%A3%B9%EB%8F%84%20%EC%A0%84%EB%A9%B4%EC%97%90%20%EB%82%98%EC%84%9C%C2%B7%C2%B7%C2%B7%EB%82%B4%EB%B6%84%20%EC%8B%AC%ED%99%94" href="javascript:;" onclick="getShortUrl('http%3A%2F%2Fnews.khan.co.kr%2Fkh_news%2Fkhan_art_view.html%3Fartid%3D201508021638291%26code%3D920100%26utm_source%3Dtwitter%26utm_medium%3Dsocial_share', snsShare, this);" title="트위터 공유하기"><span>트위터 공유하기</span></a>
+</div>
+</div>
+<div class="khlink">
+<a class="text_link jebo" href="http://jebo.khan.co.kr/" target="_blank"><span>기사제보</span>
+</a>
+<a class="text_link smile" href="http://smile.khan.co.kr/gudoc/gudoc_input_step3.html?media_cd=201" target="_blank"><span>지면구독신청</span>
+</a>
+</div>
+</div>
+<!--// 페이스북, 트위터 공유, 기사제보, 지면구독신청 -->
+<!--
+<iframe width="100%" height="130" src="//adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=01He&out=iframe" allowTransparency = "true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" >
+</iframe>
+-->
+<!-- 기사면 본문하단 텍스트 5줄 2019.04.30 -->
+<div class="ad_txt_cont_btm row5">
+<h4 class="screen_out">기사면 본문 하단 텍스트 광고 5줄</h4>
+<ul class="list_line5">
+<li>
+<iframe frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=02UF&amp;out=iframe" title="텍스트광고" vspace="0" width="100%"></iframe>
+</li>
+<li>
+<iframe frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=02Tp&amp;out=iframe" title="텍스트광고" vspace="0" width="100%"></iframe>
+</li>
+<li>
+<iframe frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=02WU&amp;out=iframe" title="텍스트광고" vspace="0" width="100%"></iframe>
+</li>
+<li>
+<iframe frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=02UE&amp;out=iframe" title="텍스트광고" vspace="0" width="100%"></iframe>
+</li>
+<li>
+<iframe frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=02WV&amp;out=iframe" title="텍스트광고" vspace="0" width="100%"></iframe>
+</li>
+</ul>
+</div>
+<!-- // 기사면 본문하단 텍스트 5줄 -->
+<!-- [201904_광고개편] #ad13 하단 하이라이트 광고(투데이 포커스) 
+<div class="ad_highlight_tf">
+<div id="AD_LIVE_AREA_29964952" style="height:190px; position:relative; left:0px; top:0px; "><iframe src="//cdn.new-star.co.kr/data/adnew/2996/4952/adtextpc_2996_4952.html " frameborder="0" width="710" height="190" scrolling="no" ></iframe></div>
+</div>
+<!-- //[201904_광고개편] #ad13 하단 하이라이트 광고(투데이 포커스) -->
+<div class="ad_highlight_tf">
+<!--경향신문/경향비즈 710*150 x84 -->
+<iframe frameborder="0" height="150" marginheight="0" marginwidth="0" scrolling="no" src="//adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/www.khan.co.kr/newspage@x84" width="710"></iframe>
+</div>
+<div class="wrap_ad_cont_btm">
+<div class="f_l ad_txt_cont_btm row8">
+<iframe allowtransparency="true" frameborder="0" height="143" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//io1.innorame.com/imp/Zb1eNb3X33jX.iframe" style="position:relative;z-index:99999999999;" vspace="0" width="380"></iframe>
+<iframe allowtransparency="true" frameborder="0" height="128" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="//io1.innorame.com/imp/1AJ4WK3X33jX.iframe" style="position:relative;z-index:99999999999;" vspace="0" width="380"></iframe>
+</div>
+<!-- [201904_광고개편] 300*250 배너 -->
+<div class="f_r ad_bnr_cont_btm">
+<script src="//adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/www.khan.co.kr/newspage@x14"></script>
+</div>
+<!-- //[201904_광고개편] 300*250 배너 -->
+</div>
+<!-- 주요 기사 + AD : [201904_광고개편] 기사면 핫클릭배너(200x200) -->
+<div class="ad_hotclip">
+<div class="tit"><span>주요 기사</span></div>
+<div class="cont">
+<ul>
+<li><a href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111021001&amp;code=910402">이해찬 “검찰이 우리 당 검찰개혁법안에 부정적 개입하면 실명 공개할 것”</a></li> <li><a href="http://biz.khan.co.kr/khan_art_view.html?artid=&amp;code="></a></li> <li><a href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111232001&amp;code=940702">정부, 중소기업에 주 52시간 계도기간 1년 부여···노동계 “고용노동부 장관 퇴진” 주장</a></li> <li><a href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111433001&amp;code=970100">노숙인의 벤치를 끄는 순록들···’뱅크시’가 보여준 그래피티의 힘</a></li> <li><a href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912110600001&amp;code=960100">신라인의 인터넷 줄임말?…’수전(水田)’ 대신 ‘답(畓)’자를 쓴 이유</a></li> <li><a href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201909242156005&amp;code=940702">[특별 기고 - 김용균 특조위를 마치며…](6)이태성 한국발전산업노조 한전산업개발발전본부 사무국장</a></li> <li><a href="http://photo.khan.co.kr/photo_collection.html?art_id=20191119172121" target="_blank">[화보] 나이팅게일 촛불 의식</a></li> </ul>
+<!-- 기사면 핫클릭배너(200x200) -->
+<div class="aside">
+<script language="JavaScript1.1" src="//adv.khan.co.kr/RealMedia/ads/adstream_jx.ads/www.khan.co.kr/newspage@x21" type="text/javascript"></script>
+</div>
+<!-- //기사면 핫클릭배너(200x200) --> </div>
+</div>
+<!-- // 주요 기사 + AD : [201904_광고개편] 기사면 핫클릭배너(200x200) -->
+<div id="adMCC"></div>
+<script type="text/javascript">
+			jQuery('#adMCC').empty();
+
+			var html = '<div class="wrap_ad_tba"><div id="taboola-mid-article-thumbnails"></div></div>';
+			jQuery('#adMCC').html(html);
+
+			window._taboola = window._taboola || [];
+			_taboola.push({
+				mode: 'thumbnails-a',
+				container: 'taboola-mid-article-thumbnails',
+				placement: 'Mid Article Thumbnails',
+				target_type: 'mix'
+			});
+			</script>
+<!-- 인기 기사 -->
+<div class="wrap_leading_art">
+<h4>인기 기사</h4>
+<ol>
+<li class="item">
+<em class="num">1</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912110600015&amp;code=940301"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/11/2019121101001221600102821.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912110600015&amp;code=940301"><strong class="tit">[단독]백원우도 “유재수 감찰 중단, 외부 청탁 있었다” 검찰 진술</strong></a>
+</li>
+<li class="item">
+<em class="num">2</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912101737001&amp;code=910203"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/10/2019121001001248600099632.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912101737001&amp;code=910203"><strong class="tit">문 대통령은 아이의 슬픔 앞에 무릎을 꿇었다</strong></a>
+</li>
+<li class="item">
+<em class="num">3</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912101826001&amp;code=990100"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/10/2019121101001207100101861.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912101826001&amp;code=990100"><strong class="tit">[정동길에서]검찰은 집단최면에서 깨어나야 한다</strong></a>
+</li>
+<li class="item">
+<em class="num">4</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111021001&amp;code=910402"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/11/2019121101001312300105821.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111021001&amp;code=910402"><strong class="tit">이해찬 “검찰이 우리 당 검찰개혁법안에 부정적 개입하면 실명 공개할 것”</strong></a>
+</li>
+<li class="item">
+<em class="num">5</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912110928001&amp;code=910402"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/11/2019121101001347300109081.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912110928001&amp;code=910402"><strong class="tit">예산안 끝나자 ‘중진 용퇴’ 시작한 민주당···원혜영·백재현, 오늘 총선 불출마 선언</strong></a>
+</li>
+<li class="item">
+<em class="num">6</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912102318001&amp;code=980201"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/10/2019121001001296400103461.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912102318001&amp;code=980201"><strong class="tit">‘박항서 매직’ 베트남, 60년만에 동남아시안게임 우승 쾌거</strong></a>
+</li>
+<li class="item">
+<em class="num">7</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111107001&amp;code=970100"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/11/2019121101001350900109301.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111107001&amp;code=970100"><strong class="tit">'포스트 아베' 기시다 "독도는 일본 땅···국제사법제도 활용해야"</strong></a>
+</li>
+<li class="item">
+<em class="num">8</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111113001&amp;code=940100"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/11/2019121101001326600107341.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111113001&amp;code=940100"><strong class="tit">“1·5·7·10만원“···외국인 노동자에게 일당으로 ‘가짜 돈’ 준 업주</strong></a>
+</li>
+<li class="item">
+<em class="num">9</em>
+<a class="link_thumb" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111430001&amp;code=910302"><img class="thumb" src="http://img.khan.co.kr/news/c/95x70/2019/12/11/2019121101001343300108791.jpg"/></a>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912111430001&amp;code=910302"><strong class="tit">[속보]한·미, 미군기지 4개 즉시 반환 합의···환경오염 정화 비용 추후 논의키로</strong></a>
+</li>
+<li class="item">
+<em class="num">10</em>
+<a class="link_caption" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201912110600035&amp;code=910203"><strong class="tit">문 대통령, 총리 인사 이르면 11일 발표</strong></a>
+</li>
+</ol></div></div></div></div></div></body>

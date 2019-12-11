@@ -1,0 +1,739 @@
+롯데는 '일본 전범 가족'이 지배하는 일본기업?
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.8";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+<!--전체-->
+<div id="wrap">
+<!--상단영역-->
+<div id="header">
+<!--헤더시작-->
+<div class="new_head">
+<div class="top_info">
+<div class="left"></div>
+<div class="right" id="login_base">
+<div class="con">
+<a href="/report/index.html">제보</a>
+</div>
+<div class="con">
+<a href="javascript:doPopup('/news/request_form.html?mode=contact', 600, 600, 'yes')">문의</a>
+</div>
+<div class="con">
+<a href="/member/member_join.html">회원가입</a>
+</div>
+<div class="con">
+<a href="/member/member_login.html">로그인</a>
+</div>
+</div>
+<div class="cb"></div>
+</div>
+<div class="logo_body">
+<div class="logo">
+<a href="/" onfocus="blur()" target="_top"><img class="png24" src="http://cdn.pressian.com/data/design/logo/toplogo_20170201101748.png"/></a>
+</div>
+<div class="social_icons">
+<div class="icon">
+<a href="http://www.facebook.com/pressian.news" target="_blank"><img src="/images/v2/header_img/hd_fb.png"/></a>
+</div>
+<div class="icon">
+<a href="http://twitter.com/pressian_news" target="_blank"><img src="/images/v2/header_img/hd_tw.png"/></a>
+</div>
+<div class="icon">
+<a href="http://story.kakao.com/ch/pressian" target="_blank"><img src="/images/v2/header_img/hd_kko.png"/></a>
+</div>
+</div>
+<div class="ad">
+<div style="padding-bottom:10px;text-align:center;"><a alt="배너" border="0" href="http://www.pressian.com/news/banner_click.php?no=340" target="100"><img src="http://cdn.pressian.com/data/banner/banner_1509953283.jpg" style="max-width:768px;" width="100%"/></a></div>
+</div>
+</div>
+<div class="menu">
+<div class="all_menu">
+<img id="sns_more" src="/images/v2/header_img/menu.png"/>
+</div>
+<input id="header_init_status" type="hidden" value=""/>
+<div class="top_menu">
+<div class="menu_tt menu_img_item" id="menu"><a href="/">뉴스</a></div>
+<div class="menu_tt menu_img_item" id="menu"><a href="/news/books.html">books</a></div>
+<div class="menu_tt menu_img_item" id="menu"><a href="/news/opinion.html">오피니언</a></div>
+<div class="menu_tt menu_img_item" id="menu"><a href="/news/section_local.html?sec_no=308">전국</a></div>
+<div class="menu_tt menu_img_item" id="menu"><a href="/news/issue.html">함께자리</a></div>
+<div class="menu_tt menu_img_item" id="menu"><a href="/news/community.html">조합커뮤니티</a></div>
+<!--뉴스 하위메뉴-->
+<div id="submenu_inline">
+<div class="sub_menu" id="submenu" style="display:none;">
+<div class="sub_m"> <a href="/news/section_type2.html?sec_no=66">정치</a></div>
+<div class="sub_m"> <a href="/news/section_type2.html?sec_no=68">사회</a></div>
+<div class="sub_m"> <a href="/news/section_type2.html?sec_no=67">경제</a></div>
+<div class="sub_m"> <a href="/news/section_type2.html?sec_no=65">세계</a></div>
+<div class="sub_m"> <a href="/news/section_type2.html?sec_no=75">미디어</a></div>
+<div class="sub_m"> <a href="/news/section_type2.html?sec_no=69">문화</a></div>
+<div class="sub_m"> <a href="/news/section_type2.html?sec_no=70">스포츠</a></div>
+<div class="sub_m"> <a href="/news/section_type2.html?sec_no=259">언론네트워크</a></div>
+<div class="sub_m"> <a href="javascript:void window.open('/ezview/index.html', 'ezview', 'scrollbars=auto, width=1200, height=600, resizable=1');">퀵뷰</a></div>
+</div>
+<div class="sub_menu" id="submenu" style="display:none;">
+<div class="sub_m"> <a href="/news/review_list_all.html?rvw_no=288">표지 너머 책 세상</a></div>
+<div class="sub_m"> <a href="/news/review_list_all.html?rvw_no=112">베스트셀러는 어떻게 만들어지는가</a></div>
+</div>
+<div class="sub_menu" id="submenu" style="display:none;">
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=129">칼럼</a></div>
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=136">기획연재</a></div>
+</div>
+<div class="sub_menu" id="submenu" style="display:none;">
+<div class="sub_m"> <a href="http://www.pressian.com/news/section_local.html?sec_no=309">강원</a></div>
+<div class="sub_m"> <a href="http://www.pressian.com/news/section_local.html?sec_no=313">부산·울산</a></div>
+<div class="sub_m"> <a href="http://www.pressian.com/news/section_local.html?sec_no=323">경남</a></div>
+<div class="sub_m"> <a href="http://www.pressian.com/news/section_local.html?sec_no=328">광주·전남</a></div>
+<div class="sub_m"> <a href="http://www.pressian.com/news/section_local.html?sec_no=335">세종·충청</a></div>
+<div class="sub_m"> <a href="http://www.pressian.com/news/section_local.html?sec_no=340">전북</a></div>
+<div class="sub_m"> <a href="http://www.pressian.com/news/section_local.html?sec_no=345">대구·경북</a></div>
+<div class="sub_m"> <a href="http://www.pressian.com/news/section_local.html?sec_no=351">제주</a></div>
+</div>
+<div class="sub_menu" id="submenu" style="display:none;">
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=265">이슈</a></div>
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=266">기획</a></div>
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=268">밥상이야기</a></div>
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=269">교육이야기</a></div>
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=270">협동조합 탐방</a></div>
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=271">귀농이야기</a></div>
+<div class="sub_m"> <a href="/news/section_list_all.html?sec_no=219">이 주의 조합원</a></div>
+</div>
+<div class="sub_menu" id="submenu" style="display:none;">
+</div>
+</div>
+</div>
+<!--검색 클릭시 노출 시작-->
+<form action="/news/search_result.html" id="search_form" method="get">
+<input name="sort" type="hidden" value="1">
+<div class="search">
+<div id="search">
+<img src="/images/v2/header_img/search.png"/>
+</div>
+<input id="search_status" type="hidden" value=""/>
+<div class="search_bar" id="search_etc">
+<input class="ipt" name="search" onfocus="this.value='';" type="text"/>
+<a href="javascript:search_submit();">
+<div class="btn">
+								검색
+							</div>
+</a>
+</div>
+</div>
+</input></form>
+<!--검색 클릭시 노출 끝-->
+</div>
+</div>
+<!--전체메뉴 노출 시작 -->
+<div class="all_menu_ov" id="header_etc" style="display:none;">
+<div class="left">
+<div class="all_tt"><a href="/">뉴스</a></div>
+<div class="all_tt"><a href="/news/books.html">books</a></div>
+<div class="all_tt"><a href="/news/opinion.html">오피니언</a></div>
+<div class="all_tt"><a href="/news/section_local.html?sec_no=308">전국</a></div>
+<div class="all_tt"><a href="/news/issue.html">함께자리</a></div>
+<div class="all_tt"><a href="/news/community.html">조합커뮤니티</a></div>
+<div class="all_tt"> 스페셜</div>
+<div class="all_tt"> 협동조합</div>
+</div>
+<div class="right">
+<div class="all_sub">
+<div class="all_tt"> </div>
+<div class="all_tt"><a href="/news/section_type2.html?sec_no=66">정치</a></div>
+<div class="all_tt"><a href="/news/section_type2.html?sec_no=68">사회</a></div>
+<div class="all_tt"><a href="/news/section_type2.html?sec_no=67">경제</a></div>
+<div class="all_tt"><a href="/news/section_type2.html?sec_no=65">세계</a></div>
+<div class="all_tt"><a href="/news/section_type2.html?sec_no=75">미디어</a></div>
+<div class="all_tt"><a href="/news/section_type2.html?sec_no=69">문화</a></div>
+<div class="all_tt"><a href="/news/section_type2.html?sec_no=70">스포츠</a></div>
+<div class="all_tt"><a href="/news/section_type2.html?sec_no=259">언론네트워크</a></div>
+<div class="all_tt"><a href="javascript:void window.open('/ezview/index.html', 'ezview', 'scrollbars=auto, width=1200, height=600, resizable=1');">퀵뷰</a></div>
+</div>
+<div class="all_sub">
+<div class="all_tt"> </div>
+<div class="all_tt"><a href="/news/review_list_all.html?rvw_no=288">표지 너머 책 세상</a></div>
+<div class="all_tt"><a href="/news/review_list_all.html?rvw_no=112">베스트셀러는 어떻게 만들어지는가</a></div>
+</div>
+<div class="all_sub">
+<div class="all_tt"> </div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=129">칼럼</a></div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=136">기획연재</a></div>
+</div>
+<div class="all_sub">
+<div class="all_tt"> </div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section_local.html?sec_no=309">강원</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section_local.html?sec_no=313">부산·울산</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section_local.html?sec_no=323">경남</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section_local.html?sec_no=328">광주·전남</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section_local.html?sec_no=335">세종·충청</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section_local.html?sec_no=340">전북</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section_local.html?sec_no=345">대구·경북</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section_local.html?sec_no=351">제주</a></div>
+</div>
+<div class="all_sub">
+<div class="all_tt"> </div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=265">이슈</a></div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=266">기획</a></div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=268">밥상이야기</a></div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=269">교육이야기</a></div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=270">협동조합 탐방</a></div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=271">귀농이야기</a></div>
+<div class="all_tt"><a href="/news/section_list_all.html?sec_no=219">이 주의 조합원</a></div>
+</div>
+<div class="all_sub">
+<div class="all_tt"> </div>
+</div>
+<div class="all_sub">
+<div class="all_tt"> </div>
+<div class="all_tt"><a href="http://www.pressian.com/news/section.html?sec_no=62" target="_blank">이미지프레시안</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/huschool.html" target="_blank">인문학습원</a></div>
+<div class="all_tt"><a href="http://www.pressian.com/news/ck.html" target="_blank">차이나인사이트</a></div>
+</div>
+<div class="all_sub">
+<div class="all_tt"> </div>
+<div class="all_tt"><a href="http://www.pressian.com/company/company.html" target="_blank">조합소개</a></div>
+<div class="all_tt"><a href="https://www.pressian.com/member/member_join.html" target="_blank">조합원가입하기</a></div>
+</div>
+</div>
+</div>
+<!--전체메뉴 노출 끝-->
+<!--헤더끝-->
+</div>
+<!--//상단영역-->
+<!--본문영역-->
+<div id="container">
+<!--컨테이너 레이아웃-->
+<div class="layout_container">
+<!--컨테이너영역-->
+<div class="container">
+<div class="section_v2_123"><!--//123단 980px-->
+<!--  0925 dk 왼쪽 날개 광고스크립트-->
+<div class="leftBanner1">
+<script src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=02Op&amp;out=script"></script>
+</div>
+<div class="leftBanner2">
+<script src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=03vn&amp;out=script"></script>
+</div>
+<!--  0925 dk 왼쪽 날개 광고스크립트-->
+<!-- 0925 dk 우측날개 광고 스크립트 삽입-->
+<div class="rightBanner1">
+<script src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=02Sg&amp;out=script"></script>
+</div>
+<div class="rightBanner2">
+<script src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=01HO&amp;out=script"></script>
+</div>
+<!-- 0925 dk 우측날개 광고 스크립트 삽입-->
+<div style="clear:both;"></div>
+<div>
+<script charset="euc-kr" src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=09T0&amp;out=script"></script>
+<!-- Dable 상세 상단(시크릿) 위젯 시작/ 문의 support@dable.io -->
+<div data-widget_id="ko8eDv7E" id="dablewidget_ko8eDv7E">
+<script>
+  (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+  dable('renderWidget', 'dablewidget_ko8eDv7E');
+  </script>
+</div>
+<!-- Dable 상세 상단(시크릿) 위젯 종료/ 문의 support@dable.io -->
+<link href="/js/ckeditor/contents.css" rel="stylesheet" type="text/css">
+<div class="m01_arv">
+<div class="fb_like">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.pressian.com%2Fnews%2Farticle.html%3Fno%3D128546&amp;send=false&amp;layout=box_count&amp;width=105&amp;show_faces=true&amp;font=arial&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=228394240531114" style="border:none; overflow:hidden; width:61px; height:60px;">
+</iframe>
+</div>
+<div class="text-info">
+<div class="title">
+			롯데는 '일본 전범 가족'이 지배하는 일본기업?
+		</div>
+<div class="hboxsubtitle">
+			'골육상쟁' 내분, 일본어로 대국민 호소하는 모습 충격
+		</div>
+<div class="byotherspan">
+<div class="byother_w">
+<div class="head_writer_fullname">
+<a class="byother" href="/news/article_list_writer.html?name=%EC%9D%B4%EC%8A%B9%EC%84%A0+%EA%B8%B0%EC%9E%90">
+						이승선 기자
+					</a>
+</div>
+</div>
+<div class="date">
+				2015.07.31 09:45:36
+			</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<!--상단 스크롤 노출 배너 시작-->
+<div class="top_scroll_view">
+<div class="wrap">
+<div class="rot">
+<div class="center live" data-relindex="0">
+				롯데는 '일본 전범 가족'이 지배하는 일본기업?
+			</div>
+<div class="caretright" id="rel_next"><img src="/images/v2/article_icon/next_btn.png"/></div>
+</div>
+<div class="left">
+<div class="icon">
+<a class="fa" href="javascript:facebook_share_arv_event1('http%3A%2F%2Fwww.pressian.com%2Fnews%2Farticle.html%3Fno%3D128546')"><img src="/images/v2/article_icon/facebook.png" title="페이스북"/></a>
+</div>
+<div class="icon">
+<a class="tw" href="javascript:twitter_share_arv_event1('http%253A%252F%252Fwww.pressian.com%252Fnews%252Farticle.html%253Fno%253D128546%2526ref%253Dtwit','%25EB%25A1%25AF%25EB%258D%25B0%25EB%258A%2594%2B%2527%25EC%259D%25BC%25EB%25B3%25B8%2B%25EC%25A0%2584%25EB%25B2%2594%2B%25EA%25B0%2580%25EC%25A1%25B1%2527%25EC%259D%25B4%2B%25EC%25A7%2580%25EB%25B0%25B0%25ED%2595%2598%25EB%258A%2594%2B%25EC%259D%25BC%25EB%25B3%25B8%25EA%25B8%25B0%25EC%2597%2585%253F')"><img src="/images/v2/article_icon/twitter.png" title="트위터"/></a>
+</div>
+<div class="icon"><a href="https://story.kakao.com/share?url=http://www.pressian.com/news/article.html?no=128546&amp;ref=kko" target="_blink"><img src="/images/v2/article_icon/kakaostory.png" title="카카오스토리"/></a></div>
+<div class="icon">
+<a class="fa" href="javascript:window.open('http://band.us/plugin/share?body=[프레시안] &amp;route=', 'share_band', 'width=410, height=540, resizable=yes')"><img src="/images/v2/article_icon/band.png" title="밴드"/></a>
+</div>
+<div class="icon">
+<a ;="" href="/news/scrap_proc.php?mode=insert&amp;no=128546" title="스크랩"><img src="/images/v2/article_icon/scrap2.png" title="스크랩"/></a>
+</div>
+<div class="icon">
+<a href="javascript:openWin('/news/article_print.html?no=128546', 'print_pop', '790', '600', 'yes');" title="프린트"><img src="/images/v2/article_icon/print.png" title="프린트"/></a>
+</div>
+<div class="icon">
+<a href="javascript:void(0);" onclick="javascript:news_large();"><img src="/images/v2/article_icon/big.png"/></a>
+</div>
+<div class="icon">
+<a href="javascript:void(0);" onclick="javascript:news_small();"><img src="/images/v2/article_icon/small.png"/></a>
+</div>
+</div>
+<div class="right">
+<a href="http://support.pressian.com" target="_blank">
+<div class="giv">
+					정기후원
+				</div>
+</a>
+<div class="icon" style="float:left;">
+<a href="http://www.pressian.com"><img src="/images/v2/article_icon/home2.png"/></a>
+</div>
+</div>
+</div>
+</div>
+<!--상단 스크롤 노출 배너 끝-->
+<script>
+	var rel_count_total = 2;
+	$(document).ready(function() {
+		$('#rel_next').click(function() {
+			if (rel_count_total > 5) {
+				rel_count_total = 5;
+			}
+			var rel_index_num = $('.rot').find('.live').attr('data-relindex');
+			if (rel_index_num == rel_count_total) {
+				var next_index_num = (rel_index_num % rel_count_total);
+			} else {
+				var next_index_num = (rel_index_num % rel_count_total) + 1;
+			}
+			$('.rot').find('div[data-relindex="'+rel_index_num+'"]').removeClass('live');
+			$('.rot').find('div[data-relindex="'+next_index_num+'"]').addClass('live');
+		});
+	});
+</script>
+<script>
+	var title_top_bar_init = $('.hboxsubtitle').offset().top;
+	var title_ban_open = 0;
+	$(window).scroll(function() {
+		if ($(this).scrollTop() >= title_top_bar_init && title_ban_open == 0) {
+			$('.top_scroll_view').css("display", "block").animate({top : "0px"}, 400, 'linear');
+			title_ban_open = 1;
+		}
+		if ($(this).scrollTop() < 200 && title_ban_open == 1) {
+			$('.top_scroll_view').animate({top : "-105px"}, 400, 'linear');
+			title_ban_open = 0;
+		}
+	});
+</script>
+<!--SNS 공유-->
+<script type="text/javascript">
+	function facebook_share_arv_event1($url){
+		$facebook_url="https://www.facebook.com/sharer/sharer.php?app_id=114545895322903&sdk=joey&u="+$url+"&display=popup&ref=plugin&src=share_button";
+		fawin = window.open($facebook_url, 'fawin', 'width=600,height=500,scrollbars=no,resizable=no');
+		if (fawin) fawin.focus();
+	}
+	function twitter_share_arv_event1($url,$title){
+		$twitter_url="https://twitter.com/intent/tweet?text="+$title
+		+"&url="+$url+"&original_referer=&ref=twit";
+		fawin = window.open($twitter_url, 'twwin', 'menubar=yes,toolbar=yes,status=yes,resizable=yes,location=yes,scrollbars=yes');
+		if (fawin) fawin.focus();
+	}
+</script>
+<!--우측하단 탑버튼/프린트 버튼 시작-->
+<div class="top_btn">
+<div class="button_warp">
+<div class="image_style upup">
+<img src="http://www.pressian.com/images/v2/topbtn2.png"/>
+</div>
+<div class="image_style">
+<a href="javascript:openWin('/news/article_print.html?no=128546', 'print_pop', '790', '600', 'yes');" title="프린트"><img src="/images/v2/print3.png" title="프린트"/></a>
+</div>
+</div>
+</div>
+<script>
+	$('.upup').click(function(){
+		$('html, body').animate({ scrollTop: 0}, 'fast', function() {
+		});
+	});
+</script>
+<!--우측하단 탑버튼/프린트 버튼 끝--><style>
+	.po_warp {width:954px; margin: 0 auto;}
+	.po {float:left; width: 455px; margin:0px 10px;}
+</style>
+<div class="po_warp">
+<div class="po">
+<script src="http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Section/Page_aticle@Event_01" type="text/javascript"></script>
+</div>
+<div class="po">
+<script src="http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Section/Page_aticle@Event_02" type="text/javascript"></script>
+</div>
+<div style="clear:both; margin-bottom:25px;"></div>
+</div>
+<div class="section_v2_12"><!-- cm-fadein-->
+<!--script>document.write("<scr"+"ipt src='http://cm1.icontact.kr/script/cm_fadein_pressian.js' charset='euc-kr'></sc"+"ript>");</script-->
+<!-- cm-fadein-->
+<!-- 기사본문 하단 광고영역 -->
+<!--<div class="banner_1024_1024_1401695729" style="text-align:center;clear:both">-->
+<!-- 아이콘 애드 시작-->
+<!--<script type="text/javascript" src="http://js2.keywordsconnect.com/iconad_pressian.js"></script>-->
+<!-- 아이콘 애드 끝-->
+<!--</div>-->
+<!-- //기사본문 하단 광고영역 -->
+<!--20190315 cs11776 아이튠즈 광고-->
+<script charset="euc-kr" src="//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=0BAN&amp;out=script"></script>
+<!--//20190315 cs11776 아이튠즈 광고-->
+<!--다음CM 문단광고-->
+<script src="http://js2.keywordsconnect.com/inspace_pressian_ent.js" type="text/javascript"></script>
+<!--다음CM 문단광고-->
+<script language="javascript">
+var tjtune_category = "67"; //for tjtune 20161101
+</script>
+<div class="m01_arv_event1">
+<div class="cnt_view news_body_area" style="clear:both; padding-top:0px;">
+<!-- 기사 본문 광고 250*250 -->
+<div style="clear:both; margin-top:7px; float:right; padding-left:15px;padding-bottom:10px;display:inline-block;*display:inline;overflow:hidden;position:relative;">
+<ins class="daum_ddn_area" data-ad-height="250" data-ad-media="2o" data-ad-pubuser="1q" data-ad-type="D" data-ad-unit="DAN-1jydaa440kw8i" data-ad-width="250" style="display: none;"></ins>
+<script src="//s1.daumcdn.net/svc/original/U03/commonjs/ddn/common/js/ad.min.js" type="text/javascript"></script>
+</div>
+<!-- 기사 본문 광고 250*250-->
+<div class="smartOutput" id="news_body_area" style="margin-right: 2px">
+<!-- s : 기사 본문 -->
+<div itemprop="articleBody">
+<div id="CmAdContent">
+<p>후계자리를 두고 막장 드라마 수준의 ‘형제의 난’이 벌어지고 있는 롯데그룹 사태로 인해 롯데그룹이 한국기업이냐는 논란이 커지고 있다.<br/>
+<br/>
+신격호 롯데그룹 총괄회장을 앞세워 '형제의 난'을 일으킨 장남 신동주 씨가  30일 KBS와 가진 단독 인터뷰가 방송되자, 시청자들 대부분은 방송 내용보다 신동주 씨가 일본어로 말하고 일본어로 된 문서를 제시하며 국민에게 호소하는 모습에 충격을 받고 있다. <br/>
+<br/>국민을 향해 자신의 주장을 펼치는데 공중파를 통한 인터뷰조차 일본어로 할 수밖에 없을 정도로 한국어 구사능력이 없다는 것을 보여줬기 때문이다. 재계에서는 이미 알고 있는 사실이지만, 차남 신동빈 씨도 원래 한국어를 거의 못했으나 한국롯데의 경영진으로 오래 있으면서 한국어 구사능력이 늘었으나 현재 일반적인 한국인의 60% 수준에 머물고 있다는 평이다. </p><p><br/>
+<div class="imgframe sm-image-c" style="width:640px;"><img class="sm-image-c" src="/data/photos/20150731/art_1438302664.jpg" title="▲ 롯데그룹 신격호 총괄회장이 지난 28일 서울 김포국제공항을 통해 귀국하고 있다. ⓒ연합뉴스 " xtype="photo"/><div class="imgcaption2"><p>▲ 롯데그룹 신격호 총괄회장이 지난 28일 서울 김포국제공항을 통해 귀국하고 있다. ⓒ연합뉴스</p></div></div><br/><b>한국롯데는 일본이 지배한다</b></p><p><br/>
+삼부자 모두 국적은 한국이지만, 두 형제는 이중국적이었다가 90년대에 일본 국적을 포기하면서  한국 국적을 가진 것이다. 모친이 일본인 시게미쓰 하스코(重光初子)이며 최근 영화 &lt;암살&gt;의 마지막 장면에 삽입된 기록영상에 나오는 A급전범인 일본 외무대신 시게미쓰 마모루(重光葵)의 조카이며,신격호 총괄회장이 마모루의 조카사위로 알려졌다. 31일 롯데그룹 측은 "하스코 여사의 성은 원래 다케모리였으며, 결혼하면서 신격호 회장의 일본식 성인 시게미쓰로 바꾸었을 뿐"이라면서 "시게미쓰 마모루 가문과는 아무 상관 없다"고 밝혀왔다.</p><p><br/></p><p>그러나 "역사적 사실에 관한 팩트 확인에 강하다"는 &lt;조선일보&gt; 31일자 '만물상' 기사에는 "일본에서 세 차례나 외상(外相)을 지냈던 시게미쓰 마모루가 신 회장 일본인 부인의 외삼촌이다. 그는 중국 상하이 공사 시절 윤봉길 의사가 던진 폭탄에 한쪽 다리를 잃었다. 일본이 패망했을 땐 미주리함에서 목발을 짚고 항복 문서에 서명했던 정계 거물이다"라고 적시하는 등 다수의 매체들도 '팩트'로서 보도하고 있다.</p><p><br/></p><p>롯데그룹 측도 "정정보도를 요구할지는 모르겠다"는 등 롯데그룹의 상징같은 창업자가 전범 가족으로 불리는 것에 대해서는 예민한 반응이면서도 정정보도조차 소극적인 모습인 것으로 볼 때 "일단 물타기에 나선 것"이라는 지적을 받고 있다.</p><p><br/></p><p>하지만 신격호 총괄회장의 가문이 일본 보수 본류와 깊은 인연을 맺고 있다는 점은 달라지지 않는다.  지난 2001년 1월호 &lt;월간조선&gt; 인터뷰에서 신격호 회장은  "기시 노부스케, 나카소네, 다케시타, 후쿠다, 오부치 등 일본의 보수 본류에 속하는 정치인들과 절친한 것으로 유명한데 어떻게 그런 인맥을 만들었느냐"는 질문에 대해 "<span style="letter-spacing: 0px;">내가 원래 보수본류의 거두인 기시 선생과 친했다. 그러니 그 후배 되는 분들과도 잘 알게 되었다"고 답변했다.</span></p><p><span style="letter-spacing: 0px;"><br/></span></p><p><span style="letter-spacing: 0px;">또한 지금도 장남 신동주 씨는 일본에서 주로 활동하면서 시게미쓰 히로유키(重光宏之)라는 일본식 이름을 더 많이 쓰고 있다. 차남 신동빈 씨도 역시  시게미쓰 아키오(重光昭夫)라는 일본식 이름이 있다. 신격호 총괄회장도 일본에서는 시게미쓰 다케오(重光武雄)란 이름을 쓰고 있다. </span></p><p>
+<br/>
+두 형제 모두 개인적인 삶의 뿌리는 일본에 있다. 신동주 씨는 일본 아오야마가쿠인대 경영학부를 졸업한 뒤 1978년 미쓰비시상사에 평사원으로 들어가 10년을 근무하고 일본 롯데상사 미국 지사장을 거쳤고, 재미동포 사업가의 딸 조은주 씨와 결혼했다. 신동빈 씨도 아오야마가쿠인대 경제학부를 마친 후 일본 노무라증권에서 일하다가 1985년 일본인 부인과 결혼했다. <span style="letter-spacing: 0px;">일본 대형 건설사인 다이세이(大成) 건설 부회장의 차녀인 오고 마나미(大鄕眞奈美) 씨다. 신동주 씨의 아들과 신동빈 씨의 두 딸은 현재 일본에서 학교를 다니고 있다.</span></p><p>
+<br/>더 큰 논란은 한국롯데는 일본롯데의 소유로 되어 있다는 점이다. 롯데그룹 지배 구조를 보면 확실히 일본기업이라고 할 수 있다. 한국 롯데의 지주회사 역할을 하는 호텔롯데의 대주주는 일본롯데홀딩스(19.07%)다. 나머지 주주들도 대부분 일본 회사로 호텔롯데의 일본 측 지분율은 99%를 넘는다.<br/>
+<br/>
+롯데그룹의 모태도 1948년 일본에서 설립된 ㈜롯데다. 한국롯데는 1965년 한·일 국교 정상화 직후인 1967년 자본금 3000만 원으로 만들어진 롯데제과부터 시작한다. <br/>
+<br/>
+매출이 주로 한국롯데에서 발생한다는 점에서 한국기업이라는 주장도 있다. 2013년 기준 한국롯데의 매출은 83조 원인 반면 일본 롯데는 5조7000억 원에 그쳤다.<br/>
+<br/>
+하지만<span style="letter-spacing: 0px;"> 재일동포로 유명한 일본 국적의 손정의 씨가 한국국적으로 바꾼다고 해도 그가 이끄는 소프트뱅크가 한</span><span style="letter-spacing: 0px;">국소프트뱅크를 설립해 한국에서 대부분의 매출을 올린다고 해서 이 업체가 한국기업이라고 할 수 있느냐는 반론이 가능하다. </span></p><p><br/>
+이제 롯데그룹은 총수 일가의 경영권 다툼이 '골육상쟁' 수준으로 악화되면서, 어떤 형식으로 결론이 나든  큰 위기에 봉착할 것이라는 전망이 대두되고 있다. 재계 서열 순위 5위의 대기업이 몇 %의 지분에 불과한 총수 일가의 사유재산처럼 휘둘리고, 이번 사태로 롯데그룹이 사실상 일본기업이라는 인식이 확산되면서 국민의 외면을 받게 될 것이라는 경고가 나오고 있는 것이다.<br/>
+<br/>
+재계에서는 롯데그룹이 지분싸움 끝에 쪼개지거나, 계열사마다 어느 한 쪽에 줄 선 인사들이 제거되는 등 내부 혼란에 빠지고, 경영 역량이 분산되면서 제2롯데월드 등 그룹의 현안들이 삐걱거리는 사태가 닥칠 것으로 우려하는 목소리들이 커지고 있다. <br/>
+<br/>
+사태가 엄중한 것을 알고 있는 롯데그룹 총수 일가들은 30일 신격호 총괄회장의 부인 시게미쓰 하쓰코 씨까지 입국하는 등 모두 서울에 모여 가족회의를 열 것으로 알려졌다.<br/>
+<br/>
+가족회의에서 서로의 이해관계가 조정되지 못하면 결국 한국롯데를 지배하는 일본롯데홀딩스의 주주총회에서 표대결로 갈 것으로 보인다. 두 형제는 서로의 우호지분이 더 많다고 주장하고 있다.<br/>
+</p>
+</div>
+</div>
+<!-- e : 기사 본문 -->
+</div>
+<!--20170119후원금결제시스템 팝업-->
+<!-- <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"> -->
+<style>
+	@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+	body {padding:0; margin:0; line-height: 130%;}
+	img {border:0px;}
+	ul, li {padding:0; margin:0;}
+	
+	.article_pay {border-top:1px solid #ccc; border-bottom:1px solid #ccc; width:600px; margin:0 auto; padding:0px 25px; font-family: 'Noto Sans KR'; font-size: 18px; } 
+	
+	.article_pay a {text-decoration: none; color:#555;}
+	.article_pay .title {font-size:20px; text-align: center; padding:15px 0px;}
+	
+	.article_pay .pay { }
+	
+	.article_pay button {float:left; height:25px; background-color: #fff; border:0px; width:70px; margin:0px 19px; font-size:14px; padding:3px 0px; font-weight: 500; cursor: pointer; border-bottom: 3px solid #fff;  }
+	.article_pay button:hover { border-bottom: 3px solid #78c2ca;}
+	.article_pay button.click { border-bottom: 3px solid #17a6b6;}
+	.article_pay button:focus { outline: none;}
+	
+	.article_pay .pay_select {clear:both; width:550px; margin:0 auto; }
+	.article_pay .pay_select button { }
+	
+	.article_pay .pay_select{clear:both; }
+	.article_pay .pay_select .input_box { float:left;}
+	.article_pay .pay_select .input_box input { width:145px;  height:24px; font-size:28px; text-align: right; background-color:#fff; border:0px;  } 
+	.article_pay .pay_select input.click {border:1px solid #ccc; background-color: #fff;}
+	.article_pay .pay_select button {  }
+	
+	.article_pay .pay_ok {background-color: #17a6b6 !important; border-bottom:4px solid #17a6b6 !important; color: #fff; float:left; font-weight: bold;
+	height: 38px; font-size: 18px; width: 100px; margin: -5px 19px 0px 10px;}
+	.article_pay .pay_ok:hover {border-bottom:4px solid #086772 !important;}
+	
+	.article_pay .more_give {clear:both;  text-align: center; padding:15px 0px 5px 0px; font-size: 16px;}
+	.article_pay .more_give span {text-decoration: underline; color:#ed6a00;}
+	
+	
+	
+	.article_pay .free_pay .input_box input::-webkit-outer-spin-button,
+	.article_pay .free_pay .input_box input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; 	}
+	
+	.article_pay .ok_warp { margin:0 auto;}
+	
+	.article_pay .bt {float:left; font-size: 14px; color:#777; padding:1px 2px; background-color:#f7f7f7; border: 1px solid #777; margin:0px 0px 0px 15px; cursor: pointer;width: 110px;}
+	.article_pay .bt:hover{border-bottom: 1px solid #777;}
+	.article_pay .bt.click { border-bottom: 1px solid #777;} 
+</style>
+<!-- <div class="pay_text_box">
+     <span>기사를 끝까지 읽으셨다면…</span><br /><br />
+
+     인터넷 뉴스를 소비하는 많은 이용자들 상당수가 뉴스를 생산한 매체 브랜드를 인지하지 못한다고 합니다. 
+     온라인 뉴스 유통 방식의 탓도 있겠지만, 대동소이한 뉴스를 남발하는 매체도 책임이 있을 것입니다. <br />
+     관점이 있는 뉴스 프레시안은 독립·대안언론의 저널리즘을 추구합니다.
+     이러한 저널리즘에 부합하는 기사에 한해 제안 드립니다. 
+     이 기사에 자발적 구독료를 내주신다면, 프레시안의 언론 노동자, 콘텐츠에 기여하는 각계 전문가의 노고에 정당한 보상이 돌아갈 수 있도록 쓰겠습니다. 
+     프레시안이 한국 사회에 필요한 언론이라고 생각하신다면, 참여를 부탁드립니다.
+</div> -->
+<div class="article_pay">
+<div class="title">
+		이 기사의 구독료를 내고 싶습니다
+	</div>
+<div class="pay">
+<div class="pay_select">
+<button name="stat_pay" type="button" value="3000">￦3,000</button>
+<button class="click" name="stat_pay" type="button" value="5000">￦5,000</button>
+<button name="stat_pay" type="button" value="10000">￦10,000</button>
+<button name="stat_pay" type="button" value="30000">￦30,000</button>
+<button name="stat_pay" type="button" value="50000">￦50,000</button>
+<div style="clear: both; padding:10px 0px;"></div>
+<button class="bt" name="add_pay" type="button" value="1000">+1,000원 추가</button>
+<button class="bt" name="add_pay" type="button" value="10000">+10,000원 추가</button>
+<div class="ok_warp">
+<div class="input_box">
+<input id="conf_payment" name="conf_payment" readonly="" type="number" value="5000"/>
+<span>원</span>
+</div>
+<button class="pay_ok" name="pay" onclick="sponserFunc();" type="button">결제하기</button>
+</div>
+</div>
+</div>
+<div class="more_give">
+<a href="http://support.pressian.com" target="_blank">매번 결제가 번거롭다면 <span>CMS정기후원하기</span></a>
+</div>
+</div>
+<script type="text/javascript">
+$(".pay_select button").click(function(){
+	var select_amount = $(this).val();
+	var select_type = $(this).attr('name')
+	var present_amount = $('input#conf_payment').val();
+	var total_amout = parseInt(present_amount) + parseInt(select_amount)
+	if (select_type == 'stat_pay') {
+		$('input#conf_payment').val(select_amount);
+		$('.pay').find('.click').removeClass('click');
+		$(this).addClass('click');
+	} else {
+		$('input#conf_payment').val(total_amout);
+	}
+});
+
+function sponserFunc(){
+	var amount = $("#conf_payment").val();
+	var winL = (screen.width-680)/2;
+	var winT = (screen.height-600)/2;
+	var art_no = 128546;
+		
+	window.open("/news/sponserPopup.php?amount="+amount+"&art_no="+art_no, "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top="+winT+",left="+winL+",width=680,height=600");
+}
+</script> <div style="width: 562px; color: #295879; margin: 0 auto; padding: 5px 0px;">
+		일부 인터넷 환경에서는 결제가 원활히 진행되지 않을 수 있습니다.<br/>
+		국민은행 343601-04-082252 [예금주 프레시안협동조합(후원금)]으로 계좌이체도 가능합니다.
+	</div>
+<div class="more_info">
+<div class="image">
+<span class="byline">이승선 기자</span><span class="mail_link">editor2@pressian.com</span>
+<span class="btns">
+<span><a href="/news/article_list_writer.html?name=%EC%9D%B4%EC%8A%B9%EC%84%A0+%EA%B8%B0%EC%9E%90" target="_blank" title="필자의 다른 기사">다른 글 보기</a></span>
+</span>
+</div>
+</div>
+<div class="new_rel_list">
+<div class="title">
+<a href="/news/review_list_all.html?rvw_no=102" target="_blank">▶ [롯데家 분쟁] 연재 더보기</a>
+</div>
+<div class="rel_lst">
+<div class="title">▶ 관련기사</div>
+<div class="list"><a href="/news/article?no=128538">· 신격호 日 부인 시게미쓰 하스코 방한, 가족 회의?</a></div>
+<div class="list"><a href="/news/article?no=128512">· 신동주 "주주 총회서 이사 교체 제안할 것"…맞대응 시사</a></div>
+</div>
+<div class="jebo">
+<a href="http://www.pressian.com/report/index.html" target="_blank">▶ 프레시안에 제보하기</a>
+</div>
+<div class="jebo">
+<a href="http://support.pressian.com">▶ 프레시안 CMS 정기후원하기</a>
+</div>
+</div>
+<!--본문하단광고스크립트20180917-->
+<div style="margin-bottom:50px; display: inline-block;">
+<div style="float:left; margin-left: 11px; margin-right: 30px;">
+<script charset="euc-kr" src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=09T1&amp;out=script"></script>
+</div>
+<div style="width:336px; height:280px; float:right;">
+<script charset="euc-kr" src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=09T2&amp;out=script"></script>
+</div>
+</div>
+<!--본문하단광고스크립트20180917-->
+<!-- Dable 상세 하단 위젯 시작/ 문의 support@dable.io -->
+<div data-widget_id="2XnePEld" id="dablewidget_2XnePEld">
+<script>
+			(function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+			dable('renderWidget', 'dablewidget_2XnePEld');
+		</script>
+</div>
+<!-- Dable 상세 하단 위젯 종료/ 문의 support@dable.io -->
+<div style="padding-top:20px;"></div>
+<!--본문하단광고스크립트-->
+<div style="margin-bottom:50px; ">
+<div style="float:left;">
+<script src="http://ad.ad4989.co.kr/cgi-bin/PelicanC.dll?impr?pageid=02Sh&amp;out=script"></script>
+</div>
+<div style="width:336px; height:280px; float:right;">
+<script src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=05gd&amp;out=script"></script>
+</div>
+</div>
+<!--본문하단광고스크립트-->
+</div>
+<div style="clear:both"></div>
+<!-- 회원 댓글 -->
+<!-- //첨부파일 -->
+<!-- 첨부파일// -->
+</div>
+<!-- 폰트값 쿠키 이용하여 고정하기 -->
+<script type="text/javascript">
+	var art_max_width = 640;
+	$(document).ready(function(){
+		$('#news_body_area img').css("max-width", art_max_width);
+		checkFontCookie();
+	});      
+</script>
+<!-- 폰트값 쿠키 이용하여 고정하기 -->
+<div data-id="pressian" data-uid="NTU3LzEzNzI0LzYyMA==" id="lv-container">
+<script type="text/javascript">
+		var liveUrl = 'http://www.pressian.com/news/article.html?no=128546';
+		liveUrl = liveUrl.replace("http://", "");
+		liveUrl = liveUrl.replace("https://", "");
+
+        window.livereOptions = {
+        	refer: liveUrl,
+        	facebookPageId: '135486753200756',
+        	facebookUploadUrl: 'http://www.pressian.com/news/article.html?no=128546'
+        };
+
+        (function(d, s) {
+        	var j, e = d.getElementsByTagName(s)[0];
+
+        	if (typeof LivereTower === 'function') { return; }
+
+        	j = d.createElement(s);
+        	j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+        	j.async = true;
+
+        	e.parentNode.insertBefore(j, e);
+        })(document, 'script');
+    </script>
+<noscript>Please activate JavaScript for write a comment in LiveRe.</noscript>
+</div></div><!--12단 715px-->
+<div class="section_v2_3"><script src="http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Section/Page_aticle@Samsung_AR1" type="text/javascript"></script>
+<div style="clear:both; margin-bottom:10px;"></div><script src="http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Section/Page_aticle@NEW_AR1" type="text/javascript"></script><div style="width:100%; height:10px;"></div>
+<div style="padding-bottom:10px;text-align:center;"><a alt="배너" border="0" href="http://www.pressian.com/news/banner_click.php?no=743" target="100"><img src="http://cdn.pressian.com/data/banner/banner_1572599257.jpg" style="max-width:768px;" width="100%"/></a></div><!-- Dable 상세 우측 위젯 시작/ 문의 support@dable.io -->
+<div data-widget_id="JXdPwbXb" id="dablewidget_JXdPwbXb">
+<script>
+  (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+  dable('renderWidget', 'dablewidget_JXdPwbXb');
+  </script>
+</div>
+<!-- Dable 상세 우측 위젯 종료/ 문의 support@dable.io --><div style="width:100%; height:10px;"></div>
+<div style="margin: 20px 0px;">
+<script charset="euc-kr" src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=09tE&amp;out=script"></script>
+</div><div style="width:100%; height:10px;"></div>
+<!-- Dable 상세 우측 신규 위젯 시작/ 문의 support@dable.io -->
+<div data-widget_id="jobGgW7W" id="dablewidget_jobGgW7W">
+<script>
+  (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+  dable('renderWidget', 'dablewidget_jobGgW7W');
+  </script>
+</div>
+<!-- Dable 상세 우측 신규 위젯 종료/ 문의 support@dable.io --><script src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=01Hd&amp;out=script"></script>
+<div style="width:100%; height:10px;"></div>
+<script src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=01Hg&amp;out=script"></script>
+<div style="width:100%; height:10px;"></div>
+<iframe frameborder="0" height="320" scrolling="no" src="/iframe/best_tab.html" width="256"></iframe><script src="http://pr-adkpf.newscloud.or.kr/NetInsight/js/pressian/Pressian_Section/Page_aticle@NEW_AR2" type="text/javascript"></script>
+</div><!--3단 250px-->
+<div style="clear:both;"></div>
+</link></div>
+<div>
+<div class="section_v2_12"><script charset="euc-kr" src="//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=08Wu&amp;out=script"></script></div>
+<div class="section_v2_3"></div>
+<div style="clear:both;"></div>
+</div>
+</div><!--123단 980px//-->
+</div>
+<!--//컨테이너영역-->
+</div>
+<!--//컨테이너 레이아웃-->
+</div>
+<!--//본문영역-->
+<div style="clear:both;"></div>
+<!--하단영역-->
+<div id="footer">
+<!--푸터시작-->
+<div class="new_footer">
+<div class="link">
+<a href="http://www.pressian.com/company/company.html">조합소개</a> |
+	<a href="/report/index.html">기사제보</a> |
+ 	<a href="javascript:doPopup('/member/agree_info.html?mode=member&amp;type=main', 600, 600, 'yes')">저작권 정책</a> |
+	<a href="javascript:doPopup('/member/agree_info.html?mode=email&amp;type=main', 600, 600, 'yes')">이메일 무단수집거부</a> |
+	<a href="javascript:doPopup('/member/agree_info.html?mode=private&amp;type=main', 600, 600, 'yes')">개인정보취급방침</a> |
+	<a href="javascript:doPopup('/member/agree_info.html?mode=teenager&amp;type=main', 600, 600, 'yes')">청소년보호방침</a>
+<span>
+<a href="http://www.kpf.or.kr/" target="_blank"><img src="http://www.pressian.com/data/skin/layout/1/m01/images/footer/powered.png"/></a></span>
+</div>
+<div class="text">
+		프레시안협동조합 | 제호: 프레시안 | (04043) 서울시 마포구 서교동 395-73 BK빌딩 101호(양화로 10길 49 BK빌딩 101호) | 02-722-8494 | FAX 02-6008-8400 | 신문사업·인터넷신문사업 등록번호 서울아00083 | 창간 2001.9.24 | 등록 2005.10.12 | 발행인 겸 편집인 박인규 | 청소년보호책임자 김우정<br>
+Copyrightⓒ Pressian Coop. All rights reserved.
+	</br></div>
+</div>
+<a href="http://m.pressian.com/m/"><div class="mobile_go">모바일 보기</div></a>
+<!--푸터끝-->
+<script type="text/javascript">document.write(unescape("%3Cscript src='/weblog/gtracker.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">
+	$.post("//weblog.amicms.co.kr/weblog", "referer="+encodeURIComponent(document.referrer)+"&site_code=pressian");
+	
+	$(function(){
+		$("a").click(function(){
+			var type = $(this).data("cnt_type");
+			if(typeof(type) != "undefined")
+			{
+				$.post("//weblog.amicms.co.kr/weblog/tracking", "site_code=pressian&type="+type+"&target_url="+encodeURIComponent($(this).attr("href")));
+			}
+		});
+		
+		if($.browser.mobile == true)
+		{
+			$(".mobile_go").show();
+		}		
+	});
+</script>
+</div>
+<!--//하단영역-->
+</div>
+<!--//전체-->
+</body>

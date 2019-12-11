@@ -1,0 +1,614 @@
+롯데, 시게미쓰 家門의 전쟁
+<body class="country-kr locale-ko_KR page--skin-life entry entry--wide">
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.async = true;
+        js.src = "//connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.10&appId=284021941754241";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- ads_top_1x1 -->
+<div class="ad_spot" id="modulous_top_1x1">
+<div id="ad_a_all_TopRight"></div>
+<script async="" src="https://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.huffingtonpost.kr/a_all@TopRight"></script><style type="text/css">
+.organic-thumbnails-rr .trc_rbox_header {
+  text-align: center;
+}
+
+.organic-thumbnails-rr .trc_rbox_header_span {
+  font-family: "ProximaNovaCond-bold", "Helvetica Neue", "Helvetica", Roboto, Arial, sans-serif;
+  font-weight: 700;
+  display: inline-block;
+  height: 24px;
+  line-height: 24px;
+  margin: 0 auto 23px auto;
+  text-align: center;
+  font-size: 17px;
+  padding: 2px 15px 0;
+  font-style: italic;
+  background: #F83371;
+  color: #fff;
+  position: relative;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.organic-thumbnails-rr .trc_rbox_header_span::before,
+.organic-thumbnails-rr .trc_rbox_header_span::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+
+.organic-thumbnails-rr .trc_rbox_header_span::before {
+  top: -1px;
+  left: -1px;
+  border-top: 1.9em solid #fff;
+  border-right: 0.4em solid transparent;
+}
+
+.organic-thumbnails-rr .trc_rbox_header_span::after {
+  bottom: -1px;
+  right: -1px;
+  border-bottom: 1.9em solid #fff;
+  border-left: 0.4em solid transparent;
+}
+</style><!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WN49HC" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WN49HC');</script>
+<!-- End Google Tag Manager -->
+</div>
+<div class="left-nav yr-life-left-nav" role="menu">
+<div class="left-nav__header">
+<button aria-label="Close Menu" class="hamburger-close hamburger-close-button" type="button"></button>
+<div class="nav-editions yr-life-editions">
+<ul class="nav-editions__dropdown">
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="au" href="https://www.huffpost.com/?country=AU">
+                    Australia
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="br" href="https://www.huffpost.com/?country=BR">
+                    Brasil
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="ca" href="https://www.huffpost.com/?country=CA">
+                    Canada
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="es" href="https://www.huffpost.com/?country=ES">
+                    España
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="fr" href="https://www.huffpost.com/?country=FR">
+                    France
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="gr" href="https://www.huffpost.com/?country=GR">
+                    Ελλάδα (Greece)
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="in" href="https://www.huffpost.com/?country=IN">
+                    India
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="it" href="https://www.huffpost.com/?country=IT">
+                    Italia
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="jp" href="https://www.huffpost.com/?country=JP">
+                    日本 (Japan)
+                </a>
+</li>
+<li class="nav-editions__dropdown__item nav-editions__dropdown__item--selected">
+<a class="yr-edition-link" data-edition="kr" href="https://www.huffpost.com/?country=KR">
+                    한국 (Korea)
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="qc" href="https://www.huffpost.com/?country=QC">
+                    Québec (en français)
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="uk" href="https://www.huffpost.com/?country=UK">
+                    United Kingdom
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="us" href="https://www.huffpost.com/?country=US">
+                    United States
+                </a>
+</li>
+</ul>
+<div class="nav-editions__buttons"><a class="nav-editions__buttons__current nav-editions-open-button yr-life-editions-open" data-s-text="한국 (Korea) Edition" href="#">한국 (Korea) Edition</a>
+<a class="nav-editions__buttons__close nav-editions-close-button" href="#">닫기</a>
+</div>
+</div>
+</div>
+<div class="left-nav__body"><form accept-charset="UTF-8" action="/search/" class="nav-search" id="left-nav-search" method="get">
+<i class="icon-Nav_Search_Life"></i>
+<a class="nav-search__cancel nav-search-close-button" href="#" id="left-nav-search-close-button"></a>
+<input autocomplete="off" class="nav-search__keywords" id="left-nav-search-input" name="keywords" placeholder="Find HuffPost Articles" type="text"/></form>
+<ul class="left-nav-menu yr-life-sections">
+<li class="left-nav-menu__item yr-life-section-item" data-s-value="뉴스">
+<a class="left-nav-menu__item__link" href="/news/">뉴스</a>
+<ul class="left-nav-menu__subitems">
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/society/" target="_self">
+                                        사회
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/tech/" target="_self">
+                                        테크
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/science" target="_self">
+                                        과학
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/business/" target="_self">
+                                        경제
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="news/good-news/" target="_hplink">
+                                        굿뉴스
+                                    </a>
+</li>
+</ul>
+</li>
+<li class="left-nav-menu__item yr-life-section-item" data-s-value="정치">
+<a class="left-nav-menu__item__link" href="/politics/">정치</a>
+<ul class="left-nav-menu__subitems">
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/assembly/" target="_self">
+                                        국회
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/the-blue-house/" target="_self">
+                                        청와대
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/election/" target="_self">
+                                        선거
+                                    </a>
+</li>
+</ul>
+</li>
+<li class="left-nav-menu__item yr-life-section-item" data-s-value="국제">
+<a class="left-nav-menu__item__link" href="/world/">국제</a>
+<ul class="left-nav-menu__subitems">
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/america/" target="_self">
+                                        미국
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/china/" target="_self">
+                                        중국
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/japan/" target="_self">
+                                        일본
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/north-korea/" target="_self">
+                                        북한
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/europe/" target="_self">
+                                        유럽
+                                    </a>
+</li>
+</ul>
+</li>
+<li class="left-nav-menu__item yr-life-section-item" data-s-value="보이스">
+<a class="left-nav-menu__item__link" href="/voices/">보이스</a>
+<ul class="left-nav-menu__subitems">
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/gay-voice/" target="_self">
+                                        동성애
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/animal/" target="_self">
+                                        동물
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/green/" target="_self">
+                                        환경
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/the-disabled/" target="_self">
+                                        장애인
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/women/" target="_self">
+                                        여성
+                                    </a>
+</li>
+</ul>
+</li>
+<li class="left-nav-menu__item yr-life-section-item" data-s-value="LIFE">
+<a class="left-nav-menu__item__link" href="/lifestyle/">LIFE</a>
+<ul class="left-nav-menu__subitems">
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/lifestyle/" target="_self">
+                                        라이프
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/travel" target="_self">
+                                        여행
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/parenting/" target="_self">
+                                        육아
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/sex/" target="_self">
+                                        섹스
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/health/" target="_self">
+                                        건강
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/taste/" target="_self">
+                                        푸드
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/style-beauty/" target="_self">
+                                        스타일 &amp; 뷰티
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/vehicle/" target="_self">
+                                        자동차
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/office-life/" target="_self">
+                                        오피스 라이프
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/huff-trend/" target="_self">
+                                        허프트렌드
+                                    </a>
+</li>
+</ul>
+</li>
+<li class="left-nav-menu__item yr-life-section-item" data-s-value="엔터테인먼트">
+<a class="left-nav-menu__item__link" href="/entertainment/">엔터테인먼트</a>
+<ul class="left-nav-menu__subitems">
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/movie/" target="_self">
+                                        영화
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/tv/" target="_self">
+                                        TV
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/music/" target="_self">
+                                        음악
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/kpop/" target="_self">
+                                        K-POP
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/sports/" target="_self">
+                                        스포츠
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/celebrity/" target="_self">
+                                        셀러브리티
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/culture/" target="_self">
+                                        문화
+                                    </a>
+</li>
+<li class="left-nav-menu__subitems__item yr-life-section-subitem"><a class="left-nav-menu__subitems__item__link" href="/news/books/" target="_self">
+                                        책
+                                    </a>
+</li>
+</ul>
+</li>
+<li class="left-nav-menu__item yr-life-section-item" data-s-value="스포트라이트">
+<a class="left-nav-menu__item__link" href="/huff-exclusive/">스포트라이트</a>
+</li>
+<li class="left-nav-menu__item yr-life-section-item" data-s-value="비디오">
+<a class="left-nav-menu__item__link" href="/video/">비디오</a>
+</li>
+</ul>
+</div>
+<div class="left-nav__footer">
+<div class="left-nav__footer__social">
+<div class="social-buttons social-buttons--left-nav">
+<div class="social-buttons__label">
+                    Follow us
+                </div>
+<div class="social-buttons__icons yr-life-social-list">
+<a aria-label="youtube에서 저희를 팔로우하세요" class="social-list__item social-list__item--youtube icon-Social_Youtube_Circle yr-social-list-item" data-social-name="youtube" data-social-overlay="top-nav__youtube-overlay" href="https://www.youtube.com/channel/UCqy-7yypdR64qkyeRD7nOQw" target="_blank"></a><a aria-label="facebook에서 저희를 팔로우하세요" class="social-list__item social-list__item--facebook icon-Social_Facebook_Circle yr-social-list-item" data-social-name="facebook" data-social-overlay="top-nav__facebook-overlay" href="https://facebook.com/HuffPostKorea" target="_blank"></a><a aria-label="twitter에서 저희를 팔로우하세요" class="social-list__item social-list__item--twitter icon-Social_Twitter_Circle yr-social-list-item" data-social-name="twitter" data-social-overlay="top-nav__twitter-overlay" href="https://twitter.com/huffpostkorea" target="_blank"></a><a aria-label="instagram에서 저희를 팔로우하세요" class="social-list__item social-list__item--instagram icon-Social_Instagram_Circle yr-social-list-item" data-social-name="instagram" data-social-overlay="top-nav__instagram-overlay" href="https://www.instagram.com/huffpostkorea/" target="_blank"></a>
+</div>
+</div>
+</div>
+<div class="left-nav__footer__links">
+<a class="left-nav__footer__links__item" href="https://www.huffingtonpost.kr/p/huffpostkoreaterms">약관</a>
+            |
+            <a class="left-nav__footer__links__item" href="https://www.huffingtonpost.kr/p/huffpostkoreaprivacypolicy">개인정보처리방침</a>
+</div>
+<div class="left-nav__footer__copyright">
+            Part of <b>HuffPost News</b>
+</div>
+</div>
+</div>
+<div class="page-wrapper">
+<!-- ads_pushdown -->
+<div class="ad_spot desktop-only" id="modulous_pushdown">
+<div style="text-align: center;"><div id="ad_a_all_x28"></div>
+<script async="" src="https://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.huffingtonpost.kr/a_all@x28"></script></div>
+</div>
+<div class="master-container">
+<header class="header header_skin_life js-header" id="desktop__main_header" role="banner">
+<nav class="header__content yr-masthead">
+<ul class="nav-icons">
+<li class="nav-icons__item">
+<a aria-label="허프포스트코리아" class="nav-icons__item__link hamburger-nav hamburger-open-button yr-hamburger-open icon-Nav_Hamburger" href="https://www.huffingtonpost.kr"></a>
+</li><li class="nav-icons__item nav-icons__search">
+<form accept-charset="UTF-8" action="/search/" class="nav-search" id="header-search" method="get">
+<i class="icon-Nav_Search_Life"></i>
+<a class="nav-search__cancel nav-search-close-button" href="#" id="header-search-close-button"></a>
+<input autocomplete="off" class="nav-search__keywords" id="header-search-input" name="keywords" placeholder="Find HuffPost Articles" type="text"/></form>
+<a aria-label="검색" class="nav-icons__item__link icon-Nav_Search_Life nav-search-open-button yr-search-open" href="/search/"></a>
+</li></ul>
+<div class="header__item header__logo">
+<a class="logo yr-logo" href="/">
+<img alt="The Huffington Post" class="logo__img" src="https://amp.assets.huffpost.com/assets-02654eff2e8d60705dea07cf3a8d55e4/images/logos/HuffPost.svg"/>
+</a>
+</div>
+</nav>
+<nav class="top-nav yr-nav">
+<div class="top-nav__inner">
+<div class="top-nav__item top-nav__item--nyuseu yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="뉴스">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="뉴스" href="/news/">
+<span>뉴스</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--jeongchi yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="정치">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="정치" href="/politics/">
+<span>정치</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--gukje yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="국제">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="국제" href="/world/">
+<span>국제</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--boiseu yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="보이스">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="보이스" href="/voices/">
+<span>보이스</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--life yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="LIFE">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="LIFE" href="/lifestyle/">
+<span>LIFE</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--enteoteinmeonteu yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="엔터테인먼트">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="엔터테인먼트" href="/entertainment/">
+<span>엔터테인먼트</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--seupoteuraiteu yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="스포트라이트">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="스포트라이트" href="/huff-exclusive/">
+<span>스포트라이트</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--bidio yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="비디오">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="비디오" href="/video/">
+<span>비디오</span>
+</a>
+</div>
+</div>
+<div class="nav-editions yr-life-editions">
+<ul class="nav-editions__dropdown">
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="au" href="https://www.huffpost.com/?country=AU">
+                    Australia
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="br" href="https://www.huffpost.com/?country=BR">
+                    Brasil
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="ca" href="https://www.huffpost.com/?country=CA">
+                    Canada
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="es" href="https://www.huffpost.com/?country=ES">
+                    España
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="fr" href="https://www.huffpost.com/?country=FR">
+                    France
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="gr" href="https://www.huffpost.com/?country=GR">
+                    Ελλάδα (Greece)
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="in" href="https://www.huffpost.com/?country=IN">
+                    India
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="it" href="https://www.huffpost.com/?country=IT">
+                    Italia
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="jp" href="https://www.huffpost.com/?country=JP">
+                    日本 (Japan)
+                </a>
+</li>
+<li class="nav-editions__dropdown__item nav-editions__dropdown__item--selected">
+<a class="yr-edition-link" data-edition="kr" href="https://www.huffpost.com/?country=KR">
+                    한국 (Korea)
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="qc" href="https://www.huffpost.com/?country=QC">
+                    Québec (en français)
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="uk" href="https://www.huffpost.com/?country=UK">
+                    United Kingdom
+                </a>
+</li>
+<li class="nav-editions__dropdown__item">
+<a class="yr-edition-link" data-edition="us" href="https://www.huffpost.com/?country=US">
+                    United States
+                </a>
+</li>
+</ul>
+<div class="nav-editions__buttons"><a class="nav-editions__buttons__current nav-editions-open-button yr-life-editions-open" data-s-text="한국 (Korea) Edition" href="#">한국 (Korea) Edition</a>
+<a class="nav-editions__buttons__close nav-editions-close-button" href="#">닫기</a>
+</div>
+</div>
+<div class="top-nav-sticky top-nav-sticky--a-page bounceInDown hide ">
+<nav class="top-nav--front-page top-nav--sticky">
+<div class="top-nav__inner">
+<div class="top-nav__item top-nav__item--nyuseu yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="뉴스">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="뉴스" href="/news/">
+<span>뉴스</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--jeongchi yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="정치">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="정치" href="/politics/">
+<span>정치</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--gukje yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="국제">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="국제" href="/world/">
+<span>국제</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--boiseu yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="보이스">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="보이스" href="/voices/">
+<span>보이스</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--life yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="LIFE">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="LIFE" href="/lifestyle/">
+<span>LIFE</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--enteoteinmeonteu yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="엔터테인먼트">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="엔터테인먼트" href="/entertainment/">
+<span>엔터테인먼트</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--seupoteuraiteu yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="스포트라이트">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="스포트라이트" href="/huff-exclusive/">
+<span>스포트라이트</span>
+</a>
+</div>
+<div class="top-nav__item top-nav__item--bidio yr-nav-item" data-edition="korea" data-s-type="section" data-s-value="비디오">
+<a class="top-nav__item__link yr-life-nav-item-link" data-s-text="비디오" href="/video/">
+<span>비디오</span>
+</a>
+</div>
+</div>
+</nav>
+<ul class="nav-icons">
+<li class="nav-icons__item">
+<a aria-label="허프포스트코리아" class="nav-icons__item__link hamburger-nav hamburger-open-button yr-hamburger-open icon-Nav_Hamburger" href="https://www.huffingtonpost.kr"></a>
+</li>
+<li class="nav-icons__item nav-icons__item--logo">
+<a aria-label="허프포스트코리아" class="nav-icons__item__link yr-logo" href="https://www.huffingtonpost.kr">
+<i class="icon-Social-HuffPost"></i>
+<img alt="The Huffington Post" class="nav-icons__item__logo" src="https://amp.assets.huffpost.com/assets-02654eff2e8d60705dea07cf3a8d55e4/images/logos/HuffPost.svg"/>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="inner-container row" role="main">
+<div class="body-splash">
+<!-- ads_leaderboard_flex -->
+<div class="ad_spot desktop-only sticky-advertisement" id="modulous_leaderboard_flex"><style type="text/css"> #topnav_margin_btm { margin: 0 !important; } </style>
+<div class="ad_wrapper_" id="ad_leaderboard_flex"><div id="ad_a_all_Top" style="text-align:center;">
+<iframe frameborder="0" height="90px" marginheight="0" marginwidth="0" scrolling="no" src="https://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.huffingtonpost.kr/a_all@Top" width="728px"></iframe>
+</div></div>
+<script type="text/javascript">if (typeof HPAds !== 'undefined') { 
+HPAds.ad_onload('div[id^="ad_leaderboard_flex"] iframe','HPAds.ad_uac_onload_handler(\' iframe[class^="uac_"]\',this,\'bottom_ad_border_div\',10)');
+}</script></div>
+<!-- ads_splash_takeover -->
+<div class="ad_spot ad_spot--centered" id="modulous_splash_takeover"></div>
+</div>
+<div class="page__content">
+<article>
+<header class="entry__header yr-entry-header">
+<a class="entry-eyebrow" href="/news/"><span>뉴스</span></a>
+<div class="timestamp">
+<span class="timestamp__date timestamp__date--published">
+        2015년 08월 01일 09시 29분 KST
+    </span>
+<span class="timestamp__separator">|</span>
+<span class="timestamp__date timestamp__date--modified">
+<strong>업데이트됨</strong>
+                    2015년 08월 01일 10시 09분 KST
+        </span>
+</div>
+<div class="headline">
+<h1 class="headline__title">롯데, 시게미쓰 家門의 전쟁</h1>
+<div class="headline__stroke" style="background-color: #0dbe98"></div>
+</div>
+<div class="share-bar share-bar--sticky yr-share">
+<script id="share-bar__social-mob" type="text/template"><ul class="share-bar__list"><li class="facebook share-bar__item"><a class="share-bar__item-link icon-Social_Facebook yr-share-item" data-social-name="facebook" aria-label="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_facebook_eucluwzme5k%26utm_campaign%3Dshare_facebook" target="_blank"></a></li><li class="twitter share-bar__item"><a class="share-bar__item-link icon-Social_Twitter yr-share-item" data-social-name="twitter" aria-label="Share on Twitter" href="https://twitter.com/share?url=https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_twitter_cooo9wqtham%26utm_campaign%3Dshare_twitter&text=%EB%A1%AF%EB%8D%B0%2C%20%EC%8B%9C%EA%B2%8C%EB%AF%B8%EC%93%B0%20%E5%AE%B6%E9%96%80%EC%9D%98%20%EC%A0%84%EC%9F%81" target="_blank"></a></li><li class="kakao share-bar__item"><a class="share-bar__item-link icon-Social_Kakao yr-share-item" data-social-name="kakao" aria-label="Share on Kakao" href="https://story.kakao.com/s/share?url=https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_kakao_failidm3y3c%26utm_campaign%3Dshare_kakao" target="_blank"></a></li><li class="email share-bar__item"><a class="share-bar__item-link icon-Social_Mail yr-share-item" data-social-name="email" aria-label="Share on Email" href="mailto:?subject=%EB%A1%AF%EB%8D%B0%2C%20%EC%8B%9C%EA%B2%8C%EB%AF%B8%EC%93%B0%20%E5%AE%B6%E9%96%80%EC%9D%98%20%EC%A0%84%EC%9F%81%20%7C%20%ED%97%88%ED%94%84%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%A6%AC%EC%95%84&body=Article: https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_email_o63gt2jcad4%26utm_campaign%3Dshare_email" target="_blank"></a></li><li class="sms share-bar__item"><a class="share-bar__item-link icon-Social_SMS yr-share-item" data-social-name="sms" aria-label="Share on Sms" href="sms:?body=https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_sms_u4atw3wyfke%26utm_campaign%3Dshare_sms" target="_blank"></a></li><li class="comments share-bar__item"><a class="share-bar__item-link icon-comment yr-share-item" data-social-name="comments" aria-label="Share on Comments" href="https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268" target="_blank"></a></li></ul></script>
+<ul class="share-bar__list"><li class="facebook share-bar__item"><a aria-label="Share on Facebook" class="share-bar__item-link icon-Social_Facebook yr-share-item" data-social-name="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_facebook_eucluwzme5k%26utm_campaign%3Dshare_facebook" target="_blank"></a></li><li class="twitter share-bar__item"><a aria-label="Share on Twitter" class="share-bar__item-link icon-Social_Twitter yr-share-item" data-social-name="twitter" href="https://twitter.com/share?url=https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_twitter_cooo9wqtham%26utm_campaign%3Dshare_twitter&amp;text=%EB%A1%AF%EB%8D%B0%2C%20%EC%8B%9C%EA%B2%8C%EB%AF%B8%EC%93%B0%20%E5%AE%B6%E9%96%80%EC%9D%98%20%EC%A0%84%EC%9F%81" target="_blank"></a></li><li class="kakao share-bar__item"><a aria-label="Share on Kakao" class="share-bar__item-link icon-Social_Kakao yr-share-item" data-social-name="kakao" href="https://story.kakao.com/s/share?url=https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_kakao_failidm3y3c%26utm_campaign%3Dshare_kakao" target="_blank"></a></li><li class="email share-bar__item"><a aria-label="Share on Email" class="share-bar__item-link icon-Social_Mail yr-share-item" data-social-name="email" href="mailto:?subject=%EB%A1%AF%EB%8D%B0%2C%20%EC%8B%9C%EA%B2%8C%EB%AF%B8%EC%93%B0%20%E5%AE%B6%E9%96%80%EC%9D%98%20%EC%A0%84%EC%9F%81%20%7C%20%ED%97%88%ED%94%84%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%A6%AC%EC%95%84&amp;body=Article: https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268%3Fncid%3Dother_email_o63gt2jcad4%26utm_campaign%3Dshare_email" target="_blank"></a></li><li class="comments share-bar__item"><a aria-label="Share on Comments" class="share-bar__item-link icon-comment yr-share-item" data-social-name="comments" href="https%3A%2F%2Fwww.huffingtonpost.kr%2Fentry%2Fstory_kr_7916268" target="_blank"></a></li></ul></div>
+<div class="author-byline yr-byline">
+<ul class="author-list">
+<li class="author-card yr-author-card">
+<div class="author-card__headshot noheadshot"></div>
+<div class="author-card__details">
+<span class="author-card__details-container">
+<a class="author-card__details__name">유신재 기자</a>
+</span>
+<span class="author-card__microbio">한겨레</span>
+</div>
+</li>
+</ul>
+</div>
+</header>
+<div class="entry__content js-entry-content">
+<div class="entry__body" data-part="contents">
+<!-- ads_sharebox_260x60 -->
+<div class="advertisement sharebox_260x60 ad_spot desktop-only" id="sharebox_260x60">
+</div>
+<div class="post-contents yr-entry-text"><div class="content-list-component text"><p><a href="https://s-i.huffpost.com/gen/3253538/original.jpg" target="_blank"></a></p></div><figure class="content-list-component image">
+<span class="share-bar-image-wrapper"><img alt="롯데, 시게미쓰 家門의" aria-label="롯데, 시게미쓰 家門의" class="image__src" src="https://img.huffingtonpost.com/asset/5d809a373b00002efad50ebf.jpeg?ops=scalefit_960_noupscale"/>
+<div class="share-bar share-bar--instream">
+<div class="share-bar__item pinterest" data-type="pinterest">
+<a class="share-bar__item-link entry__link--omit icon-Social_Pinterest" data-pin-custom="true" href="" target="_blank">
+</a>
+</div>
+</div>
+</span></figure><div class="content-list-component text"><p></p></div></div></div></div></article></div></div></div></div></body>

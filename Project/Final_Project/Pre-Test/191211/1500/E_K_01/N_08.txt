@@ -1,0 +1,1044 @@
+신동빈 3일 귀국 유력…롯데홀딩스 주총 준비 끝난 듯
+<body>
+<!-- 토스트바 -->
+<div class="realssp_dv" data-mcode="Y2NkYWlseTAwMDAxXzQ1MQ==" id="realssp_ccdaily00001_451"></div><script src="http://nw.realssp.co.kr/realclickssp.js?v=1.0&amp;m=ccdaily00001_451&amp;t=j"></script>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center">
+<!--180601_이시종--<script language="javascript" src="/bannerManager/inc/612.html"></script><!--180601_이시종-->
+<!--stx180803--<script language="javascript" src="/bannerManager/inc/659.html"></script><!--stx180803-->
+<!--STX건설_190621--><script language="javascript" src="/bannerManager/inc/781.html"></script><!--STX건설_190621-->
+<!--신용한--<script language="javascript" src="/bannerManager/inc/602.html"></script><!--신용한-->
+<!-- 레이어 팝업 : s -->
+<script src="/popupManagerVer2/js/flow.script.js" type="text/javascript"></script>
+<script src="/popupManagerVer2/js/dom.drag.js" type="text/javascript"></script>
+<script language="javascript">	
+	function layerClose(layer) {	
+		document.getElementById(layer).style.display = "none";	
+	}
+
+	function layerEnd(layer, day) {	
+		document.getElementById(layer).style.display = "none";
+		setCookieLayer(layer, 'ok', day);
+	}
+
+	function layerEndChk(idx) {	
+		document.getElementById('layerPopup_'+idx).style.display = "none";
+		if(document.getElementById('layerChk_'+idx).checked == true){
+			var day = parseInt(document.getElementById('expires_time_'+idx).value);			
+			setCookieLayer('layerPopup_'+idx, 'ok', day);
+		}		
+	}
+	
+	function setCookieLayer( name, value, expiredays ) {
+		var todayDate = new Date();
+		todayDate.setDate( todayDate.getDate() + expiredays );
+		
+		todayDate.setHours(0);
+		todayDate.setMinutes(0);
+		todayDate.setSeconds(0);
+
+		document.cookie = name + "=" + escape( value ) + ";DOMAIN=www.ccdailynews.com; path=/; expires=" + todayDate.toGMTString() + ";"
+	}
+	
+</script>
+<!-- 레이어 팝업 처리 : s -->
+<table border="0" cellpadding="0" cellspacing="0" width="960">
+<tr>
+<td>
+<div style="POSITION: relative; width:100%;z-index:100000;">
+<div id="empty" style="position:absolute; display:block;"></div>
+</div>
+</td>
+</tr>
+</table>
+<!--레이어 팝업 처리 : e--><!-- 레이어 팝업 : e -->
+<!-- 
+	윈도우 팝업 : s
+	client 모니터 사이즈를 넘기기 위해서 iframe으로 처리.
+-->
+<iframe id="windowPopup" style="display:none"></iframe>
+<script language="javascript">			
+	document.getElementById("windowPopup").contentWindow.location.href = "/popupManagerVer2/windowPopup.html?windowWidth=" + screen.width + "&parentPage=/news/articleView.html";  	
+</script>
+<!-- 윈도우 팝업 : e -->
+<script type="text/javascript">
+<!--
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(0,5,8); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="vertical";
+
+(function($) {
+	$(function() {
+		
+		// 확장바제어
+		var $bodyWrap = $("#full-wrap")
+			, $bodyFrame = $bodyWrap.find(".body-wrap-frame")
+			, $bodyaSide = $bodyWrap.find(".body-aside")
+			, $asideOpen = $bodyWrap.find(".aside-btn")
+			, $asideOpenBtn = $asideOpen.find("a");
+
+	
+		// 화면사이즈체크
+		$(window).resize(function(){
+			if($("body, html").width() < 1260){
+				$bodyaSide.show();
+				$bodyFrame.removeClass("open");
+				$asideOpen.removeClass("open");
+			} else {
+				$bodyaSide.hide();
+				$bodyFrame.addClass("open");
+				$asideOpen.addClass("open");
+			}
+		});
+	
+		$(window).trigger("resize");
+
+		// 확장바열기
+		$asideOpenBtn.click(function() {
+			if($bodyaSide.css("display") == "block") {
+				$bodyaSide.hide();
+				$bodyFrame.addClass("open");
+				$asideOpen.addClass("open");
+			} else {
+				$bodyaSide.show();
+				$bodyFrame.removeClass("open");
+				$asideOpen.removeClass("open");
+			}
+		});
+
+	});
+})(jQuery);
+//-->
+</script>
+<div class="body-wrap-full" id="full-wrap">
+<!-- 최상단 -->
+<div class="body-wrap-full border-box top-gnb">
+<div class="body-wrap-frame">
+<!-- 시작/즐겨찾기&최종편집 -->
+<ul class="top-mark">
+<li class="nobr"><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.ccdailynews.com');">시작페이지로 설정</a></li>
+<li><a href="javascript:bookmark()">즐겨찾기 추가</a></li>
+<li class="updated">2019년12월11일 (수요일)</li>
+</ul>
+<!-- 로그인 -->
+<ul class="top-member">
+<li>
+<a href="https://www.ccdailynews.com/member/login.html">로그인</a> </li>
+<li>
+<a href="https://www.ccdailynews.com/member/index.html">회원가입</a> </li>
+<li><a href="/news/articleList.html?view_type=sm">전체기사</a></li>
+</ul>
+</div>
+</div>
+<!-- 컨텐츠 -->
+<div class="body-wrap-full body-container">
+<div class="body-wrap-frame">
+<div class="float-left width-960">
+<!-- 상단 -->
+<div class="body-wrap-full top-header">
+<!-- 로고 -->
+<h1 class="top-logo" style="width:300px;height:70px;margin-top:-35px"><a href="http://www.ccdailynews.com" onfocus="this.blur();" title="충청일보"><img alt="충청일보" border="0" src="/image2006/logo.gif"/></a></h1>
+<!-- 검색
+				<fieldset class="top-search border-box">
+										<form action="http://www.ccdailynews.com/engine_yonhap/search.php" method="post" name="topSearchForm" id="topSearchForm" onsubmit="return SearchCheck();">
+						<input type="hidden" name="sc_area" value="A">
+						<input type="hidden" name="view_type" value="sm">
+						<a href="/engine_yonhap/search.php" class="sch-plus">상세검색<u class="icon">icon</u></a>
+						<input maxlength="255" name="" class="inptxt" id="Search1" value="검색어 입력" onclick="setSearchBox(1);">
+						<input maxlength="255" name="sc_word" id="Search2" style="display:none;">
+						<button title="기사검색" onClick="setSearchBox(1);">기사검색</button>
+					</form>
+				</fieldset> -->
+<!-- sns -->
+<ul class="top-sns">
+<li class="fb"><a href="https://www.facebook.com/chungcheongilbo" target="_blank">페이스북</a></li>
+<li class="tw"><a href="https://twitter.com/ccdailynews1946" target="_blank">트위터</a></li>
+<li class="yt"><a href="http://www.youtube.com/channel/UCLg39kCJSimzVfTPhWIsyEA/feed" target="_blank">유튜브</a></li>
+<li class="rss"><a href="/rss/">RSS</a></li>
+<li class="mail"><a href="mailto:news1200@naver.com">메일</a></li>
+<li class="mb"><a href="http://m.ccdailynews.com" target="_blank">모바일웹</a></li>
+</ul>
+</div>
+<!-- 메뉴 -->
+<div class="body-wrap-full top-nav">
+<!-- 섹션 -->
+<ul class="mega-menu" id="mega-menu">
+<li class="megaline all-menu-btn">
+<a class="first border-box" href="/news/articleList.html?view_type=sm"><u class="icon">icon</u><strong>전체</strong></a>
+<!-- 2차 -->
+<ul></ul>
+</li>
+<li class="megaline">
+<a class="first border-box" href="/news/articleList.html?theme=news&amp;view_type=sm"><strong>뉴스</strong></a>
+<!-- 2차 -->
+<ul>
+<li class="nobr sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N1&amp;view_type=sm">정치</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N2&amp;view_type=sm">경제</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N3&amp;view_type=sm">사회</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N26&amp;view_type=sm">교육</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N4&amp;view_type=sm">문화</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N8&amp;view_type=sm">포토뉴스</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N9&amp;view_type=sm">연예</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N25&amp;view_type=sm">스포츠</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N10&amp;view_type=sm">핫이슈</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N21&amp;view_type=sm">비주얼뉴스</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N12&amp;view_type=sm">사람과일</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N13&amp;view_type=sm">우리지역소식</a></li>
+<!--<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N23&view_type=sm" class="border-box">국제뉴스</a></li>-->
+</ul>
+</li>
+<li class="megaline">
+<a class="first border-box" href="/news/articleList.html?theme=local&amp;view_type=sm"><strong>지역</strong></a>
+<!-- 2차 -->
+<ul>
+<li class="nobr sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N5&amp;view_type=sm">충북</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N6&amp;view_type=sm">충남</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N7&amp;view_type=sm">대전/세종</a></li>
+</ul>
+</li>
+<li class="megaline">
+<a class="first border-box" href="/news/articleList.html?theme=plan&amp;view_type=sm"><strong>오피니언·기획</strong></a>
+<!-- 2차 -->
+<ul>
+<li class="nobr sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N16&amp;view_type=sm">오피니언</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N17&amp;view_type=sm">지난 오피니언</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_sub_section_code=S2N278&amp;view_type=sm">자랑스러운忠淸人</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_sub_section_code=S2N279&amp;view_type=sm">충북독립운동가열전</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_sub_section_code=S2N55&amp;view_type=sm">파워인터뷰</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_sub_section_code=S2N56&amp;view_type=sm">방과후학교우수사례</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_sub_section_code=S2N215&amp;view_type=sm">미주알고주알</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N24&amp;view_type=sm">CC온라인뉴스룸</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_sub_section_code=S2N281&amp;view_type=sm">명인열전</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_sub_section_code=S2N280&amp;view_type=sm">다시 보는 충청일보,<br/>50년 전 오늘</a></li>
+<li class="sub"><a class="border-box" href="/news/articleList.html?sc_section_code=S1N15&amp;view_type=sm">지난 기획연재</a></li>
+</ul>
+</li>
+<li class="megaline">
+<a class="first border-box" href="/tv/"><strong>충청일보TV</strong></a>
+<!-- 2차 -->
+<ul>
+<li class="nobr sub"><a class="border-box" href="/tv/?sc_section_code=TV1C2">동영상뉴스</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C6">미니다큐</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C4">문화행사</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C5">낮은의자</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C8">충청문화산책</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C9">뉴스이슈!</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C10">사설돋보기</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C11">우리말툰</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C12">노메이크업</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C14">웹드라마 [도플갱어]</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C15">모션뉴스</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C16">이슈 톡톡!</a></li>
+<li class="sub"><a class="border-box" href="/tv/?sc_section_code=TV1C17">안녕,오늘!</a></li>
+</ul>
+</li>
+<!--<li class="megaline point ent">
+						<a href="/event/art01.html" class="first border-box"><strong>충청일보어린이합창단</strong></a>
+						<!-- 2차 -->
+<!--<ul></ul>
+					</li>-->
+<li class="megaline point etc">
+<a class="first border-box" href="/bbs/list.html?table=bbs_11"><strong>커뮤니티</strong></a>
+<!-- 2차 -->
+<ul>
+<li class="nobr sub"><a class="border-box" href="/bbs/list.html?table=bbs_11">공지사항</a></li>
+<!--<li class="sub"><a href="/bbs/list.html?table=bbs_13" class="border-box">자유게시판</a></li>-->
+<li class="sub"><a class="border-box" href="/com/jb.html">기사제보</a></li>
+</ul>
+</li>
+<!--<li class="megaline etc">
+						<a href="/event/event_biz.html?category=01&submenu=48" class="first border-box"><strong>대회·행사</strong></a>
+						<!-- 2차 -->
+<!--<ul style="width:220px">
+							<li class="nobr sub"><a href="/event/event_biz.html?category=01&submenu=48" class="border-box">3.1절 경축마라톤</a></li>
+							<li class="sub"><a href="/event/event_biz.html?category=02&submenu=35" class="border-box">충북시·군대항역전마라톤대회</a></li>
+							<li class="sub"><a href="/event/event_biz.html?category=03&submenu=09" class="border-box">직지배볼링대회</a></li>
+							<li class="sub"><a href="/event/event_biz.html?category=04&submenu=11" class="border-box">충청페스티벌</a></li>
+							<li class="sub"><a href="/event/event_biz.html?category=06&submenu=05" class="border-box">충청대상</a></li>
+							<li class="sub"><a href="/event/miss01.html" class="border-box">미스코리아 충북/세종선발대회</a></li>
+							<li class="sub"><a href="/event/miss01_1.html" class="border-box">미스코리아 대전/충남선발대회</a></li>
+							<li class="sub"><a href="http://www.missfirst.org/" class="border-box">미스인터콘티넨탈</a></li>
+							<li class="sub"><a href="/event/70th.html" class="border-box">충청일보 창간70주년 기념식</a></li>
+						</ul>
+					</li>-->
+<li class="megaline etc">
+<a class="first border-box" href="/paoin/"><strong>지면서비스</strong></a>
+<!-- 2차 -->
+<ul></ul>
+</li>
+<!--<li class="megaline etc">
+						<a href="http://www.ccdailynews.com/" class="first border-box"><strong>CCDailyNews</strong></a>
+						<!-- 2차 -->
+<!--<ul></ul>
+					</li>-->
+</ul>
+<!-- 검색 -->
+<fieldset class="top-search border-box">
+<form action="http://www.ccdailynews.com/engine_yonhap/search.php" id="topSearchForm" method="post" name="topSearchForm" onsubmit="return SearchCheck();">
+<input name="sc_area" type="hidden" value="A"/>
+<input name="view_type" type="hidden" value="sm"/>
+<a class="sch-plus" href="/engine_yonhap/search.php">상세검색<u class="icon">icon</u></a>
+<input class="inptxt" id="Search1" maxlength="255" name="" onclick="setSearchBox(1);" value="검색어 입력"/>
+<input id="Search2" maxlength="255" name="sc_word" style="display:none;"/>
+<button onclick="setSearchBox(1);" title="기사검색">기사검색</button>
+</form>
+</fieldset>
+<!-- 확장 버튼 -->
+<span class="aside-btn"><a href="#aSide">열기/닫기</a></span>
+</div>
+<script type="text/javascript">resizePhoto.addEvt(window, "load", resizePhoto.init);//이미지 리사이즈+light box</script>
+<!--기사면 플로팅 배너-->
+<style>
+#floating_banner_body {position:relative; margin:0 auto; width:960px;}
+#floating_banner_left {position:absolute; width:120px; z-index:100; left:-170px; top:0px;}
+#floating_banner_right {position:absolute; width:160px; z-index:100; right:-445px; top:0px;}
+#floating_banner_right2 {position:absolute; width:160px; z-index:100; right:-180px; top:610px;}
+</style>
+<script>
+jQuery(window).scroll(function()
+    {
+     jQuery("#floating_banner_left").stop();
+     jQuery("#floating_banner_right").stop();
+     if (jQuery(window).scrollTop() > 600) jQuery("#floating_banner_left").animate({top:(jQuery(window).scrollTop() - 200) + "px"}, 100, "linear");
+     else jQuery("#floating_banner_left").animate({top:"0px"}, 200, "linear");
+     if (jQuery(window).scrollTop() > 600) jQuery("#floating_banner_right").animate({top:(jQuery(window).scrollTop() - 200) + "px"}, 100, "linear");
+     else jQuery("#floating_banner_right").animate({top:"0px"}, 200, "linear");
+    });
+</script>
+<div id="floating_banner_body">
+<ul class="nd_floating_banner" data-duration="300" data-parent-target="ND_Warp" data-scroll="y" data-top-margin="5" id="floating_banner_left">
+<li>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 신규 좌측세로긴광고 190816_주석
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-7807869119016929"
+     data-ad-slot="5169227474"></ins>
+<script>
+(adsbygoogle = ｗｉｎｄｏｗ.adsbygoogle || []).push({});
+</script>-->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 기사좌측 세로긴 배너
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:600px"
+     data-ad-client="ca-pub-7807869119016929"
+     data-ad-slot="1034133016"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> -->
+<!-- 기사좌측 세로긴 배너  2017-04-14 180809삭제
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<ins class="adsbygoogle"
+				 style="display:inline-block;width:120px;height:600px"
+				 data-ad-client="ca-pub-7807869119016929"
+				 data-ad-slot="1034133016"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>	-->
+</li>
+</ul>
+<ul class="nd_floating_banner" data-duration="300" data-scroll="y" data-top-margin="5" id="floating_banner_right">
+<li>
+<!--  2017-04-14
+			<div id="realssp_ccdaily00001_9034" class="realssp_dv" data-mcode="Y2NkYWlseTAwMDAxXzkwMzQ="></div>
+			<script src="http://nw.realssp.co.kr/realclickssp.js?v=1.0&m=ccdaily00001_9034&t=j" async></script>
+			-->
+</li>
+</ul>
+<ul class="nd_floating_banner" data-duration="300" data-scroll="n" data-top-margin="5" id="floating_banner_right2">
+<li>
+</li>
+</ul>
+</div>
+<div id="ND_Warp"><div id="divLAS" style="visibility:hidden;"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="960">
+<tr>
+<td align="left" valign="top" width="690">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" style="padding:0px 0;"><!--<iframe src="/adNdsoft/realclick_articleView_top.html" noresize scrolling="no" hspace="0" vspace="0"frameborder="0" marginwidth="0" marginheight="0" width="690"  height="100" align="center"></iframe>-->
+<!--180809<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- 기사상단광고
+				<ins class="adsbygoogle"
+					 style="display:inline-block;width:690px;height:90px"
+					 data-ad-client="ca-pub-7807869119016929"
+					 data-ad-slot="1173733814"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>-->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 기사상단광고 
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-7807869119016929"
+     data-ad-slot="1173733814"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>-->
+</td>
+</tr>
+</table>
+<table bgcolor="#d0d0d0" border="0" cellpadding="0" cellspacing="1" width="100%">
+<tr>
+<td bgcolor="#f6f6f6" style="padding:10px 20px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="View_Local"><a href="http://www.ccdailynews.com" target="_top">홈</a>
+							 &gt; <a href="/news/articleList.html?sc_section_code=S1N10"><strong>핫이슈</strong></a> </td>
+</tr>
+<tr>
+<td style="padding:5px 0px;">
+<div class="View_Title"><strong><!--CM_TITLE-->신동빈 3일 귀국 유력…롯데홀딩스 주총 준비 끝난 듯<!--/CM_TITLE--></strong></div><div class="View_Info">서한솔 기자  |  <a href="mailto.html?mail=rachelnews@ccdailynews.com">rachelnews@ccdailynews.com</a></div> </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table bgcolor="#efefef" border="0" cellpadding="0" cellspacing="0" style="margin-bottom:10px; border-left:1px solid #d0d0d0; border-right:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0;" width="100%">
+<tr>
+<td style="padding:5px 0;" width="140">
+<table border="0" cellpadding="0" cellspacing="0" style="margin-left:5px;">
+<tr>
+<!-- <td><img src="/image2006/default/btn_golist.gif" width="55" height="12"></td> //-->
+<td><a href="javascript:fontPlus();" title="폰트키우기"><img alt="폰트키우기" border="0" src="/image2006/default/btn_textbig.gif"/></a></td>
+<td><a href="javascript:fontMinus();" title="폰트줄이기"><img alt="폰트줄이기" border="0" src="/image2006/default/btn_textsmall.gif"/></a></td>
+<td style="padding-left:5px;"><a href="javascript:articlePrint('802328');" title="프린트하기"><img alt="프린트하기" border="0" src="/image2006/default/btn_print.gif"/></a></td>
+<td><a href="javascript:articleMail('802328');" title="메일보내기"><img alt="메일보내기" border="0" src="/image2006/default/btn_send.gif"/></a></td>
+<td><a href="javascript:articleErr('802328');" title="신고하기"><img alt="신고하기" border="0" src="/image2006/default/btn_ermail.gif"/></a></td>
+</tr>
+</table>
+</td>
+<td>
+<div class="View_Time"><span>승인</span> 2015.08.02  10:50:34</div> </td>
+<td align="right">
+<table border="0" cellpadding="0" cellspacing="0" style="margin-right:5px;">
+<tr>
+<td><a href="http://twitter.com/home?status=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF+http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328" target="_blank" title="트위터"><img alt="트위터" border="0" src="/image2006/default/Twitter.gif"/></a></td>
+<td style="padding-left:3px;"><a class="face" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328&amp;t=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF" target="_blank" title="페이스북"><img alt="페이스북" border="0" src="/image2006/default/facebook.gif"/></a></td>
+<!-- <td style="padding-left:3px;"><a href="http://me2day.net/posts/new?new_post[body]=%22%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF%22%3Ahttp%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328&new_post[tags]=%EC%B6%A9%EC%B2%AD%EC%9D%BC%EB%B3%B4" target="_blank" title="미투데이"><img src="/image2006/default/me2day.gif" border="0" alt="미투데이"></a></td> -->
+<!-- <td style="padding-left:3px;"><a href="#" title="요즘" onclick="javascript:window.open('http://yozm.daum.net/api/popup/prePost?sourceid=&link=&prefix=', 'yozm', 'width=466, height=356' );returnfalse;"><img src="/image2006/default/yozm.gif" border="0" alt="요즘"></a></td> -->
+<td style="padding-left:3px;"><a href="http://bookmark.naver.com/post?ns=1&amp;title=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF&amp;url=http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328" target="_blank" title="네이버"><img alt="네이버" border="0" src="/image2006/default/naver.gif"/></a></td>
+<td style="padding-left:3px;"><a href="http://www.google.com/bookmarks/mark?op=add&amp;title=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF&amp;bkmk=http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328" target="_blank" title="구글"><img alt="구글" border="0" src="/image2006/default/google.gif"/></a></td>
+<td style="padding-left:3px;"><a href="http://profile.live.com/badge?url=http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328&amp;text=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF" target="_blank" title="msn"><img alt="msn" border="0" src="/image2006/default/msn.gif"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table bgcolor="#d0d0d0" border="0" cellpadding="10" cellspacing="1" width="690">
+<tr>
+<td bgcolor="#ffffff">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+<tr>
+<td class="view_r" id="articleBody" style="padding:10px 0;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="500">
+<tbody>
+<tr>
+<td width="10"> </td>
+<td align="center"><img alt="" border="1" src="http://www.ccdailynews.com/news/photo/201508/802328_299190_5112.jpg" width="500"/></td>
+<td width="10"> </td>
+</tr>
+<tr>
+<td class="view_r_caption" colspan="3" id="font_imgdown_802328">▲ 신동빈 롯데그룹 회장(오른쪽 두 번째)이 지난 7월 8일 오후 서울 중구 롯데호텔에서 열린 롯데그룹 사장단 회의에서 사장단과 티타임을 갖고 있다.</td>
+</tr>
+</tbody>
+</table><p>신동빈 한국 롯데그룹 회장이 오는 3일 입국할 것으로 알려지면서 일본 롯데의 지주회사 역할을 하는 롯데홀딩스가 주주총회를 위한 준비작업을 끝냈다는 관측이 나오고 있다.</p>
+<p>신동빈 회장이 롯데홀딩스 이사회를 장악하고 있는 만큼 현재로선 신동주 전 롯데홀딩스 부회장이 요구하는 이사진 교체 요구가 안건으로 상정될 가능성은 희박하고, 정관 개정을 통해 신격호 총괄회장을 명예회장으로 추대하는 안건이 처리될 것으로 보인다.</p>
+<p>하지만 한일 롯데그룹의 핵심 지주사인 광윤사(고쥰사:光潤社)와 롯데홀딩스의 지분구조가 베일에 싸여 있는 상황이어서 신동빈 회장 측의 주장과 달리, 신격호 총괄회장의 경영판단이 정상적인 상태로 확인될 경우 롯데홀딩스 주주총회가 이사회와는 다른 양상으로 흐를 가능성도 배제할 수 없다는 분석이 제기되고 있다.</p>
+<p>이 때문에 신동주 전 부회장과 신동빈 회장 측은 주총 표 대결을 염두에 두고 신격호 총괄회장과 친족들에 대한 설득과 함께 주주 표심 관리에 전력을 다하고 있는 것으로 전해졌다. <span name="inspace_pos"> </span></p>
+<p>이런 가운데 신동주 전 부회장을 적극 지지하는 것으로 알려졌던 신동인 롯데자이언츠 구단주 직무대행이 경영권 분쟁에 휘말리기 부담스럽다는 입장을 보여 이번 사태의 또 다른 변수가 될지 주목된다.<span name="inspace_pos"> </span></p>
+<p>롯데 관계자는 1일 "신동빈 회장이 1∼2일에는 귀국하지 않을 예정"이라며 "현재로선 3일 귀국할 가능성이 가장 가능성이 크다"고 말했다.</p>
+<p>신동빈 회장이 일본에서 귀국한다는 것은 일본 롯데홀딩스 주총을 위한 준비가 어느 정도 끝났다는 의미로 받아들여질 수 있다.</p>
+<p>다른 롯데 관계자는 "정관변경 때문에 (롯데홀딩스가) 주총을 열어야 한다는 점은 이사회 당시(지난달 28일)부터 거론됐다"며 "이사회 멤버들이 이미 필요성을 알고있기 때문에 주총 소집을 결의하는 별도의 절차는 없을 가능성이 크다"고 말했다.</p>
+<p>이처럼 주총이 임박했다는 설이 나오고 있지만 롯데홀딩스는 공식적으로는 주총 개최 시기에 대해 미정(it is undecided)이란 답변만 내놓고 있다.</p>
+<p>신격호 총괄회장이 장남 신동주 전 부회장을 지지하고 있다는 분석에 힘이 실리면서 베일에 싸인 롯데홀딩스 지분구조에 관심이 모아지고 있다.</p>
+<p>비상장법인인 롯데홀딩스 지분구조는 일본 유명 기업정보 분석 사이트에조차 제대로 공개된 적이 없다.<span name="inspace_pos"> </span></p>
+<p>국내 언론은 신격호 총괄회장이 28%, 일본 롯데 지배구조의 정점에 있는 소규모 포장재 회사 광윤사가 27.65%, 신동주·동빈 형제가 각 20% 안팎을 가진 것으로 추정해왔다. <span name="inspace_pos"> </span></p>
+<p>그러나 신동주 전 부회장은 일본 언론과의 인터뷰에서 "롯데홀딩스의 의결권은 아버지가 대표인 자산관리 회사가 33％를 지닌다. 나는 2％ 미만이지만 32％ 넘는 종업원 지주회를 합하면 3분의 2"라고 주장했다.</p>
+<p>여기에 신격호 총괄회장의 숨겨진 우호세력과 함께 그의 부인이자, 신동주·동빈 형제의 모친인 시게미쓰 하쓰코(重光初子)씨의 지분도 있을 가능성도 크다.</p>
+<p>신동주 전 부회장과 신동빈 회장 모두 50% 이상의 우호지분을 확보했다고 주장하고 있지만 지금으로선 누구의 말이 진실인지 예측하기조차 어려운 것도 이 때문이다.<span name="inspace_pos"> </span></p>
+<p>다만, 롯데홀딩스 이사회를 장악한 신동빈 회장 측은 신격호 총괄회장을 명예회장에 앉히기 위한 정관변경 안건만을 상정하기를 원하는 반면 신동주 전 부회장은 이사진 교체를 제의하겠다고 맞서고 있어 주총 개최의 걸림돌로 작용할 가능성도 있다.<span name="inspace_pos"> </span></p>
+<p>한편, 시아버지 제사에 참석하러 한국에 왔다던 시게미쓰 하쓰코씨는 전날 제사에 참석하지 않은 채 이날 오후 일본으로 출국했다.</p>
+<p>일각에선 신동빈 회장을 지지하는 것으로 분석됐던 그가 제사에 참석하지 않은 것을 두고 애초 신격호 총괄회장의 마음을 돌리러 한국에 온 것이 아니냐는 추측을 하고 있다.<span name="inspace_pos"> </span></p>
+<p>이에 대해 롯데 측은 "총괄회장의 건강 상태가 걱정돼 곁을 떠나지 않은 것으로 보인다"며 "원래 모든 제사에 참석했던 건 아니기 때문에 총괄회장이 없는 상태에서 혼자 참석하는 것이 어색했거나, 집 앞에서 대기하고 있던 취재진이 부담스러웠을 가능성도 있다"고 전했다.<span name="inspace_pos"> </span></p>
+<p>신동인 롯데자이언츠 구단주 직무대행은 이날 연합뉴스와의 전화통화에서 이번 경영권 분쟁을 바라보는 시각에 대해 "나는 이번 일과 관련이 없고, 특별히 의견도 없다"고 분명히 선을 그었다. 사실상 경영권 다툼에 휘말리는 것에 대해 부담스럽다는 뜻을 내비친 셈이다.<span name="inspace_pos"> </span></p>
+<p>앞서 신동주 전 부회장은 국내 방송과의 인터뷰에서 신영자 롯데장학재단 이사장의 태도가 "중립"이라면서 "아버지인 총괄회장이 걱정돼 일본에 따라간 것뿐"이라고 밝혔다.<span name="inspace_pos"> </span></p>
+<p>이에 대해 지난달 27일 일본행에 동참해 신동주 전 부회장의 지지세력으로 알려졌던 신영자 이사장과 신동인 구단주 대행이 이번 사태와 거리를 두려는 듯한 조짐을 보인 것이란 해석이 나오고 있다. <span name="inspace_pos"> </span></p>
+<!--
+							<div style="width:250px; float:right;">
+								<script type="text/javascript">
+								google_ad_client = "ca-pub-9519728545993334";
+								/* 충청일보 */
+								google_ad_slot = "1424188555";
+								google_ad_width = 250;
+								google_ad_height = 250;
+								google_ad_region="chungchung";
+								//--><!--</ script>
+								< script type="text/javascript"src="//pagead2.googlesyndication.com/pagead/show_ads.js">< /script>
+							</div>-->
+</td>
+</tr>
+<tr>
+<td class="view_copyright">&lt;저작권자 © 충청일보 무단전재 및 재배포금지&gt;</td>
+</tr>
+<!--180817추가작업-->
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 기사하단 첫번째 광고 
+<ins class="adsbygoogle"
+     style="display:inline-block;width:640px;height:165px"
+     data-ad-client="ca-pub-7807869119016929"
+     data-ad-slot="2510866215"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>-->
+</td>
+</tr>
+<!--180817추가작업-->
+<!--핫클릭<tr>
+							<td style="padding-top:20px;">
+								<iframe src="/Autobox/640_world.html" width="640" height="208" frameborder="0" scrolling="no" noresize></iframe>
+							</td>
+						</tr>-->
+<!-- 기사 본문 하단, 광고
+						<tr><td height="30"></td></tr>
+						<tr><td>
+						   <FONT SIZE="3">
+						  <A HREF="http://segiad.com/" target="_blank">
+							  <p><strong><span style="color: rgb(255, 0, 0);">[HOT]</span></strong><strong> 변호사홈페이지 전문제작, 알아서 다~ 해드립니다!</strong></p> </A>
+						  <A HREF="http://smartmoja.com/bbs/board.php?bo_table=notice&wr_id=18" target="_blank">
+							  <p><strong><span style="color: rgb(255, 0, 0);">[이슈]</span></strong><strong> 무한도전 박명수 정준하가 쓰고나온, 바로 그 스냅백제작!</strong></p> </A>
+						  <A HREF="http://luckyunse.com/sub05_3.php" target="_blank">
+							  <p><strong><span style="color: rgb(255, 0, 0);">[추천]</span></strong><strong> 37년전통 옥수산장작명소, 작명공부 2개월이면 완성, 평생직업의 기회!</strong></p> </A>
+							</FONT>
+						</td></tr> -->
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td align="center"><!--180809<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 기사하단 첫번째 광고
+<ins class="adsbygoogle"
+     style="display:inline-block;width:640px;height:250px"
+     data-ad-client="ca-pub-7807869119016929"
+     data-ad-slot="2510866215"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> --></td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<!--<td align="center"><IFRAME src="/Autobox/640_hotnews.html" NORESIZE SCROLLING="no" HSPACE="0" VSPACE="0" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" WIDTH="640"  HEIGHT="430" align="center"></IFRAME></td>-->
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="640">
+<tr>
+<td align="right" colspan="2" height="24"><img height="10" src="/image2006/default/icon_arrow.gif" width="10"/><span style="font-size:9pt; line-height:5mm;"><a href="articleList.html?sc_area=I&amp;sc_word=julia0511"><font color="#666666">서한솔 기자의 다른기사 보기</font></a>  </span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table bgcolor="#efefef" border="0" cellpadding="0" cellspacing="0" style="border-left:1px solid #d0d0d0; border-right:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0;" width="100%">
+<tr>
+<td style="padding:5px 0;">
+<table border="0" cellpadding="0" cellspacing="0" style="margin-left:5px;">
+<tr>
+<!-- <td><img src="/image2006/default/btn_golist.gif" width="55" height="12"></td> //-->
+<td><a href="javascript:fontPlus();" title="폰트키우기"><img alt="폰트키우기" border="0" src="/image2006/default/btn_textbig.gif"/></a></td>
+<td><a href="javascript:fontMinus();" title="폰트줄이기"><img alt="폰트줄이기" border="0" src="/image2006/default/btn_textsmall.gif"/></a></td>
+<td style="padding-left:5px;"><a href="javascript:articlePrint('802328');" title="프린트하기"><img alt="프린트하기" border="0" src="/image2006/default/btn_print.gif"/></a></td>
+<td><a href="javascript:articleMail('802328');" title="메일보내기"><img alt="메일보내기" border="0" src="/image2006/default/btn_send.gif"/></a></td>
+<td><a href="javascript:articleErr('802328');" title="신고하기"><img alt="신고하기" border="0" src="/image2006/default/btn_ermail.gif"/></a></td>
+</tr>
+</table>
+</td>
+<td align="right">
+<table border="0" cellpadding="0" cellspacing="0" style="margin-right:5px;">
+<tr>
+<td><a href="http://twitter.com/home?status=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF+http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328" target="_blank" title="트위터"><img alt="트위터" border="0" src="/image2006/default/Twitter.gif"/></a></td>
+<td style="padding-left:3px;"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328&amp;t=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF" target="_blank" title="페이스북"><img alt="페이스북" border="0" src="/image2006/default/facebook.gif"/></a></td>
+<!-- <td style="padding-left:3px;"><a href="http://me2day.net/posts/new?new_post[body]=%22%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF%22%3Ahttp%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328&new_post[tags]=%EC%B6%A9%EC%B2%AD%EC%9D%BC%EB%B3%B4" target="_blank" title="미투데이"><img src="/image2006/default/me2day.gif" border="0" alt="미투데이"></a></td> -->
+<!-- <td style="padding-left:3px;"><a href="#" title="요즘" onclick="javascript:window.open('http://yozm.daum.net/api/popup/prePost?sourceid=&link=&prefix=', 'yozm', 'width=466, height=356' );returnfalse;"><img src="/image2006/default/yozm.gif" border="0" alt="요즘"></a></td> -->
+<td style="padding-left:3px;"><a href="http://bookmark.naver.com/post?ns=1&amp;title=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF&amp;url=http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328" target="_blank" title="네이버"><img alt="네이버" border="0" src="/image2006/default/naver.gif"/></a></td>
+<td style="padding-left:3px;"><a href="http://www.google.com/bookmarks/mark?op=add&amp;title=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF&amp;bkmk=http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328" target="_blank" title="구글"><img alt="구글" border="0" src="/image2006/default/google.gif"/></a></td>
+<td style="padding-left:3px;"><a href="http://profile.live.com/badge?url=http%3A%2F%2Fwww.ccdailynews.com%2Fnews%2FarticleView.html%3Fidxno%3D802328&amp;text=%EC%8B%A0%EB%8F%99%EB%B9%88+3%EC%9D%BC+%EA%B7%80%EA%B5%AD+%EC%9C%A0%EB%A0%A5%E2%80%A6%EB%A1%AF%EB%8D%B0%ED%99%80%EB%94%A9%EC%8A%A4+%EC%A3%BC%EC%B4%9D+%EC%A4%80%EB%B9%84+%EB%81%9D%EB%82%9C+%EB%93%AF" target="_blank" title="msn"><img alt="msn" border="0" src="/image2006/default/msn.gif"/></a></td>
+<td style="padding-left:6px;"><a href="javascript:history.back();" title="뒤로가기"><img alt="뒤로가기" border="0" src="/image2006/default/btn_back2.gif"/></a></td>
+<td><a href="javascript:scroll(0,0);" title="위로가기"><img alt="위로가기" border="0" src="/image2006/default/btn_top.gif"/></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="690">
+<tr>
+<td align="center" style="padding-top:10px"><!-- <iframe src="/adNdsoft/realclick_articleView_bottom.html" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" width="690"  height="100" align="center"></iframe> -->
+<!-- 181217 주석
+					<div id="realssp_ccdaily00001_1471" class="realssp_dv" data-mcode="Y2NkYWlseTAwMDAxXzE0NzE="></div><script src="http://nw.realssp.co.kr/realclickssp.js?v=1.0&m=ccdaily00001_1471&t=j"></script>
+					-->
+<!-- 190816 주석 -->
+<!-- <iframe data-src="//ssp.realclick.co.kr/?m=Y2NkYWlseTAwMDAxXzE0NzE=&c=iframe" align="center" frameBorder="0" marginWidth="0" marginHeight="0" scrolling="no" topmargin="0" width="570px" height="240px" style="display:block;" id="realssp_ccdaily00001_1471" class="realssp" title="리얼클릭 배너광고"></iframe><script src="//ssp.realclick.co.kr/realclickssp.js?v=1.0&m=ccdaily00001_1471&t=i" async></script> -->
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="690">
+<tr>
+<td align="center" style="padding-top:10px">
+<span id="realclick_view"></span>
+<script type="text/javascript">
+						function rc_ad_display(posi){var rcAdStr="";try{if(rcHead!="")rcAdStr+=rcHead;if(rcBody!="")rcAdStr+=rcBody;if(rcFoot!="")rcAdStr+=rcFoot;if(rcAdStr!=""){document.getElementById(posi).innerHTML=rcAdStr;}}catch(e){}}
+						function loadJS(url,posi,charset){var hd=document.getElementsByTagName('head')[0];var sc=document.createElement('script');sc.type='text/javascript';if(charset!=null){sc.charset="euc-kr";}
+						var ld=false;sc.onreadystatechange=function(){try{if(this.readyState=='loaded'||this.readyState=='complete'){if(ld)return;ld=true;rc_ad_display(posi);}}
+						catch(e){}};sc.onload=function(){rc_ad_display(posi);};sc.src=url;hd.appendChild(sc);}
+						function load_rc_ad(sevn,objf,posi){var adSrc="http://"+sevn+".realclick.co.kr/"+objf;loadJS(adSrc,posi,'euc-kr');}
+						$(document).ready(function(){ var open_height=$('#realclick_view').offset().top; var open=false; $(window).scroll(function(){ var distanceTop=open_height-$(window).height(); if($(window).scrollTop()>distanceTop){if(open=="0"){open=true;load_rc_ad('ade','ad_tpl/headcopy.rc?dsn=1&mcode=Y2NkYWlseTEz','realclick_view');}}})});
+						</script>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="690"><tr height="10"><td></td></tr></table>
+<div class="vote-container"></div>
+<table bgcolor="#fafafa" border="0" cellpadding="10" cellspacing="0" class="reply-write-container" style="border-top:1px solid #d0d0d0;" width="690">
+<form action="articleReply.php" method="post" name="articleReplyForm">
+<input name="prt_idxno" type="hidden" value="802328"/>
+<tr>
+<td bgcolor="#f6f6f6" height="36" style="border-bottom:1px solid #d0d0d0;">
+<div class="View_SmFont FontKor Reply_View">이 기사에 대한 <strong>댓글 이야기</strong> <font class="FontEng">(0)</font></div>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td><input class="input1" name="name" onkeydown="clrImg(this)" onmousedown="clrImg(this)" size="20" style="height:22px; background:url(/image2006/admin/new/AdminCopy_Text.gif) no-repeat -5px -6px; background-color:#fff; padding:4px 6px;" type="text" value=""/></td>
+<td style="padding-left:5px;"><input class="input1" name="password" onkeydown="clrImg(this)" onmousedown="clrImg(this)" size="20" style="height:22px; background:url(/image2006/admin/new/AdminCopy_Text.gif) no-repeat -5px -66px; background-color:#fff; padding:4px 6px;" type="password"/></td>
+<td style="padding-left:5px;">
+<script src="/kcaptcha/js/jquery-1.5.min.js" type="text/javascript"></script>
+<script src="/kcaptcha/js/md5.js" type="text/javascript"></script>
+<script src="/kcaptcha/js/jquery.kcaptcha.js" type="text/javascript"></script>
+<font class="View_SmFont FontKor">자동등록방지용 코드를 입력하세요!</font> <img align="absmiddle" border="1" class="input1" id="kcaptcha_image" style="cursor:pointer;"/>  <input class="input1" id="writekey" maxlength="4" name="writekey" style="height:18px;width:45px;text-align:center;ime-mode:active;" type="input"/>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="margin-top:5px;">
+<tr>
+<td width="600"><textarea class="input1" id="content" name="content" onkeyup="checkMsgLength('content','nbyte1',400); var m=50;var s=this.scrollHeight;if(s&gt;=m)this.style.pixelHeight=s+4;" rows="4" style="overflow:hidden; width:595px; height:50px; padding:5px 5px;"></textarea></td>
+<td onclick="javascript:articleReplySubmit2(document.articleReplyForm);" style="border:1px solid #d0d0d0; text-align:center; background-color:#fff; cursor:pointer;" width="80"><strong style="color:#404040;">확인</strong></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="margin-top:5px;" width="100%">
+<tr>
+<td class="View_SmFont FontKor" style="line-height:160%;">
+						- <!--<strong>의견쓰기는 로그인후에 가능하며,</strong>//--><strong><font class="FontEng">200</font>자까지 쓰실 수 있습니다.</strong> (현재 <font class="FontEng"><span id="nbyte1">0</span> byte</font> / 최대 <font class="FontEng">400byte</font>)<br/>
+						- 욕설등 인신공격성 글은 삭제 합니다. <strong>[운영원칙]</strong>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</form>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-top:1px solid #d0d0d0;" width="690">
+<tr>
+<td style="padding:0 10px;">
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#f6f6f6" height="36" style="border-top:1px solid #d0d0d0; border-bottom:1px solid #d0d0d0;"><div class="View_SmFont FontKor">이 기사에 대한 <strong>댓글 이야기</strong> <font class="FontEng">(0)</font></div></td>
+</tr>
+</table>
+<!-- 실명제 체크 -->
+<script src="/vote/vote.js" type="text/javascript"></script>
+<script>
+	vote.voteCheck(
+		jQuery('.reply-write-container'),	// 폐쇄시 제거할 영역
+		'S',								// 실명제 구분값(@A:pc버전, @B모바일버전)
+		'/news/articleView.html'	// 리턴URL
+	);
+</script>
+</td>
+<td width="20"></td>
+<td align="right" valign="top" width="250">
+<table align="center" cellpadding="0" cellspacing="0" width="250">
+<script language="JavaScript" type="text/javascript">
+  		<!--
+  			function viewPhoto(idxno) {
+				var url = "photoView.html?idxno=" + idxno;					
+				window.open(url, 'photoView', 'width=640, height=500, scrollbars=yes');
+			}
+  		//-->
+		</script>
+</table><div class="BoxDesign_bgr1" style="width:250px;">
+<dl>
+<dt><strong class="btm_Icon">가장 <font color="#013b8f">많이 본</font> 뉴스</strong></dt>
+<dd><div class="ArticleNew"><span class="TabHotNewC" style="height:38px; font-family:Dotum; line-height:15px; margin-bottom:15px;">
+<span class="HotBtLine"><h1 class="blueBg" style="width:100%;"></h1></span>
+<div class="gray num1" style="margin-left:5px;">1</div>
+<div style="padding-top:2px;"><a class="FtColor_typeA OnLoad" href="/news/articleView.html?idxno=1040756" target="_top">한국 넘어 유럽서 성공한 재즈 보컬 나윤선 콘서트</a></div>
+</span><span class="TabHotNewC" style="height:38px; font-family:Dotum; line-height:15px; margin-bottom:15px;">
+<span class="HotBtLine"><h1 class="blueBg" style="width:80%;"></h1></span>
+<div class="gray num2" style="margin-left:5px;">2</div>
+<div style="padding-top:2px;"><a class="FtColor_typeA OnLoad" href="/news/articleView.html?idxno=1040772" target="_top">대전 50대 공무원 화재로 사망</a></div>
+</span><span class="TabHotNewC" style="height:38px; font-family:Dotum; line-height:15px; margin-bottom:15px;">
+<span class="HotBtLine"><h1 class="blueBg" style="width:60%;"></h1></span>
+<div class="gray num3" style="margin-left:5px;">3</div>
+<div style="padding-top:2px;"><a class="FtColor_typeA OnLoad" href="/news/articleView.html?idxno=1040989" target="_top">충북 곳곳서 '발전소 논쟁'</a></div>
+</span><span class="TabHotNewC" style="height:38px; font-family:Dotum; line-height:15px; margin-bottom:15px;">
+<span class="HotBtLine"><h1 class="blueBg" style="width:40%;"></h1></span>
+<div class="gray num4" style="margin-left:5px;">4</div>
+<div style="padding-top:2px;"><a class="FtColor_typeA OnLoad" href="/news/articleView.html?idxno=1040693" target="_top">어기구 의원 쪼개기 후원금 수사 착수</a></div>
+</span><span class="TabHotNewC" style="height:38px; font-family:Dotum; line-height:15px; margin-bottom:0px;">
+<span class="HotBtLine"><h1 class="blueBg" style="width:20%;"></h1></span>
+<div class="gray num5" style="margin-left:5px;">5</div>
+<div style="padding-top:2px;"><a class="FtColor_typeA OnLoad" href="/news/articleView.html?idxno=1040747" target="_top">대전에 '지방 최초' 팁스타운 생긴다</a></div>
+</span></div></dd>
+</dl>
+</div><div class="BoxDefault_2_new" style="width:250px;">
+<dl>
+<dt><a href="/news/articleList.html?sc_section_code=S1N21&amp;view_type=sm">비주얼뉴스</a></dt>
+<dd><div class="auto-article auto-p03-visual width-full">
+<div class="auto-pager" id="pager_new_85" style="margin-left:-0px"></div>
+<ul class="flow-hide height-228" id="roll_new_85">
+</ul>
+</div>
+<script type="text/javascript">
+<!--
+
+(function($) {
+	$(function() {
+		
+		//rolling
+		$( '#roll_new_85' ).cycle({
+			fx:     'fade', 
+			pager:   '#pager_new_85', 
+			pagerEvent:   'mouseover.cycle', 
+			timeout: 5000,
+			pause: 1,
+			easing: 'easeOutExpo'
+		});
+
+	});
+})(jQuery);
+
+//-->
+</script>
+</dd>
+</dl>
+</div><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom:5px;" width="250">
+<tr>
+<td colspan="3"><!--충청인포_타이틀--<script language="javascript" src="/bannerManager/inc/50.html"></script><!--충청인포_타이틀--></td>
+</tr>
+<tr>
+<td><!--충청인포_시외버스--<script language="javascript" src="/bannerManager/inc/51.html"></script><!--충청인포_시외버스--></td>
+<td><!--충청인포_기차--<script language="javascript" src="/bannerManager/inc/52.html"></script><!--충청인포_기차--></td>
+<td><!--충청인포_날씨--<script language="javascript" src="/bannerManager/inc/53.html"></script><!--충청인포_날씨--></td>
+</tr>
+</table></td>
+</tr>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 신규 좌측세로긴광고 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-7807869119016929" data-ad-slot="5169227474" style="display:inline-block;width:160px;height:600px"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+</tr>
+</table> </td>
+</tr>
+</table>
+</div>
+</div>
+<!-- aside -->
+<div class="float-right width-270 body-aside">
+<!-- 상단배너 -->
+<div class="body-wrap-full top-header">
+<div class="top-banner">
+<!--<a href="https://www.bigkinds.or.kr/news/library90.do" target="_blank" class="dis-block">
+			<u class="img">image</u>
+			<span class="float-right width-160">
+				<i class="bn-logo">logo</i>
+				<h1 class="bn-title">90년대 이전 신문보기</h1>
+				<span class="bn-sum">1965 ~ 1989년</span>
+			</span>
+		</a>-->
+</div>
+</div>
+<!-- 메뉴 -->
+<div class="body-wrap-full height-45 auto-marbtm-30">
+<div class="float-right width-240 top-notice">
+<!-- 버튼 
+		<div class="notice-btn">
+			<a href="#prev" id="notice-prev" class="notice-prev" title="이전">이전</a>
+			<a href="#next" id="notice-next" class="notice-next" title="다음">다음</a>
+		</div>
+		-->
+</div>
+<script type="text/javascript">
+<!--
+
+(function($) {
+	$(function() {
+		
+		//rolling
+		$( '#notice-roll' ).cycle({
+			fx:     'scrollVert', 
+			prev:   '#notice-prev', 
+			next:   '#notice-next', 
+			timeout: 5000,
+			pause: 1,
+			easing: 'easeOutExpo'
+		});
+
+	});
+})(jQuery);
+
+//-->
+</script>
+</div>
+<!-- 컨텐츠 -->
+<div class="body-wrap-full">
+<div class="float-right width-250">
+<div style="margin-bottom:0px">
+<!--191210_진천군청--><script language="javascript" src="/bannerManager/inc/847.html"></script><!--191210_진천군청-->
+<!--충북도청 투자유치191210--><script language="javascript" src="/bannerManager/inc/846.html"></script><!--충북도청 투자유치191210-->
+<!--계룡건설_20191210--<script language="javascript" src="/bannerManager/inc/845.html"></script><!--계룡건설_20191210-->
+<!--청주교육청191209--><script language="javascript" src="/bannerManager/inc/844.html"></script><!--청주교육청191209-->
+<!--191206_태안군청--><script language="javascript" src="/bannerManager/inc/843.html"></script><!--191206_태안군청-->
+<!--옥천군_191205--><script language="javascript" src="/bannerManager/inc/842.html"></script><!--옥천군_191205-->
+<!--괴산군귀농귀촌_191203--><script language="javascript" src="/bannerManager/inc/841.html"></script><!--괴산군귀농귀촌_191203-->
+<!--한국국토정보공사_191128--><script language="javascript" src="/bannerManager/inc/837.html"></script><!--한국국토정보공사_191128-->
+<!--충북도의회_191203--><script language="javascript" src="/bannerManager/inc/840.html"></script><!--충북도의회_191203-->
+<!--lh_20191129--<script language="javascript" src="/bannerManager/inc/839.html"></script><!--lh_20191129-->
+<!--증평군인삼_191128--<script language="javascript" src="/bannerManager/inc/838.html"></script><!--증평군인삼_191128-->
+<!--아산시_191128--<script language="javascript" src="/bannerManager/inc/835.html"></script><!--아산시_191128-->
+<!--충주시_20191007--><script language="javascript" src="/bannerManager/inc/805.html"></script><!--충주시_20191007-->
+<!--중구191127--<script language="javascript" src="/bannerManager/inc/834.html"></script><!--중구191127-->
+<!--서원대학교_191127--><script language="javascript" src="/bannerManager/inc/832.html"></script><!--서원대학교_191127-->
+<!--충청북도체육회191127--><script language="javascript" src="/bannerManager/inc/831.html"></script><!--충청북도체육회191127-->
+<!--제천191126--<script language="javascript" src="/bannerManager/inc/830.html"></script><!--제천191126-->
+<!--기업진흥원191125--><script language="javascript" src="/bannerManager/inc/829.html"></script><!--기업진흥원191125-->
+<!--오토싱 청소기-->
+<div style="margin-bottom: 10px;">
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="141" src="https://www.youtube.com/embed/sWpCb9O9LII" width="250"></iframe>
+</div>
+<!--진천군의회_191121--><script language="javascript" src="/bannerManager/inc/828.html"></script><!--진천군의회_191121-->
+<!--보은_20191121--<script language="javascript" src="/bannerManager/inc/827.html"></script><!--보은_20191121-->
+<!--증평군의회191121--><script language="javascript" src="/bannerManager/inc/826.html"></script><!--증평군의회191121-->
+<!--제천시_20191121--<script language="javascript" src="/bannerManager/inc/825.html"></script><!--제천시_20191121-->
+<!--청주시_20191119--><script language="javascript" src="/bannerManager/inc/824.html"></script><!--청주시_20191119-->
+<!--191119_증평군청 좌구산--><script language="javascript" src="/bannerManager/inc/823.html"></script><!--191119_증평군청 좌구산-->
+<!--음성군_20191119--><script language="javascript" src="/bannerManager/inc/822.html"></script><!--음성군_20191119-->
+<!--기업진흥원191118<script language="javascript" src="/bannerManager/inc/821.html"></script>기업진흥원191118-->
+<!--가네진_20191114--<script language="javascript" src="/bannerManager/inc/820.html"></script><!--가네진_20191114-->
+<!--충주_20191113--<script language="javascript" src="/bannerManager/inc/819.html"></script><!--충주_20191113-->
+<!--보이스피싱191113--<script language="javascript" src="/bannerManager/inc/818.html"></script><!--보이스피싱191113-->
+<!--가을을걷는다_20191112--><script language="javascript" src="/bannerManager/inc/817.html"></script><!--가을을걷는다_20191112-->
+<!--191107_논산--><script language="javascript" src="/bannerManager/inc/816.html"></script><!--191107_논산-->
+<!--191106_계룡시--<script language="javascript" src="/bannerManager/inc/815.html"></script><!--191106_계룡시-->
+<!--음성군전입_20191105--<script language="javascript" src="/bannerManager/inc/814.html"></script><!--음성군전입_20191105-->
+<!--옥천9경191023--<script language="javascript" src="/bannerManager/inc/813.html"></script><!--옥천9경191023-->
+<!--두산인프라코어_191022--><script language="javascript" src="/bannerManager/inc/812.html"></script><!--두산인프라코어_191022-->
+<!--송원요양원_191022--<script language="javascript" src="/bannerManager/inc/811.html"></script><!--송원요양원_191022-->
+<!--191021_예당국제공연--<script language="javascript" src="/bannerManager/inc/810.html"></script><!--191021_예당국제공연-->
+<!--191018_충청북도의회--><script language="javascript" src="/bannerManager/inc/809.html"></script><!--191018_충청북도의회-->
+<!--증평군청_191015--<script language="javascript" src="/bannerManager/inc/808.html"></script><!--증평군청_191015-->
+<!--괴산김장축제_191015--<script language="javascript" src="/bannerManager/inc/807.html"></script><!--괴산김장축제_191015-->
+<!--관세청181115--><script language="javascript" src="/bannerManager/inc/689.html"></script><!--관세청181115-->
+<!--진천191011--<script language="javascript" src="/bannerManager/inc/806.html"></script><!--진천191011-->
+<!--증평군의회191007--<script language="javascript" src="/bannerManager/inc/804.html"></script><!--증평군의회191007-->
+<!--191004_청주공예--<script language="javascript" src="/bannerManager/inc/803.html"></script><!--191004_청주공예-->
+<!--진천군의회_191001--<script language="javascript" src="/bannerManager/inc/802.html"></script><!--진천군의회_191001-->
+<!--보은군190924--><script language="javascript" src="/bannerManager/inc/801.html"></script><!--보은군190924-->
+<!--190919_충청남도체육회--<script language="javascript" src="/bannerManager/inc/800.html"></script><!--190919_충청남도체육회-->
+<!--충청북도의회_190906--<script language="javascript" src="/bannerManager/inc/799.html"></script><!--충청북도의회_190906-->
+<!--190904_청원생명축제--<script language="javascript" src="/bannerManager/inc/798.html"></script><!--190904_청원생명축제-->
+<!--논산_20190828--<script language="javascript" src="/bannerManager/inc/796.html"></script><!--논산_20190828-->
+<!--대덕대_20190828--<script language="javascript" src="/bannerManager/inc/795.html"></script><!--대덕대_20190828-->
+<!--190821_행정중심복합도시건설청--<script language="javascript" src="/bannerManager/inc/794.html"></script><!--190821_행정중심복합도시건설청-->
+<!--한국기술교육대학교190821--<script language="javascript" src="/bannerManager/inc/793.html"></script><!--한국기술교육대학교190821-->
+<!--옥천군190805--<script language="javascript" src="/bannerManager/inc/792.html"></script><!--옥천군190805-->
+<!--드론사진영상공모전_190801--><script language="javascript" src="/bannerManager/inc/791.html"></script><!--드론사진영상공모전_190801-->
+<!--청소년연극제_190731--<script language="javascript" src="/bannerManager/inc/790.html"></script><!--청소년연극제_190731-->
+<!--한남대 190729--<script language="javascript" src="/bannerManager/inc/789.html"></script><!--한남대 190729-->
+<!--당진시190725--<script language="javascript" src="/bannerManager/inc/788.html"></script><!--당진시190725-->
+<!--190723_충주세계무술축쳬--<script language="javascript" src="/bannerManager/inc/787.html"></script><!--190723_충주세계무술축쳬-->
+<!--청주시청190723--<script language="javascript" src="/bannerManager/inc/786.html"></script><!--청주시청190723-->
+<!--충북도청190722--<script language="javascript" src="/bannerManager/inc/785.html"></script><!--충북도청190722-->
+<!--태안군_여름_190710--<script language="javascript" src="/bannerManager/inc/784.html"></script><!--태안군_여름_190710-->
+<!--공주대_190701--<script language="javascript" src="/bannerManager/inc/782.html"></script><!--공주대_190701-->
+<!--190705_트릴로채--<script language="javascript" src="/bannerManager/inc/783.html"></script><!--190705_트릴로채-->
+<!--진천군_190620--<script language="javascript" src="/bannerManager/inc/780.html"></script><!--진천군_190620-->
+<!--대전교육청_190620--<script language="javascript" src="/bannerManager/inc/779.html"></script><!--대전교육청_190620-->
+<!--시니어유니버스190614--<script language="javascript" src="/bannerManager/inc/778.html"></script><!--시니어유니버스190614-->
+<!--관세청181115--<script language="javascript" src="/bannerManager/inc/689.html"></script><!--관세청181115-->
+<!--슬로시티제천_190604--<script language="javascript" src="/bannerManager/inc/777.html"></script><!--슬로시티제천_190604-->
+<!--충북개발공사_190529--<script language="javascript" src="/bannerManager/inc/776.html"></script><!--충북개발공사_190529-->
+<!--충북도의회190529--<script language="javascript" src="/bannerManager/inc/775.html"></script><!--충북도의회190529-->
+<!--진천군청_190529--<script language="javascript" src="/bannerManager/inc/774.html"></script><!--진천군청_190529-->
+<!--190528_충청북도교육청--<script language="javascript" src="/bannerManager/inc/773.html"></script><!--190528_충청북도교육청-->
+<!--충북도청 무예마스터190528--<script language="javascript" src="/bannerManager/inc/772.html"></script><!--충북도청 무예마스터190528-->
+<!--아산_190528--<script language="javascript" src="/bannerManager/inc/771.html"></script><!--아산_190528-->
+<!--충북경제규역청190514--<script language="javascript" src="/bannerManager/inc/770.html"></script><!--충북경제규역청190514-->
+<!--산막이옛길190510--<script language="javascript" src="/bannerManager/inc/769.html"></script><!--산막이옛길190510-->
+<!--서원대190510--<script language="javascript" src="/bannerManager/inc/768.html"></script><!--서원대190510-->
+<!--균형위190502--<script language="javascript" src="/bannerManager/inc/767.html"></script><!--균형위190502-->
+<!--진천군의회190502--<script language="javascript" src="/bannerManager/inc/766.html"></script><!--진천군의회190502-->
+<!--증평군의회190502--<script language="javascript" src="/bannerManager/inc/765.html"></script><!--증평군의회190502-->
+<!--190426_증평--<script language="javascript" src="/bannerManager/inc/764.html"></script><!--190426_증평-->
+<!--대전시청190423--<script language="javascript" src="/bannerManager/inc/763.html"></script><!--대전시청190423-->
+<!--증평보강천190422--<img src="/banner/banner_190422.gif" border="0"><!--증평보강천190422--></div>
+<!--한국도로공사190417--<script language="javascript" src="/bannerManager/inc/762.html"></script><!--한국도로공사190417-->
+<!--청원생명쌀190417--<script language="javascript" src="/bannerManager/inc/761.html"></script><!--청원생명쌀190417-->
+<!--논산_190415--<script language="javascript" src="/bannerManager/inc/760.html"></script><!--논산_190415-->
+<!--퀸스산부인과_190411--<script language="javascript" src="/bannerManager/inc/759.html"></script><!--퀸스산부인과_190411-->
+<!--글로벌진출에너지_190410--<script language="javascript" src="/bannerManager/inc/757.html"></script><!--글로벌진출에너지_190410-->
+<!--행복충전_190410--<script language="javascript" src="/bannerManager/inc/758.html"></script><!--행복충전_190410-->
+<!--공주대190404--<script language="javascript" src="/bannerManager/inc/756.html"></script><!--공주대190404-->
+<!--청양군_190404--<script language="javascript" src="/bannerManager/inc/755.html"></script><!--청양군_190404-->
+<!--봉황망--<script language="javascript" src="/bannerManager/inc/748.html"></script><!--봉황망-->
+<!--시청자미디어센터190327--<script language="javascript" src="/bannerManager/inc/751.html"></script><!--시청자미디어센터190327-->
+<!--흥부와놀부_190311--<script language="javascript" src="/bannerManager/inc/736.html"></script><!--흥부와놀부_190311-->
+<!--충남장애인체전_190329--<script language="javascript" src="/bannerManager/inc/753.html"></script><!--충남장애인체전_190329-->
+<!--시청자미디어센터190322<script language="javascript" src="/bannerManager/inc/749.html"></script>시청자미디어센터190322-->
+<!--충주시청190320--<script language="javascript" src="/bannerManager/inc/747.html"></script><!--충주시청190320-->
+<!--전국생활체육대축전_190319<script language="javascript" src="/bannerManager/inc/746.html"></script>전국생활체육대축전_190319-->
+<!--190315_선문대--<script language="javascript" src="/bannerManager/inc/742.html"></script><!--190315_선문대-->
+<!--190319_나사렛대--<script language="javascript" src="/bannerManager/inc/744.html"></script><!--190319_나사렛대-->
+<!--충북도청강호축190315--<script language="javascript" src="/bannerManager/inc/743.html"></script><!--충북도청강호축190315-->
+<!--괴산군_190315--<script language="javascript" src="/bannerManager/inc/741.html"></script><!--괴산군_190315-->
+<!--충북농협190312--<script language="javascript" src="/bannerManager/inc/740.html"></script><!--충북농협190312-->
+<!--대전아아파크<script language="javascript" src="/bannerManager/inc/735.html"></script>대전아아파크-->
+<!--휴조경_190305--<script language="javascript" src="/bannerManager/inc/733.html"></script><!--휴조경_190305-->
+<!--충북경자청190305<script language="javascript" src="/bannerManager/inc/732.html"></script>충북경자청190305-->
+<!--증평천문대190305--<script language="javascript" src="/bannerManager/inc/731.html"></script><!--증평천문대190305-->
+<!--JDC190228--<script language="javascript" src="/bannerManager/inc/730.html"></script><!--JDC190228-->
+<!--190228_청주시청--<script language="javascript" src="/bannerManager/inc/729.html"></script><!--190228_청주시청-->
+<!--한국농어촌공사충북본부190219--<script language="javascript" src="/bannerManager/inc/728.html"></script><!--한국농어촌공사충북본부190219-->
+<!--대전교육청_190215--<script language="javascript" src="/bannerManager/inc/727.html"></script><!--대전교육청_190215-->
+<!--진천군_190214--<script language="javascript" src="/bannerManager/inc/725.html"></script><!--진천군_190214-->
+<!--케이지테크_190123--<script language="javascript" src="/bannerManager/inc/723.html"></script><!--케이지테크_190123-->
+<!--병역전문가_190123--<script language="javascript" src="/bannerManager/inc/724.html"></script><!--병역전문가_190123-->
+<!--불력190121--<script language="javascript" src="/bannerManager/inc/722.html"></script><!--불력190121-->
+<!--상명대181226--<script language="javascript" src="/bannerManager/inc/719.html"></script><!--상명대181226-->
+<!--181229_한밭대--<script language="javascript" src="/bannerManager/inc/721.html"></script><!--181229_한밭대-->
+<!--도시가스_181217--<script language="javascript" src="/bannerManager/inc/713.html"></script><!--도시가스_181217-->
+<!--강호축181108--<script language="javascript" src="/bannerManager/inc/682.html"></script><!--강호축181108-->
+<!--제천시--><script language="javascript" src="/bannerManager/inc/6.html"></script><!--제천시-->
+<!--최진희콘서트_181101--<script language="javascript" src="/bannerManager/inc/679.html"></script><!--최진희콘서트_181101-->
+<!--태안군청181219--<script language="javascript" src="/bannerManager/inc/717.html"></script><!--태안군청181219-->
+<!--음성_181219--<script language="javascript" src="/bannerManager/inc/716.html"></script><!--음성_181219-->
+<!--마사회_181215--<script language="javascript" src="/bannerManager/inc/712.html"></script><!--마사회_181215-->
+<!--괴산군청181214--<script language="javascript" src="/bannerManager/inc/711.html"></script><!--괴산군청181214-->
+<!--충청북도_181212--<script language="javascript" src="/bannerManager/inc/710.html"></script><!--충청북도_181212-->
+<!--진천군181203--<script language="javascript" src="/bannerManager/inc/707.html"></script><!--진천군181203-->
+<!--인재양성181203--<script language="javascript" src="/bannerManager/inc/708.html"></script><!--인재양성181203-->
+<!--아산_181130--<script language="javascript" src="/bannerManager/inc/704.html"></script><!--아산_181130-->
+<!--공주대_181130--<script language="javascript" src="/bannerManager/inc/703.html"></script><!--공주대_181130-->
+<!--충청북도의회_180808--<script language="javascript" src="/bannerManager/inc/660.html"></script><!--충청북도의회_180808-->
+<!--181126_청주시--<script language="javascript" src="/bannerManager/inc/692.html"></script><!--181126_청주시-->
+<!--하늘뜨레181120--<script language="javascript" src="/bannerManager/inc/691.html"></script><!--하늘뜨레181120-->
+<!--관세청181115--<script language="javascript" src="/bannerManager/inc/689.html"></script><!--관세청181115-->
+<!--보은_181127--<script language="javascript" src="/bannerManager/inc/700.html"></script><!--보은_181127-->
+<!--제천_181127--<script language="javascript" src="/bannerManager/inc/701.html"></script><!--제천_181127-->
+<!--증평군181114--<script language="javascript" src="/bannerManager/inc/687.html"></script><!--증평군181114-->
+<!--충북도청강호축181113--<script language="javascript" src="/bannerManager/inc/686.html"></script><!--충북도청강호축181113-->
+<!--노사민정구축세미나_181112--<script language="javascript" src="/bannerManager/inc/685.html"></script><!--노사민정구축세미나_181112-->
+<!--충주_181109--<script language="javascript" src="/bannerManager/inc/684.html"></script><!--충주_181109-->
+<!--181108_제천시<script language="javascript" src="/bannerManager/inc/683.html"></script>181108_제천시-->
+<!--181106_산불조심--<script language="javascript" src="/bannerManager/inc/680.html"></script><!--181106_산불조심-->
+<!--181106_서원대--<script language="javascript" src="/bannerManager/inc/681.html"></script><!--181106_서원대-->
+<!--181025_충주시--<script language="javascript" src="/bannerManager/inc/677.html"></script><!--181025_충주시-->
+<!--진천군181024<script language="javascript" src="/bannerManager/inc/676.html"></script>진천군181024-->
+<!--괴산절임배추181024<script language="javascript" src="/bannerManager/inc/675.html"></script>괴산절임배추181024-->
+<!--파리나무십자가181023--<script language="javascript" src="/bannerManager/inc/674.html"></script><!--파리나무십자가181023-->
+<!--181022_좌구산--<script language="javascript" src="/bannerManager/inc/673.html"></script><!--181022_좌구산-->
+<!--괴산절임배추_181002--<script language="javascript" src="/bannerManager/inc/671.html"></script><!--괴산절임배추_181002-->
+<!--<iframe width="250" height="141" src="https://www.youtube.com/embed/GqSkiBww4LI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+<!--생거진천180911<script language="javascript" src="/bannerManager/inc/668.html"></script>생거진천180911-->
+<!--영동180906<script language="javascript" src="/bannerManager/inc/666.html"></script>영동180906-->
+<!--180901_충주 세계소방관경기대회--><script language="javascript" src="/bannerManager/inc/665.html"></script><!--180901_충주 세계소방관경기대회-->
+<!--180827_논산시<script language="javascript" src="/bannerManager/inc/664.html"></script>80827_논산시-->
+<!--충주시청180822<script language="javascript" src="/bannerManager/inc/663.html"></script>충주시청180822-->
+<!--영동국악체험존180814<script language="javascript" src="/bannerManager/inc/662.html"></script>영동국악체험존180814-->
+<!--마라톤대회180803--<script language="javascript" src="/bannerManager/inc/658.html"></script><!--마라톤대회180803-->
+<!--180731_나사렛대학교--<script language="javascript" src="/bannerManager/inc/656.html"></script><!--180731_나사렛대학교-->
+<!--괴산찰옥수수_180629--<script language="javascript" src="/bannerManager/inc/648.html"></script><!--괴산찰옥수수_180629-->
+<!--충북혁신도시180630--<script language="javascript" src="/bannerManager/inc/649.html"></script><!--충북혁신도시180630-->
+<!--180615_청주시의회--<script language="javascript" src="/bannerManager/inc/645.html"></script><!--180615_청주시의회-->
+<!--한전180614<script language="javascript" src="/bannerManager/inc/644.html"></script>한전180614-->
+<!--청주시티투어180614--<script language="javascript" src="/bannerManager/inc/643.html"></script><!--청주시티투어180614-->
+<!--직지배볼링<iframe width="250" height="141" src="https://www.youtube.com/embed/GdQbJeRBGDk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+<!--충북도의회_180519--<script language="javascript" src="/bannerManager/inc/543.html"></script><!--충북도의회_180519-->
+<!--<div style="margin-bottom:10px;">
+		<iframe width="250" height="141" src="https://www.youtube.com/embed/8_dx0DeNDpY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>-->
+<!--단양_180322<script language="javascript" src="/bannerManager/inc/522.html"></script>단양_180322-->
+<!--제천_180320<script language="javascript" src="/bannerManager/inc/520.html"></script>제천_180320-->
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dis-inblock body-wrap-full footer-wrap">
+<div class="body-wrap-frame border-box">
+<!-- 하단메뉴 -->
+<ul class="dn-menu">
+<li class="dn-logo"><img src="http://www.ccdailynews.com/image2006/logo_dn.gif"/></li>
+<li><a href="http://www.ccdailynews.com/com/com-1.html" onfocus="this.blur()">신문사소개</a></li>
+<li><a href="https://www.ccdailynews.com/com/jb.html" onfocus="this.blur()">기사제보</a></li>
+<li><a href="https://www.ccdailynews.com/com/ad.html" onfocus="this.blur()">광고문의</a></li>
+<li><a href="https://www.ccdailynews.com/com/bp.html" onfocus="this.blur()">불편신고</a></li>
+<li><a href="javascript:void(window.open('http://www.ccdailynews.com/com/privacy.html','privacy','width=800, height=600, scrollbars=yes'))" onfocus="this.blur()">개인정보취급방침</a></li>
+<li><a href="http://www.ccdailynews.com/com/teen.html" onfocus="this.blur()">청소년보호정책</a></li>
+<li><a href="javascript:void(window.open('http://www.ccdailynews.com/com/pop_emailno.html','new_win','resizable=no,width=550,height=252,scrollbars=no'))" onfocus="this.blur()">이메일무단수집거부</a></li>
+</ul>
+<!-- 하단정보 -->
+<div class="dn-copy">
+			충북 청주시 흥덕구 직지대로 769 충청일보빌딩 3/4층(우편번호 28470)<span>  |  </span>전화 043)279-2000<span>  |  </span>팩스 043)279-2020<span>  |  </span>청소년보호책임자  천정훈<br/>
+			등록번호 : 충북 가 00001<span>  |  </span>문의메일 news1948@naver.com <span>  |  </span>기사등 모든 컨텐츠에 대한 무단 전재ㆍ복사ㆍ배포를 금합니다. <br/>
+			C<a href="https://www.ccdailynews.com/admin/adminLoginForm.html">o</a>pyright <a href="http://www.ccdailynews.com/weblog/webmail.html" target="_blank">©</a> 2019 충청일보. All rights reserved.
+		</div>
+<!-- ndsoft -->
+<a class="ndsoft" href="http://www.ndsoft.co.kr" onfocus="this.blur()" target="_blank"><img alt="ND소프트" border="0" src="/image2006/ndsoft.gif"/></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<!-- 토스트바 -->
+<!-- <script type='text/javascript'>
+var tst_freq = 9; //프리퀀시
+
+</script>
+<script type='text/javascript' src='http://ade.realclick.co.kr/ad_tpl/toast.rc?dsn=1&mcode=Y2NkYWlseTM=' charset='euc-kr'></script> -->
+<!-- 토스트바 -->
+<!-- 아이커버 -->
+<div class="realssp_dv" data-mcode="Y2NkYWlseTAwMDAxXzE0NzA=" id="realssp_ccdaily00001_1470"></div><script src="http://nw.realssp.co.kr/realclickssp.js?v=1.0&amp;m=ccdaily00001_1470&amp;t=j"></script>
+<!-- 풀스크린 배너 -->
+<!-- <div class="banner_1024_1024_1407984361" style="text-align:center;clear:both"><span id="realclick_view2_1407984361"></span><script src="http://mdimg.realclick.co.kr/js/jquery-1.6.2.min.js"></script><script type='text/javascript'>var rcBody=""; var bOffset=0; function rc_ad_display(posi){var rcAdStr="";try{if(rcHead!="")rcAdStr+=rcHead;if(rcBody!="")rcAdStr+=rcBody;if(rcFoot!="")rcAdStr+=rcFoot;if(rcAdStr!=""){document.getElementById(posi).innerHTML=rcAdStr;}}catch(e){}}function loadJS(url,posi,charset){var hd=document.getElementsByTagName('head')[0];var sc=document.createElement('script');sc.type='text/javascript';if(charset!=null){sc.charset="euc-kr";}var ld=false;sc.onreadystatechange=function(){try{if(this.readyState=='loaded'||this.readyState=='complete'){if(ld)return;ld=true;rc_ad_display(posi);}}catch(e){}};sc.onload=function(){rc_ad_display(posi);};sc.src=url;hd.appendChild(sc);}function load_rc_ad2(sevn,objf,posi){var adSrc="http://"+sevn+".realclick.co.kr/"+objf;loadJS(adSrc,posi,'euc-kr');}
+$(document).ready(function(){ var open_height2=$('#realclick_view2_1407984361').offset().top-50; var open=false; $(window).scroll(function(){ if(rcBody !="") { open_height2=$('#realclick_view2_1407984361').offset().top; } var distanceTop=open_height2-$(window).height(); if($(window).scrollTop()>=distanceTop){ if(open=="0"){open=true;load_rc_ad2('adv','ad_tpl/headcopy.rc?dsn=1&mcode=ZnNjcl9jY2RhaWx5MQ==','realclick_view2_1407984361');var position = $(".banner_1024_1024_1407984361").offset();$( 'html, body' ).delay(1000).animate( { scrollTop: position.top-bOffset }, 2000 );}}})});</script></div> -->
+<!-- 풀스크린 배너 -->
+<!--ccdaily00001_14498 풀스크린 배너 교체 @ 정에녹 180117 / 698851-->
+<div class="realssp_dv" data-mcode="Y2NkYWlseTAwMDAxXzE0NDk4" id="realssp_ccdaily00001_14498" title="리얼클릭 배너광고"></div><script async="" src="//ssp.realclick.co.kr/realclickssp.js?v=1.0&amp;m=ccdaily00001_14498&amp;t=j"></script>
+<!-- 190808 키워드광고삭제 //865631-->
+</body>

@@ -1,0 +1,1266 @@
+'반 신동빈 아지트' 롯데호텔 34층이 궁금하다
+<body>
+<!-- 스킵 메뉴 -->
+<div class="skipMenu" title="스킵 메뉴"><a href="#article_view_headline">본문 바로가기</a></div>
+<!-- //스킵 메뉴 -->
+<!-- 탑광고 -->
+<div class="ad_top" id="ad_top">
+<h3 class="blind">광고</h3>
+<script type="text/javascript"> OAS_RICH("Top1"); </script> <!--
+			<script type="text/javascript">OAS_RICH("Top1");</script>
+			<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Top1?section=society&kisano=702614" width="970" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe> 
+			-->
+<span class="close" onclick="javascript:hideTopAd();">
+<img alt="광고닫기" src="http://img.hani.co.kr/section-image/13/news/btn/btn_adclose.gif"/>
+</span>
+</div>
+<!-- //탑광고 -->
+<!-- header -->
+<div class="" id="header">
+<!-- navi -->
+<div id="header-logo-article">
+<h1 class="logo"><a href="http://www.hani.co.kr" title="한겨레"><img height="28px" src="http://img.hani.co.kr/section-image/15/hani/images/common/logo_hani_sub.png" title="한겨레" width="82px"/></a></h1>
+<div class="menu-all" onclick="javascript:setMenuAllPosition(1); javascript:toggleLayerMenuSitemap(this);"><span class="icon"><span class="blind">메뉴 아이콘</span></span></div>
+<div class="header-ect">
+<h2 class="blind">기타서비스</h2>
+<!-- 로그인 -->
+<div id="login-box-parent">
+<div class="top_login" onclick="javascript:toggleLayerLoginMenu(this);"><span class="blind">로그인아이콘</span></div>
+<div class="off" id="login-box" style="opacity:0;height:0px;">
+<span class="icon-aw"></span>
+<div class="login-btn" onfocusin="javascript:openLayerLoginMenu(this);" onfocusout="javascript:closeLayerLoginMenu(this);">
+<a class="link1" href="https://bridge.hani.co.kr/Hani/User?site=news" title="회원가입">회원가입</a>
+<a class="link2" href="https://bridge.hani.co.kr/Hani/User?command=form&amp;formtype=login&amp;site=news&amp;nexturl=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" title="로그인">로그인</a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	jQuery(document).ready
+	(
+		function()
+		{
+			selectLoginButtonLayer();
+		}
+	);
+</script>
+<!-- //로그인 --> <!-- 검색 -->
+<div id="search_form">
+<div class="open_search" onclick="javascript:openLayerSearchForm(this);jQuery('.form_search .form1 .text').focus();"><img alt="검색창 열기" src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_top_search.png"/></div>
+<div class="form_search off" style="opacity:0;">
+<span class="close" onclick="javascript:closeLayerSearchForm(this);"><img src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_close.png" title="검색창 닫기"/></span>
+<div class="form0">
+<div class="form1" onfocusin="javascript:openLayerSearchForm(this);" onfocusout="javascript:closeLayerSearchForm(this);">
+<form action="http://search.hani.co.kr/Search" method="post" name="frmsearch" title="검색">
+<input name="command" type="hidden" value="query"/>
+<input name="media" type="hidden" value="common"/>
+<input class="text" name="keyword" title="검색어" type="text" value=""/><input class="button" src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_top_search.png" title="검색" type="image"/>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!-- //검색 --> </div>
+</div>
+<!-- //navi -->
+<div id="top-fix-margin"></div>
+<!-- slide -->
+<div id="header-top-slide">
+<div class="header" id="header-slide">
+<div class="slide_box" data-slide-no="0" data-status="1">
+<ul class="slide_part slide_part0" onfocusin="javascript:slideHaniLayerGoLayer('#header-slide.header', 0);" style="left:0%;">
+<li class="first">
+<a href="/arti/politics/defense/920410.html?_fr=st1"><img alt="원주·부평·동두천 미군기지 4곳 반환…용산은 절차 개시" src="http://flexible.img.hani.co.kr/flexible/normal/568/227/imgdb/child/2019/1211/52_7820191211501720.jpg" title="원주·부평·동두천 미군기지 4곳 반환…용산은 절차 개시"/><strong>원주·부평·동두천 미군기지 4곳 반환…용산은 절차 개시</strong></a> </li><li class="">
+<a href="/arti/hanitv/hanitv_general/920391.html?_fr=st1"><img alt="황교안 또 ‘친문농단 규탄집회’?…“떼쓰기 정치 국민만 피해다”" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2019/1211/53_8620191211501015.jpg" title="황교안 또 ‘친문농단 규탄집회’?…“떼쓰기 정치 국민만 피해다”"/><strong>황교안 또 ‘친문농단 규탄집회’?…“떼쓰기 정치 국민만 피해다”</strong></a> </li><li class="">
+<a href="/arti/politics/assembly/920412.html?_fr=st1"><img alt="원혜영·백재현 “총선 불출마”…민주당 ‘중진 용퇴’ 시동 거나" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2019/1211/53_2520191211501803.jpg" title="원혜영·백재현 “총선 불출마”…민주당 ‘중진 용퇴’ 시동 거나"/><strong>원혜영·백재현 “총선 불출마”…민주당 ‘중진 용퇴’ 시동 거나</strong></a> </li><li class="">
+<a href="/arti/politics/assembly/920362.html?_fr=st1"><img alt="“예산안 날치기” 야유 한국당, 일부 의원 지역구 예산 홍보" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2019/1210/53_9620191210503544.jpg" title="“예산안 날치기” 야유 한국당, 일부 의원 지역구 예산 홍보"/><strong>“예산안 날치기” 야유 한국당, 일부 의원 지역구 예산 홍보</strong></a> </li> </ul>
+<ul class="slide_part slide_part1" onfocusin="javascript:slideHaniLayerGoLayer('#header-slide.header', 1);" style="left:100%;">
+<li class="first">
+<a href="/arti/opinion/column/920415.html?_fr=st1"><img alt="[안재승 칼럼] 민주노총 때려 김진표 구하려는 치졸한 발상" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2019/1211/53_1220191211501877.jpg" title="[안재승 칼럼] 민주노총 때려 김진표 구하려는 치졸한 발상"/><strong><font color="#f35213">[안재승 칼럼]</font> 민주노총 때려 김진표 구하려는 치졸한 발상</strong></a> </li><li class="">
+<a href="/arti/society/schooling/920413.html?_fr=st1"><img alt="“초5 예쁜 애는 따로…” 현직 교사, 중징계 반발 재심 신청" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/resize/2017/1226/53_1515968518_151416821079_20171226.JPG" title="“초5 예쁜 애는 따로…” 현직 교사, 중징계 반발 재심 신청"/><strong>“초5 예쁜 애는 따로…” 현직 교사, 중징계 반발 재심 신청</strong></a> </li><li class="">
+<a href="/arti/economy/economy_general/920393.html?_fr=st1"><img alt="정부 “중소기업 주52시간 계도기간”…사실상 시행 늦춰" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2019/1211/53_8920191118503077.jpg" title="정부 “중소기업 주52시간 계도기간”…사실상 시행 늦춰"/><strong>정부 “중소기업 주52시간 계도기간”…사실상 시행 늦춰</strong></a> </li><li class="">
+<a href="/arti/society/society_general/920403.html?_fr=st1"><img alt="발전 5사, 산재 사상자 98%가 하청 노동자" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2019/1211/53_1720191211501289.jpg" title="발전 5사, 산재 사상자 98%가 하청 노동자"/><strong>발전 5사, 산재 사상자 98%가 하청 노동자</strong></a> </li> </ul>
+<ul class="slide_part slide_part2" onfocusin="javascript:slideHaniLayerGoLayer('#header-slide.header', 2);" style="left:100%;">
+<li class="first">
+<a href="/arti/international/international_general/920421.html?_fr=st1"><img alt="“북, 약속 지켜야”-“상호 조처 필요”…미·러, 안보리 앞두고 이견" src="http://flexible.img.hani.co.kr/flexible/normal/488/293/imgdb/child/2019/1211/53_5820191211502139.jpg" title="“북, 약속 지켜야”-“상호 조처 필요”…미·러, 안보리 앞두고 이견"/><strong>“북, 약속 지켜야”-“상호 조처 필요”…미·러, 안보리 앞두고 이견</strong></a> </li><li class="">
+<a href="/arti/politics/assembly/920358.html?_fr=st1"><img alt="예산안 ‘패싱’…한국당 새 원내사령탑의 무기력한 리더십" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2019/1210/53_5220191210503454.jpg" title="예산안 ‘패싱’…한국당 새 원내사령탑의 무기력한 리더십"/><strong>예산안 ‘패싱’…한국당 새 원내사령탑의 무기력한 리더십</strong></a> </li><li class="">
+<a href="/arti/area/yeongnam/920392.html?_fr=st1"><img alt="송철호, ‘하명수사’ 논란에 “눈 펑펑 내릴 땐 쓸 때를 기다려야”" src="http://flexible.img.hani.co.kr/flexible/normal/317/190/imgdb/child/2019/1211/53_5320191211501026.jpg" title="송철호, ‘하명수사’ 논란에 “눈 펑펑 내릴 땐 쓸 때를 기다려야”"/><strong>송철호, ‘하명수사’ 논란에 “눈 펑펑 내릴 땐 쓸 때를 기다려야”</strong></a> </li><li class="">
+<a href="/arti/area/capital/920416.html?_fr=st1"><img alt="재심 청구된 화성연쇄살인 8차 사건, 검찰이 직접 조사" src="http://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2019/1211/53_1120191202502566.jpg" title="재심 청구된 화성연쇄살인 8차 사건, 검찰이 직접 조사"/><strong>재심 청구된 화성연쇄살인 8차 사건, 검찰이 직접 조사</strong></a> </li> </ul>
+</div>
+<div class="slide-btn-area" title="슬라이드컨트롤버튼">
+<button id="s-prev" onclick="javascript:slideHaniLayer('#header-slide.header', -1);" title="이전" type="button"><span class="blind">이전내용</span></button>
+<button id="s-next" onclick="javascript:slideHaniLayer('#header-slide.header', +1);" title="다음" type="button"><span class="blind">다음내용</span></button>
+</div>
+</div> </div>
+<!-- //slide -->
+<!-- 전체메뉴보기 레이어 -->
+<div class="off" id="menu-all" style="opacity:0;">
+<div class="over-list article-plus">
+<div class="menu-all-box" onfocusin="javascript:openLayerMenuSitemap(this);" onfocusout="javascript:closeLayerMenuSitemap();">
+<table>
+<tbody>
+<tr class="first">
+<th>
+<a href="http://www.hani.co.kr/arti/list.html">전체</a>
+</th>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/politics/home01.html">정치</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/politics_general/home01.html">정치일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/bluehouse/home01.html">청와대</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/assembly/home01.html">국회·정당</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/administration/home01.html">행정·자치</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/defense/home01.html">국방·북한</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/diplomacy/home01.html">외교</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/politics/polibar/home01.html">정치BAR</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/society/home01.html">사회</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/society/society_general/home01.html">사회일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/women/home01.html">여성</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/labor/home01.html">노동</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/environment/home01.html">환경</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/handicapped/home01.html">장애인</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/rights/home01.html">인권·복지</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/health/home01.html">의료·건강</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/media/home01.html">미디어</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/obituary/home01.html">궂긴소식</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/internalmove/home01.html">인사</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/ngo/home01.html">엔지오</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/schooling/home01.html">교육</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/religious/home01.html">종교</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/society/archives/">한겨레아카이브</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/area/home01.html">전국</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/area/area_general/home01.html">전국일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/jeju/home01.html">제주</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/honam/home01.html">호남</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/yeongnam/home01.html">영남</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/chungcheong/home01.html">충청</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/gangwon/home01.html">강원</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/area/capital/home01.html">수도권</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/economy/home01.html">경제 Weconomy</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/economy_general/home01.html">경제일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/finance/home01.html">금융·증권</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/marketing/home01.html">산업·재계</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/car/home01.html">자동차</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/property/home01.html">부동산</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/consumer/home01.html">쇼핑·소비자</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/it/home01.html">IT</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/working/home01.html">직장·취업</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/startup/home01.html">중기·스타트업</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/biznews/home01.html">기업PR</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/economy/global/home01.html">글로벌워치</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/international/home01.html">국제</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/international/international_general/home01.html">국제일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/globaltopic/home01.html">해외토픽</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/asiapacific/home01.html">아시아·태평양</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/america/home01.html">미국·중남미</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/europe/home01.html">유럽</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/china/home01.html">중국</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/japan/home01.html">일본</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/arabafrica/home01.html">중동·아프리카</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/internationalunit/home01.html">국제기구·회의</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/international/globaleconomy/home01.html">국제경제</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/culture/home01.html">문화</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/culture_general/home01.html">문화일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/movie/home01.html">영화·애니</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/entertainment/home01.html">방송·연예</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/travel/home01.html">여행·여가</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/music/home01.html">음악·공연·전시</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/religion/home01.html">학술</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/book/home01.html">책&amp;생각</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/culture/jejuand/home01.html">제주&amp;</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/sports/home01.html">스포츠</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/sports_general/home01.html">스포츠일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/soccer/home01.html">축구·해외리그</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/baseball/home01.html">야구·MLB</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/golf/home01.html">골프</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/gameschedule/home01.html">경기일정</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/scoreboard/home01.html">경기결과</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/sports/baduk/home01.html">바둑</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/science/home01.html">미래과학</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/future/home01.html">미래</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/science_general/home01.html">과학</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/science/technology/home01.html">기술</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/environment/home01.html">환경</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/issue/home01.html">시각</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/animalpeople/home01.html">애니멀피플</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/animalpeople/wild_animal/home01.html">야생동물</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/animalpeople/companion_animal/home01.html">반려동물</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/animalpeople/farm_animal/home01.html">농장동물</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/animalpeople/human_animal/home01.html">인간과동물</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/animalpeople/ecology_evolution/home01.html">생태와진화</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/opinion/home01.html">오피니언</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/opinion/editorial/home01.html">사설</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/opinion/column/home01.html">칼럼</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/opinion/because/home01.html">왜냐면</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/opinion/dica/home01.html">포토에세이</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/SERIES/1194/home01.html">옵스큐라</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="title" colspan="2">
+<a href="http://www.hani.co.kr/arti/cartoon/home01.html">만화</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/specialsection/esc_section/home01.html">ESC</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/SECTION/saturday/home01.html">토요판</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/infographic/home01.html">뉴스그래픽</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/SERIES/home01.html">연재</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/ISSUE/home01.html">이슈</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/SECTION/education/home01.html">함께하는교육</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/economy/heri_review/home01.html">헤리리뷰</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/SECTION/exploratory/home01.html">탐사보도</a>
+<span class="bar">|</span>
+<a href="http://www.seouland.com/" target="_blank">서울&amp;</a>
+</th>
+</tr>
+<tr class="">
+<th>
+<a href="http://special.hani.co.kr/" target="_blank">스페셜</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://plug.hani.co.kr/health" target="_blank">기찬몸</a></li>
+<li class=""><a href="http://well.hani.co.kr/" target="_blank">휴심정</a></li>
+<li class=""><a href="http://ecotopia.hani.co.kr/" target="_blank">물바람숲</a></li>
+<li class=""><a href="http://photovil.hani.co.kr/" target="_blank">사진마을</a></li>
+<li class=""><a href="http://babytree.hani.co.kr/" target="_blank">베이비트리</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/SERIES/485">미래 창</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/SERIES/1046/">기후이야기</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://multihani.hani.co.kr/">포토</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://pictorial.hani.co.kr/">화보</a></li>
+<li class=""><a href="http://multihani.hani.co.kr/special/home01.html">포토스페셜</a></li>
+<li class=""><a href="http://multihani.hani.co.kr/photo/home01.html">최신포토뉴스</a></li>
+<li class="last"><a href="http://pictorial.hani.co.kr/?sec=098">카드뉴스</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/hanitv">한겨레TV</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/hanitv/tvschedule/">편성표</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/hanitv/introduce.html">한겨레TV 소개</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/hanitv/notice/">알려드립니다</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/hanitv/sponsorship.html">광고·후원 문의</a></li>
+<li class="last"><a href="https://www.youtube.com/user/hanitv/playlists?disable_polymer=1" target="_blank">전체 프로그램</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="#" target="_blank">뉴스서비스</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://newsrank.hani.co.kr/" target="_blank">많이본기사</a></li>
+<li class=""><a href="http://daily.hani.co.kr/" target="_blank">날짜별한겨레</a></li>
+<li class=""><a href="http://top.hani.co.kr/" target="_blank">지난톱기사</a></li>
+<li class=""><a href="http://first.hani.co.kr/" target="_blank">디지털초판</a></li>
+<li class=""><a href="http://pdf.hani.co.kr/PaperList.aspx" target="_blank">PDF서비스</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/RSS/">RSS서비스</a></li>
+<li class=""><a href="http://notice.hani.co.kr/customer_report.html" target="_blank">기사제보</a></li>
+<li class="last"><a href="http://notice.hani.co.kr/customer_submit.html" target="_blank">기사투고</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="#" target="_blank">매거진</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://h21.hani.co.kr/" target="_blank">한겨레21</a></li>
+<li class=""><a href="http://www.cine21.com/" target="_blank">씨네21</a></li>
+<li class="last"><a href="http://www.economyinsight.co.kr/" target="_blank">이코노미인사이트</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="#" target="_blank">사업</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://hanihu.hani.co.kr/" target="_blank">한겨레휴센터</a></li>
+<li class=""><a href="http://cafe.naver.com/han2015han/" target="_blank">한겨레테마여행</a></li>
+<li class="last"><a href="http://www.hanitravel.co.kr/" target="_blank">한겨레패키지여행</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<span class="close" onclick="javascript:closeLayerMenuSitemap();" style="cursor:pointer;"><img src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_close.png" title="닫기"/></span>
+</div>
+</div>
+<!-- //전체메뉴보기 레이어 -->
+<!-- slide -->
+<div id="foot-fix">
+<div class="foot-fix" data-is-on="F" style="bottom:-194px;">
+<div class="title"><h3>많이 공유 된 기사</h3></div>
+<div class="footer" id="header-slide">
+<div class="slide_box" data-slide-no="0" data-status="1">
+<ul class="slide_part slide_part0" onfocusin="javascript:slideHaniLayerGoLayer('#header-slide.footer', 0);" style="left:0%;">
+<li class="first">
+<a href="/arti/society/society_general/905259.html?_fr=st4"><img alt="전두환의 반격…다 내놓겠다더니 “추징법 위헌이다” 전면전" src="http://img.hani.co.kr/imgdb/thumbnail/2019/0809/00502387_20190809.JPG" title="전두환의 반격…다 내놓겠다더니 “추징법 위헌이다” 전면전"><strong>전두환의 반격…다 내놓겠다더니 “추징법 위헌이다” 전면전</strong></img></a> </li><li class="">
+<a href="/arti/politics/assembly/905281.html?_fr=st4"><img alt="황교안 “문 대통령, 안보 붕괴 대국민 사과해야…최후통첩”" src="http://img.hani.co.kr/imgdb/resize/2019/0811/53_1565488858_00500586_20190811.JPG" title="황교안 “문 대통령, 안보 붕괴 대국민 사과해야…최후통첩”"/><strong>황교안 “문 대통령, 안보 붕괴 대국민 사과해야…최후통첩”</strong></a> </li><li class="">
+<a href="/arti/culture/book/905308.html?_fr=st4"><img alt="“권력 장악 ‘막강 386세대’ 양보해야 자녀 세대가 산다”" src="http://img.hani.co.kr/imgdb/resize/2019/0811/53_1565509435_00501307_20190811.JPG" title="“권력 장악 ‘막강 386세대’ 양보해야 자녀 세대가 산다”"/><strong>“권력 장악 ‘막강 386세대’ 양보해야 자녀 세대가 산다”</strong></a> </li><li class="">
+<a href="/arti/economy/marketing/905412.html?_fr=st4"><img alt="정부, 일본 화이트국가서 배제…“일과 국제 공조 어렵다”" src="http://img.hani.co.kr/imgdb/thumbnail/2019/0812/156548896406_20190812.JPG" title="정부, 일본 화이트국가서 배제…“일과 국제 공조 어렵다”"/><strong>정부, 일본 화이트국가서 배제…“일과 국제 공조 어렵다”</strong></a> </li> </ul>
+<ul class="slide_part slide_part1" onfocusin="javascript:slideHaniLayerGoLayer('#header-slide.footer', 1);" style="left:100%;">
+<li class="first">
+<a href="/arti/international/japan/905316.html?_fr=st4"><img alt="일본, 한국시장 반도체부품 수출 급감하자 무역흑자도 대폭 감소" src="http://img.hani.co.kr/imgdb/resize/2019/0811/53_1565509484_00501397_20190811.JPG" title="일본, 한국시장 반도체부품 수출 급감하자 무역흑자도 대폭 감소"/><strong>일본, 한국시장 반도체부품 수출 급감하자 무역흑자도 대폭 감소</strong></a> </li><li class="">
+<a href="/arti/opinion/column/905350.html?_fr=st4"><img alt="대법 판결대로 일 기업이 배상해야…원칙 어긋난 해법은 잘못" src="http://img.hani.co.kr/imgdb/resize/2019/0811/53_1565523458_00501654_20190811.JPG" title="대법 판결대로 일 기업이 배상해야…원칙 어긋난 해법은 잘못"/><strong>대법 판결대로 일 기업이 배상해야…원칙 어긋난 해법은 잘못</strong></a> </li><li class="">
+<a href="/arti/economy/consumer/905297.html?_fr=st4"><img alt="막말·여혐 영상 논란 한국콜마 윤동한 회장 “경영 퇴진”" src="http://img.hani.co.kr/imgdb/resize/2019/0811/53_1565505270_00500977_20190811.JPG" title="막말·여혐 영상 논란 한국콜마 윤동한 회장 “경영 퇴진”"/><strong>막말·여혐 영상 논란 한국콜마 윤동한 회장 “경영 퇴진”</strong></a> </li><li class="">
+<a href="/arti/society/society_general/905403.html?_fr=st4"><img alt="[단독] “위안부 성노예화 없었다” 이영훈, 서울대 명예교수 아니었다" src="http://img.hani.co.kr/imgdb/thumbnail/2019/0812/00501401_20190812.JPG" title="[단독] “위안부 성노예화 없었다” 이영훈, 서울대 명예교수 아니었다"/><strong>[단독] “위안부 성노예화 없었다” 이영훈, 서울대 명예교수 아니었다</strong></a> </li> </ul>
+<ul class="slide_part slide_part2" onfocusin="javascript:slideHaniLayerGoLayer('#header-slide.footer', 2);" style="left:100%;">
+<li class="first">
+<a href="/arti/politics/polibar/905293.html?_fr=st4"><img alt="‘오부치의 일본’과 ‘아베의 일본’은 전혀 다른 나라다" src="http://img.hani.co.kr/imgdb/thumbnail/2019/0811/00500809_20190811.JPG" title="‘오부치의 일본’과 ‘아베의 일본’은 전혀 다른 나라다"/><strong>‘오부치의 일본’과 ‘아베의 일본’은 전혀 다른 나라다</strong></a> </li><li class="">
+<a href="/arti/opinion/column/905327.html?_fr=st4"><img alt="[김곡의 똑똑똑] ‘엄마부대’는 극우가 아닙니다" src="http://img.hani.co.kr/imgdb/resize/2019/0811/53_1565518048_00501543_20190811.JPG" title="[김곡의 똑똑똑] ‘엄마부대’는 극우가 아닙니다"/><strong>[김곡의 똑똑똑] ‘엄마부대’는 극우가 아닙니다</strong></a> </li> </ul>
+</div>
+<div class="slide-btn-area" title="슬라이드컨트롤버튼">
+<button id="s-prev" onclick="javascript:slideHaniLayer('#header-slide.footer', -1);" title="이전" type="button"><span class="blind">이전내용</span></button>
+<button id="s-next" onclick="javascript:slideHaniLayer('#header-slide.footer', +1);" title="다음" type="button"><span class="blind">다음내용</span></button>
+</div>
+</div> </div>
+</div>
+<!-- //slide -->
+</div>
+<!-- //header -->
+<!-- top-fix -->
+<div data-is-on="F" id="top-fix" style="visibility:hidden;opacity:0;">
+<div class="top-fix">
+<div class="article-head2">
+<h1 class="logo"><a href="http://www.hani.co.kr" title="한겨레"><img height="18px" src="http://img.hani.co.kr/section-image/15/hani/images/common/logo_hani_sub.png" title="한겨레" width="51px"/></a></h1>
+<div class="menu-all" onclick="javascript:setMenuAllPosition(2); javascript:toggleLayerMenuSitemap(this);" style="top:10px;"><span class="icon"><span class="blind">메뉴 아이콘</span></span></div>
+<h4>
+<a class="btn-left" href="http://www.hani.co.kr/arti/politics/assembly/920370.html?_fr=st2" title="‘하루짜리 휴전협정’도 파기…민주-한국 의견차 컸다"><img src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_bn_left.gif" title="‘하루짜리 휴전협정’도 파기…민주-한국 의견차 컸다"/></a>
+<span class="title">‘반 신동빈 아지트’ 롯데호텔 34층이 궁금하다</span>
+<a class="btn-right" href="http://www.hani.co.kr/arti/politics/assembly/920363.html?_fr=st2" title="민주 	- 	한국 다시 가파른 대치…패트 법안도 ‘4+1 합의처리’ 수순"><img src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_bn_right.gif" title="민주 	- 	한국 다시 가파른 대치…패트 법안도 ‘4+1 합의처리’ 수순"/></a>
+</h4>
+<ul class="top-sns" title="공유버튼">
+<li class="sns-f"><a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" onclick="javascript:return popupHaniWindow(this, '', 800, 300, 'yes', 'yes');" target="_blank"><img src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_top_facebook.png" title="페이스북"/><span class="sns-bubble"><em id="twCnt"><span class="facebook-count">0</span></em></span></a></li>
+<li class="sns-t"><a href="http://twitter.com/share?text=%E2%80%98%EB%B0%98+%EC%8B%A0%EB%8F%99%EB%B9%88+%EC%95%84%EC%A7%80%ED%8A%B8%E2%80%99+%EB%A1%AF%EB%8D%B0%ED%98%B8%ED%85%94+34%EC%B8%B5%EC%9D%B4+%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4&amp;url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" onclick="javascript:return popupHaniWindow(this, '', 800, 450, 'yes', 'yes');" target="_blank"><img src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_top_twitter.png" title="트위터"/><!-- <span class="sns-bubble"><em id="twCnt"><span class="twitter-count">0</span></em></span>--></a></li>
+<li class="sns-s" onclick="javascript:toggleLayerBox(this, '.top-fix', '.sns-s', '#top-share-box');"><span class="icon"></span></li>
+</ul>
+</div>
+<!-- 공유박스 -->
+<div class="off" id="top-share-box" style="opacity:0;">
+<div class="top-share-box">
+<span class="icon-aw"></span>
+<ul class="top-share" title="공유버튼">
+<li class="share-g"><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" onclick="javascript:return popupHaniWindow(this, '', 800, 400, 'yes', 'yes');"><span class="icon"><span class="blind">구글플러스</span></span></a></li>
+<li class="share-n"><a href="http://blog.naver.com/openapi/share?url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" onclick="javascript:return popupHaniWindow(this, '', 780, 480, 'yes', 'yes');"><span class="icon"><span class="blind">네이버 블로그</span></span></a></li>
+<li class="share-k"><a href="https://story.kakao.com/share?url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" onclick="javascript:return popupHaniWindow(this, '', 780, 480, 'yes', 'yes');"><span class="icon"><span class="blind">카카오스토리</span></span></a></li>
+<li class="share-c"><a href="http://csp.cyworld.com/bi/bi_recommend_pop.php?url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html&amp;title_nobase64=%E2%80%98%EB%B0%98+%EC%8B%A0%EB%8F%99%EB%B9%88+%EC%95%84%EC%A7%80%ED%8A%B8%E2%80%99+%EB%A1%AF%EB%8D%B0%ED%98%B8%ED%85%94+34%EC%B8%B5%EC%9D%B4+%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4&amp;thumbnail=http%3A%2F%2Fimg.hani.co.kr%2Fimgdb%2Fresize%2F2015%2F0729%2F00337050801_20150729.JPG&amp;summary_nobase64=&amp;writer=%ED%95%9C%EA%B2%A8%EB%A0%88%EC%8B%A0%EB%AC%B8%EC%82%AC" onclick="javascript:return popupHaniWindow(this, '', 360, 300, 'yes', 'yes');"><span class="icon"><span class="blind">싸이월드</span></span></a></li>
+<li class="share-mail"><a href="http://www.hani.co.kr/popups/sendmail.hani?ksn=702614" onclick="javascript:return popupHaniWindow(this, '', 650, 350, 'yes', 'yes');"><span class="icon"><span class="blind">메일보내기</span></span></a></li>
+</ul>
+</div>
+</div>
+<!-- //공유박스 -->
+</div>
+</div>
+<!-- //top-fix -->
+<hr/>
+<!-- container -->
+<div id="container">
+<div class="kisa" id="visual-ad_wind">
+<h3 class="blind">광고</h3>
+<div class="left_wing" id="left_wing">
+<script type="text/javascript"> OAS_RICH("Left"); </script> <!--// <iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Left?section=society&kisano=702614" width="160" height="600" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe> 
+					<script type="text/javascript">OAS_RICH("Left");</script>
+					<script type="text/javascript" src="http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/news@Left?section=society&kisano=702614"></script> 
+					-->
+</div>
+<div class="right_wing" id="right_wing">
+<script type="text/javascript"> OAS_RICH("TopRight"); </script> <!-- <script type="text/javascript">OAS_RICH("TopRight");</script> 
+					<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@TopRight?section=society&kisano=702614" width="160" height="600" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+					-->
+</div>
+</div>
+<h2 class="blind">본문</h2>
+<div id="contents-article">
+<!-- 광고 -->
+<div class="visual-ad1" id="ad_kisa_t01">
+<h3 class="blind">광고</h3>
+<div class="top-ad">
+<script type="text/javascript"> OAS_RICH("Top"); </script> <!--
+						<script type="text/javascript" src="http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/news@Top?section=society&kisano=702614"></script>
+						<script type="text/javascript">OAS_RICH("Top");</script>
+						<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Top?section=society&kisano=702614" width="728" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe> 
+						-->
+</div>
+</div>
+<!-- //광고 -->
+<div class="article-head" id="article_view_headline">
+<p class="category"><strong><a href="/arti/society/home01.html">사회</a></strong><span><a href="/arti/society/society_general/home01.html">사회일반</a></span></p>
+<h4><span class="title">‘반 신동빈 아지트’ 롯데호텔 34층이 궁금하다</span></h4>
+<p class="date-time"><span><em>등록 :</em>2015-07-31 11:44</span><span><em>수정 :</em>2015-08-02 14:30</span></p>
+</div>
+<div class="article-body type01">
+<!-- contents -->
+<div class="a-left">
+<div id="a-left-scroll-start">
+<div id="a-left-scroll-in">
+<!-- 기사툴바메뉴 -->
+<div class="article-tools">
+<ul class="tools">
+<li class="tool-f" data-status="1" onclick="javascript:return popupHaniWindow(this, 'http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html', 800, 300, 'yes', 'yes');" onmouseleave="javascript:hideObjectClassBound(this, 'span.icon1');" onmouseover="javascript:openObjectClassBound(this, 65);" title="페이스북 공유">
+<span class="icon icon1"></span><span class="blind">페이스북</span>
+<div class="overlay"><div class="icon-area"><span class="icon icon2"></span> <em class="count-area"><span class="facebook-count">0</span></em></div></div>
+</li>
+<li class="tool-t" data-status="1" onclick="javascript:return popupHaniWindow(this, 'http://twitter.com/share?text=%E2%80%98%EB%B0%98+%EC%8B%A0%EB%8F%99%EB%B9%88+%EC%95%84%EC%A7%80%ED%8A%B8%E2%80%99+%EB%A1%AF%EB%8D%B0%ED%98%B8%ED%85%94+34%EC%B8%B5%EC%9D%B4+%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4&amp;url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html', 800, 450, 'yes', 'yes');" title="트위터 공유">
+<span class="icon icon1"></span><span class="blind">트위터</span>
+<div class="overlay"><div class="icon-area"><span class="icon icon2"></span> <em class="count-area"><span class="twitter-count">0</span></em></div></div>
+</li>
+<li class="tool-share" data-status="1" onclick="javascript:openObjectClassBound(this, 135);" onmouseleave="javascript:hideObjectClassBound(this, 'span.icon1');" title="기사 공유 더보기">
+<span class="icon icon1"></span><span class="blind">공유</span>
+<div class="overlay">
+<div class="icon-area">
+<span class="icon icon2" onclick="javascript:toggleObjectClass(this.parentElement.parentElement.parentElement, '.tools', '.selected', 'selected');"></span>
+<!-- 
+					<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" onclick="javascript:return popupHaniWindow(this, '', 800, 600, 'yes', 'yes');" class="s-g" title="구글플러스 공유"><span class="blind">구글플러스</span></a>
+					 -->
+<a class="s-n" href="http://blog.naver.com/openapi/share?url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" onclick="javascript:return popupHaniWindow(this, '', 780, 480, 'yes', 'yes');" title="네이버블로그 공유"><span class="blind">네이버블로그</span></a>
+<a class="s-k" href="https://story.kakao.com/share?url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html" onclick="javascript:return popupHaniWindow(this, '', 780, 480, 'yes', 'yes');" title="카카오스토리 공유"><span class="blind">카카오스토리</span></a>
+<a class="s-c" href="http://csp.cyworld.com/bi/bi_recommend_pop.php?url=http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html&amp;title_nobase64=%E2%80%98%EB%B0%98+%EC%8B%A0%EB%8F%99%EB%B9%88+%EC%95%84%EC%A7%80%ED%8A%B8%E2%80%99+%EB%A1%AF%EB%8D%B0%ED%98%B8%ED%85%94+34%EC%B8%B5%EC%9D%B4+%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4&amp;thumbnail=http%3A%2F%2Fimg.hani.co.kr%2Fimgdb%2Fresize%2F2015%2F0729%2F00337050801_20150729.JPG&amp;summary_nobase64=&amp;writer=%ED%95%9C%EA%B2%A8%EB%A0%88%EC%8B%A0%EB%AC%B8%EC%82%AC" onclick="javascript:return popupHaniWindow(this, '', 360, 300, 'yes', 'yes');" title="싸이월드 공유"><span class="blind">싸이월드</span></a>
+<!-- <a href="http://www.hani.co.kr/popups/sendmail.hani?ksn=702614" onclick="javascript:return popupHaniWindow(this, '', 650, 350, 'yes', 'yes');" class="s-m" title="메일 공유"><span class="blind">메일</span></a> -->
+</div>
+</div>
+</li>
+<li class="tool-scrap" onclick="javascript:toogleScrap('http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html','%E2%80%98%EB%B0%98%20%EC%8B%A0%EB%8F%99%EB%B9%88%20%EC%95%84%EC%A7%80%ED%8A%B8%E2%80%99%20%EB%A1%AF%EB%8D%B0%ED%98%B8%ED%85%94%2034%EC%B8%B5%EC%9D%B4%20%EA%B6%81%EA%B8%88%ED%95%98%EB%8B%A4','%EC%82%AC%ED%9A%8C');" title="기사 스크랩"><span class="icon"></span><span class="blind">스크랩</span></li>
+<li class="tool-print" title="인쇄하기"><a href="/arti/PRINT/702614.html" onclick="javascript:return popupHaniWindow(this, '', 1030, 500, 'yes', 'yes');"><span class="icon"></span><span class="blind">프린트</span></a></li>
+</ul>
+<p class="font">
+<a class="large" href="#increase_font_size" onclick="javascript:increaseFontsize('.article-text-font-size'); return false;" title="글씨크게"><span class="blind">크게</span></a>
+<a class="small" href="#decrease_font_size" onclick="javascript:decreaseFontsize('.article-text-font-size'); return false;" title="글씨작게"><span class="blind">작게</span></a>
+</p>
+</div>
+<!-- //기사툴바메뉴 -->
+<div class="article-text">
+<div class="article-text-font-size" itemprop="articleBody" style="line-height:2em;">
+<p align="justify"></p><div class="image-area">
+<div class="imageC" style="width:451px;">
+<div class="image">
+<img alt="서울 을지로 롯데백화점과 롯데호텔 모습. 윤운식 기자 yws@hani.co.kr" src="http://img.hani.co.kr/imgdb/resize/2015/0729/00337050801_20150729.JPG" style="width:451px;" title="서울 을지로 롯데백화점과 롯데호텔 모습. 윤운식 기자 yws@hani.co.kr"/>
+</div>
+<div class="desc" style="width:451px;">서울 을지로 롯데백화점과 롯데호텔 모습. 윤운식 기자 yws@hani.co.kr</div>
+</div>
+</div>
+<div class="subtitle"></div><div class="text">
+롯데가 형제들의 경영권 다툼이 신동빈 롯데그룹 회장과 나머지 롯데 일족들의 갈등 양상으로 번지면서 소공동 롯데호텔이  ‘반 신동빈 동맹’의 아지트가 되어 가는 모습이다.<p align="justify"></p>
+31일 롯데 관계자들의 말을 종합하면 신격호 총괄회장은 현재 롯데호텔 신관 34층에 머물면서 장남 신동주 전 일본롯데 부회장과 장녀 신영자 롯데장학재단 이사장측 인사들과만 접촉하고 있다.<p align="justify"></p>
+롯데호텔 34층은 본래 신 총괄회장의 숙소와 집무실 등이 있는 곳으로 일반인은 승강기는 물론 비상구로도 출입을 할 수 없게 돼 있다.<p align="justify"></p>
+롯데그룹 관계자는 “롯데호텔 34층은 롯데그룹이 아니라 신 전 부회장 측이 관리하고 있기 때문에 우리도 접근할 수가 없다”고 말했다.<p align="justify"></p>
+신 전 부회장은 서울 성북동과 경기도 일산에 자택이 있지만, 롯데호텔에 머무는 경우가 많은 것으로 알려졌다. 신 전 부회장은 이번에 귀국해서도 제3의 장소에 머물며 롯데호텔을 오가고 있는 것으로 알려졌다.<p align="justify"></p>
+롯데호텔이 한국 롯데그룹의 계열사지만 34층을 중심으로 한 일부는 사실상 신 전 부회장의 영향력이 미치는 공간, ‘반 신동빈 아지트’가 돼버린 셈이다. 롯데호텔에 일본 롯데그룹 관련 지분이 많은 것도 이 같은 현상에 영향을 미쳤다는 관측도  있다.<p align="justify"></p>
+롯데호텔 34층에는 현재 신격호 총괄회장의 부인인 시게미쓰 하쓰코(重光初子·88)씨도 머물고 있다.<p align="justify"></p>
+롯데 관계자들은 일본에 거주하는 하쓰코씨가 한국을 방문할 때마다 34층에서 신격호 총괄회장과 함께 지내왔다고 설명했다.<p align="justify"></p>
+ 
+
+ 하쓰코씨는 전날 입국해 롯데호텔로 이동했으며 1층에 대기하고 있던 기자들을 피해 지하 주차장을 거쳐 34층으로 올라간 뒤 모습이 보이지 않고 있다.<p align="justify"></p>
+신 전 부회장의 일본행에 동행했던 신 총괄회장의 장녀 신영자 롯데장학재단 이사장과 그의 딸 장선윤 호텔롯데 상무의 사무실은 롯데호텔에 있지는 않지만 바로  옆의 롯데그룹 오피스빌딩에 위치해 있다.<p align="justify"></p>
+신 총괄회장은 신동빈 롯데그룹 회장이 중국 사업에서 큰 적자를 낸데다 지난 15일 일본 롯데홀딩스 대표이사 자리를 거머쥔 데 대해 격분해 신 회장 측 인사들의 접근을 막고 있다는 소문있다. 신 전 부회장 측에서 흘렸을 개연성이 있는 이야기다.<p align="justify"></p>
+이날 저녁 열릴 것으로 보이는 신 총괄회장의 부친의 제사는 신 전 부회장의 성북동 자택 또는 다른 장소에서 진행될 것으로 보이지만 일각에서는 최근 사태로  세간의 이목이 집중된만큼 롯데호텔에서 제사를 지낼 가능성도 있다고 추측하고 있다.<p align="justify"></p>
+연합뉴스  <p align="justify"></p>
+<br/>
+</div> <!-- 콘텐츠 유료화 영역 -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-153979344-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153979344-2', {
+	'linker':{
+		'domains':['cnspay.hani.co.kr']
+	}
+  });
+  gtag('event','NO',{'event_category':'후원 노출','event_label': '기사번호:702614|후원노출:N'});
+</script>
+<!--// 콘텐츠 유료화 영역 -->
+<div class="relation2-area issue" title="이슈기사">
+<h5><span>이슈</span><a href="/arti/ISSUE/145/">롯데 ‘왕자의 난’</a></h5>
+<ul class="relation2-list">
+<li><a href="/arti/economy/economy_general/715688.html">신격호 롯데그룹 총괄회장 병원 입원</a></li><li><a href="/arti/economy/economy_general/713723.html">신동주-신동빈 롯데호텔 34층 통제권 쟁탈전</a></li><li><a href="/arti/economy/economy_general/713530.html">롯데, 신격호 병원행 놓고 또 티격태격</a></li><li><a href="/arti/economy/economy_general/712493.html">신동주 “신동빈 광윤사 이사 해임 상정”</a></li><li><a href="/arti/economy/economy_general/711976.html">신동주 “신격호 위임받아 신동빈 상대 소송”</a></li> </ul>
+</div> </div>
+</div> <!-- AD : 643x170 -->
+<div class="ad_box01_area" id="ad_box01">
+<h3 class="blind">광고</h3>
+<script src="http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/news@Middle1?section=society&amp;kisano=702614" type="text/javascript"></script> <!-- 
+	<script type="text/javascript" src="http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/news@Middle1?section=society&kisano=702614"></script> 
+	-->
+</div>
+<!-- //AD : 643x170 -->
+<!-- AD : 643x170 -->
+<div class="ad_box04_area" id="ad_box04">
+<h3 class="blind">광고</h3>
+<ul class="ad_img3">
+<li>
+<script type="text/javascript"> OAS_RICH("x71"); </script> <!--
+	    	<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@x71?section=society&kisano=702614" width="211" height="170" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+	    	-->
+</li>
+<li>
+<script type="text/javascript"> OAS_RICH("x72"); </script> <!--
+	    	<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@x72?section=society&kisano=702614" width="211" height="170" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+	 		-->
+</li>
+<li class="last">
+<script type="text/javascript"> OAS_RICH("x73"); </script> <!-- 
+	    	<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@x73?section=society&kisano=702614" width="211" height="170" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+	    	 -->
+</li>
+</ul>
+</div>
+<!-- //AD : 643x170 -->
+<!-- Dable 하B_그리드6_EMPTY 위젯 시작/ 문의 http://dable.io -->
+<div data-widget_id="BoxPj5o8" id="dablewidget_BoxPj5o8">
+<script>
+(function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+dable('renderWidget', 'dablewidget_BoxPj5o8');
+</script>
+</div>
+<!-- Dable 하B_그리드6_EMPTY 위젯 종료/ 문의 http://dable.io -->
+<!-- AD: 643 x 220 -->
+<div id="laAdArea" style="padding:10px 0 25px;">
+<h3 class="blind">광고</h3>
+<script type="text/javascript"> OAS_RICH("Middle3"); </script> <!--
+	<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Middle3?section=society&kisano=702614" width="643" height="220" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+	-->
+</div>
+<!-- // AD: 643 x 220 -->
+<!-- 
+<div class="reply-box" >
+	<div id="livereContainer"></div>
+	<div id="livereFbContainer"></div>
+</div>
+ -->
+<!-- 라이브리 댓글-->
+<div data-id="han" data-uid="NTg3LzE0MjIzLzY2MQ==" id="lv-container">
+<script type="text/javascript">
+
+		window.livereOptions = {
+				refer: 'www.hani.co.kr/arti/society/society_general/702614.html',
+				site:'http://www.hani.co.kr/arti/society/society_general/702614.html'
+				} ;
+				
+	   (function(d, s) {
+	       var j, e = d.getElementsByTagName(s)[0];
+
+	       if (typeof LivereTower === 'function') { return; }
+
+	       j = d.createElement(s);
+	       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+	       j.async = true;
+
+	       e.parentNode.insertBefore(j, e);
+	   })(document, 'script');
+	</script>
+<noscript>&gt;Please activate JavaScript for write a comment in LiveRe.</noscript>
+</div>
+<!--// 라이브리 댓글-->
+<!-- 
+<script type="text/javascript" src="https://101.livere.co.kr/B/livere8_B.js" char-set="utf-8"></script>
+-->
+<script type="text/javascript">
+	document.domain = 'hani.co.kr'; // 기사내 본문광고 iframe 접근시 사용
+	$(document).ready(function() {
+		//음영영역은 광고삭제처리
+		///arti/society/women/765755.html
+		///arti/politics/assembly/765871.html
+		///arti/politics/bluehouse/762715.html
+		$(".news-box, .news-box2").find("#ad_tag").each(function(){
+			$(this).remove();
+		});	
+	});
+
+</script>
+<!--하단광고배너-->
+<div style="text-align:center; padding: 0 0 25px">
+<h3 class="blind">광고</h3>
+<script type="text/javascript"> OAS_RICH("Bottom"); </script> <!--
+	<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Bottom?section=society&kisano=702614" width="570" height="240" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+	-->
+</div>
+<!--//하단광고배너--> </div>
+</div>
+</div>
+<div class="a-right">
+<div id="a-right-scroll-start">
+<div id="a-right-scroll-in">
+<div class="article-popularity" data-class="" data-fr-val="sr1" data-max-length="5" style="display:none;">
+<h3 class="section-title">사회 많이 보는 기사<!-- 많이 보는 기사--></h3>
+<div class="list"></div>
+<div class="article">
+<script src="http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/news@x46?section=society&amp;kisano=702614" type="text/javascript"></script> <!--
+				<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Bottom?section=society&kisano=702614" width="570" height="240" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+				-->
+</div>
+</div>
+<script src="/section-homepage/bestJson/today/section-002.js" type="text/javascript"></script>
+<div class="text-ad2" id="ad_kisa_r01">
+<script type="text/javascript"> OAS_RICH("Right1"); </script> <!-- 
+		<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Right1?section=society&kisano=702614" width="300" height="300" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+		-->
+</div>
+<div class="visual-ad1" id="ad_kisa_r02">
+<script type="text/javascript"> OAS_RICH("Right2"); </script> <!-- 
+		<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Right2?section=society&kisano=702614" width="300" height="250" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+		-->
+</div>
+<div class="hani-friend">
+<h3>한겨레와 친구하기</h3>
+<ul>
+<li class="icon-f on">
+<div class="icon-area" onclick="javascript:switchObjectClass(this.parentElement, '.hani-friend', '.on', 'on');"><span class="icon"></span></div>
+<div class="box-area">
+<div class="inner">
+<div class="fb-like" data-action="like" data-href="https://www.facebook.com/hankyoreh" data-layout="button_count" data-share="false" data-show-faces="false"></div>
+</div>
+</div>
+</li>
+<li class="icon-t">
+<div class="icon-area" onclick="javascript:switchObjectClass(this.parentElement, '.hani-friend', '.on', 'on');"><span class="icon"></span></div>
+<div class="box-area">
+<div class="inner">
+<a class="twitter-follow-button" data-show-count="true" data-show-screen-name="false" href="https://twitter.com/hanitweet" target="_blank">Follow @hanitweet</a>
+</div>
+</div>
+</li>
+<li class="icon-r">
+<div class="icon-area" onclick="javascript:switchObjectClass(this.parentElement, '.hani-friend', '.on', 'on');"><span class="icon"></span></div>
+<div class="box-area"><div class="inner"> <a href="http://www.hani.co.kr/rss/" target="_blank">전체기사RSS</a> <span class="bar">|</span> <a href="http://www.hani.co.kr/arti/RSS/" target="_blank">RSS페이지 목록</a> </div></div>
+</li>
+<li class="icon-m">
+<div class="icon-area" onclick="javascript:switchObjectClass(this.parentElement, '.hani-friend', '.on', 'on');"><span class="icon"></span></div>
+<div class="box-area">
+<div class="inner">
+<span class="app"><img src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_top_sns_m1.png" title="한겨레앱"/>
+<a href="https://play.google.com/store/apps/details?id=Hani.nemo.huyu" target="_blank">안드로이드</a><span class="bar">|</span><a href="https://itunes.apple.com/us/app/hangyeole/id420600963?l=ko&amp;ls=1&amp;mt=8" target="_blank">IOS</a>
+</span>
+<span class="app-n"><img src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_top_sns_m2.png" title="한겨레 가판대앱"/>
+<a href="https://play.google.com/store/apps/details?id=kr.co.hani.newsstand" target="_blank">안드로이드</a><span class="bar">|</span><a href="https://itunes.apple.com/us/app/hangyeolegapandae/id826313954?l=ko&amp;ls=1&amp;mt=8" target="_blank">IOS</a>
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="article03 ">
+<div class="ad-300x180-area">
+<strong class="group">NativeLab : PORTFOLIO</strong>
+<p class="number">
+<strong class="slide_no"><a class="button">1</a></strong><span class="slash">/</span> <a class="button">2</a><span class="slash">/</span> <a class="button">3</a>
+<!-- <span class="slash">/</span> <a class="button">4</a><span
+					class="slash">/</span> <a class="button">5</a>
+					 -->
+</p>
+<div class="slide_box">
+<iframe frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@x13?society&amp;kisano=702614" width="300"></iframe> <!-- 
+				<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@x13" id="ad-slide-box" width="300" height="250" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+				-->
+</div>
+</div>
+</div>
+<script src="/section-homepage/svc3/js/navtivead.js" type="text/javascript"></script>
+<div class="visual-ad1" id="ad_kisa_r03">
+<script type="text/javascript"> OAS_RICH("Right3"); </script> <!--
+		<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Right3?section=society&kisano=702614" width="300" height="250" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+		-->
+</div>
+<div class="visual-ad2" id="ad_sub_photo">
+<ul class="photo-ad">
+<li class="left">
+<script type="text/javascript"> OAS_RICH("x67"); </script> <!--
+				<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@x67?section=society&kisano=702614" width="300" height="163" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+				-->
+</li>
+</ul>
+</div>
+<div class="article-like">
+<div data-widget_id="YG7Z3lWv" id="widget-YG7Z3lWv">
+<script type="text/javascript">
+			(function(w,n){w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)};}(window, 'dable'));
+				    		dable('widget', "widget-YG7Z3lWv", "arti/society/society_general/702614.html");
+	    			</script>
+</div>
+</div>
+<div class="text-ad2" id="ad_kisa_r04"><div id="adTopBox"></div>
+<script type="text/javascript"> OAS_RICH("Bottom1"); </script> <!-- 
+		<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Bottom1?section=society&kisano=702614" width="300" height="250" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+		 -->
+</div>
+<div class="visual-ad1" id="ad_kisa_r05">
+<script type="text/javascript"> OAS_RICH("Bottom2"); </script> <!--
+		<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@Bottom2?section=society&kisano=702614" width="300" height="250" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+		-->
+</div>
+<div class="visual-ad1" id="ad_kisa_bot">
+<script type="text/javascript"> OAS_RICH("BottomRight"); </script> <!--
+		<iframe src="http://ad.hani.co.kr/RealMedia/ads/adstream_sx.ads/www.hani.co.kr/news@BottomRight?section=society&kisano=702614" width="300" height="600" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+		-->
+</div>
+<div class="padding_bottom"></div>
+</div>
+</div>
+</div>
+<!-- //contents -->
+</div>
+</div>
+</div>
+<!-- //container -->
+<hr/>
+<!-- sitemap -->
+<div class="close" id="sitemap">
+<div class="sitemap-title"><a href="#sitemap" onclick="javascript:toggleLayerUsingClass('#sitemap'); return false;" title="서비스 전체보기 열기"><h3>서비스 전체보기</h3></a></div>
+<div class="sitemap-layer" onfocusin="javascript:openLayerUsingClass('#sitemap');" onfocusout="javascript:closeLayerUsingClass('#sitemap');">
+<div class="over-list article-plus">
+<table>
+<tbody>
+<tr class="first">
+<th>
+<a href="http://www.hani.co.kr/arti/list.html">전체</a>
+</th>
+<td>
+<ul>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/politics/home01.html">정치</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/politics_general/home01.html">정치일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/bluehouse/home01.html">청와대</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/assembly/home01.html">국회·정당</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/administration/home01.html">행정·자치</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/defense/home01.html">국방·북한</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/politics/diplomacy/home01.html">외교</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/politics/polibar/home01.html">정치BAR</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/society/home01.html">사회</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/society/society_general/home01.html">사회일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/women/home01.html">여성</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/labor/home01.html">노동</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/environment/home01.html">환경</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/handicapped/home01.html">장애인</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/rights/home01.html">인권·복지</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/health/home01.html">의료·건강</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/media/home01.html">미디어</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/obituary/home01.html">궂긴소식</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/internalmove/home01.html">인사</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/ngo/home01.html">엔지오</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/schooling/home01.html">교육</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/religious/home01.html">종교</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/society/archives/">한겨레아카이브</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/area/home01.html">전국</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/area/area_general/home01.html">전국일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/jeju/home01.html">제주</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/honam/home01.html">호남</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/yeongnam/home01.html">영남</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/chungcheong/home01.html">충청</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/area/gangwon/home01.html">강원</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/area/capital/home01.html">수도권</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/economy/home01.html">경제 Weconomy</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/economy_general/home01.html">경제일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/finance/home01.html">금융·증권</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/marketing/home01.html">산업·재계</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/car/home01.html">자동차</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/property/home01.html">부동산</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/consumer/home01.html">쇼핑·소비자</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/it/home01.html">IT</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/working/home01.html">직장·취업</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/startup/home01.html">중기·스타트업</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/economy/biznews/home01.html">기업PR</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/economy/global/home01.html">글로벌워치</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/international/home01.html">국제</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/international/international_general/home01.html">국제일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/globaltopic/home01.html">해외토픽</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/asiapacific/home01.html">아시아·태평양</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/america/home01.html">미국·중남미</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/europe/home01.html">유럽</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/china/home01.html">중국</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/japan/home01.html">일본</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/arabafrica/home01.html">중동·아프리카</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/international/internationalunit/home01.html">국제기구·회의</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/international/globaleconomy/home01.html">국제경제</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/culture/home01.html">문화</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/culture_general/home01.html">문화일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/movie/home01.html">영화·애니</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/entertainment/home01.html">방송·연예</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/travel/home01.html">여행·여가</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/music/home01.html">음악·공연·전시</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/religion/home01.html">학술</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/culture/book/home01.html">책&amp;생각</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/culture/jejuand/home01.html">제주&amp;</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/sports/home01.html">스포츠</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/sports_general/home01.html">스포츠일반</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/soccer/home01.html">축구·해외리그</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/baseball/home01.html">야구·MLB</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/golf/home01.html">골프</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/gameschedule/home01.html">경기일정</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/sports/scoreboard/home01.html">경기결과</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/sports/baduk/home01.html">바둑</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/science/home01.html">미래과학</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/future/home01.html">미래</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/science_general/home01.html">과학</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/science/technology/home01.html">기술</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/society/environment/home01.html">환경</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/issue/home01.html">시각</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/animalpeople/home01.html">애니멀피플</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/animalpeople/wild_animal/home01.html">야생동물</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/animalpeople/companion_animal/home01.html">반려동물</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/animalpeople/farm_animal/home01.html">농장동물</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/animalpeople/human_animal/home01.html">인간과동물</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/animalpeople/ecology_evolution/home01.html">생태와진화</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/opinion/home01.html">오피니언</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/opinion/editorial/home01.html">사설</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/opinion/column/home01.html">칼럼</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/opinion/because/home01.html">왜냐면</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/opinion/dica/home01.html">포토에세이</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/SERIES/1194/home01.html">옵스큐라</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="title" colspan="2">
+<a href="http://www.hani.co.kr/arti/cartoon/home01.html">만화</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/specialsection/esc_section/home01.html">ESC</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/SECTION/saturday/home01.html">토요판</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/infographic/home01.html">뉴스그래픽</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/SERIES/home01.html">연재</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/ISSUE/home01.html">이슈</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/SECTION/education/home01.html">함께하는교육</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/economy/heri_review/home01.html">헤리리뷰</a>
+<span class="bar">|</span>
+<a href="http://www.hani.co.kr/arti/SECTION/exploratory/home01.html">탐사보도</a>
+<span class="bar">|</span>
+<a href="http://www.seouland.com/" target="_blank">서울&amp;</a>
+</th>
+</tr>
+<tr class="">
+<th>
+<a href="http://special.hani.co.kr/" target="_blank">스페셜</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://plug.hani.co.kr/health" target="_blank">기찬몸</a></li>
+<li class=""><a href="http://well.hani.co.kr/" target="_blank">휴심정</a></li>
+<li class=""><a href="http://ecotopia.hani.co.kr/" target="_blank">물바람숲</a></li>
+<li class=""><a href="http://photovil.hani.co.kr/" target="_blank">사진마을</a></li>
+<li class=""><a href="http://babytree.hani.co.kr/" target="_blank">베이비트리</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/SERIES/485">미래 창</a></li>
+<li class="last"><a href="http://www.hani.co.kr/arti/SERIES/1046/">기후이야기</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://multihani.hani.co.kr/">포토</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://pictorial.hani.co.kr/">화보</a></li>
+<li class=""><a href="http://multihani.hani.co.kr/special/home01.html">포토스페셜</a></li>
+<li class=""><a href="http://multihani.hani.co.kr/photo/home01.html">최신포토뉴스</a></li>
+<li class="last"><a href="http://pictorial.hani.co.kr/?sec=098">카드뉴스</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="http://www.hani.co.kr/arti/hanitv">한겨레TV</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://www.hani.co.kr/arti/hanitv/tvschedule/">편성표</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/hanitv/introduce.html">한겨레TV 소개</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/hanitv/notice/">알려드립니다</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/hanitv/sponsorship.html">광고·후원 문의</a></li>
+<li class="last"><a href="https://www.youtube.com/user/hanitv/playlists?disable_polymer=1" target="_blank">전체 프로그램</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="#" target="_blank">뉴스서비스</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://newsrank.hani.co.kr/" target="_blank">많이본기사</a></li>
+<li class=""><a href="http://daily.hani.co.kr/" target="_blank">날짜별한겨레</a></li>
+<li class=""><a href="http://top.hani.co.kr/" target="_blank">지난톱기사</a></li>
+<li class=""><a href="http://first.hani.co.kr/" target="_blank">디지털초판</a></li>
+<li class=""><a href="http://pdf.hani.co.kr/PaperList.aspx" target="_blank">PDF서비스</a></li>
+<li class=""><a href="http://www.hani.co.kr/arti/RSS/">RSS서비스</a></li>
+<li class=""><a href="http://notice.hani.co.kr/customer_report.html" target="_blank">기사제보</a></li>
+<li class="last"><a href="http://notice.hani.co.kr/customer_submit.html" target="_blank">기사투고</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="#" target="_blank">매거진</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://h21.hani.co.kr/" target="_blank">한겨레21</a></li>
+<li class=""><a href="http://www.cine21.com/" target="_blank">씨네21</a></li>
+<li class="last"><a href="http://www.economyinsight.co.kr/" target="_blank">이코노미인사이트</a></li>
+</ul>
+</td>
+</tr>
+<tr class="">
+<th>
+<a href="#" target="_blank">사업</a>
+</th>
+<td>
+<ul>
+<li class=""><a href="http://hanihu.hani.co.kr/" target="_blank">한겨레휴센터</a></li>
+<li class=""><a href="http://cafe.naver.com/han2015han/" target="_blank">한겨레테마여행</a></li>
+<li class="last"><a href="http://www.hanitravel.co.kr/" target="_blank">한겨레패키지여행</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- 서비스 전체보기 열기 : open 클래스 삽입 / 서비스 전체보기 닫기 : open 클래스 제거 -->
+<span class="fold"><a href="#sitemap" onclick="javascript:toggleLayerUsingClass('#sitemap'); return false;" title="서비스 전체보기 열기"></a></span>
+</div>
+<!-- //sitemap --><hr/>
+<!-- footer -->
+<div id="footer">
+<p class="logo"><a href="http://www.hani.co.kr" title="한겨레 바로가기"><img src="http://img.hani.co.kr/section-image/15/hani/images/common/footer_logo.png" title="한겨레"/></a></p>
+<!-- footer-inner -->
+<div class="footer-inner">
+<div class="footer-link first-child">
+<h4>한겨레 신문</h4>
+<ul class="links">
+<li><a href="http://company.hani.co.kr/" target="_blank">회사소개</a></li>
+<li><a href="http://nuri.hani.co.kr/customer/customer_main.html" target="_blank">구독신청</a></li>
+<li><a href="http://company.hani.co.kr/sp?pname=advertisement.index&amp;spname=advertisement_01_01" target="_blank">지면광고</a></li>
+<li><a href="http://company.hani.co.kr/sp?pname=advertisement.index&amp;spname=advertisement_03_01" target="_blank">온라인광고</a></li>
+<li><a href="http://company.hani.co.kr/sp?pname=etc.index&amp;spname=etc_01" target="_blank">사업제휴</a></li>
+<li><a href="http://company.hani.co.kr/sp?pname=recruit.index&amp;spname=recruit_01_02" target="_blank">채용</a></li>
+<li><a href="http://notice.hani.co.kr/customer_report.html">기사제보</a></li>
+<li><a href="http://notice.hani.co.kr/customer_submit.html">투고</a></li>
+<li><a href="http://notice.hani.co.kr/">고객센터</a></li>
+<li class="last-child"><a href="/common/grievance.html">고충처리</a></li>
+<!-- 
+				<li class="last-child"><a href="http://blog.hani.co.kr/publiceditor/39766" target="_blank">고충처리</a></li>
+				 -->
+</ul>
+<!-- social -->
+<ul class="social">
+<li><a class="facebook" href="http://www.facebook.com/hankyoreh" target="_blank" title="한겨레 face book 바로가기"><span class="blind">face book</span></a></li>
+<li><a class="twitter" href="http://twitter.com/hanitweet" target="_blank" title="한겨레 twitter 바로가기"><span class="blind">twitter</span></a></li>
+</ul>
+<!-- //social -->
+</div>
+<!-- //footer-link -->
+<div class="footer-link">
+<h4>사이트 운영</h4>
+<ul class="links">
+<li><a href="https://bridge.hani.co.kr/Hani/User?command=form&amp;formtype=copyright">저작권</a></li>
+<li><a href="https://bridge.hani.co.kr/Hani/User?command=form&amp;formtype=memberclause">회원약관</a></li>
+<li><b><a href="https://bridge.hani.co.kr/Hani/User?command=form&amp;formtype=privatepolicy">개인정보취급방침</a></b></li>
+<li><a href="https://bridge.hani.co.kr/Hani/User?command=form&amp;formtype=copyrightpolicy">지적재산보호정책</a></li>
+<li><a href="https://bridge.hani.co.kr/Hani/User?command=form&amp;formtype=emailpolicy">이메일주소 무단수집거부</a></li>
+<li class="last-child"><a href="http://www.hani.co.kr/common/sitemap/sitemap.html">사이트맵</a></li>
+</ul>
+<div class="close" id="family-sites" onmouseleave="javascript:closeLayerUsingClass('#family-sites');">
+<a href="#family-site" id="select-title" onclick="javascript:openLayerUsingClass('#family-sites'); return false;" style="width: 140px; ">한겨레 가족</a>
+<div id="select-layer" onfocusin="javascript:openLayerUsingClass('#family-sites');" onfocusout="javascript:closeLayerUsingClass('#family-sites');">
+<ul class="site-list">
+<li><a href="http://nuri.hani.co.kr/" target="_blank">하니누리</a></li>
+<li><a href="http://www.hanibook.co.kr/" target="_blank">한겨레출판</a></li>
+<li><a href="http://heri.kr/" target="_blank">한겨레경제사회연구원</a></li>
+<li><a href="http://www.hanter21.co.kr/" target="_blank">한겨레교육문화센터</a></li>
+<li><a href="http://koreahana.net/" target="_blank">한겨레통일문화재단</a></li>
+<li><a href="http://www.hanisnc.co.kr/" target="_blank">한겨레S&amp;C</a></li>
+<li><a href="http://www.lifeindigital.org/" target="_blank">사람과디지털연구소</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- //footer-link -->
+</div>
+<!-- footer-inner -->
+<p class="copyright">Copyright ⓒ The Hankyoreh.  All rights reserved.</p>
+</div>
+<!-- //footer -->
+<div id="fb-root"></div>
+<script async="" id="facebook-jssdk" src="http://connect.facebook.net/ko_KR/sdk.js#xfbml=1&amp;appId=460972487388139&amp;version=v2.0" type="text/javascript"></script>
+<script async="" id="twitter-wjs" src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<!-- link back solutions  -->
+<script src="/section-homepage/svc3/js/lib/linkback.js" type="text/javascript"></script>
+<!--// link back solutions  -->
+<script type="text/javascript">
+
+	if (document.referrer.split('/')[2] != "newsstand.naver.com"){
+		var adUrl = "http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/etc@Frame1",
+		hChk= document.getElementsByTagName('head')[0],
+		sTemp= document.createElement('script');
+		sTemp.type= 'text/javascript';
+		var l = false;
+		sTemp.onreadystatechange= function () {
+			if (this.readyState == 'loaded' || this.readyState == 'complete') {
+				if (l) {return;}
+				l = true;
+			}
+		}
+		sTemp.onload = function () {}
+		sTemp.src = adUrl;
+		var arrScriptTemp = hChk.getElementsByTagName('script');
+		var ap = false;
+		for(i = 0; i < arrScriptTemp.length; i++){
+		   var tS  = arrScriptTemp[i].src.split("?");
+		   if(tS[0] && arrScriptTemp[i].src.indexOf(adUrl) != -1){
+				  ap = true;
+		   }
+		}
+		if(!ap){
+			sTemp.src = adUrl;
+			hChk.appendChild(sTemp);
+		}
+	}
+
+</script>
+<div id="scroll_top_button">
+<a href="#" onclick="javascript:jQuery(window).scrollTop(0); return false;">
+<img alt="맨위로" src="http://img.hani.co.kr/section-image/15/hani/images/icon/icon_arrow_up_to_top.png" title="맨위로"/>
+</a>
+</div>
+<div id="foot-fix-margin"></div>
+<script type="text/javascript">
+			jQuery(document).ready
+			(
+				function()
+				{
+					collectHaniSnsCount("http://www.hani.co.kr/arti/society/society_general/702614.html");
+
+					onScrollArticleTopFix();
+					//onScrollArticleFootFix("#foot-fix .foot-fix", "#contents-article .reply-box", "#foot-fix-margin");
+					onScrollArticleFootFix("#foot-fix .foot-fix", "#lv-container", "#foot-fix-margin");
+					onScrollArticleTopButton();
+					adjustFontsize('.article-text-font-size');
+					checkScrap("http%3A%2F%2Fwww.hani.co.kr%2Farti%2Fsociety%2Fsociety_general%2F702614.html");
+				}
+			);
+		</script>
+<!--[if gt IE 7 ]><!-->
+<script type="text/javascript">
+			jQuery(document).ready
+			(
+				function()
+				{
+					onScrollDirection();
+					onScrollAdjustEndLine("#a-left-scroll-start",	"#contents-article", "#a-left-scroll-in");
+					onScrollAdjustEndLine("#a-right-scroll-start",	"#contents-article", "#a-right-scroll-in");
+				}
+			);
+		</script>
+<!--<![endif]-->
+<script type="text/javascript">
+			if(IsMobile!='')
+			{
+				document.write('<div class="mobile-link"><a href="http://m.hani.co.kr/arti/society/society_general/702614.html"><img src="http://img.hani.co.kr/section-image/12/news/hani/images/com/btn/btn_mobile_link.gif" alt="모바일 웹 사이트로" /></a></div>');
+			}
+		</script>
+<script type="text/javascript"> OAS_RICH("Left1"); </script> <!-- 
+		<script type="text/javascript">OAS_RICH("Left1");</script>
+		<script type="text/javascript" src="http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/news@Left1?section=society&kisano=702614"></script> 
+		-->
+<script type="text/javascript"> OAS_RICH("x95"); </script> <!-- 
+		<script type="text/javascript">OAS_RICH("x95");</script>
+		<script type="text/javascript" src="http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/news@x95?section=society&kisano=702614"></script> 
+		-->
+<!-- sc.hani.co.kr Data transmission -->
+<script type="text/javascript">
+			var scAtcUrl = "http://www.hani.co.kr/arti/society/society_general/702614.html";
+			var deviceMode = "&D=PC";
+		</script>
+<script src="/section-homepage/svc3/js/sc_cnt.js" type="text/javascript"></script>
+<!-- 동영상광고 -->
+<script src="http://ad.hani.co.kr/RealMedia/ads/adstream_jx.ads/www.hani.co.kr/news@x82?section=society&amp;kisano=702614" type="text/javascript"></script>
+<!--//동영상광고  -->
+</body>
