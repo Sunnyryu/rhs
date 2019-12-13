@@ -1,0 +1,1100 @@
+[단독] 삼성, 차세대 갤럭시폴드 2종 年500만대 양산…유리 소재
+<body><iframe frameborder="0" height="0" id="newslog2_iframe" scrolling="no" style="position:absolute;visibility:hidden;top:0;left:0;" width="0"></iframe>
+<script>
+    (function () {
+        var guid = function () {
+            function s4() {return Math.floor((1 + Math.random()) * 0x10000).toString(16).substring(1);}
+
+            return s4() + s4() + s4() + s4() + s4() + s4() + s4() + s4();
+        }
+        var getCookie = function (cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+            }
+            return "";
+        }
+        var setCookie = function (cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+        }
+        var params = "maeche=mk&login_maeche=mk&maeche_category=MK101501&ustr=2019%2F1034048&author_id=408&keyword=%C6%FA%B4%F5%BA%ED%C6%F9%5E%B0%B6%B7%B0%BD%C3%5E%BB%EF%BC%BA%C0%FC%C0%DA&pub_ymdhis=20191210180000&mk_pubdate=20191211&mk_panid=11&mk_section=01&mk_page=20";
+        var referrer = '';
+        var tmp = document.referrer.split('/');
+        if (tmp.length > 2) {referrer = tmp[2];}
+        var domain = '';
+        tmp = document.location.href.split('/');
+        if (tmp.length > 2) {domain = tmp[2];}
+        var pathname = document.location.pathname;
+        var login_id = getCookie("cUserID");
+        var login_yn = 'y';
+        if (login_id == "") {
+            login_id = getCookie("tmpUserID");
+            login_yn = 'n';
+            if (login_id == "") {
+                login_id = guid();
+                setCookie("tmpUserID", login_id, 365 * 100);
+            }
+        }
+        var dumDate = new Date();
+        params += "referrer=" + referrer + "&domain=" + domain + "&pathname=" + pathname + "&login_id=" + login_id + "&login_yn=" + login_yn + "&dummy=" + dumDate.getTime();
+        document.getElementById("newslog2_iframe").src = "//www.mk.co.kr/news/inc/mkNewsLogIframe.php?" + params;
+        console.log(params);
+    })();
+</script>
+<!-- News Log  -->
+<iframe align="middle" frameborder="0" height="0" id="newslog_iframe" name="newscnt" scrolling="no" title="news log" valign="top" width="0"></iframe>
+<script type="text/javascript">
+        <!--
+        var fromUrl = document.referrer.toString();
+        if (fromUrl != null && fromUrl != "") {
+            fromUrl = fromUrl.replace("https://", "");
+            fromUrl = fromUrl.replace("http://", "");
+            fromUrl = fromUrl.split("/");
+            fromUrl = fromUrl[0];
+        }
+        var toUrl = document.location.href.toString();
+        if (toUrl != null && toUrl != "") {
+            toUrl = toUrl.replace("https://", "");
+            toUrl = toUrl.replace("http://", "");
+            toUrl = toUrl.split("/");
+            toUrl = toUrl[0];
+        }
+        //var loadingUrl = "/include/inc_news_cnt.php?oc=MK101501&year=2019&no=1034048&domain_from=" + fromUrl + "&domain_to=" + toUrl + "&isMobile=N&nTitle=[단독] 삼성, 차세대 갤럭시폴드 2종 年500만대 양산…유리 소재";
+        var loadingUrl = "//news.mk.co.kr/include/inc_news_cnt.php?oc=MK101501&year=2019&no=1034048&domain_from=" + fromUrl + "&domain_to=" + toUrl + "&isMobile=N&nTitle=";
+        document.getElementById("newslog_iframe").src = loadingUrl;
+        //-->
+    </script>
+<!--// News Log  -->
+<script type="text/javascript">
+$().ready(function() {
+    var maxt = 0, rt = 3.45, weight = 0.4, st;
+    var intv = setInterval(function () {
+        var cont = $('.art_txt');
+        try {
+            var wc = cont.html().replace(/(<([^>]+)>)/gi, "").replace('window.jQuery || document.write("")', '').split(/\s+/).length;
+            if(wc > 0) {
+                maxt = (wc/rt)*weight;
+                st = new Date();
+                clearInterval(intv);
+            }
+        } catch(err) {}
+    }, 500);
+    
+    
+    $(window).on('beforeunload ',function() {
+        //ga('send', 'event', 'rating', 10);
+        var diff = ((new Date()).getTime() - st.getTime())/1000, rating = (diff/maxt)*10;
+        if(rating > 10) rating = 10;
+    
+        //console.log(diff + ' | ' + maxt);
+        //console.log(parseInt(rating));
+    });
+});
+</script>
+<!-- 팝업 -->
+<!--if IE 7 배경-->
+<div class="overlay" id="overlay" style="display: none;"></div>
+<div id="popup" style="display: none;">
+<map name="map_popup">
+<area alt="닫기" coords="489, 9, 530, 49" href="#" shape="rect"/>
+<area alt="IE 8 다운로드" coords="51, 289, 165, 403" href="http://software.naver.com/software/summary.nhn?softwareId=MFS_100203" shape="rect" target="_blank"/>
+<area alt="크롬 다운로드" coords="209, 287, 328, 403" href="https://www.google.com/chrome/browser/desktop/index.html" shape="rect" target="_blank"/>
+<area alt="파이어폭스 다운로드" coords="370, 286, 490, 403" href="https://www.mozilla.org/ko/firefox/new/" shape="rect" target="_blank"/>
+</map>
+<img alt="매경닷컴 홈페이지는 인터넷 익스플로러 8 이상을 지원합니다" src="//img.mk.co.kr/main/201509/pop_browser_update.jpg" usemap="#map_popup"/>
+</div>
+<!--// 팝업 -->
+<div id="Wrap">
+<!-- header -->
+<div id="header_box"><div id="header">
+<h2><img alt="mk" src="//img.mk.co.kr/main/2015/mk_new/l_mk_slogo.gif" usemap="#Map"/>
+<map name="Map">
+<area coords="28,22,103,52" href="http://www.mk.co.kr/" onclick="ga('send', 'event', 'gnb', 'click', 'mk');" shape="rect"/>
+<area coords="28,53,64,64" href="http://www.mk.co.kr/" onclick="ga('send', 'event', 'gnb', 'click', 'mk');" shape="rect"/>
+<area coords="67,53,95,66" href="http://mbn.mk.co.kr/" onclick="ga('send', 'event', 'gnb', 'click', 'mbn');" shape="rect"/>
+</map>
+</h2>
+<style type="text/css">
+        #header .submenu dd { float: left; padding: 9px 4px 0 !important; height: 30px; font-size: 13px; font-weight: normal; letter-spacing: -1px }
+        #header .submenu dd:first-child { float: left; padding: 9px 7px 0 10px !important; height: 40px; font-weight: normal; letter-spacing: -1px }
+    </style>
+<div class="gnb_top">
+<ul class="gnb_menu">
+<li class="on"><a data-category="gnb" data-label="news" href="https://www.mk.co.kr/news/">뉴스</a>
+<!-- news submenu -->
+<dl class="submenu">
+<dd><a data-category="gnb" data-label="news_home" href="https://www.mk.co.kr/news/">뉴스홈</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_economy" href="https://www.mk.co.kr/news/all/">전체기사</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_economy" href="https://www.mk.co.kr/news/economy/">경제</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_business" href="https://www.mk.co.kr/news/business/">기업</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_society" href="https://www.mk.co.kr/news/society/">사회</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_international" href="https://www.mk.co.kr/news/world/">국제</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_estate" href="https://www.mk.co.kr/news/realestate/">부동산</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_stock" href="https://www.mk.co.kr/news/stock/">증권</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_politics" href="https://www.mk.co.kr/news/politics/">정치</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_it" href="https://www.mk.co.kr/news/it/">IT·과학</a></dd>
+<dd off=""><a data-category="gnb" data-label="news_culture" href="https://www.mk.co.kr/news/culture/">문화</a></dd>
+<dd><a data-category="gnb" data-label="news_serial" href="https://www.mk.co.kr/news/feature-story/">기획·연재</a></dd>
+<dd off="">
+<a data-category="gnb" data-label="news_specialedition" href="https://www.mk.co.kr/news/special-edition/">Special Edition</a>
+</dd>
+<dd><a data-category="gnb" data-label="news_bestclick" href="https://www.mk.co.kr/news/bestclick/">인기뉴스</a></dd>
+<dd><a data-category="gnb" data-label="cryptocurrency" href="https://www.mk.co.kr/news/crypto-currency/">암호화폐</a></dd>
+</dl>
+<!--// news submenu -->
+</li>
+<li class="off"><a data-category="gnb" data-label="opinion" href="https://www.mk.co.kr/opinion/">오피니언</a></li>
+<li class="off"><a data-category="gnb" data-label="premium" href="https://www.mk.co.kr/premium/">프리미엄</a></li>
+<li class="off"><a data-category="gnb" data-label="startoday" href="https://www.mk.co.kr/star/">연예</a></li>
+<li class="off"><a data-category="gnb" data-label="sports" href="https://www.mk.co.kr/sports/">스포츠</a></li>
+<li class="off"><a data-category="gnb" data-label="stock" href="http://stock.mk.co.kr/">증권</a></li>
+<li class="off"><a data-category="gnb" data-label="estate" href="http://estate.mk.co.kr/">부동산</a></li>
+<li class="off"><a data-category="gnb" data-label="education" href="http://education.mk.co.kr/">교육</a></li>
+<li class="off"><a data-category="gnb" data-label="biz" href="http://biz.mk.co.kr/">비즈&amp;</a></li>
+</ul>
+</div>
+<!--// menu -->
+<!-- 검색/속보 -->
+<!-- 검색 -->
+<input name="ADSTK" type="hidden" value=""/> <input name="ADSTL" type="hidden" value=""/> <div class="search_bx">
+<div class="search_bx1">
+<ul class="etc_menu">
+<li><a data-category="gnb" data-label="subscribe" href="http://subscribe.mk.co.kr/?TM=S&amp;MM=1" rel="nofollow">구독신청</a></li>
+<!-- //로그인/로그아웃 -->
+<script language="JavaScript" type="text/javascript">
+				login_check = document.cookie.indexOf('cUserID');
+				if( login_check == -1 ) {
+					document.write( "<li><a data-category=\"gnb\" data-label=\"login\" href='https://member.mk.co.kr/mem/v1/login.php?successUrl=" + document.location + "' rel='nofollow'>로그인</a></li>" );
+					document.write( "<li class='last'><a data-category=\"gnb\" data-label=\"signup\" href='http://member.mk.co.kr/join/join_intro.php' rel='nofollow'>회원가입</a>" );
+				} else {
+					document.write( "<li><a data-category=\"gnb\" data-label=\"logout\" href='https://member.mk.co.kr/member_logoff.php?nextUrl=" + document.location + "' rel='nofollow'>로그아웃</a></li>" );
+					document.write( "<li class='last'><a data-category=\"gnb\" data-label=\"profile\" href='https://member.mk.co.kr/modify/modify_info.php' rel='nofollow'>회원수정</a></li>" );
+				}
+                </script>
+<!-- //로그인/로그아웃 -->
+</ul>
+<div class="btn_right">
+<a data-category="gnb" data-label="search" href="javascript:void(0);"><img alt="검색" src="//img.mk.co.kr/main/201509/btn_srch.gif"/></a>
+<a class="ml9" data-category="gnb" data-label="more_view" href="javascript:void(0);"><img alt="전체보기" id="moreImg" src="//img.mk.co.kr/main/201509/btn_sitemap.gif"/></a>
+</div>
+<input name="ADSTK" type="hidden" value=""/> <input name="ADSTL" type="hidden" value=""/> <div class="gnb_srch" style="display:none;">
+<fieldset>
+<legend>검색</legend>
+<div class="srch_wrap">
+<input autocapitalize="off" autocomplete="off" class="text" id="q_search" name="search_keyword" onkeypress="typeSearchNews(event)" onmousedown="
+					this.value='';" placeholder="통합검색" title="검색어 입력" type="text" value=""/>
+</div>
+<input class="img" onclick="searchNews()" type="submit" value="검색"/>
+<a class="btn_close" href="javascript:void(0);">닫기</a>
+</fieldset>
+</div>
+</div>
+<div class="top_busy">
+</div>
+</div>
+<!--// 검색/속보 -->
+<div class="sitemap_bx_bg" style="display:none;">
+<div class="sitemap_bx">
+<div class="ct1">
+<ul>
+<li class="tit"><a href="https://www.mk.co.kr/news/">뉴스</a></li>
+<li><a href="https://www.mk.co.kr/news/economy/">경제</a></li>
+<li><a href="https://www.mk.co.kr/news/business/">기업</a></li>
+<li><a href="https://www.mk.co.kr/news/society/">사회</a></li>
+<li><a href="https://www.mk.co.kr/news/world/">국제</a></li>
+<li><a href="https://www.mk.co.kr/news/realestate/">부동산</a></li>
+<li><a href="https://www.mk.co.kr/news/stock/">증권</a></li>
+<li><a href="https://www.mk.co.kr/news/politics/">정치</a></li>
+<li><a href="https://www.mk.co.kr/news/it/">IT·과학</a></li>
+<li><a href="https://www.mk.co.kr/news/culture/">문화</a></li>
+<li><a href="https://www.mk.co.kr/news/feature-story/">기획·연재</a></li>
+<li><a href="https://www.mk.co.kr/news/special-edition/">Special Edition</a></li>
+<li><a href="https://www.mk.co.kr/news/card-news/">카드뉴스</a></li>
+<li><a href="http://www.pulsenews.co.kr/">영문뉴스</a></li>
+<li><a href="http://china.mk.co.kr/china/">중문뉴스</a></li>
+<li><a href="http://japan.mk.co.kr/">일문뉴스</a></li>
+</ul>
+</div>
+<div class="ct2">
+<ul>
+<li class="tit"><a href="#">오피니언</a></li>
+<li><a href="https://www.mk.co.kr/opinion/editorial/">사설</a></li>
+<li><a href="http://channel.mk.co.kr/event/2014/ssbb/?m=4">경제노트</a></li>
+<li><a href="https://www.mk.co.kr/opinion/columnists/">기명칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/contributors/">사외칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/maekyung-forum/">매경포럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/maekyung-desk/">매경데스크</a></li>
+<li><a href="https://www.mk.co.kr/opinion/weekend-column/">주말칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/special-column/">특별칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/correspondent/">전문기자칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/journalist/">기자24시</a></li>
+</ul>
+</div>
+<div class="ct3">
+<ul>
+<li class="tit"><a href="#">스포츠</a></li>
+<li><a href="https://www.mk.co.kr/sports/baseball/">야구</a></li>
+<li><a href="https://www.mk.co.kr/sports/football/">축구</a></li>
+<li><a href="http://mkbn.mk.co.kr/">당구</a></li>
+<li class="mb25"><a href="https://www.mk.co.kr/sports/general/">일반</a></li>
+<li class="tit"><a href="#">연예</a></li>
+<li><a href="https://www.mk.co.kr/star/all/">주요뉴스</a></li>
+<li><a href="https://www.mk.co.kr/star/interview/">스타인터뷰</a></li>
+<li><a href="https://www.mk.co.kr/star/broadcasting-service/">TV · 방송</a></li>
+<li><a href="https://www.mk.co.kr/star/musics/">가요 · 음악</a></li>
+<li><a href="https://www.mk.co.kr/star/movies/">영화</a></li>
+<li><a href="https://www.mk.co.kr/star/foreign-star/">해외연예</a></li>
+</ul>
+</div>
+<div class="ct4">
+<ul>
+<li class="tit"><a href="#">라이프</a></li>
+<li><a href="http://weather.mk.co.kr/info/info01_01.html">날씨</a></li>
+<li><a href="http://golf.mk.co.kr/">골프</a></li>
+<li><a href="http://tour.mk.co.kr/">여행</a></li>
+<li><a href="http://book.mk.co.kr/">Book</a></li>
+<li><a href="http://uberin.mk.co.kr/">우버人사이트</a></li>
+<li><a href="http://luxurym.mk.co.kr/">LUXURY M</a></li>
+</ul>
+</div>
+<div class="ct5">
+<ul>
+<li class="tit"><a href="#">프리미엄</a></li>
+<li><a href="http://digital.mk.co.kr/intro/intro.php">매경e신문</a></li>
+<li><a href="https://www.mk.co.kr/premium/">매경프리미엄</a></li>
+<li><a href="http://raythe.mk.co.kr/">레이더포털</a></li>
+<li><a href="http://raythe.mk.co.kr/list.php?sc=51900013">레이더A</a></li>
+<li><a href="http://raythe.mk.co.kr/list.php?sc=51900014">레이더L</a></li>
+<li><a href="http://raythem.com/">레이더M</a></li>
+<li><a href="http://raythe.mk.co.kr/list.php?sc=51900015">레이더N</a></li>
+<li class="mb25"><a href="http://raythep.mk.co.kr/">레이더P</a></li>
+<li class="tit"><a href="#">캠페인</a></li>
+<li><a href="http://www.wkforum.org/">세계지식포럼</a></li>
+<li><a href="http://www.wkforum.org/VK/vkp.php">국민보고대회</a></li>
+<li><a href="http://www.hansang.net​/">세계한상대회</a></li>
+<li><a href="https://www.mk.co.kr/news/economy/view/2018/06/409126/">정진기언론문화상</a></li>
+<li><a href="http://channel.mk.co.kr/photo/beautiful_seoul/index_san.php">산은 선물이다</a></li>
+<li><a href="http://eventpop.mk.co.kr/">이벤트</a></li>
+</ul>
+</div>
+<div class="ct6">
+<ul>
+<li class="tit"><a href="#">재테크</a></li>
+<li><a href="http://vip.mk.co.kr/newSt/index.php">증권</a></li>
+<li><a href="http://estate.mk.co.kr/">부동산</a></li>
+<li><a href="http://money.mk.co.kr/v3/">금융</a></li>
+<li><a href="http://dic.mk.co.kr/cp/pop/index.php">경제용어</a></li>
+<li class="mb25"><a href="http://oc.mk.co.kr/">해외DB</a></li>
+<li class="tit"><a href="#">매거진</a></li>
+<li><a href="http://economy.mk.co.kr/">매경이코노미</a></li>
+<li><a href="http://luxmen.mk.co.kr/">매경럭스멘</a></li>
+<li><a href="https://www.mk.co.kr/news/special-edition/citylife/">시티라이프</a></li>
+<li><a href="http://gfw.mk.co.kr/">골프포위민</a></li>
+</ul>
+</div>
+<div class="ct7">
+<ul>
+<li class="tit"><a href="#">비즈니스</a></li>
+<li><a href="http://09.mk.co.kr/">MK공동구매</a></li>
+<li><a href="http://nikkei.mk.co.kr/main.php">닛케이텔레콤</a></li>
+<li><a href="http://biz.mk.co.kr/">비즈&amp;</a></li>
+<li><a href="http://senior.mk.co.kr/">생애설계</a></li>
+<li><a href="https://www.mk.co.kr/news/business/new-corporation/">신설법인</a></li>
+<li><a href="http://changup.mk.co.kr/v2/index.php">창업</a></li>
+<li><a href="http://kdx.mbn.co.kr/">한국데이터거래소</a></li>
+</ul>
+</div>
+<div class="ct8">
+<ul>
+<li class="tit"><a href="#">교육</a></li>
+<li><a href="http://edu.mk.co.kr/">오프라인교육</a></li>
+<li><a href="http://jrmba.mk.co.kr/v3/">주니어MBA</a></li>
+<li><a href="http://kids.mk.co.kr/new/">어린이경제교실</a></li>
+<li class="mb25"><a href="http://mktest.mk.co.kr/">매경TEST</a></li>
+<li class="tit"><a href="#">서비스</a></li>
+<li><a href="http://subscribe.mk.co.kr/index.php?TM=S&amp;MM=1">구독신청</a></li>
+<li><a href="http://etc.mk.co.kr/mobile_info/index.php">MK모바일</a></li>
+<li><a class="ic_hot" href="http://epaper.mk.co.kr/PaperList.aspx">신문PDF</a></li>
+<li><a href="https://twitter.com/maekyung">트위터</a></li>
+<li><a href="https://www.facebook.com/maekyungsns">페이스북</a></li>
+<li><a href="https://story.kakao.com/ch/mknews">카카오스토리</a></li>
+<li><a href="http://news.mk.co.kr/rss/rss.php">RSS</a></li>
+<li><a href="https://member.mk.co.kr/newsletter/info.php">뉴스레터</a></li>
+</ul>
+</div>
+</div>
+</div></div>
+</div>
+<!--// header -->
+<!-- Google DFP TC 광고 시작-->
+<div class="ad_header">
+<div id="google_dfp_TC_728x90,970x90,970x250">
+<script type="text/javascript">googletag.display('google_dfp_TC_728x90,970x90,970x250'); </script>
+</div>
+</div>
+<!-- Google DFP  TC 광고 끝-->
+<div class="pd10">
+<!-- view top  -->
+<div id="top_header">
+<div class="news_title">
+<div class="news_title_text">
+<h1 class="top_title">[단독] 삼성, 차세대 갤럭시폴드 2종 年500만대 양산…유리 소재</h1>
+<h2 class="sub_title1">내년 상반기 출시 예정</h2>
+<div class="news_title_author">
+<ul>
+<li class="author"><a href="https://www.mk.co.kr/news/list_author.php?author_id=408" target="_blank">이동인</a> 기자
+						</li>
+<li class="lasttime">입력 : 2019.12.10 18:00:00   수정 : 2019.12.12 18:37:48</li>
+<!-- 댓글영역 노출공간 -->
+<li class="reple_out">
+<a href="#reple"><div class="reple_box_out"><img alt="댓글" class="reple_icon_sm" src="https://img.mk.co.kr/main/2015/mk_new/ic_reple_icon.gif"> <span id="reply_btn_text"></span></img></div></a>
+</li>
+<!--// 댓글영역 노출공간 -->
+</ul>
+</div>
+<div class="sns_right">
+<ul>
+<li><a data-category="share" data-label="print" href="javascript:void(0);" onclick="sendPrint();"><img alt="프린트" src="//img.mk.co.kr/main/2015/mk_new/ic_print.gif"/></a></li>
+<li><a data-category="share" data-label="email" href="javascript:void(0);" onclick="sendMail();"><img alt="이메일" src="//img.mk.co.kr/main/2015/mk_new/ic_email.gif"/></a></li>
+<li><a data-category="share" data-label="facebook" href="javascript:void(0);"><img alt="페이스북" class="sns_section_li" sns_name="facebook" src="//img.mk.co.kr/main/2015/mk_new/ic_facebook.gif"/></a></li>
+<li><a data-category="share" data-label="twitter" href="javascript:void(0);"><img alt="트위터" class="sns_section_li" sns_name="twitter" src="//img.mk.co.kr/main/2015/mk_new/ic_twitter.gif"/></a></li>
+<li><a class="kakaostoryShareBtn" data-category="share" data-label="twitter" href="javascript:void(0);"><img alt="카카오스토리" src="//img.mk.co.kr/main/2015/mk_new/ic_castory.gif"/></a></li>
+<li><a data-category="share" data-label="source" href="javascript:void(0);" onclick="sendShareArt()"><img alt="공유" src="//img.mk.co.kr/main/2015/mk_new/ic_other.gif"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--// view top -->
+<!--// sns box -->
+<div class="sns_mbox" style="display:none;">
+<div class="sns_left" id="sns_left">
+<ul>
+<li><a data-category="share" data-label="print" href="javascript:void(0);" onclick="sendPrint();"><img alt="프린트" src="//img.mk.co.kr/main/2015/mk_new/ic_print.gif"/></a></li>
+<li><a data-category="share" data-label="email" href="javascript:void(0);" onclick="sendMail();"><img alt="이메일" src="//img.mk.co.kr/main/2015/mk_new/ic_email.gif"/></a></li>
+<li><a data-category="share" data-label="facebook" href="javascript:void(0);"><img alt="페이스북" class="sns_section_li" sns_name="facebook" src="//img.mk.co.kr/main/2015/mk_new/ic_facebook.gif"/></a></li>
+<li><a data-category="share" data-label="twitter" href="javascript:void(0);"><img alt="트위터" class="sns_section_li" sns_name="twitter" src="//img.mk.co.kr/main/2015/mk_new/ic_twitter.gif"/></a></li>
+<li><a class="kakaostoryShareBtn" data-category="share" data-label="twitter" href="javascript:void(0);"><img alt="카카오스토리" src="//img.mk.co.kr/main/2015/mk_new/ic_castory.gif"/></a></li>
+<li><a data-category="share" data-label="source" href="javascript:void(0);" onclick="sendShareArt()"><img alt="공유" src="//img.mk.co.kr/main/2015/mk_new/ic_other.gif"/></a></li>
+</ul>
+</div>
+</div>
+<!--// sns box -->
+<!-- content -->
+<div id="Content">
+<!--  left contets -->
+<div class="left_content">
+<div id="article_body" itemprop="articleBody">
+<div class="art_txt">
+<div class="img_center" originh="284" originw="600" style="width: 600px;">
+<img alt="삼성전자 차세대 폴더블 스마트폰 이미지." border="0" hspace="0" src="https://file.mk.co.kr/meet/neds/2019/12/image_readtop_2019_1034048_15759684004008728.jpg" vspace="0" width="600"/><br/>
+<figure><figcaption><img alt="사진설명" src="//img.mk.co.kr/main/2015/mk_new/ic_arrow_top.gif"/>삼성전자 차세대 폴더블 스마트폰 이미지.</figcaption></figure>
+</div> 삼성전자가 내년 상반기에 출시될 차세대 갤럭시폴드 스마트폰을 올해보다 10배 증가한 연간 500만대 생산한다는 계획을 세웠다. 또 갤럭시폴드 1세대 디스플레이는 플라스틱 소재를 사용했지만 차세대 갤럭시폴드는 세계 최초로 접었다 펼 수 있는 유리 소재를 사용한다. <br/><br/>10일 업계에 따르면 삼성전자의 요청에 따라 국내 스마트폰 부품 업계는 내년 폴더블 스마트폰을 연간 500만대 생산할 수 있는 설비를 갖출 예정이다. 삼성전자는 이 같은 계획을 최근 협력 업체에 전달한 것으로 알려졌다.<div style="text-align:center; border:0; width:100%; margin:0 auto"><div id="google_dfp_MC_2x1,fluid" style="float:inherit; padding: 20px 40px 9px 40px;"><script type="text/javascript">googletag.display("google_dfp_MC_2x1,fluid");</script></div></div> 삼성전자는 올해 출시한 갤럭시폴드에는 플라스틱 소재 커버 유리를 사용했지만 이번에는 유리 소재를 사용한다. 독일 쇼트가 공급하는 얇은 유리로 첫 갤럭시폴드의 단점이었던 화면 접힘 현상을 극복하겠다는 전략이다. 차세대 스마트폰 폼팩터(기기 외형)인 폴더블폰 상용화 원년을 열었던 삼성전자가 내년에 출하량을 대폭 늘리겠다고 공언하면서 글로벌 업체 간 폴더블폰 출시 경쟁이 치열해질 전망이다. 500만대는 올해 삼성전자가 목표로 한 50만대보다 10배 이상 늘어난 숫자다. 연간 3억대를 생산하는 삼성전자의 생산 능력으로 봤을 때 1.7%에 불과하지만 시장조사업체들의 전망보다는 다소 높다. 증권가에선 그동안 글로벌 폴더블폰 출하량은 올해 50만대에서 내년 500만대까지 증가할 전망했고, 2023년에는 3500만대까지 확대돼 연평균 190%의 성장률을 기록할 것으로 예상해 왔다. 하지만 기존 예상과 달리 삼성전자는 `초격차` 전략을 추구한다는 방침에 따라 출시 물량을 대폭 확대하는 동시에 가격까지 떨어뜨린 갤럭시폴드를 내년 2개 모델 이상 내놓을 전망이다. <br/><br/>우선 2세대 폴더블폰은 1세대 모델과 달리 위에서 아래로 접을 수 있는 클램셸 디자인이며 디스플레이 크기는 6.7인치로 전작에 비해 다소 줄어든 형태가 될 전망이다.<div style="padding:15px 15px 15px 0; text-align:left; float:left; margin-right:5px; margin-bottom:15px;"><div id="google_dfp_MC_250x250"><script type="text/javascript">googletag.display("google_dfp_MC_250x250"); </script></div></div> 내년 1분기 출시 예정인 갤럭시S 11플러스는 크기가 더욱 커지고 5배 광학 줌을 장착하는 등 다양한 크기의 스마트폰 출시가 예상되고 있다. 이 때문에 갤럭시폴드 차세대 제품 출시 시기는 갤럭시S11가 출시된 이후인 2분기로 점쳐진다. <br/><br/>삼성전자는 장기적으로 펜을 탑재한 갤럭시노트 시리즈와 갤럭시폴드 시리즈를 합치는 방향을 모색하고 있지만 당장 내년에는 쉽지 않을 것으로 보인다. 삼성전자 관계자는 "현재 개발된 유리나 플라스틱 소재 모두 스타일러 펜을 이용했을 때 자국이 남거나 깨지는 한계가 있다"고 말했다.  <br/><br/>[이동인 기자]<br/>[ⓒ 매일경제 &amp; mk.co.kr, 무단전재 및 재배포 금지]
+        
+					<!--이미지 키우는 스크립트-->
+<script>window.jQuery || document.write("<script src='//common.mk.co.kr/common/include/mklib/jquery.js'>")</script>
+<script src="//www.mk.co.kr/news/js/zoom.js" type="text/javascript"></script>
+</div>
+</div><div class="tagbox"><a class="tag" data-category="keyword" data-label="폴더블폰" href="https://www.mk.co.kr/news/list_kword.php?kword=%C6%FA%B4%F5%BA%ED%C6%F9" target="_blank">#폴더블폰</a><a class="tag" data-category="keyword" data-label="갤럭시" href="https://www.mk.co.kr/news/list_kword.php?kword=%B0%B6%B7%B0%BD%C3" target="_blank">#갤럭시</a><a class="tag" data-category="keyword" data-label="삼성전자" href="https://www.mk.co.kr/news/list_kword.php?kword=%BB%EF%BC%BA%C0%FC%C0%DA" target="_blank">#삼성전자</a></div>
+<!--// art -->
+<div id="bottom_art">
+<div class="t_hotnews">
+<h3><span>오늘의 핫뉴스 <img alt="hot" src="//img.mk.co.kr/main/2015/mk_new/ic_hot_icon.gif" style="position:absolute; right:0"/></span></h3>
+<div class="hotnews_box">
+<ul class="hotnews_list">
+<li><a data-category="hotwnews" data-label="2019/1044726" href="https://www.mk.co.kr/news/realestate/view/2019/12/1044726/">`부부 공동명의`로 집 2채 사면 4주택자라고?</a>   <span style="color:#9b9b9b">4시간 46분</span></li><li><a data-category="hotwnews" data-label="2019/1044106" href="https://www.mk.co.kr/news/politics/view/2019/12/1044106/">하버드대 교수 "제2차 한국전쟁 가능성 크다"</a>   <span style="color:#9b9b9b">6시간 23분</span></li><li style="padding-top:-30px; padding-bottom:28px;"><div id="google_dfp_MC_1x1,fluid" style="height:0px; margin:0px;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("google_dfp_MC_1x1,fluid"); });</script></div></li><li><a data-category="hotwnews" data-label="2019/1044032" href="https://www.mk.co.kr/news/business/view/2019/12/1044032/">`사전계약 신기록` 기아차 신형 K5 타보니…성능이</a>   <span style="color:#9b9b9b">6시간 34분</span></li><li><a data-category="hotwnews" data-label="2019/1045362" href="https://www.mk.co.kr/news/business/view/2019/12/1045362/">`4조8천억` 배달의민족, 요기요 독일 모기업에 팔린다</a>   <span style="color:#9b9b9b">2시간 0분</span></li> </ul>
+<div id="google_dfp_MC_468x61" style="text-align:left;">
+<script type="text/javascript">googletag.display('google_dfp_MC_468x61'); </script>
+</div>
+<div class="ad_bottom_art">
+<div id="google_dfp_BL_301x250" style="float:left">
+<script type="text/javascript">googletag.display('google_dfp_BL_301x250'); </script>
+</div>
+<div id="google_dfp_BC_302x250" style="float:left; padding-left:25px">
+<script type="text/javascript">googletag.display('google_dfp_BC_302x250'); </script>
+</div>
+</div>
+</div>
+</div>
+<div class="ad_type1" id="google_dfp_BC_468x60,625x120">
+<script type="text/javascript">googletag.display('google_dfp_BC_468x60,625x120'); </script>
+</div><!-- 타블라기사 추가 170905-->
+<div class="reple_box">
+<h3>당신이 좋아할 만한 기사 </h3>
+<div class="recommend_box">
+<style>.trc_rbox_header_span { display: none !important }</style>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'alternating-thumbnails-a',
+                container: 'taboola-below-article-thumbnails',
+                placement: 'Below Article Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+</div>
+</div>
+<!-- 타블라기사 추가 170905-->
+<!-- 댓글 -->
+<div class="reple_box">
+<a name="reple">
+<h3>댓글</h3>
+</a>
+<div class="reple"><script type="text/javascript">
+window.livereOptions = { 
+refer : 'news.mk.co.kr/newsRead.php?year=2019&no=1034048',
+site : 'https://www.mk.co.kr/news/it/view/2019/12/1034048/?a=1'
+};
+</script>
+<div data-id="mk" data-uid="MjQvMzYvMjc=" id="lv-container">
+<script type="text/javascript">
+(function(d, s) {
+var j, e = d.getElementsByTagName(s)[0];
+
+if (typeof LivereTower === 'function') { return; }
+
+j = d.createElement(s);
+j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+j.async = false;
+
+e.parentNode.insertBefore(j, e);
+})(document, 'script');
+</script>
+<noscript></noscript>
+</div>
+<!--  시선집중  시작 -->
+<div class="ad_viewad_box">
+<h4 class="adtitle">시선집중</h4>
+<div class="adcont">
+<div class="adcont_left">
+<ul class="ad_viewad"><li><img align="absmiddle" alt="news dot" border="0" onerror="this.style.display='none';" src="//img.mk.co.kr/news/2010/ic_gray_newsdot.gif"> <a href="http://vip.mk.co.kr/newSt/invest/invest_view.php?p_page=&amp;sCode=68&amp;t_uid=30&amp;c_uid=28541&amp;search="><b>조용히 사서 묻어놔라! 12月 정말 큰돈 된다!</b></a></img></li><li><img align="absmiddle" alt="news dot" border="0" onerror="this.style.display='none';" src="//img.mk.co.kr/news/2010/ic_gray_newsdot.gif"> <a href="http://vip.mk.co.kr/newSt/invest/invest_view.php?p_page=&amp;sCode=68&amp;t_uid=30&amp;c_uid=28539&amp;search="><b>종잣돈 500만원만 있다면, 이 종목 반드시 잡아..</b></a></img></li><li><img align="absmiddle" alt="news dot" border="0" onerror="this.style.display='none';" src="//img.mk.co.kr/news/2010/ic_gray_newsdot.gif"> <a href="http://vip.mk.co.kr/newSt/invest/invest_view.php?p_page=&amp;sCode=68&amp;t_uid=30&amp;c_uid=28538&amp;search="><b>젬백스 후속! 시장을 강타할 바이오 황제주 또 ..</b></a></img></li><li><img align="absmiddle" alt="news dot" border="0" onerror="this.style.display='none';" src="//img.mk.co.kr/news/2010/ic_gray_newsdot.gif"> <a href="http://vip.mk.co.kr/newSt/invest/invest_view.php?p_page=&amp;sCode=68&amp;t_uid=30&amp;c_uid=28531&amp;search="><b>올해 순이익 3배 폭증 전망! 최적 매수타점 주는..</b></a></img></li>
+</ul>
+</div>
+<div class="adcont_right" id="viewShopDiv"> <a href="http://vip.mk.co.kr/newSt/invest/invest_view.php?p_page=&amp;sCode=68&amp;t_uid=30&amp;c_uid=28541&amp;search=" target="_blank">
+<img alt="시선집중" class="imgf" onerror="this.style.display='none';" src="//img.mk.co.kr/news/2013/banner_280X112.gif" style="float:left" width="280"/></a>
+</div>
+</div>
+</div>
+<!--// 시선집중  끝 --> <script type="text/javascript">
+                var rElement=document.getElementById('reply_btn_text');
+                
+                if(rElement){
+                	rElement.innerHTML='2';
+                }
+                </script>
+</div>
+</div>
+<br/><br/>
+</div>
+<!--// bottom art -->
+</div>
+<!--// left contets -->
+<!-- right aside -->
+<div class="right_aside">
+<script type="text/javascript">
+    var rel_json = [{"0":{"title":"삼성, 中시안에 80억弗 추가투자…현지 낸드시..","link":"https://www.mk.co.kr/news/business/view/2019/12/1042841/","title_font":"","wdate":"20191212174333","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1042841"},"1":{"title":"`삼성에버랜드 노조 와해 사건` 1심 판단 오늘..","link":"https://www.mk.co.kr/news/culture/view/2019/12/1043612/","title_font":"","wdate":"20191213070003","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1043612"},"2":{"title":"[단독] 내년초 출시 갤럭시S11…반려동물 건강..","link":"https://www.mk.co.kr/news/it/view/2019/12/1042978/","title_font":"","wdate":"20191212180516","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1042978"},"3":{"title":"삼성전기, 고부가 `전장 MLCC`로 실적 반전 노..","link":"https://www.mk.co.kr/news/business/view/2019/12/1042865/","title_font":"","wdate":"20191212174731","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1042865"},"4":{"title":"삼성전자, 가구브랜드와 프리미엄 가전 협업","link":"https://www.mk.co.kr/news/business/view/2019/12/1042837/","title_font":"","wdate":"20191212174321","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1042837"}},{"0":{"title":"삼성 QLED `갤럭시 북` 출시","link":"https://www.mk.co.kr/news/it/view/2019/12/1042823/","title_font":"","wdate":"20191212174117","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1042823"},"1":{"title":"삼성 `사이니지` 4218대 설치…지하철역 안내..","link":"https://www.mk.co.kr/news/business/view/2019/12/1038363/","title_font":"","wdate":"20191211174552","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1038363"},"2":{"title":"삼성, 서울 지하철 90개 역사에 사이니지 4218..","link":"https://www.mk.co.kr/news/business/view/2019/12/1035985/","title_font":"","wdate":"20191211110101","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1035985"},"3":{"title":"삼성 스마트폰 혁신 `갤럭시A`서 움튼다","link":"https://www.mk.co.kr/news/it/view/2019/12/1032774/","title_font":"","wdate":"20191210144222","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1032774"},"4":{"title":"법원, `삼성바이오 증거인멸 혐의` 부사장 3명..","link":"https://www.mk.co.kr/news/society/view/2019/12/1029243/","title_font":"","wdate":"20191209163714","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1029243"}},{"0":{"title":"`삼성바이오 분식회계 증거인멸` 삼성 부사장 ..","link":"https://www.mk.co.kr/news/society/view/2019/12/1029008/","title_font":"","wdate":"20191209155729","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1029008"},"1":{"title":"삼성, 세계 6번째로 큰 크루즈선에 LED 사이니..","link":"https://www.mk.co.kr/news/business/view/2019/12/1026797/","title_font":"","wdate":"20191209095506","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1026797"},"2":{"title":"갤럭시S11 플러스, 5000㎃h 괴물 배터리 탑재..","link":"https://www.mk.co.kr/news/it/view/2019/12/1023216/","title_font":"","wdate":"20191206174855","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1023216"},"3":{"title":"이재용, 3차 공판 출석…취재진 질문에 `묵묵..","link":"https://www.mk.co.kr/news/society/view/2019/12/1022330/","title_font":"<span style='color: #003c84;'>","wdate":"20191206142604","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1022330"},"4":{"title":"`중소형 OLED 강자` 삼성D…성장기회 5G폰에서..","link":"https://www.mk.co.kr/news/it/view/2019/12/1021776/","title_font":"","wdate":"20191206114535","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1021776"}},{"0":{"title":"삼성전자 사장단 인사 임박…CEO 3인 체재 유..","link":"https://www.mk.co.kr/news/business/view/2019/12/1021071/","title_font":"","wdate":"20191206100334","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1021071"},"1":{"title":"이재용, 6일 파기환송심 3차 공판…수동적 뇌..","link":"https://www.mk.co.kr/news/business/view/2019/12/1020622/","title_font":"","wdate":"20191206084756","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1020622"},"2":{"title":"삼성 C랩, 韓벤처 생태계 구축에 `단비`","link":"https://www.mk.co.kr/news/business/view/2019/12/1015093/","title_font":"","wdate":"20191204174546","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1015093"},"3":{"title":"7년만에 AI·자율주행 등 40개 사내벤처 분사","link":"https://www.mk.co.kr/news/business/view/2019/12/1015090/","title_font":"","wdate":"20191204174519","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1015090"},"4":{"title":"갤럭시S10 라이트 내년 초 출시될 듯…라인업 ..","link":"https://www.mk.co.kr/news/it/view/2019/12/1013572/","title_font":"","wdate":"20191204133347","r_title":"삼성 SAMSUNG","img":"000060027.jpg","code":"000060027","year":"2019","no":"1013572"}}];
+    var rel_idx = 0, rel_limit = rel_json.length-1;
+    var pageReated = function (idx) {
+        if(idx > rel_limit) idx = 0;
+        else if(idx <0) idx = rel_limit;
+        
+        rel_idx = idx;
+
+        var list_html = '';
+        try {
+            for (var i = 0; i < Object.keys(rel_json[idx]).length; i++) {            
+                list_html += '<li> <a href="' + rel_json[idx][i]['link'] + '" data-category="related" data-label="' + rel_json[idx][i]['year'] + '/' + rel_json[idx][i]['no'] + '">' + rel_json[idx][i]['title'] + '</a></li>';
+            }
+        } catch(e) {}
+        $('.rel_art').html(list_html);
+    };
+    </script>
+<div class="aside">
+<div class="rel_art_tit">
+<h3>관련뉴스</h3>
+<a class="btn_prev" href="javascript:void(0);" onclick="pageReated(--rel_idx);"><img alt="이전 배너" src="//img.mk.co.kr/main/201509/btn_bn_prev.gif"/></a><a class="btn_next" href="javascript:void(0);" onclick="pageReated(++rel_idx);"><img alt="다음 배너" src="//img.mk.co.kr/main/201509/btn_bn_next.gif"/></a>
+</div>
+<img alt="삼성 SAMSUNG" class="rel_thum" src="https://file.mk.co.kr/meet/relatedImg/000060027.jpg"/>
+<ul class="rel_art">
+<li>
+<a data-category="related" data-label="2019/1042841" href="https://www.mk.co.kr/news/business/view/2019/12/1042841/">삼성, 中시안에 80억弗 추가투자…현지 낸드시..</a>
+</li>
+<li>
+<a data-category="related" data-label="2019/1043612" href="https://www.mk.co.kr/news/culture/view/2019/12/1043612/">`삼성에버랜드 노조 와해 사건` 1심 판단 오늘..</a>
+</li>
+<li>
+<a data-category="related" data-label="2019/1042978" href="https://www.mk.co.kr/news/it/view/2019/12/1042978/">[단독] 내년초 출시 갤럭시S11…반려동물 건강..</a>
+</li>
+<li>
+<a data-category="related" data-label="2019/1042865" href="https://www.mk.co.kr/news/business/view/2019/12/1042865/">삼성전기, 고부가 `전장 MLCC`로 실적 반전 노..</a>
+</li>
+<li>
+<a data-category="related" data-label="2019/1042837" href="https://www.mk.co.kr/news/business/view/2019/12/1042837/">삼성전자, 가구브랜드와 프리미엄 가전 협업</a>
+</li>
+</ul>
+<ul>
+<li>
+<div id="google_dfp_TR_1x1,300x100,300x125,fluid">
+<script>
+                googletag.cmd.push(function() { googletag.display('google_dfp_TR_1x1,300x100,300x125,fluid'); });
+                </script>
+</div>
+</li>
+</ul>
+</div>
+<div class="ad_rightview" id="google_dfp_MR_300x250,300x450,300x600,fluid">
+<script type="text/javascript">googletag.display('google_dfp_MR_300x250,300x450,300x600,fluid'); </script>
+</div>
+<!-- 많이 본 기사 -->
+<div class="aside1">
+<div class="many_art_tit">
+<h3><span class="ft_org">종합</span> 많이 본 기사</h3>
+</div>
+<div class="manyart_box">
+<dl class="many_art0">
+<dd class="thum">
+<a data-category="bestclick" data-label="2019/1042962" href="https://www.mk.co.kr/news/economy/view/2019/12/1042962/"><img alt='[단독] "장사 접겠다" 폭주하는 폐업 신청' src="//file.mk.co.kr/meet/2019/12/image_listtop_2019_1042962_1576188625.jpg.thumb" width="50"/></a>
+</dd>
+<dt>
+<span class="num">1</span>
+<a data-category="bestclick" data-label="2019/1042962" href="https://www.mk.co.kr/news/economy/view/2019/12/1042962/"><strong>[단독] "장사 접겠다" 폭주하는 폐업 신청</strong></a>
+</dt>
+</dl>
+<dl class="many_art0">
+<dd class="thum">
+<a data-category="bestclick" data-label="2019/1044106" href="https://www.mk.co.kr/news/politics/view/2019/12/1044106/"><img alt='앨리슨 하버드대 교수 "제2차 한국전쟁 가능성 크다"' src="//file.mk.co.kr/meet/2019/12/image_listtop_2019_1044106_1576211576.jpg.thumb" width="50"/></a>
+</dd>
+<dt>
+<span class="num">2</span>
+<a data-category="bestclick" data-label="2019/1044106" href="https://www.mk.co.kr/news/politics/view/2019/12/1044106/"><strong>앨리슨 하버드대 교수 "제2차 한국전쟁 가능성 크다"</strong></a>
+</dt>
+</dl>
+<dl class="many_art0">
+<dd class="thum">
+<a data-category="bestclick" data-label="2019/1044167" href="https://www.mk.co.kr/news/realestate/view/2019/12/1044167/"><img alt="[핫이슈] 억억하고 오르는 집값, 총리 거론되는 김현미" src="//file.mk.co.kr/meet/2019/12/image_listtop_2019_1044167_1576207853.jpg.thumb" width="50"/></a>
+</dd>
+<dt>
+<span class="num">3</span>
+<a data-category="bestclick" data-label="2019/1044167" href="https://www.mk.co.kr/news/realestate/view/2019/12/1044167/"><strong>[핫이슈] 억억하고 오르는 집값, 총리 거론되는 김현미</strong></a>
+</dt>
+</dl>
+<dl class="many_art0">
+<dd class="thum">
+<a data-category="bestclick" data-label="2019/1042870" href="https://www.mk.co.kr/news/politics/view/2019/12/1042870/"><img alt='文, 스마트온실 현장체험…"농정에도 혁신 도입"' src="//file.mk.co.kr/meet/2019/12/image_listtop_2019_1042870_1576142454.jpg.thumb" width="50"/></a>
+</dd>
+<dt>
+<span class="num">4</span>
+<a data-category="bestclick" data-label="2019/1042870" href="https://www.mk.co.kr/news/politics/view/2019/12/1042870/"><strong>文, 스마트온실 현장체험…"농정에도 혁신 도입"</strong></a>
+</dt>
+</dl>
+<dl class="many_art0">
+<dd class="thum">
+<a data-category="bestclick" data-label="2019/1042349" href="https://www.mk.co.kr/news/society/view/2019/12/1042349/"><img alt='`곰탕집 성추행` 유죄 확정에 피의자 아내 "이제 다 끝이네요"' src="//file.mk.co.kr/meet/2019/12/image_listtop_2019_1042349_1576135325.jpg.thumb" width="50"/></a>
+</dd>
+<dt>
+<span class="num">5</span>
+<a data-category="bestclick" data-label="2019/1042349" href="https://www.mk.co.kr/news/society/view/2019/12/1042349/"><strong>`곰탕집 성추행` 유죄 확정에 피의자 아내 "이제 다 끝이네요"</strong></a>
+</dt>
+</dl>
+<dl>
+<dt>
+<div id="google_dfp_BR_300x100,300x125,fluid">
+<script>googletag.cmd.push(function() { googletag.display('google_dfp_BR_300x100,300x125,fluid'); });</script>
+</div>
+</dt>
+</dl>
+</div>
+</div>
+<!-- 많이 본 기사 -->
+<div class="aside1">
+<div class="many_art_tit">
+<h3>가장 많이 공유된 기사</h3>
+</div>
+<ul class="many_art">
+<li>
+<div class="art_facebook">834</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/it/view/2019/12/1023265/">`타다` 못타게 된 날, 동남아 ..</a>
+</li>
+<li>
+<div class="art_facebook">783</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/business/view/2019/12/1030256/">김우중 전 대우그룹 회장 별세..</a>
+</li>
+<li>
+<div class="art_facebook">493</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/realestate/view/2019/12/1029703/">"1조에 산 CJ가양동 땅 코엑스..</a>
+</li>
+<li>
+<div class="art_facebook">316</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/society/view/2019/12/1025741/">"김대리도 빈방 돌려?"…공유숙박..</a>
+</li>
+<li>
+<div class="art_facebook">273</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/economy/view/2019/12/1023257/">넷플릭스에 빠진 2030 "극장 ..</a>
+</li>
+<li>
+<div class="art_facebook">262</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/business/view/2019/12/1030252/">김우중 前 대우그룹 회장이 걸어온..</a>
+</li>
+<li>
+<div class="art_facebook">253</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/opinion/contributors/view/2019/12/1030234/">[매경춘추] `민식이법`만으로 족..</a>
+</li>
+<li>
+<div class="art_facebook">200</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/society/view/2019/12/1034057/">세계를 경영한 민족주의자…편안히 ..</a>
+</li>
+<li>
+<div class="art_facebook">186</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/politics/view/2019/12/1020884/">[핫이슈] 윤석열 사냥..</a>
+</li>
+<li>
+<div class="art_facebook">182</div>
+<a data-category="bestclick_sns" data-label="2019/1042349" href="https://www.mk.co.kr/news/world/view/2019/12/1021036/">취임 직후 트럼프 "서울이 왜 북..</a>
+</li>
+</ul>
+</div>
+<div class="aside1">
+<div class="many_art_tit" style="margin-bottom:20px">
+<h3>포토</h3>
+</div>
+<iframe frameborder="0" height="300" id="xy_inc_todayPhoto" marginheight="0" marginwidth="0" scrolling="no" src="//common.mk.co.kr/common/include/inc_todayPhoto_mk.php?sc=40100044&amp;mc=ES" title="포토" width="300"></iframe>
+</div>
+<style type="text/css">
+.banner_bxtop {border-top:1px solid #d2d2d2; border-bottom:1px solid #d2d2d2;}
+.banner_bx {position:relative;overflow:hidden;width:300px;height:102px;margin:0 auto;padding:15px 0}
+.banner_bx .pg_num{position:absolute;top:94px;right:39px;font-size:12px;line-height:15px;color:#999;z-index:40}
+.banner_bx .btn_prev{position:absolute;top:94px;right:14px;width:15px;height:15px;z-index:41}
+.banner_bx .btn_next{position:absolute;top:94px;right:0px;width:14px;height:15px;z-index:42}
+.banner_bx .bn_img img{width:300px;height:95px;border:none}
+</style>
+<div class="banner_bxtop">
+<div class="banner_bx"><a class="bn_img" data-category="banner" data-label="1121" href="https://www.daejeon.go.kr/drh/drhStoryDaejeonView.do?boardId=blog_0001&amp;menuSeq=1479&amp;ntatcSeq=1319350067" style="display:block;" target="_blank"><img alt="배너" height="95" src="//img.mk.co.kr/mk/1/20191209/right_middle/201912090830001594036.gif" width="300"/></a><a class="bn_img" data-category="banner" data-label="1122" href="https://www.mk.co.kr/news/economy/view/2019/12/1040573/" style="display:none;" target="_blank"><img alt="배너" height="95" src="//img.mk.co.kr/mk/1/20191211/right_middle/201912110423261769159.jpg" width="300"/></a><a class="bn_img" data-category="banner" data-label="1097" href="http://senior.mk.co.kr/school/edu_view1.php?itemCode=3510&amp;subClassCode=" style="display:none;" target="_blank"><img alt="배너" height="95" src="//img.mk.co.kr/mk/1/20191203/right_middle/201912030922031013599.jpg" width="300"/></a><a class="bn_img" data-category="banner" data-label="1060" href="http://senior.mk.co.kr/school/edu_list.php" style="display:none;" target="_blank"><img alt="배너" height="95" src="//img.mk.co.kr/mk/1/20190125/right_middle/201901251033471013648.jpg" width="300"/></a><a class="bn_img" data-category="banner" data-label="1077" href="http://senior.mk.co.kr/school/edu_view1.php?itemCode=3478&amp;subClassCode=&amp;classCode=" style="display:none;" target="_blank"><img alt="배너" height="95" src="//img.mk.co.kr/mk/1/20190702/right_middle/201907020951351928620.jpg" width="300"/></a><a class="bn_img" data-category="banner" data-label="1031" href="http://insu.mk.co.kr" style="display:none;" target="_blank"><img alt="배너" height="95" src="//img.mk.co.kr/mk/1/20180713/right_middle/201807130621221125336.jpg" width="300"/></a><a class="bn_img" data-category="banner" data-label="1101" href="http://cesmwc.mk.co.kr/" style="display:none;" target="_blank"><img alt="배너" height="95" src="//img.mk.co.kr/mk/1/20190820/right_middle/201908200208401028107.png" width="300"/></a>
+<span class="pg_num">1/7</span>
+<a class="btn_prev" href="javascript:void(0);"><img alt="이전 배너" src="//img.mk.co.kr/main/201509/btn_bn_prev.gif"/></a>
+<a class="btn_next" href="javascript:void(0);"><img alt="다음 배너" src="//img.mk.co.kr/main/201509/btn_bn_next.gif"/></a>
+</div>
+</div>
+<!--// banner -->
+<div class="ad_rightbottom" id="google_dfp_BR_300x250" style="border-top:none"><script type="text/javascript">googletag.display('google_dfp_BR_300x250'); </script></div>
+</div>
+<script type="text/javascript">
+		var view_url_other	= '';
+		var viewParam		= 'https://www.mk.co.kr/news/it/view/2019/12/1034048/';
+		var view_title		= '[단독] 삼성, 차세대 갤럭시폴드 2종 年500만대 양산…유리 소재 - 매일경제';
+		var view_desc		= '내년 상반기 출시 예정';
+		var view_img		= 'https://file.mk.co.kr/meet/neds/2019/12/image_readtop_2019_1034048_15759684004008728.jpg';
+		var viewParam		= 'https://www.mk.co.kr/news/it/view/2019/12/1034048/';
+		var imgParam		= 'https://file.mk.co.kr/meet/neds/2019/12/image_readtop_2019_1034048_15759684004008728.jpg';
+		</script>
+<!--// right aside -->
+</div>
+</div>
+<!--// content -->
+<div class="ad_footer" style="padding-top:30px; padding-bottom:0px">
+<center>
+<div id="google_dfp_BC_970x250,980x120,930x180">
+<script type="text/javascript">googletag.display('google_dfp_BC_970x250,980x120,930x180'); </script>
+</div>
+</center>
+</div>
+<div id="google_dfp_MC_1x1,110x110">
+<script type="text/javascript">googletag.display('google_dfp_MC_1x1,110x110'); </script>
+</div><div class="sitemap_menu2">
+<div class="sitemap_in">
+<h4 class="hidden">전체 메뉴</h4>
+<div class="ct1">
+<ul>
+<li class="tit"><a href="https://www.mk.co.kr/news/">뉴스</a></li><li><a href="https://www.mk.co.kr/news/economy/">경제</a></li>
+<li><a href="https://www.mk.co.kr/news/business/">기업</a></li>
+<li><a href="https://www.mk.co.kr/news/society/">사회</a></li>
+<li><a href="https://www.mk.co.kr/news/world/">국제</a></li>
+<li><a href="https://www.mk.co.kr/news/realestate/">부동산</a></li>
+<li><a href="https://www.mk.co.kr/news/stock/">증권</a></li>
+<li><a href="https://www.mk.co.kr/news/politics/">정치</a></li>
+<li><a href="https://www.mk.co.kr/news/it/">IT·과학</a></li>
+<li><a href="https://www.mk.co.kr/news/culture/">문화</a></li>
+<li><a href="https://www.mk.co.kr/news/feature-story/">기획·연재</a></li>
+<li><a href="https://www.mk.co.kr/news/special-edition/">Special Edition</a></li>
+<li><a href="https://www.mk.co.kr/news/card-news/">카드뉴스</a></li>
+<li><a href="http://www.pulsenews.co.kr/">영문뉴스</a></li>
+<li><a href="http://china.mk.co.kr/china/">중문뉴스</a></li>
+<li><a href="http://japan.mk.co.kr/">일문뉴스</a></li>
+</ul>
+</div>
+<div class="ct2">
+<ul>
+<li class="tit"><a href="https://www.mk.co.kr/opinion/">오피니언</a></li><li><a href="https://www.mk.co.kr/opinion/editorial/">사설</a></li>
+<li><a href="http://channel.mk.co.kr/event/2014/ssbb/?m=4">경제노트</a></li>
+<li><a href="https://www.mk.co.kr/opinion/columnists/">기명칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/contributors/">사외칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/maekyung-forum/">매경포럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/maekyung-desk/">매경데스크</a></li>
+<li><a href="https://www.mk.co.kr/opinion/weekend-column/">주말칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/special-column/">특별칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/correspondent/">전문기자칼럼</a></li>
+<li><a href="https://www.mk.co.kr/opinion/journalist/">기자24시</a></li>
+<li><a href=""></a></li>
+</ul>
+</div>
+<div class="ct3">
+<ul>
+<li class="tit"><a href="https://www.mk.co.kr/sports/">스포츠</a></li><li><a href="https://www.mk.co.kr/sports/baseball/">야구</a></li>
+<li><a href="https://www.mk.co.kr/sports/football/">축구</a></li>
+<li><a href="http://mkbn.mk.co.kr/">당구</a></li>
+<li><a href="https://www.mk.co.kr/sports/general/">일반</a></li>
+<li class="tit" style="margin-top:25px"><a href="http://star.mk.co.kr/">연예</a></li><li><a href="https://www.mk.co.kr/star/all/">주요뉴스</a></li>
+<li><a href="https://www.mk.co.kr/star/interview/">스타인터뷰</a></li>
+<li><a href="https://www.mk.co.kr/star/broadcasting-service/">TV · 방송</a></li>
+<li><a href="https://www.mk.co.kr/star/musics/">가요 · 음악</a></li>
+<li><a href="https://www.mk.co.kr/star/movies/">영화</a></li>
+<li><a href="https://www.mk.co.kr/star/foreign-star/">해외연예</a></li>
+</ul>
+</div>
+<div class="ct4">
+<ul>
+<li class="tit"><a href="#">라이프</a></li><li><a href="http://weather.mk.co.kr/info/info01_01.html">날씨</a></li>
+<li><a href="http://golf.mk.co.kr/">골프</a></li>
+<li><a href="http://tour.mk.co.kr/">여행</a></li>
+<li><a href="http://book.mk.co.kr/">Book</a></li>
+<li><a href="http://uberin.mk.co.kr/">우버人사이트</a></li>
+<li><a href="http://luxurym.mk.co.kr/">LUXURY M</a></li>
+</ul>
+</div>
+<div class="ct5">
+<ul>
+<li class="tit"><a href="#">프리미엄</a></li><li><a href="http://digital.mk.co.kr/intro/intro.php">매경e신문</a></li>
+<li><a href="https://www.mk.co.kr/premium/">매경프리미엄</a></li>
+<li><a href="http://raythe.mk.co.kr/">레이더포털</a></li>
+<li><a href="http://raythe.mk.co.kr/list.php?sc=51900013">레이더A</a></li>
+<li><a href="http://raythe.mk.co.kr/list.php?sc=51900014">레이더L</a></li>
+<li><a href="http://raythem.com/">레이더M</a></li>
+<li><a href="http://raythe.mk.co.kr/list.php?sc=51900015">레이더N</a></li>
+<li><a href="http://raythep.mk.co.kr/">레이더P</a></li>
+<li class="tit" style="margin-top:25px;"><a href="#">캠페인</a></li><li><a href="http://www.wkforum.org/">세계지식포럼</a></li>
+<li><a href="http://www.wkforum.org/VK/vkp.php">국민보고대회</a></li>
+<li><a href="http://www.hansang.net​/">세계한상대회</a></li>
+<li><a href="https://www.mk.co.kr/news/economy/view/2018/06/409126/">정진기언론문화상</a></li>
+<li><a href="http://channel.mk.co.kr/photo/beautiful_seoul/index_san.php">산은 선물이다</a></li>
+<li><a href="http://eventpop.mk.co.kr/">이벤트</a></li>
+<li><a href=""></a></li>
+</ul>
+</div>
+<div class="ct6">
+<ul>
+<li class="tit"><a href="#">재테크</a></li><li><a href="http://vip.mk.co.kr/newSt/index.php">증권</a></li>
+<li><a href="http://estate.mk.co.kr/">부동산</a></li>
+<li><a href="http://money.mk.co.kr/v3/">금융</a></li>
+<li><a href="http://dic.mk.co.kr/cp/pop/index.php">경제용어</a></li>
+<li><a href="http://oc.mk.co.kr/">해외DB</a></li>
+<li><a href=""></a></li>
+<li class="tit" style="margin-top:25px;"><a href="#">매거진</a></li><li><a href="http://economy.mk.co.kr/">매경이코노미</a></li>
+<li><a href="http://luxmen.mk.co.kr/">매경럭스멘</a></li>
+<li><a href="https://www.mk.co.kr/news/special-edition/citylife/">시티라이프</a></li>
+<li><a href="http://gfw.mk.co.kr/">골프포위민</a></li>
+</ul>
+</div>
+<div class="ct7">
+<ul>
+<li class="tit"><a href="#">비즈니스</a></li><li><a href="http://09.mk.co.kr/">MK공동구매</a></li>
+<li><a href="http://nikkei.mk.co.kr/main.php">닛케이텔레콤</a></li>
+<li><a href="http://biz.mk.co.kr/">비즈&amp;</a></li>
+<li><a href="http://senior.mk.co.kr/">생애설계</a></li>
+<li><a href="https://www.mk.co.kr/news/business/new-corporation/">신설법인</a></li>
+<li><a href="http://changup.mk.co.kr/v2/index.php">창업</a></li>
+<li><a href="http://kdx.mbn.co.kr/">한국데이터거래소</a></li>
+</ul>
+</div>
+<div class="ct8">
+<ul>
+<li class="tit"><a href="#">교육</a></li><li><a href="http://edu.mk.co.kr/">오프라인교육</a></li>
+<li><a href="http://jrmba.mk.co.kr/v3/">주니어MBA</a></li>
+<li><a href="http://kids.mk.co.kr/new/">어린이경제교실</a></li>
+<li><a href="http://mktest.mk.co.kr/">매경TEST</a></li>
+<li class="tit" style="margin-top:25px;"><a href="#">서비스</a></li><li><a href="http://subscribe.mk.co.kr/index.php?TM=S&amp;MM=1">구독신청</a></li>
+<li><a href="http://etc.mk.co.kr/mobile_info/index.php">MK모바일</a></li>
+<li><a href="http://epaper.mk.co.kr/PaperList.aspx">신문PDF</a></li>
+<li><a href="https://twitter.com/maekyung">트위터</a></li>
+<li><a href="https://www.facebook.com/maekyungsns">페이스북</a></li>
+<li><a href="https://story.kakao.com/ch/mknews">카카오스토리</a></li>
+<li><a href="http://news.mk.co.kr/rss/rss.php">RSS</a></li>
+<li><a href="https://member.mk.co.kr/newsletter/info.php">뉴스레터</a></li>
+</ul>
+</div> </div>
+</div>
+<script>
+var selectUrlMove=function(frm){
+	if( frm.selectedIndex>0){
+		document.location.href=frm.options[frm.selectedIndex].value;
+	}
+}
+</script>
+<div id="footer2_2019">
+<div class="pd10">
+<div class="inbox">
+<div class="foot_sec1_n"><a alt="매일경제" href="http://mk.co.kr" title="매일경제"><img alt="매일경제" src="https://img.mk.co.kr/main/201509/logo_maekyung.gif"/></a></div>
+<div class="foot_sec2_n">
+<ul class="footer_u_n">
+<li class="first">매일경제</li>
+<li><a alt="매일경제 회사소개" href="http://etc.mk.co.kr/company/intro/sub01_1.php" target="_new" title="매일경제 회사소개">회사소개</a></li>
+<li><a alt="매일경제 회사연혁" href="http://etc.mk.co.kr/company/intro/sub01_2.php" target="_new" title="매일경제 회사연혁">회사연혁</a></li>
+<li><a alt="매일경제 광고안내" href="http://adcenter.mk.co.kr/" target="_new" title="매일경제 광고안내">광고안내</a></li>
+<li><a alt="매일경제 구독신청" href="http://channel.mk.co.kr/guide/mk/req_apply.php" target="_new" title="매일경제 구독신청">구독신청</a></li>
+<li class="last"><a alt="매일경제 인재채용" href="https://recruit.mk.co.kr/pages/recruit.php" target="_new" title="매일경제 인재채용">인재채용</a></li>
+</ul>
+<ul class="footer_u_n">
+<li class="first">매경닷컴</li>
+<li><a alt="매경닷컴 회사소개" href="http://etc.mk.co.kr/mk/" target="_new" title="매경닷컴 회사소개">회사소개</a></li>
+<li><a alt="매경닷컴 광고안내" href="http://adcenter.mk.co.kr/newmedia.php" target="_new" title="매경닷컴 광고안내">광고안내</a></li>
+<li><a alt="매경닷컴 개인정보처리방침" href="http://member.mk.co.kr/guide/policy_info.php" target="_new" title="매경닷컴 개인정보처리방침"><strong>개인정보처리방침</strong></a></li>
+<li><a alt="매경닷컴 회원약관" href="http://member.mk.co.kr/guide/contract_info.php" target="_new" title="매경닷컴 회원약관">회원약관</a></li>
+<li><a alt="매경닷컴 독자의견" href="https://board.mk.co.kr/list.php?id=opinion" target="_new" title="매경닷컴 독자의견">독자의견</a></li>
+<li><a alt="매경닷컴 서비스문의" href="http://member.mk.co.kr/guide/service_v2.php" target="_new" title="매경닷컴 서비스문의">서비스문의</a></li>
+<li class="last"><a alt="청소년보호정책" href="https://member.mk.co.kr/member/youth_policy.php" target="_new" title="청소년보호정책">청소년보호정책 (책임자 : 이선형, 고성준)</a></li>
+</ul>
+<ul class="footer_u_n add_area">
+<li class="first2">서울특별시 중구 퇴계로 190</li>
+<li class="add">☎ 02) 2000-2114</li>
+<li class="add">인터넷신문등록번호 : 서울 아01043</li>
+<li class="add">등록일자 : 2009.11.30</li>
+<li class="add">발행일 : 2009.11.30</li>
+<li class="add">발행인/편집인 : 진성기</li>
+<li class="add_last"><a href="https://www.mk.co.kr/sitemap/" target="_blank">사이트맵</a></li>
+<li class="add_copy">
+						Copyright (c) <strong>매경닷컴</strong>. All rights reserved.
+						<span><img alt="RSS" class="rssimg" src="https://img.mk.co.kr/main/2016/ic_rss.gif" target="_new"/><a alt="RSS" href="http://news.mk.co.kr/rss/rss.php" target="_blank" title="RSS">RSS</a></span>
+</li>
+</ul>
+</div>
+<div class="foot_sec3">
+<form>
+<select alt="매일경제 사이트 모음" id="footer_url" name="url" onchange="selectMove(this.form)">
+<option selected="" value="">매경 Family site</option>
+<option alt="매일경제" title="매일경제" value="http://etc.mk.co.kr/company/intro/sub01_1.php">매일경제</option>
+<option alt="매경닷컴" title="매경닷컴" value="http://channel.mk.co.kr/mk_intro/html/main.htm">매경닷컴</option>
+<option alt="MBN" title="MBN" value="http://mbn.co.kr/">MBN</option>
+<option alt="매경이코노미" title="매경이코노미" value="http://economy.mk.co.kr/">매경이코노미</option>
+<option alt="Luxmen" title="Luxmen" value="http://luxmen.mk.co.kr/">Luxmen</option>
+<option alt="시티라이프" title="시티라이프" value="https://www.mk.co.kr/news/special-edition/citylife/">시티라이프</option>
+<option alt="M-Print" title="M-Print" value="http://m-print.co.kr/">M-Print</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div><script>
+function closeMail() {
+	/* var lm = document.getElementById( 'layerMail' );
+	lm.style.display = 'none'; */
+	$("#layerMail").hide();
+}
+
+function submit_check(){
+	cm = document.mail_form;
+	//cm = document.getElementById('mail_form');
+
+	// E-Mail Check
+	var i, alpa, dot, gol,E_Mail_Error=1;	
+
+	if( cm.tomail.value.length < 5 ) {
+		alert('받는 분의 메일 주소를 정확히 입력해 주시기 바랍니다.');
+		cm.tomail.value = '';
+		cm.tomail.focus();
+		return;
+	}
+
+	if( cm.frommail.value.length < 5 || CheckEmail( cm.frommail.value ) != true  ) {
+		alert('보내는 분의 메일 주소를 정확히 입력해 주시기 바랍니다.');
+		cm.frommail.value = '';
+		cm.frommail.focus();
+		return;
+	}
+	
+	if( cm.subject.value != '' ) {
+		if( str_count( cm.subject.value ) > 80 ) {
+			alert( '제목은 80자까지만 작성이 가능합니다.' );
+			var cut_memo = str_cut( cm.subject.value, 80, '' );
+			cm.subject.value = cut_memo;		
+			return;
+		}	
+	}
+
+	if( cm.send_message.value != '' ) {
+		if( str_count( cm.send_message.value ) > 200 ) {
+			alert( '전할 메시지는 200자까지만 작성이 가능합니다.' );
+			var cut_memo = str_cut( cm.send_message.value, 200, '' );
+			cm.send_message.value = cut_memo;		
+			return;
+		}	
+	}
+
+	if( cm.fromname.value.length < 2 ) {
+		alert('보내는 사람을 적어 주시기 바랍니다.');
+		cm.fromname.focus();
+		return;
+	}
+
+	/* var queryString = $("form[name=mail_form]").serialize();
+	$("#mail_mode").val("real");
+	 
+    $.ajax({
+        type : 'post',
+        url : 'http://220.73.139.114/news_email_send_php7.php',
+        data : queryString,
+        dataType : 'text',
+        error: function(xhr, status, error){
+            console.log(error);
+            alert("메일 보내기 실패하였습니다. 오류가 지속되면 고객센터에 문의해주세요.");
+        },
+        success : function(data){
+            if(data == "N"){
+				alert("보내시는 메일 또는 보내는 사람을 입력해주세요.");
+            }else if(data == "F"){
+				alert("메일 보내기 실패하였습니다. 다시 시도해주세요.")
+            }else if(data == "S"){
+				alert("메일을 전송하였습니다.");
+				closeMail();
+            }
+        }
+    }); */
+
+
+	//cm.target			= 'mail_frame';
+	//cm.mail_mode.value	= 'real';
+	$("#mail_mode").val("real");
+	//alert($("#mail_mode").val());
+	//cm.action			= 'http://220.73.139.114/news_email_send_2013.php';
+	closeMail();	
+	cm.submit();
+}
+
+function CheckEmail( strText ) {
+	if( strText.match( /^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+.[a-zA-Z.]+$/ ) ) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+
+function str_count(expression) {
+	var VLength=0;
+	var temp = expression;
+	var EscTemp;
+	if(temp!='' & temp !=null) {
+		for(var i=0;i<temp.length;i++) {
+			if (temp.charAt(i)!=escape(temp.charAt(i))) {
+				EscTemp=escape(temp.charAt(i));
+				if (EscTemp.length>=6) VLength+=2;
+				else VLength+=1;
+			}
+			else VLength+=1;
+		}
+	}
+	return VLength;
+}
+
+function str_cut( str, len, tail ) {
+    var l = 0;
+	var ll = len;
+
+    for( var i=0; i<str.length; i++ ) {
+        l += ( str.charCodeAt(i) > 128 ) ? 2 : 1;
+        if( l > ll ) return str.substring( 0, i ) + tail;
+    }
+    return str;
+}
+</script>
+<style>
+.sendnews_layer_wrap{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+}
+.sendnews_layer_wrap:before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.sendnews_layer_pop{
+    display: inline-block;
+    vertical-align: middle;
+    width: 628px;
+    height: 528px;
+    border: 1px solid #b0b2bd;
+    background-color: #fff;
+    z-index: 500;
+    overflow:hidden;
+}
+.sendnews_layer_pop .bt_close{position:relative; top:18px; right:18px; border:none; background:none; float: right;}
+.sendnews_layer_pop .bt_popup{clear:both; margin:20px 0 0 230px; text-align:center}
+.sendnews_tit h1{position:relative; top:19px; left:20px; float:left;}
+.sendnews_tit h2{position:relative; top:19px; left:30px; float:left;}
+.sendnews_tit .send_mailtit {position:relative; top:19px; left:20px; float:left;} 
+</style>
+<!-- layer_메일보내기 -->
+<div class="sendnews_layer_wrap" id="layerMail" style="display:none">
+<div class="sendnews_layer_pop">
+<form action="https://www114.mk.co.kr/news_email_send_2019.php" method="POST" name="mail_form" target="mail_frame">
+<input id="mail_mode" name="mail_mode" type="hidden" value="real"/>
+<input name="no" type="hidden" value="1034048"/>
+<input name="year" type="hidden" value="2019"/>
+<input name="cm" type="hidden" value=""/>
+<input name="cUserID" type="hidden" value="">
+<input name="linkUrl" type="hidden" value="https://www.mk.co.kr/news/it/view/2019/12/1034048/">
+<div class="sendnews_tit">
+<div class="send_mailtit"><img alt="mk뉴스" src="//img.mk.co.kr/news/2017/t_mknews_pop.png"/></div>
+<h2><img alt="메일보내기" src="//img.mk.co.kr/mkde/epaper/t_popup_mail.png"/></h2>
+<button class="bt_close" onclick="closeMail()" type="button"><img alt="팝업창 닫기" src="//img.mk.co.kr/mkde/epaper/bt_mailpop_close.png"/></button>
+</div>
+<h3 class="article_tit">[단독] 삼성, 차세대 갤럭시폴드 2종 年500만대 양산…유리 소재</h3>
+<dl class="input_box">
+<dt><label for="tomail">받는 메일</label></dt>
+<dd><input id="tomail" name="tomail" type="text" value=""/>
+<p style="margin-top:3px">
+<span class="important"><img alt="필수 입력" src="//img.mk.co.kr/mkde/epaper/bu_important.gif"/></span>
+<span class="etc">받는 사람이 여러 명일 경우, 콤마( , )로 구분해주세요</span>
+</p>
+</dd>
+<dt><label for="subject">제목</label></dt>
+<dd><input id="subject" maxlength="100" name="subject" type="text" value=""/></dd>
+<dt><label for="send_message">전할 메시지</label></dt>
+<dd><textarea cols="70" id="send_message" name="send_message" rows="20"></textarea>
+<p style="margin-top:3px">
+<span class="important"><img alt="필수 입력" src="//img.mk.co.kr/mkde/epaper/bu_important.gif"/></span>
+<span class="etc">200자	이내로 적어주세요</span>
+</p>
+</dd>
+<dt><label for="frommail">보내는 메일</label></dt>
+<dd><input id="frommail" name="frommail" type="text" value=""/></dd>
+<dt><label for="fromname">보내는 사람</label></dt>
+<dd><input id="fromname" name="fromname" type="text" value=""/></dd>
+</dl>
+<div class="bt_popup">
+<a class="bt_send_mail" href="#" onclick="javascript:submit_check();">메일보내기</a>
+<a class="bt_cancel_mail" href="#" onclick="javascript:closeMail();">취   소</a>
+</div>
+</input></input></form>
+</div>
+</div>
+<!-- //layer_메일보내기 -->
+<iframe frameborder="0" height="0" name="mail_frame" src="" width="0"></iframe>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script src="/news/js/view.js" type="text/javascript"></script>
+<script src="/news/js/util.js" type="text/javascript"></script>
+<script>
+		window._taboola = window._taboola || [];
+		_taboola.push({flush: true});
+		</script>
+</body>

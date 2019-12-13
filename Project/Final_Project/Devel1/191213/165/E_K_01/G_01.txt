@@ -1,0 +1,313 @@
+갤럭시 노트10+ & 아이폰 11 프로 맥스, 직접 써보고 분석한 ...
+<body class="editorial_post env-prod locale-kr post-page" data-locale="kr">
+<div id="root">
+<div class="leaderboard-wrapper top-unit">
+<div class="inner-container">
+<div class="inner-content">
+<div class="prod adunit leaderboard page- lazy-load" data-adunit="Hypebeast_KR_ROS_Top_728x90" data-dimensions="100x100,320x100,728x90,970x250,300x250,320x50,1600x400,800x400" data-size-mapping="leaderboard-top" data-sortable="true" data-targeting='{"HBSiteLoc":["ros","article"],"HBSiteCat":["editorial","tech","apple","samsung","iphone","galaxy","iphone-11"],"HBSitePage":"0","HBSiteLang":"kr","country":"us","region":"amer","HBArticle":"236315","HBBlacklist":"0","adPosition":"top","sortable":"true"}'></div>
+</div>
+</div>
+</div>
+<header id="page-header">
+<div class="switch" id="header-wrapper"><div class="container-fluid switch" id="main-header"><div class="hamburger d-md-none" ga-event-action="clicks_burger_icon" ga-event-category="burger menu" ga-on="click"><a href="#" id="mobile-menu-toggle"><span class="sprite sprite-hamburger"></span></a></div><div class="logo"><a href="https://hypebeast.kr/"><img alt="HYPEBEAST" class="img-fluid" src="https://static.hypebeast.com/images/hypebeast2018/hypebeast-logo.svg?fvra5mtk"/></a></div><div class="categories"><ul class="nav main" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li class="category d-none d-md-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/fashion" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/fashion" itemprop="url" title="FASHION">패션</a></li><li class="category d-none d-md-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/footwear" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/footwear" itemprop="url" title="FOOTWEAR">신발</a></li><li class="category d-none d-lg-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/music" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/music" itemprop="url" title="MUSIC">음악</a></li><li class="category d-none d-lg-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/arts" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/arts" itemprop="url" title="ARTS">미술</a></li><li class="category d-none d-lg-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/design" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/design" itemprop="url" title="DESIGN">디자인</a></li><li class="category d-none d-lg-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/editorial" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/editorial" itemprop="url" title="EDITORIAL">에디토리얼</a></li><li class="category d-none d-lg-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/tech" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/tech" itemprop="url" title="TECH">전자</a></li><li class="category d-none d-lg-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/entertainment" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/entertainment" itemprop="url" title="ENTERTAINMENT">엔터테인먼트</a></li><li class="category d-none d-lg-inline nav-item" ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/automotive" ga-on="click" itemprop="name"><a href="https://hypebeast.kr/automotive" itemprop="url" title="AUTOMOTIVE">자동차</a></li><li class="category dropdown more-section d-none d-md-inline nav-item"><a class="d-flex align-items-center" href="#"><span class="sprite sprite-more-menu"></span></a><ul class="header-dropdown-menu more-section-menu"><li class="categories dropdown-item"><ul><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/music" ga-on="click"><a class="d-block d-lg-none" href="https://hypebeast.kr/music" title="Music">음악</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/arts" ga-on="click"><a class="d-block d-lg-none" href="https://hypebeast.kr/arts" title="Arts">미술</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/design" ga-on="click"><a class="d-block d-lg-none" href="https://hypebeast.kr/design" title="Design">디자인</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/editorial" ga-on="click"><a class="d-block d-lg-none" href="https://hypebeast.kr/editorial" title="Editorial">에디토리얼</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/tech" ga-on="click"><a class="d-block d-lg-none" href="https://hypebeast.kr/tech" title="Tech">전자</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/entertainment" ga-on="click"><a class="d-block d-lg-none" href="https://hypebeast.kr/entertainment" title="Entertainment">엔터테인먼트</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/automotive" ga-on="click"><a class="d-block d-lg-none" href="https://hypebeast.kr/automotive" title="Automotive">자동차</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/tv" ga-on="click"><a class="" href="https://hypebeast.kr/tv" title="Tv">비디오</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/food-beverage" ga-on="click"><a class="" href="https://hypebeast.kr/food-beverage" title="Food-beverage">음식</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/sports" ga-on="click"><a class="" href="https://hypebeast.kr/sports" title="Sports">스포츠</a></li><li ga-event-action="clicks_category" ga-event-category="navigation bar" ga-event-label="https://hypebeast.kr/lifestyle" ga-on="click"><a class="" href="https://hypebeast.kr/lifestyle" title="Lifestyle">라이프스타일</a></li><li class="third-categories"><a href="/about" title="회사소개">회사소개</a></li><li class="third-categories"><a href="/jobs" title="채용">채용</a></li></ul></li></ul></li></ul></div><div class="aside"><ul class="nav aside"><li class="social dropdown d-none d-md-flex nav-item"><a class="d-flex align-items-center" href="#">팔로우 <span class="sprite sprite-angle-down-16"></span></a><ul class="header-dropdown-menu social-menu"><li class="dropdown-item"><ul class="social-icons mb-3"><li ga-event-action="clicks_socials" ga-event-category="navigation bar" ga-event-label="https://www.facebook.com/hypebeastkr" ga-on="click"><a class="facebook social" href="https://www.facebook.com/hypebeastkr" rel="noopener" target="_blank"><span class="sprite sprite-social-facebook-black-32"></span></a></li><li ga-event-action="clicks_socials" ga-event-category="navigation bar" ga-event-label="https://twitter.com/hypebeastkr" ga-on="click"><a class="twitter social" href="https://twitter.com/hypebeastkr" rel="noopener" target="_blank" title="Twitter"><span class="sprite sprite-social-twitter-black-32"></span></a></li><li ga-event-action="clicks_socials" ga-event-category="navigation bar" ga-event-label="https://instagram.com/hypebeastkr" ga-on="click"><a class="instagram social" href="https://instagram.com/hypebeastkr" rel="noopener" target="_blank" title="Instagram"><span class="sprite sprite-social-instagram-black-32"></span></a></li><li ga-event-action="clicks_socials" ga-event-category="navigation bar" ga-event-label="https://story.kakao.com/ch/hypebeast" ga-on="click"><a class="kakao social" href="https://story.kakao.com/ch/hypebeast" rel="noopener" target="_blank" title="Kakao"><span class="sprite sprite-social-kakao-story-black-32"></span></a></li><li ga-event-action="clicks_socials" ga-event-category="navigation bar" ga-event-label="http://post.naver.com/hypebeastkr" ga-on="click"><a class="naver social" href="http://post.naver.com/hypebeastkr" rel="noopener" target="_blank" title="Naver"><span class="sprite sprite-social-naver-black-32"></span></a></li><li ga-event-action="clicks_socials" ga-event-category="navigation bar" ga-event-label="https://www.youtube.com/channel/UCjM88nGPxVMLNm1ctUTROmA" ga-on="click"><a class="youtube social" href="https://www.youtube.com/channel/UCjM88nGPxVMLNm1ctUTROmA" rel="noopener" target="_blank" title="Youtube"><span class="sprite sprite-social-youtube-black-32"></span></a></li><li ga-event-action="clicks_socials" ga-event-category="navigation bar" ga-event-label="https://feedly.com/i/subscription/feed/" ga-on="click"><a class="feedly social" href="https://feedly.com/i/subscription/feed/https://hypebeast.kr/feed" rel="noopener" target="_blank" title="Feedly"><span class="sprite sprite-social-rss-32"></span></a></li></ul></li><li class="dropdown-item"><ul class="newsletter-menu"><li ga-event-action="clicks_newsletter_signup" ga-event-category="navigation bar" ga-event-label="" ga-on="click"><div class="newsletter-msg">정기 구독하기</div><div class="newsletter-description">실시간 업데이트를 받아보세요.</div><form action="/newsletter" class="header-newsletter-signup-form" method="POST" rel="noopener"><div class="input-group"><input class="newsletter-email" name="email" placeholder="이메일 주소 입력" required="" size="16" type="email"/><input name="source" type="hidden" value="Newsletter Main Nav"/><button class="input-group-btn" type="submit">구독하기</button></div></form></li></ul></li><li class="dropdown-item"><ul class="app-icons"><li><a class="" href="https://hypebeast.kr/app/" target="_blank"><span class="sprite sprite-app-store-kr"></span></a></li><li><a class="" href="https://hypebeast.kr/app/" target="_blank"><span class="sprite sprite-google-play-kr"></span></a></li></ul></li></ul></li><li class="store d-none d-md-flex nav-item" ga-event-action="clicks_hbx_store" ga-event-category="navigation bar" ga-event-label="Clicks" ga-on="click"><a href="https://hbx.com?utm_source=hypebeast.com&amp;utm_medium=referral&amp;utm_campaign=hypebeast.com_top_area_button" target="_blank" title="HBX. Curated Fashion Products From Around The World">웹숍</a></li><li class="dark-mode d-none d-md-flex nav-item" ga-event-action="clicks_dark_mode" ga-event-category="dark_mode" ga-event-label="Clicks" ga-on="click"><a class="d-flex align-items-center" href="#"><span class="sprite sprite-nav-dark-outline"></span><span class="sprite sprite-nav-sun"></span></a></li><li class="locale dropdown d-none d-md-flex nav-item"><a class="current-locale d-flex align-items-center" href="#"><span class="sprite sprite-globe-asia"></span></a><ul class="header-dropdown-menu locale-menu"><li ga-event-action="clicks_languages" ga-event-category="navigation bar" ga-event-label="" ga-on="click"><a href="https://hypebeast.com/change-language?locale=en">English</a></li><li ga-event-action="clicks_languages" ga-event-category="navigation bar" ga-event-label="" ga-on="click"><a href="https://hypebeast.com/change-language?locale=hk">繁體中文</a></li><li ga-event-action="clicks_languages" ga-event-category="navigation bar" ga-event-label="" ga-on="click"><a href="https://hypebeast.com/change-language?locale=cn">简体中文</a></li><li ga-event-action="clicks_languages" ga-event-category="navigation bar" ga-event-label="" ga-on="click"><a href="https://hypebeast.com/change-language?locale=jp">日本語</a></li><li ga-event-action="clicks_languages" ga-event-category="navigation bar" ga-event-label="" ga-on="click"><a href="https://hypebeast.com/change-language?locale=kr">한국어</a></li><li ga-event-action="clicks_languages" ga-event-category="navigation bar" ga-event-label="" ga-on="click"><a href="https://hypebeast.com/change-language?locale=fr">Français</a></li></ul></li><li class="search nav-item" ga-event-action="clicks_search" ga-event-category="search" ga-event-label="Clicks" ga-on="click"><a class="d-flex align-items-center" href="/search"><span class="sprite sprite-search"></span></a></li></ul></div></div></div> </header>
+<div id="page-header-sticky-position"></div>
+<div class="post-container post-status-publish " data-next-post-url="https://hypebeast.kr/2019/12/anti-social-social-club-bt21-bts-collaboration-teaser" data-post-hypes="17163" data-post-hypes-color="sprite-hype-flame-yellow" data-post-id="236315" data-post-page-title="삼성 갤럭시 노트10+ &amp; 애플 아이폰 11 프로 맥스, 직접 쓰고 분석한 카메라 리뷰 | HYPEBEAST.KR | 하입비스트" data-post-social-thumbnail="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-000.jpeg?w=960&amp;cbr=1&amp;q=90&amp;fit=max" data-post-title="갤럭시 노트10+ &amp; 아이폰 11 프로 맥스, 직접 써보고 분석한 카메라 리뷰" data-post-url="https://hypebeast.kr/2019/12/samsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review" id="post-236315">
+<section class="post">
+<div class="post-upper" id="post-upper">
+<div class="container-fluid">
+<header class="post-header text-center">
+<h1 class="post-body-title">
+<span>갤럭시 노트10+ &amp; 아이폰 11 프로 맥스, 직접 써보고 분석한 카메라 리뷰</span>
+</h1>
+<h2 class="post-body-excerpt">
+                                            건물, 인물, 풍경, 사물, 야간 총 5가지 환경에서 촬영한 무보정 사진 비교.
+                                    </h2>
+<span class="post-body-header-author">
+<span class="author-name">By <a class="article-author" ga-event-action="clicks_author" ga-event-category="post box clicks" ga-event-label="https://hypebeast.kr/2019/12/samsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review" ga-on="click" href="https://hypebeast.kr/author/soobin-kim" rel="author">Soobin Kim</a></span>
+</span>
+</header>
+</div>
+</div>
+<div class="container-fluid post-lower">
+<div class="row">
+<div class="col-post-body col">
+<div class="post-gallery-container small inner-media">
+<div class="gallery-container post-gallery-contain">
+<div class="hb-gallery before-booted full-screen-enabled only-one-cell" data-images='[{"annotations":null,"width":1250,"height":833,"caption":null,"description":null,"credit":"Seunghoon Jeong\/HYPEBEAST","src":"https:\/\/kr.hypebeast.com\/files\/2019\/12\/samsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg","alt":"\uc0bc\uc131 \uac24\ub7ed\uc2dc \ub178\ud2b810+ &amp; \uc560\ud50c \uc544\uc774\ud3f0 11 \ud504\ub85c \ub9e5\uc2a4, \uc9c1\uc811 \uc4f0\uace0 \ubd84\uc11d\ud55c \uce74\uba54\ub77c \ub9ac\ubdf0","creditKey":"general"}]'>
+<div class="carousel-cell landscape" data-gallery-index="1">
+<div class="carousel-cell-inner-wrapper">
+<div class="carousel-cell-image-wrapper annotation-container fixed-ratio-3-2">
+<picture>
+<source media="(min-width: 1200px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=90&amp;w=1400&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 992px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=80&amp;w=1000&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                            (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2),
+                                            (min-width: 768px) and (min-resolution: 192dpi)
+                                        " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=70&amp;w=1125&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 768px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=75&amp;w=750&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                            (min-width: 320px) and (-webkit-min-device-pixel-ratio: 2),
+                                            (min-width: 320px) and (min-resolution: 192dpi)
+                                        " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=70&amp;w=750&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 320px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=70&amp;w=500&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                            (min-width: 0px) and (-webkit-min-device-pixel-ratio: 2),
+                                            (min-width: 0px) and (min-resolution: 192dpi)
+                                        " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=70&amp;w=480&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 0px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=70&amp;w=320&amp;cbr=1&amp;fit=max"/>
+<img alt="삼성 갤럭시 노트10+ &amp; 애플 아이폰 11 프로 맥스, 직접 쓰고 분석한 카메라 리뷰" class="carousel-cell-image" draggable="false" src="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-001.jpeg?q=75&amp;w=800&amp;cbr=1&amp;fit=max">
+</img></picture>
+</div>
+<span class="gallery-image-index"><span class="sprite-gallery-expand" ga-event-action="clicks_fullscreen" ga-event-category="gallery post (article page)" ga-event-label="Clicks" ga-on="click"></span></span>
+<div class="gallery-meta-container credit-wrapper">
+<div class="spacer"></div>
+<div class="credit ">Seunghoon Jeong/Hypebeast</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="post-body-top-bar d-block d-lg-none" id="post-body-top-bar">
+<div class="row">
+<div class="post-body-top-bar-share-meta-container">
+<div class="post-body-top-bar-meta">
+<span class="post-body-top-bar-category">
+<a class="category category-tech" ga-event-action="clicks_category" ga-event-category="post box clicks" ga-event-label="https://hypebeast.kr/tech" ga-on="click" href="https://hypebeast.kr/tech" title="전자">전자</a>
+</span>
+<span class="post-body-top-bar-published">
+<time>Dec 10, 2019</time>
+</span>
+</div>
+</div>
+<div class="post-body-top-bar-hype-comments-container d-none d-md-flex">
+</div>
+</div>
+</div>
+<div class="row post-body">
+<aside class="post-body-sidebar col-lg-4 d-none d-md-flex">
+<div class="post-body-sidebar-upper">
+<div class="post-body-sidebar-share d-none d-md-flex">
+<share-buttons :data='{"page":"article page","link":"https%3A%2F%2Fhypebeast.kr%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review","name":"\uac24\ub7ed\uc2dc \ub178\ud2b810+ &amp; \uc544\uc774\ud3f0 11 \ud504\ub85c \ub9e5\uc2a4, \uc9c1\uc811 \uc368\ubcf4\uace0 \ubd84\uc11d\ud55c \uce74\uba54\ub77c \ub9ac\ubdf0","image":{"url":"https:\/\/image-cdn.hypb.st\/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-000.jpeg?w=960&amp;cbr=1&amp;q=90&amp;fit=max"}}'></share-buttons>
+</div>
+<hr class="sidebar-divider d-none d-lg-block"/>
+<div class="post-body-sidebar-category d-none d-lg-block">
+<a class="category category-tech" ga-event-action="clicks_category" ga-event-category="post box clicks" ga-event-label="https://hypebeast.kr/tech" ga-on="click" href="https://hypebeast.kr/tech" title="전자">전자</a>
+</div>
+<div class="post-body-sidebar-published d-none d-lg-block">
+<time>Dec 10, 2019</time>
+</div>
+<div class="post-body-sidebar-author mt-1 mb-3 mt-lg-0 mb-lg-0">
+<span class="author-name">By <a class="article-author" ga-event-action="clicks_author" ga-event-category="post box clicks" ga-event-label="https://hypebeast.kr/2019/12/samsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review" ga-on="click" href="https://hypebeast.kr/author/soobin-kim" rel="author">Soobin Kim</a></span>
+</div>
+</div>
+</aside>
+<article class="post-body-article col-lg-8">
+<div class="post-body-content">
+<p class="p1"><a href="https://hypebeast.kr/tags/apple">애플</a>, <a href="https://hypebeast.kr/tags/samsung">삼성</a>, LG 등의 브랜드가 새로운 스마트폰을 잇달아 출시하면서 카메라의 성능 역시 발전을 거듭했다. 근래 출시한 스마트폰의 카메라는 어두운 환경을 자동보정하는 것은 물론 흔들림 없이 4K 동영상을 촬영할 수 있을 정도로 수준이 높아 ‘똑딱이’ 카메라를 빠르게 대체하고 있다.</p>
+<p class="p1">스마트폰 업계의 양대산맥이라 할 수 있는 애플과 삼성은 올해 <a href="https://hypebeast.kr/tags/iphone">아이폰</a> 11 시리즈와 <a href="https://hypebeast.kr/2019/2/samsung-galaxy-s10-specs-feature-unpack">갤럭시S10</a>과 노트10+를 선보였다. 삼성은 베젤이 아닌 디스플레이에 셀피 카메라를 장착해 새로운 기술력을 선보이는가 하면, 애플은 새로운 아이폰 후면 3개의 카메라를 더해 일명 ‘인덕션’이라는 별명을 얻을 정도로 두 브랜드 모두 카메라에 심혈을 기울였다.</p><div class="adunit-wrapper">
+<div class="in-content-ad-outer">
+<div class="adunit in-content lazy-load no-init" data-adunit="Hypebeast_KR_In_Content" data-dimensions="300x250,1x1" data-size-mapping="in-content-mobile" data-sortable="false" data-targeting='{"HBSiteLoc":["ros","article"],"HBSiteCat":["editorial","tech","apple","samsung","iphone","galaxy","iphone-11"],"HBSitePage":"0","HBSiteLang":"kr","country":"us","region":"amer","HBArticle":"236315","HBBlacklist":"0"}'></div>
+</div>
+</div>
+<p class="p1">두 브랜드가 야심차게 선보인 스마트폰 카메라는 과연 어느 정도 수준일까? 아이폰과 갤럭시, 두 제품의 장점과 단점은 무엇일까? &lt;하입비스트&gt;가 <a href="https://hypebeast.kr/2019/9/apple-iphone-11-pro-max-release-date-price-specs-info-colors-unveil">아이폰 11 프로 맥스</a>와 <a href="https://hypebeast.kr/2019/11/samsung-star-wars-rise-of-skywalker-galaxy-note-10-kylo-ren-special-edition-phone">갤럭시 노트10+</a>를 건물, 인물, 풍경, 사물, 야간 총 5가지 상황에서 직접 사용해봤다.</p>
+<p><!--more--></p>
+<h2>인물</h2>
+<p><strong>삼성</strong></p>
+<div class="shortcode-slider before-booted full-screen-enabled light" data-animate="slide" data-group-cells="1" data-loop="" data-slideshow="" data-slideshowspeed="7000" data-width="100%">
+<div class="flickity-carousel">
+<div class="flickity-carousel-cell" data-gallery-index="1"><span class="gallery-image-index"><span class="image-index">1 of 6</span><span class="sprite-gallery-expand"></span></span>
+<div>
+<picture>
+<source media="
+                                        (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 1200px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=90&amp;w=2180&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 1200px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=90&amp;w=1090&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 992px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 992px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=80&amp;w=1640&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 992px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=80&amp;w=820&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 768px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=75&amp;w=1000&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 768px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=75&amp;w=745&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 576px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 576px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=70&amp;w=1100&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 576px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=70&amp;w=550&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 0px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 0px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=70&amp;w=580&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 0px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?q=70&amp;w=290&amp;cbr=1&amp;fit=max"/>
+<img alt="삼성 갤럭시 노트10+ &amp; 애플 아이폰 11 프로 맥스, 직접 쓰고 분석한 카메라 리뷰" class="aligncenter" height="“833”" src="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-1.jpg?w=1600&amp;cbr=1&amp;q=90&amp;fit=max" width="“1250”"/>
+</picture>
+</div>
+</div>
+<div class="flickity-carousel-cell" data-gallery-index="2"><span class="gallery-image-index"><span class="image-index">2 of 6</span><span class="sprite-gallery-expand"></span></span>
+<div>
+<picture>
+<source media="
+                                        (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 1200px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=90&amp;w=2180&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 1200px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=90&amp;w=1090&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 992px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 992px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=80&amp;w=1640&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 992px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=80&amp;w=820&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 768px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=75&amp;w=1000&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 768px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=75&amp;w=745&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 576px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 576px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=70&amp;w=1100&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 576px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=70&amp;w=550&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 0px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 0px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=70&amp;w=580&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 0px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?q=70&amp;w=290&amp;cbr=1&amp;fit=max"/>
+<img alt="삼성 갤럭시 노트10+ &amp; 애플 아이폰 11 프로 맥스, 직접 쓰고 분석한 카메라 리뷰" class="aligncenter" height="“833”" src="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-2.jpg?w=1600&amp;cbr=1&amp;q=90&amp;fit=max" width="“1250”"/>
+</picture>
+</div>
+</div>
+<div class="flickity-carousel-cell" data-gallery-index="3"><span class="gallery-image-index"><span class="image-index">3 of 6</span><span class="sprite-gallery-expand"></span></span>
+<div>
+<picture>
+<source media="
+                                        (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 1200px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=90&amp;w=2180&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 1200px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=90&amp;w=1090&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 992px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 992px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=80&amp;w=1640&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 992px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=80&amp;w=820&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 768px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=75&amp;w=1000&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 768px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=75&amp;w=745&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 576px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 576px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=70&amp;w=1100&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 576px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=70&amp;w=550&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 0px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 0px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=70&amp;w=580&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 0px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?q=70&amp;w=290&amp;cbr=1&amp;fit=max"/>
+<img alt="삼성 갤럭시 노트10+ &amp; 애플 아이폰 11 프로 맥스, 직접 쓰고 분석한 카메라 리뷰" class="aligncenter" height="“833”" src="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-3.jpg?w=1600&amp;cbr=1&amp;q=90&amp;fit=max" width="“1250”"/>
+</picture>
+</div>
+</div>
+<div class="flickity-carousel-cell" data-gallery-index="4"><span class="gallery-image-index"><span class="image-index">4 of 6</span><span class="sprite-gallery-expand"></span></span>
+<div>
+<picture>
+<source media="
+                                        (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 1200px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=90&amp;w=2180&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 1200px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=90&amp;w=1090&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 992px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 992px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=80&amp;w=1640&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 992px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=80&amp;w=820&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 768px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=75&amp;w=1000&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 768px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=75&amp;w=745&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 576px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 576px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=70&amp;w=1100&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 576px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=70&amp;w=550&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 0px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 0px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=70&amp;w=580&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 0px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?q=70&amp;w=290&amp;cbr=1&amp;fit=max"/>
+<img alt="삼성 갤럭시 노트10+ &amp; 애플 아이폰 11 프로 맥스, 직접 쓰고 분석한 카메라 리뷰" class="aligncenter" height="“833”" src="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-4.jpg?w=1600&amp;cbr=1&amp;q=90&amp;fit=max" width="“1250”"/>
+</picture>
+</div>
+</div>
+<div class="flickity-carousel-cell" data-gallery-index="5"><span class="gallery-image-index"><span class="image-index">5 of 6</span><span class="sprite-gallery-expand"></span></span>
+<div>
+<picture>
+<source media="
+                                        (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 1200px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=90&amp;w=2180&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 1200px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=90&amp;w=1090&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 992px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 992px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=80&amp;w=1640&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 992px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=80&amp;w=820&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 768px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=75&amp;w=1000&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 768px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=75&amp;w=745&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 576px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 576px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=70&amp;w=1100&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 576px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=70&amp;w=550&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 0px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 0px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=70&amp;w=580&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 0px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?q=70&amp;w=290&amp;cbr=1&amp;fit=max"/>
+<img alt="삼성 갤럭시 노트10+ &amp; 애플 아이폰 11 프로 맥스, 직접 쓰고 분석한 카메라 리뷰" class="aligncenter" height="“833”" src="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-5.jpg?w=1600&amp;cbr=1&amp;q=90&amp;fit=max" width="“1250”"/>
+</picture>
+</div>
+</div>
+<div class="flickity-carousel-cell" data-gallery-index="6"><span class="gallery-image-index"><span class="image-index">6 of 6</span><span class="sprite-gallery-expand"></span></span>
+<div>
+<picture>
+<source media="
+                                        (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 1200px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=90&amp;w=2180&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 1200px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=90&amp;w=1090&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 992px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 992px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=80&amp;w=1640&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 992px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=80&amp;w=820&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 768px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 768px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=75&amp;w=1000&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 768px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=75&amp;w=745&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 576px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 576px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=70&amp;w=1100&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 576px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=70&amp;w=550&amp;cbr=1&amp;fit=max"/>
+<source media="
+                                        (min-width: 0px) and (-webkit-min-device-pixel-ratio: 2),
+                                        (min-width: 0px) and (min-resolution: 192dpi)
+                                    " srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=70&amp;w=580&amp;cbr=1&amp;fit=max"/>
+<source media="(min-width: 0px)" srcset="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?q=70&amp;w=290&amp;cbr=1&amp;fit=max"/>
+<img alt="삼성 갤럭시 노트10+ &amp; 애플 아이폰 11 프로 맥스, 직접 쓰고 분석한 카메라 리뷰" class="aligncenter" height="“833”" src="https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2019%2F12%2Fsamsung-galaxy-note-10-plus-apple-iphone-11-pro-max-camera-review-portrait-ga-6.jpg?w=1600&amp;cbr=1&amp;q=90&amp;fit=max" width="“1250”"/>
+</picture>
+</div>
+</div>
+</div>
+</div>
+<p class="p1">깨끗하고 밝은 표현을 선호하는 사람에게는 그 어떤 스마트폰보다 갤럭시가 제격이다<span class="s1">. </span>갤럭시는 인물을 촬영할 때, 기기가 얼굴을 인식하고 해당 부위를 다소 밝게 밝혀주는 효과과 있었다<span class="s1">. </span>빛의 양에 따른 농도<span class="s1">, </span>즉 밝고 어두운 정도의 차이인 계조 표현력도 우수한 편이기 때문에 그림자가 지거나 빛의 양에 차이가 있는 상황에서도 화면에서 초점을 맞춘 후 노출 조절을 하면 원하는 대로 사진을 찍기 쉽다<span class="s1">. </span></p></div></article></div></div></div></div></section></div></div></body>

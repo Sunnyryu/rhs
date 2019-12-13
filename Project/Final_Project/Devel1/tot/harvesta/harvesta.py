@@ -42,13 +42,13 @@ def harvest(startpath, datebf7, date, keyword_source_dic):
             if _doNaver:
                 print("{} 검색어 {} NAVER 뉴스 수집 시작... ".format(
                     keywordSource, i+1), flush=True)
-                naverList = naverfuncs.get_newslist(keywords, 2, datebf7, date)
+                naverList = naverfuncs.get_newslist(keywords, 5, datebf7, date)
                 util.insert_dfrow(
                     df, keywordSource, keywords, i, 'NAVER', naverList)
             if _doDaum:
                 print("{} 검색어 {} DAUM 뉴스 수집 시작... ".format(
                     keywordSource, i+1), flush=True)
-                daumList =  daumfuncs.get_newslist(keywords, 2, datebf7, date)
+                daumList =  daumfuncs.get_newslist(keywords, 5, datebf7, date)
                 util.insert_dfrow(
                     df, keywordSource, keywords, i, 'DAUM', daumList)
 
@@ -57,7 +57,7 @@ def harvest(startpath, datebf7, date, keyword_source_dic):
                 if doGoogling :
                     print("{} 검색어 {} Google 뉴스 수집 시작... ".format(
                         keywordSource, i+1), flush=True)
-                    googleList = googlefuncs.get_newslist(keywords, 2 , datebf7 ,date)
+                    googleList = googlefuncs.get_newslist(keywords, 5 , datebf7 ,date)
                     if googleList != -1:
                         util.insert_dfrow(df, keywordSource, keywords, i, 
                             'Google', googleList)

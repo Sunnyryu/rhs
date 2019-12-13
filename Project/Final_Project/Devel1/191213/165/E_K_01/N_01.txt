@@ -1,0 +1,485 @@
+[이슈분석] 미리보는 '갤럭시S11' ..초고화질 카메라-초대용량 배터리 혁신결...
+<body>
+<div style="background-color:#eee;width:100%;text-align:center">
+<div class="bnr_topbox01" id="winxplayer" style="position:relative;">
+<script src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/detail@Top3" type="text/javascript"></script>
+<span class="btn_closebig" onclick='$("#winxplayer").slideUp("slow",function(){$("#winxplayer").remove() })'><img alt="닫기" src="https://img.etnews.com/2019/images/btn_closebig.png"/></span>
+</div>
+</div>
+<div class="et_wrap">
+<!-- header -->
+<header class="header">
+<div class="clearfix">
+<h1><a href="//www.etnews.com" title="홈으로"><img alt="전자신문 로고" src="https://img.etnews.com/2016/etnews/images/common/logo_et.png"/></a></h1>
+<!-- 광고728x90 -->
+<div class="ad_728x90">
+<iframe height="90" scrolling="no" src="//www.etnews.com/tools/refresh_script.html?duration=30&amp;src=%2F%2Fadv.etnews.com%2FRealMedia%2Fads%2Fadstream_jx.ads%2Fetnews.co.kr%2Fdetail%40Top1" width="728"></iframe>
+</div>
+<!-- //광고728x90 -->
+</div>
+<nav class="gnb_wrap">
+<ul class="gnb clearfix">
+<li><a href="http://news.etnews.com">전자신문</a></li>
+<li><a href="http://enteronnews.etnews.com/">EnterOnNews</a></li>
+<li><a href="http://conference.etnews.com/">Conference</a></li>
+<li class="relative"><a href="http://www.allshowtv.com/">allshowTV</a></li>
+<li><a href="http://etedu.co.kr/" target="_blank">ETEdu</a></li>
+<li><a href="http://english.etnews.com/">English</a></li>
+</ul>
+<div class="search_wrap" role="search">
+<form action="//search.etnews.com/etnews/search.php" class="searchbox" method="get">
+<input class="searchbox-input" name="kwd" onkeyup="buttonUp();" placeholder="검색어 입력" required="" type="search"/>
+<input class="searchbox-submit" type="submit" value="검색"/>
+<span class="searchbox-icon">검색</span>
+</form>
+</div>
+<div class="et_all_trig">
+<a class="et_all_trig_off" href="javascript:void(0)" id="et_all_trig_id" onclick="et_menu_all()" title="메뉴 전체보기">전체메뉴보기</a>
+</div>
+<!-- 전체메뉴 -->
+<div class="full_menu clearfix" id="full_menu_id" style="display:none;">
+<span class="hide">전체메뉴</span>
+<dl>
+<dt><a href="//www.etnews.com">뉴스</a></dt>
+<dd><a href="//www.etnews.com/news/section.html">속보</a></dd>
+<dd><a href="//www.etnews.com/news/section.html?id1=03">통신&amp;방송</a></dd>
+<dd><a href="//www.etnews.com/news/section.html?id1=04">SW&amp;게임&amp;성장기업</a></dd>
+<dd><a href="//www.etnews.com/news/section.html?id1=06">소재&amp;부품</a></dd>
+<dd><a href="//www.etnews.com/news/section.html?id1=60">전자&amp;자동차&amp;유통</a></dd>
+<dd><a href="//www.etnews.com/news/section.html?id1=02">경제&amp;금융</a></dd>
+<dd><a href="//www.etnews.com/news/section.html?id1=20">산업&amp;과학&amp;정책</a></dd>
+</dl>
+<dl>
+<dt>뉴스</dt>
+<dd><a href="//www.etnews.com/news/section.html?id1=25">전국</a></dd>
+<dd><a href="//www.etnews.com/news/section.html?id1=05">글로벌</a></dd>
+<dd><a href="//www.etnews.com/news/people.html">인사·부음</a></dd>
+<dd><a href="//www.etnews.com/news/opinion.html">오피니언</a></dd>
+<dd><a href="//www.etnews.com/news/series.html?id=1">특집</a></dd>
+<dd><a href="//www.etnews.com/news/series.html?id=3">연재</a></dd>
+</dl>
+<dl>
+<dt>뷰포인트</dt>
+<dd><a href="//www.etnews.com/news/photonews.html">스페셜</a></dd>
+<dd><a href="//www.etnews.com/photo">포토</a></dd><!-- &middot;동영상 -->
+<dt>비주얼IT</dt>
+<dd><a href="//www.etnews.com/news/cardnews.html">카드뉴스</a></dd>
+<dd><a href="//www.etnews.com/news/motion_graphic.html">모션그래픽</a></dd>
+<dd><a href="http://premium.etnews.com/stats/list_stats.html" target="_blank">인포그래픽</a></dd>
+</dl>
+<dl>
+<dt>부가서비스</dt>
+<dd><a href="http://conference.etnews.com/">콘퍼런스</a></dd>
+<dd><a href="http://www.sek.co.kr/" target="_blank" title="새창으로">IT 전시 컨벤션</a></dd>
+<dt><a href="http://premium.etnews.com/" target="_blank" title="새창으로">ET프리미엄</a></dt>
+<dt><a href="http://paoin.etnews.com/">PDF 서비스</a></dt>
+</dl>
+<dl>
+<dt>서비스 안내</dt>
+<dd><a href="https://member.etnews.com/etnews/info/subscription_01.html" target="_blank" title="새창으로">신문구독신청</a></dd>
+<dd><a href="//www.etnews.com/info/ko/banner.html">온라인광고안내</a></dd>
+<dd><a href="http://bizcenter.etnews.com/dmail/introduce/">콘텐츠구매</a></dd>
+<dd><a href="http://bizcenter.etnews.com/trans/info/index.html">번역센터</a></dd>
+<dd><a href="http://leadersedition.etnews.com/intro/info.aspx" target="_blank" title="새창으로">초판서비스</a></dd>
+<dd>
+<ul class="member_service" id="gnb03_18">
+<li class="menu_tit">회원 서비스</li>
+<li><a href="https://member.etnews.com/member/login.html">로그인</a></li>
+<li><a href="https://member.etnews.com/member/join_index.html">회원가입</a></li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt>패밀리미디어</dt>
+<dd><a href="http://www.greendaily.co.kr/" target="_blank" title="새창으로">GreenDaily</a></dd>
+<dd><a href="http://www.nextdaily.co.kr/" target="_blank" title="새창으로">NextDaily</a></dd>
+<dd><a href="http://www.rpm9.com/" target="_blank" title="새창으로">RPM9</a></dd>
+</dl>
+<ul class="full_menu_sns">
+<li class="sns_facebook"><a href="https://www.facebook.com/etnews.kr" target="_blank" title="전자신문 페이스북 바로가기"><span class="hide">전자신문 페이스북</span></a></li>
+<li class="sns_twitter"><a href="https://twitter.com/imetnews" target="_blank" title="전자신문 트위터 바로가기"><span class="hide">전자신문 트위터</span></a></li>
+<li class="sns_youtube"><a href="https://www.youtube.com/user/etnews" target="_blank" title="전자신문 유튜브 바로가기"><span class="hide">전자신문 유튜브</span></a></li>
+</ul>
+</div>
+<!-- //전체메뉴 -->
+</nav>
+<!-- 카테고리GNB :: 메인을 제외한 모든 페이지에 노출 -->
+<ul class="gnb_category clearfix">
+<li><a href="//www.etnews.com/news/section.html?id1=03">통신&amp;방송</a></li>
+<li><a href="//www.etnews.com/news/section.html?id1=04">SW&amp;게임&amp;성장기업</a></li>
+<li><a href="//www.etnews.com/news/section.html?id1=06">소재&amp;부품</a></li>
+<li><a href="//www.etnews.com/news/section.html?id1=60">전자&amp;자동차&amp;유통</a></li>
+<li><a href="//www.etnews.com/news/section.html?id1=02">경제&amp;금융</a></li>
+<li><a href="//www.etnews.com/news/section.html?id1=20">산업&amp;과학&amp;정책</a></li>
+<li><a href="//www.etnews.com/news/section.html?id1=25">전국</a></li>
+<li><a href="//www.etnews.com/news/section.html?id1=05">글로벌</a></li>
+<li><a href="//www.etnews.com/news/people.html">인사·부음</a></li>
+<li><a href="//www.etnews.com/news/opinion.html">오피니언</a></li>
+<li><a href="//www.etnews.com/news/series.html?id=1">특집</a></li>
+<li><a href="//www.etnews.com/news/series.html?id=3">연재</a></li>
+</ul>
+<!-- //카테고리GNB -->
+</header>
+<!-- //header -->
+<script charset="utf-8" src="//www.etnews.com/tools/header_update.js" type="text/javascript"></script>
+<!-- et_sub_wrap -->
+<div class="et_sub_wrap clearfix">
+<div style="position:absolute; width:160px; height:600px; left: -160px; top:178px; z-index:999;">
+<script src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/All@x48" type="text/javascript"></script>
+</div>
+<!-- 날개배너 시작 -->
+<div id="wingBanner">
+<div id="leftWingBanner">
+<div id="wingLeftSticky">
+</div>
+</div>
+<div id="RightWingBanner">
+<div id="wingRightSticky">
+<div id="wingRightSticky2"> <!-- style="top:220px;" -->
+<iframe frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="//www.etnews.com/tools/refresh_script.html?duration=30&amp;pos=rwing&amp;src=criteo" width="120"></iframe>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	            if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/) != null) { $('#wingBanner').hide(); }
+            </script>
+<!-- 날개배너 끝 -->
+<!-- ad_355x220 -->
+<script type="text/javascript">
+		function login_chk(){
+			alert('로그인 후 이용해주세요.');
+			location.href='https://member.etnews.com/member/login.html?return_url=//www.etnews.com/news/article.html?id=20191210000112';
+		}
+	</script>
+<!-- //ad_355x220 -->
+<main class="view_wrap" role="main">
+<!-- ad_viewtop -->
+<div class="ad_viewtop clearfix">
+<section class="clearfix">
+<h3>테일러 리포트</h3>
+<ul class="categorynews">
+<li class="clearfix">
+<a class="thumb" href="//www.etnews.com/news/article.html?id=20191122000258&amp;mc=ev_TR_0001"><img alt="글로벌 섬네일" src="https://img.etnews.com/news/article/2019/11/22/article_22174039476691.jpg"/></a>
+<strong><a href="//www.etnews.com/news/article.html?id=20191122000258&amp;mc=ev_TR_0001">세계는 지금 퀀텀 골드러시, '코리아 양자정보통신 브레이크스루 2020' 13일 개최</a></strong>
+<p><a href="//www.etnews.com/news/article.html?id=20191122000258&amp;mc=ev_TR_0001">양자과학은 원자보다 미세한 세계를 다루는 과학으로 위치의 불확정성, 에너지의 중첩성, 입자 간 상호 얽힘 등 인간이 ...</a></p>
+</li>
+<li class="tailor_li2"><strong><a href="//www.etnews.com/news/article.html?id=20191206000124&amp;mc=ev_TR_0002">에이치로보틱스, CES 2020서 재활로봇 솔루션 '리블레스' 소개</a></strong></li>
+<li class="tailor_li3"><strong><a href="//www.etnews.com/news/article.html?id=20191127000029&amp;mc=ev_TR_0003">스트라드비젼, CES 2020서 자율주행차용 경량 하드웨어에 최적화된 'SVNet 솔루션' 소개</a></strong></li>
+</ul>
+</section>
+</div>
+<!-- //ad_viewtop -->
+<article itemscope="" itemtype="http://schema.org/Article">
+<header class="article_header">
+<h2 class="article_title" itemprop="headline">[이슈분석] 미리보는 '갤럭시S11' ..초고화질 카메라-초대용량 배터리 혁신결정체</h2>
+<div class="article_header_sub">
+<time class="date">발행일 : 2019.12.10</time>
+<div class="article_btns clearfix">
+<a class="fs_small" href="javascript:;" onclick="changeFontSize('dec'); return false;" title="글자 작게"><span class="hide">글자 작게</span></a>
+<a class="fs_big" href="javascript:;" onclick="changeFontSize('inc'); return false;" title="글자 크게"><span class="hide">글자 크게</span></a>
+<a class="news_print" href="#" onclick="print()" title="인쇄하기"><span class="hide">인쇄하기</span></a>
+</div>
+<!-- share_wrap -->
+<ul class="share_wrap">
+<li><a class="share_facebook" href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.etnews.com%2F20191210000112%3FSNS%3D00002','fbwin','width=600,height=500'); return false;" title="페이스북으로 공유하기"></a></li>
+<li><a class="share_twitter" href="//www.etnews.com/tools/redirect_sns.html?p=twitter&amp;pos=2&amp;url=http%3A%2F%2Fwww.etnews.com%2F20191210000112%3FSNS%3D00001&amp;text=%5B%EC%9D%B4%EC%8A%88%EB%B6%84%EC%84%9D%5D+%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94+%27%EA%B0%A4%EB%9F%AD%EC%8B%9CS11%27+..%EC%B4%88%EA%B3%A0%ED%99%94%EC%A7%88+%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%B4%88%EB%8C%80%EC%9A%A9%EB%9F%89+%EB%B0%B0%ED%84%B0%EB%A6%AC+%ED%98%81%EC%8B%A0%EA%B2%B0%EC%A0%95%EC%B2%B4" target="_blank" title="트위터로 공유하기"></a></li>
+<li>
+<a class="share_mail" href="#" onclick="login_chk()" title="메일 보내기"></a>
+</li>
+<li><a class="share_scrap" href="//www.etnews.com/tools/bookmark.html?mode=add&amp;id=20191210000112&amp;mc=e_002_00006" title="기사 스크랩하기"></a></li>
+</ul>
+<!-- //share_wrap -->
+<div class="lang_wrap clearfix">
+<a class="btn_goeng" href="http://english.etnews.com/20191211200002" title="English Translation"></a> <a class="btn_trans" href="http://bizcenter.etnews.com/trans/info/request.html" title="기사 번역 의뢰하기"></a>
+</div>
+</div>
+<!-- ad_news_text -->
+<div class="ad_news_text">
+<iframe frameborder="0" height="23" marginheight="0" marginwidth="0" scrolling="no" src="//www.etnews.com/tools/refresh_script.html?type=text&amp;src=%2F%2Fadv.etnews.com%2FRealMedia%2Fads%2Fadstream_jx.ads%2Fetnews.co.kr%2Fdetail%40x02" width="100%"></iframe>
+</div>
+<!-- //ad_news_text -->
+</header>
+<section class="article_body" id="articleBody" itemprop="articleBody">
+<figure class="article_image">
+<a alt="새창 이미지확대보기" border="0" href="https://img.etnews.com/photonews/1912/1251326_20191210175939_595_0002.jpg" target="_blank"><img alt="[이슈분석] 미리보는 '갤럭시S11' ..초고화질 카메라-초대용량 배터리 혁신결정체" itemprop="image" src="https://img.etnews.com/photonews/1912/1251326_20191210175939_595_0002.jpg" style="cursor:pointer;"/></a>
+</figure><p>삼성전자 2020년 플래그십 스마트폰 '갤럭시S11'에 대한 관심이 고조되기 시작했다. 기대감 섞인 각종 전망이 봇물처럼 쏟아진다.<br/>
+<br/>
+실제 완성품을 연상시키는 렌더링 이미지도 등장했다. 전망과 추측에 기반했지만 최종 결과물 모습을 상당 부분 투영했을 것으로 추정된다.<br/>
+<br/>
+삼성전자 첨단 기술력을 집약한 갤럭시S 시리즈는 스마트폰 카메라와 디스플레이, 모바일 애플리케이션 프로세서, 디자인 등 여러 부분에서 시장 기준점을 제시한다. 그동안 유출·공개된 정보를 바탕으로 갤럭시S11 예상 모습을 미리 살펴봤다.<br/>
+<br/>
+◇크기·성능별 3가지 모델<br/>
+<br/>
+삼성전자는 갤럭시S11을 3개 모델로 개발 중인 것으로 알려졌다. 갤럭시S10 시리즈와 마찬가지로 각각 갤럭시S11e, 갤럭시S11, 갤럭시S11 플러스로 명명하는 방안이 유력하다.<br/>
+<br/>
+화면 크기는 6.3인치, 6.7인치. 6.9인치로, 플랫형 없이 모두 커브드 엣지 디스플레이를 적용할 가능성이 높다. 모델별로 램과 저장용량을 일부 구분하고 카메라 성능에도 차이를 둘 것으로 예상된다.<br/>
+<br/>
+전면에는 갤럭시노트10 시리즈와 같이 상단 가운데 인피니티-O 방식으로 카메라를 배치한다. 다만 카메라 펀치 홀 크기는 크게 줄어들 전망이다.<br/>
+<br/>
+삼성전자는 12일 베트남에서 공개 예정인 2020년형 갤럭시A 신제품 티저 이미지를 통해 작은 카메라 홀과 베젤리스 디스플레이를 내비쳤다. 혁신 기술을 선행 탑재하는 플랫폼으로 갤럭시A 시리즈를 활용하고 있는 만큼 갤럭시S11에도 반영될 가능성이 높다.<br/>
+<br/>
+처음으로 90㎐ 혹은 120㎐ 화면 주사율을 지원할 가능성도 거론된다. 화면 주사율이 높아지면 초당 처리하는 이미지수가 늘어 빠른 움직임이나 화면 스크롤이 부드럽게 표현된다. 기존 갤럭시S10 등은 60㎐ 주사율을 지원했다.<br/>
+<br/>
+◇1억화소와 광학 5배줌 카메라<br/>
+<br/>
+갤럭시S11에서 가장 기대를 모으는 혁신 요소는 역시 카메라 성능 향상이다. 부품업계에 따르면 1억화소가 넘는 초고화질 이미지 센서와 5배 광학줌 등 새로운 기능이 갤럭시S11에 탑재될 계획이다.<br/>
+<br/>
+갤럭시S11e는 후면에 트리플 카메라를 장착한다. 1200만화소 광각과 6400만화소 2배줌 망원, 1200만화소 초광각 등으로 구성된다.<br/>
+<br/>
+갤럭시S11과 S11 플러스에는 쿼드카메라 혹은 5개 모듈로 구성된 펜타카메라까지 거론된다. 광각, 망원, 초광각 카메라에 3D 촬영이 가능한 비과시간(ToF) 모듈을 조합하거나 1억800만화소 초고화질 카메라나 5배줌 망원 카메라를 새롭게 탑재하는 방안이 유력한 것으로 알려졌다.<br/>
+<br/>
+삼성전자가 자체 개발한 1억800만화소 이미지 센서는 상용화된 스마트폰 카메라 중에 가장 화소 수가 높다. 삼성전자는 중국 샤오미 CC9 프로에 1억800만화소 이미지 센서를 공급, 양산에 돌입한 상태다.<br/>
+<br/>
+다만 샤오미 CC9 프로는 1억화소 사진 촬영 시 이미지 처리에 2~3초 지연이 발생하는 것으로 알려졌다. 모듈 크기와 두께 역시 기존 스마트폰 카메라 모듈 사이즈를 크게 상회한다. 부품 원가 역시 높다. 기술적 완성도와 상품성을 고려해 가장 상위 모델에만 1억화소를 탑재했거나 차기작으로 미뤘을 가능성도 배제할 수 없다.<br/>
+<br/>
+중국 IT트위터리안 아이스유니버스는 “삼성전자가 갤럭시S11 플러스 버전에 1억800만화소 센서를 최적화한 카메라를 탑재할 것”이라며 “샤오미에 공급한 제품보다 최적화 수준이 높을 것”이라고 내다봤다.<br/>
+<br/>
+광학 5배줌 카메라도 주목된다. 기존 스마트폰 망원 카메라는 렌즈 구조상 광학 2배줌이 최대치였다. 삼성전기가 개발한 5배줌 카메라는 잠망경 구조를 활용한 새로운 모듈로 줌 성능을 끌어올렸다. 이를 바탕으로 '스페이스 줌' 등 새로운 기능을 구현할 것으로 예상된다.<br/>
+<br/>
+◇'인덕션' 카메라 모듈<br/>
+<br/>
+후면 카메라 모듈 디자인은 카메라 성능 향상만큼이나 관심이 집중된다. 애플 아이폰11 시리즈와 유사한 인덕션 디자인 적용이 기정사실화되고 있다.<br/>
+<br/>
+갤럭시S11은 카메라 배열을 기존 수직이나 수평이 아닌 L자형으로 배치함으로써 애플 아이폰11 시리즈와 유사한 '인덕션' 형태를 취할 것으로 관측된다.<br/>
+<br/>
+애플은 아이폰11 프로 등에 처음으로 트리플 카메라를 탑재하며 사각형으로 도드라지는 모듈 디자인을 채택했다. 초반에는 디자인 퇴보 논란을 빚으며 조롱을 받기도 했으나 소비자는 별다른 무리 없이 받아들였다.<br/>
+<br/>
+갤럭시S11 역시 후면 카메라 숫자를 기존보다 늘리면서 인덕션형 디자인으로 귀결된 것으로 추정된다. 1억화소나 광학 5배줌 등 새로운 카메라 모듈 크기 또한 고려 요소다.<br/>
+<br/>
+펜타카메라 적용 가능성이 있는 갤럭시S11 플러스는 인덕션 모듈 내 5개 렌즈가 주사위 5점 형태로 배치된 렌더링도 등장했다.<br/>
+<br/>
+◇5000㎃h 대용량 배터리<br/>
+<br/>
+갤럭시S11 플러스는 5000㎃h에 이르는 대용량 배터리가 탑재된다. 역대 삼성전자 플래그십 스마트폰 가운데 최대 용량이다. 갤럭시S11e는 4000㎃h, 갤럭시s11은 4500㎃h를 탑재할 것으로 보인다.<br/>
+<br/>
+삼성전자는 올해 갤럭시S10 플러스에 4100㎃h, 갤럭시노트10 플러스에 4300㎃h 배터리를 탑재했다. 갤럭시S11 시리즈는 5세대 이동통신(5G)과 화면 주사율 향상 등 배터리 소모 요인으로 인해 점차 배터리 용량을 늘릴 것으로 예상된다.<br/>
+<br/>
+폰아레나는 “다만 배터리 용량이 늘어난다 해도 배터리 유지 시간은 늘어나지 않을 수도 있다”며 “대화면에 5G 모델로 출시될 시 전력 소모가 더 빨리질 것”이라고 예상했다.<br/>
+<br/>
+삼성전자는 앞서 갤럭시노트7 발화 사고 이후 한동안 배터리 용량에 다소 보수적인 전략을 취해왔다. 이후 배터리 안전검증 대폭 강화하고 보급형 모델 등 우선 적용으로 자신감을 회복한 것으로 풀이된다.<br/>
+<br/>
+삼성전자는 올해 인도에 출시한 갤럭시M20에 5000㎃h 대용량 배터리를 채택했다. 이후 제조업자개발생산(ODM)으로 선보인 갤럭시M30s는 6000㎃까지 배터리 용량을 늘렸다.<br/>
+<br/>
+◇엑시노스990과 스냅드래곤865<br/>
+<br/>
+두뇌에 해당하는 모바일 애플리케이션프로세서(AP)는 예년과 마찬가지로 삼성전자 엑시노스와 퀄컴 스냅드래곤이 교차 탑재될 전망이다.<br/>
+<br/>
+삼성전자는 10월 미국 실리콘밸리에서 개최한 삼성테크데이 2019에서 신형 엑시노스990 프로세서를 공개했다. 7나노(nm) EUV 공정 기반으로 설계한 프로세서로 전력 소모를 최소화하고 고성능 연산작업을 지원한다. 2세대 신경망처리장치 NPU 코어 2개 탑재로 인공지능 연산 기능을 제공한다.<br/>
+<br/>
+강인엽 삼성전자 시스템LSI사업부 사장은 “엑시노스990과 엑시노스 모뎀 5123은 인공지능과 5G 시대에 최적화된 혁신적 제품”이라고 강조했다.<br/>
+<br/>
+퀄컴 역시 최근 퀄컴스냅드래곤테크서밋2019에서 갤럭시S11 등에 탑재될 스냅드래곤865 프로세서를 공개했다. 역시 7nm 공정 기반 AP로 전작 대비 CPU 성능과 전력효율을 25% 씩 개선했다.<br/>
+<br/>
+한국과 유럽 등에는 엑시노스990을, 미국과 중국에는 스냅드래곤865를 탑재해 출시될 것으로 예상된다.<br/>
+<br/>
+박정은기자 jepark@etnews.com</p>
+<div class="ad_newsviewWrap ad_confer clearfix">
+<ul class="ad_text_newsview">
+<li><script charset="euc-kr" src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/detail@x60" type="text/javascript"></script></li>
+<li><script charset="euc-kr" src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/detail@x61" type="text/javascript"></script></li>
+</ul>
+</div>
+<!-- 버튼 -->
+<div class="footer_btnwrap clearfix">
+<a class="btn_author" href="http://search.etnews.com/etnews/search.php?charset=utf-8&amp;kwd=%EB%B0%95%EC%A0%95%EC%9D%80">기자의 다른 기사 보기</a>
+<!-- 관련 자료 버튼 -->
+<!-- //관련 자료 버튼 -->
+<!-- 해시태그 -->
+<div class="hashtag clearfix">
+<a href="/news/issue_analysis.html">이슈분석</a>
+</div>
+<!-- //해시태그 -->
+</div>
+<!-- //버튼 -->
+<div style="clear:both;width:100%;"></div>
+<div class="ad" style="float: left; margin: 0 41px 20px 23px;">
+<script src="//media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=01kr&amp;out=script"></script>
+</div>
+<div class="ad">
+<script src="//media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=01kq&amp;out=script"></script>
+</div>
+<div style="clear:both;"></div>
+<!--- 연관기사  -->
+<div class="rel issue" id="layerRelated"></div>
+<!--- //연관기사 -->
+<!-- //레이어팝업 시작 -->
+<div id="BpromotionBanner" style="margin-bottom: 20px;">
+</div>
+<!-- //레이어팝업 끝 -->
+</section>
+</article>
+<!-- 콘퍼런스 자료가 없습니다 -->
+<!-- <script type="text/javascript" src="http://js2.keywordsconnect.com/inspace_etnews.js"></script>-->
+<!-- article_footer -->
+<div class="article_footer" id="openLine">
+<!-- 관련 기사 -->
+<!-- 관련 기사 -->
+<!-- 광고 -->
+<!-- 텍스트 광고 -->
+<div class="ad_newsviewWrap clearfix">
+<ul class="ad_text_newsview">
+<li><a href="//www.etnews.com/20191209000342?mc=ev_003_00001">내년부터 초고속인터넷 사각지대 없다...KT, 보편적 역무 제공</a></li>
+<li><a href="//www.etnews.com/20191210000185?mc=ev_003_00002">SK텔레콤, 5G 정규 요금제 출시... 가격 낮추고 데이터 늘려</a></li>
+<li><a href="//www.etnews.com/20191209000213?mc=ev_003_00003">스카이 '노이즈캔슬링' 무선 이어폰 나온다… 에어팟 프로 5분의1 가격</a></li>
+<li><a href="//www.etnews.com/20191210000112?mc=ev_003_00004">[이슈분석] 미리보는 '갤럭시S11' ..초고화질 카메라-초대용량 배터리 혁신결정체</a></li>
+<li><a href="//www.etnews.com/20191212000307?mc=ev_003_00005">KT, 차기회장 후보 9명으로 압축</a></li>
+<li style="line-height: 10px;"> </li>
+<li><script charset="euc-kr" src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/detail@x05" type="text/javascript"></script></li>
+<li><script charset="euc-kr" src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/detail@x06" type="text/javascript"></script></li>
+</ul>
+</div>
+<!-- //텍스트 광고 -->
+<!-- //광고 -->
+<div class="ad_shopingmall3_wrap clearfix">
+<!-- Begin Dable 하A_그리드6_EMPTY_PC / For inquiries, visit http://dable.io -->
+<div data-widget_id="6o3NZYXZ" id="dablewidget_6o3NZYXZ">
+<script>
+				(function(d,a,b,l,e,_) {
+				if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+				e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+				_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+				})(window,document,'dable','script');
+					dable('setService', 'etnews.com');
+					dable('sendLogOnce');
+					dable('renderWidget', 'dablewidget_6o3NZYXZ');
+				</script>
+</div>
+<!-- End 하A_그리드6_EMPTY_PC / For inquiries, visit http://dable.io -->
+</div>
+<!-- 쇼핑 -->
+<div class="ad_shopingmall2_wrap">
+<div class="ad_shopingmall2 clearfix" style="position:absolute;">
+<h4>[전자신문인터넷 초특가 상품전]</h4>
+<ul class="clearfix">
+<li><script src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/Shopping@x01" type="text/javascript"></script></li>
+<li><script src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/Shopping@x02" type="text/javascript"></script></li>
+<li><script src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/Shopping@x03" type="text/javascript"></script></li>
+<li><script src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/Shopping@x04" type="text/javascript"></script></li>
+</ul>
+</div>
+<div class="ad_shopingmall2_bnr clearfix" style="position:absolute;">
+<script src="//adv.etnews.com/RealMedia/ads/adstream_jx.ads/etnews.co.kr/Shopping@x90" type="text/javascript"></script>
+</div>
+</div>
+<!-- 쇼핑 -->
+<!-- //광고 -->
+<!-- copyright -->
+<div class="copyright_wrap">
+<span itemprop="copyrightHolder">© 전자신문 &amp; etnews.com 무단전재 및 재배포금지</span>
+<!-- share_wrap -->
+<ul class="share_wrap">
+<li><a class="share_facebook" href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.etnews.com%2F20191210000112%3FSNS%3D00002','fbwin','width=600,height=500'); return false;" title="페이스북으로 공유하기"></a></li>
+<li><a class="share_twitter" href="//www.etnews.com/tools/redirect_sns.html?p=twitter&amp;pos=2&amp;url=http%3A%2F%2Fwww.etnews.com%2F20191210000112%3FSNS%3D00001&amp;text=%5B%EC%9D%B4%EC%8A%88%EB%B6%84%EC%84%9D%5D+%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94+%27%EA%B0%A4%EB%9F%AD%EC%8B%9CS11%27+..%EC%B4%88%EA%B3%A0%ED%99%94%EC%A7%88+%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%B4%88%EB%8C%80%EC%9A%A9%EB%9F%89+%EB%B0%B0%ED%84%B0%EB%A6%AC+%ED%98%81%EC%8B%A0%EA%B2%B0%EC%A0%95%EC%B2%B4" target="_blank" title="트위터로 공유하기"></a></li>
+</ul>
+<!-- //share_wrap -->
+<!-- 페이스북 좋아요 -->
+<div class="fb_like">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fetnews.kr&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=371021609644443" style="display:Block; float:left; border:none; overflow:hidden; width:103px; height:21px;"></iframe>
+</div>
+<!-- //페이스북 좋아요 -->
+</div>
+<!-- //copyright -->
+<div id="closeLine"></div>
+<!-- 라이브리 설치코드 시작 -->
+<div data-id="etnews" data-uid="NTgzLzE0MTczLzY1Ng==" id="lv-container">
+<script type="text/javascript">
+						window.livereOptions={
+							refer:"www.etnews.com/20191210000112"
+						};
+						(function(d, s) {
+							var j, e = d.getElementsByTagName(s)[0];
+						
+							if (typeof LivereTower === 'function') { return; }
+
+							j = d.createElement(s);
+							j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+							j.async = true;
+
+							e.parentNode.insertBefore(j, e);
+						})(document, 'script');
+					</script>
+<noscript>라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요.</noscript>
+</div>
+<!-- 라이브리 설치코드 끝 -->
+</div>
+<!-- //article_footer -->
+</main>
+<!-- KEYWORD_AD= -->
+<!-- aside_wrap -->
+<div class="aside_wrap">
+<!-- ad_300x250 -->
+<aside class="ad_300x250">
+<iframe height="250" scrolling="no" src="//www.etnews.com/tools/refresh_script.html?duration=30&amp;src=%2F%2Fadv.etnews.com%2FRealMedia%2Fads%2Fadstream_jx.ads%2Fetnews.co.kr%2Fdetail%40Right1" width="300"></iframe>
+</aside>
+<!-- //ad_300x250 -->
+<aside class="textlist">
+<h3>BIZPLUS</h3>
+<ul>
+<li><a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fbizplus%2Fsba.html&amp;mc=ev_101_00001" target="_parent">SBA-K쇼핑, 중기제품 마케팅협력 성과 가시화…NPB상품·V커머스 기획전 등 통해 매출↑</a></li>
+<li><a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fbizplus%2Fsba.html&amp;mc=ev_101_00002" target="_parent">SBA-모비릭스, 서울 게임산업 활성화 업무협약 체결…우수 중소게임 국내외진출 지원</a></li>
+<li><a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2Fbizplus%2Fsba.html&amp;mc=ev_101_00003" target="_parent">SBA, '공정한 채용·블라인드 채용' 우수사례 경진대회서 행안부 장관상 수상</a></li>
+<li><a href="//www.etnews.com/tools/redirect_log.html?url=http%3A%2F%2Fwww.allshowtv.com%2Fdetail.html%3Fidx%3D121&amp;mc=ev_101_00004" target="_parent">‘급변하는 IT 환경의 최적 통합보안 3D 관제 솔루션’ 세미나 개최</a></li>
+</ul>
+</aside>
+<!-- 6 0--> <aside class="textthumblist3 allshowtv">
+<h3><a href="http://www.allshowtv.com" target="_blank" title="allshowTV 더보기">allshowTV</a></h3>
+<ul class="clearfix">
+<li>
+<a class="thumb" href="http://www.allshowtv.com/detail.html?idx=125" target="_blank"><img alt="allshowtv 섬네일" src="https://img.etnews.com/allshowtv/tmp_upload/2019/12/12/main_12152423692092.jpg"/></a>
+<p>
+<a class="title" href="http://www.allshowtv.com/detail.html?idx=125" target="_blank">2020년 사이버위협 전망과 융합보안 전략</a>
+<a class="date" href="http://www.allshowtv.com/detail.html?idx=125" target="_blank">2019. 12. 23일(월) 15:00 ~ 16:00</a>
+</p>
+</li>
+<li>
+<a class="thumb" href="http://www.allshowtv.com/detail.html?idx=123" target="_blank"><img alt="allshowtv 섬네일" src="https://img.etnews.com/allshowtv/tmp_upload/2019/12/05/main_05174008849241.jpg"/></a>
+<p>
+<a class="title" href="http://www.allshowtv.com/detail.html?idx=123" target="_blank">2020 암호화폐 시장전망과 떠오르는 소셜트레이딩 활용법</a>
+<a class="date" href="http://www.allshowtv.com/detail.html?idx=123" target="_blank">2019. 12. 26일(목) 14:00 ~ 15:00</a>
+</p>
+</li>
+<li>
+<a class="thumb" href="http://www.allshowtv.com/detail.html?idx=124" target="_blank"><img alt="allshowtv 섬네일" src="https://img.etnews.com/allshowtv/tmp_upload/2019/12/10/main_10182631516921.png"/></a>
+<p>
+<a class="title" href="http://www.allshowtv.com/detail.html?idx=124" target="_blank">AI 음성봇, 그것이 알고싶다!</a>
+<a class="date" href="http://www.allshowtv.com/detail.html?idx=124" target="_blank">2019. 12. 16일(월) 14:00 ~ 15:00</a>
+</p>
+</li>
+</ul>
+</aside>
+<!-- 이향선의 테크비전 -->
+<aside class="textthumblist thumb_left">
+<h3><a href="//www.etnews.com/news/category_list.html?id=2607" target="_blank" title="이향선의 테크비전 더보기">이향선의 테크비전</a></h3>
+<ul>
+<li class="clearfix">
+<a class="thumb" href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2F20191206000225&amp;mc=em_108_00001" target="_blank"><img alt="이향선의 테크비전 섬네일" src="https://img.etnews.com/news/article/2019/12/06/article_06211309212472.jpg"/></a>
+<p><a href="//www.etnews.com/tools/redirect_log.html?url=%2F%2Fwww.etnews.com%2F20191206000225&amp;mc=em_108_00001" target="_blank">“성공사례로 알아보는 기업형 AR 도입 성공 전략 세미나” 개최…생산성∙비용효율∙안전성 높은 AR 도입 전략제시</a></p>
+</li>
+</ul>
+</aside>
+<!-- 이향선의 테크비전 -->
+<!-- 마이크로사이트 백서 -->
+<!--
+			<aside class="textthumblist3">
+				<h3><a href="http://bizcenter.etnews.com/marketing/veritas/" title="Veritas 마이크로사이트 가기">TIP! 백업 및 재해 복구 비용 절감 방법</a></h3>
+				<ul class="clearfix">
+					< !--
+					<li>
+						<a href="http://bizcenter.etnews.com/marketing/veritas/#wp1" class="thumb"><img src="https://img.etnews.com/2017/microsite/veritas/wp_veritas01.jpg" alt="백서 섬네일"></a>
+						<p><a href="http://bizcenter.etnews.com/marketing/veritas/#wp1">BYO 미디어 서버 대비 Veritas NetBackup™ Appliance의 비용 절감 효과</a></p>
+					</li>
+					<li>
+						<a href="http://bizcenter.etnews.com/marketing/veritas/#wp2" class="thumb"><img src="https://img.etnews.com/2017/microsite/veritas/wp_veritas02.jpg" alt="백서 섬네일"></a>
+						<p><a href="http://bizcenter.etnews.com/marketing/veritas/#wp2">Veritas NetBackup™ 솔루션의 비즈니스 가치</a></p>
+					</li>
+					-->
+<li>
+<a class="thumb" href="http://bizcenter.etnews.com/marketing/veritas/#wp3"><img alt="백서 섬네일" src="https://img.etnews.com/2017/microsite/veritas/wp_veritas03.jpg"/></a>
+<p><a href="http://bizcenter.etnews.com/marketing/veritas/#wp3">백업 및 복구 현대화에 필요한 주요 요소</a></p>
+</li>
+<li>
+<a class="thumb" href="http://bizcenter.etnews.com/marketing/veritas/#wp4"><img alt="백서 섬네일" src="https://img.etnews.com/2017/microsite/veritas/wp_veritas04.jpg"/></a>
+<p><a href="http://bizcenter.etnews.com/marketing/veritas/#wp4">비용 절감 및 복잡성 해소</a></p>
+</li>
+</div></div></div></body>

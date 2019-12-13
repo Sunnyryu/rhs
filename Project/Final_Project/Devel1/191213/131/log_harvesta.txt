@@ -1,0 +1,14 @@
+1	http://www.inews24.com/view/1227711	HTTPConnectionPool(host='www.inews24.com', port=80): Read timed out.
+
+2	http://v.media.daum.net/v/20191206144119406	HTTPConnectionPool(host='v.media.daum.net', port=80): Max retries exceeded with url: /v/20191206144119406 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe3c30c3750>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+3	https://www.hankyung.com/society/article/201912067963i	HTTPSConnectionPool(host='www.hankyung.com', port=443): Max retries exceeded with url: /society/article/201912067963i (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe3c425da90>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+4	http://www.dt.co.kr/contents.html?article_no=2019120602109919807026&ref=naver	HTTPConnectionPool(host='www.dt.co.kr', port=80): Max retries exceeded with url: /contents.html?article_no=2019120602109919807026&ref=naver (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe3c425dc50>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+5	http://v.media.daum.net/v/20191206143728315	HTTPConnectionPool(host='v.media.daum.net', port=80): Max retries exceeded with url: /v/20191206143728315 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe3c30c36d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+6	https://biz.chosun.com/site/data/html_dir/2019/12/04/2019120401073.html	HTTPSConnectionPool(host='biz.chosun.com', port=443): Max retries exceeded with url: /site/data/html_dir/2019/12/04/2019120401073.html (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe3c42606d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+수집한 문서 개수: 6개
+걸린 시간: 0m 26s
