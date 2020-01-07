@@ -239,7 +239,7 @@ denny.hello("페리")
 
 class Police(Person):
     def arrest(self, to_arrest):
-        print("넌 체포 되었음!"+ "to_acrrest")
+        print("넌 체포 되었음!"+ "to_arrest")
 
 class Programmer(Person):
     def program(self, to_program):
@@ -253,6 +253,6 @@ jenny.introduce()
 jenny.arrest("써니")
 sun = Programmer("썬", 27)
 
-sun.Program("파이썬 서버")
+sun.program("파이썬 서버")
 
 ```
