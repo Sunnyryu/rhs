@@ -1,0 +1,7 @@
+{
+  "name": "hellonode",
+  "main": "kuber1.js",
+  "dependencies": {
+    "express": "~4"
+  }
+}
