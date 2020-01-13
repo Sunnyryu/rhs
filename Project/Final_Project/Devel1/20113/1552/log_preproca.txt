@@ -1,0 +1,9 @@
+2/15	./20113/1552/E_K_01/D_03.txt	unknown
+4/15	./20113/1552/E_K_01/D_05.txt	unknown
+10/15	./20113/1552/E_K_01/N_01.txt	unknown
+13/15	./20113/1552/E_K_01/D_04.txt	unknown
+15/15	./20113/1552/E_K_01/D_01.txt	unknown
+Useless : 3 (20.0%)
+Unknown : 5 (33.3%)
+Hit : 7 (46.7%)
+걸린 시간: 0m 02s
