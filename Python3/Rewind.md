@@ -10,7 +10,7 @@ y = "hello"
 print(y) => hello
 
 type은 숫자, 문자, boolean
-
+a = 3
 x = 1
 y = 2
 z = 1.3
