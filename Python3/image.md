@@ -62,7 +62,6 @@ cv2로 import 하며, cvtColor 명령을 사용하면 더 간단하게 색공간
 
 resize() 명령으로 이미지 크기 변환 기능을 제공(cv2.resize())
 
-Numpy 정리 후 계속 정리
 
 numpy - arrange / linspace
 
@@ -83,7 +82,6 @@ sort() => 순서를 맞춰줌!!
 max() => max_array = array([1,2], [3,4])
 max_array.max() => 4 / max_array(axis=0) => array([3,4])
 max_array(1) => array([2,4])
-
 
 
 ```
