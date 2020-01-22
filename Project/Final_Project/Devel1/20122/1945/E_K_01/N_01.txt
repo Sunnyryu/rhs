@@ -1,0 +1,1839 @@
+추석 민심 뼈아프게 수용하고 민생부터 챙겨라
+<body>
+<!--[if lt IE 10]>
+<div id="ie9-guide">
+	<div class="ie9-wrapper border-box">
+		<p class="guide-txt">
+		잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다. 최신 브라우저(Browser) 사용을 권장드립니다!
+		</p>
+
+		<div class="guide-right">
+			<dl class="ie9-down nobr">
+				<dt><i class="icon ie-logo">ie</i></dt>
+				<dd>
+					<span>인터넷 익스플로러 11</span>
+					<a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon cr-logo">chrome</i></dt>
+				<dd>
+					<span>구글 크롬</span>
+					<a href="http://www.google.com/chrome/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon ff-logo">firefox</i></dt>
+				<dd>
+					<span>모질라 파이어폭스</span>
+					<a href="http://www.mozilla.or.kr/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>
+<![endif]-->
+<div class="off-canvas-wrapper">
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+<div class="off-canvas user-canvas position-left" data-off-canvas="" id="offCanvas">
+<!-- close //-->
+<button aria-label="Close menu" class="close-button" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// close -->
+<style type="text/css">
+.user-canvas .user-canvas-navs .menu li > a:hover,.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a {background:#ff6805}
+.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent > a::after,.user-canvas .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a::after {border-top-color:#ff6805}
+.user-canvas .user-canvas-navs .menu li ul.menu.nested li a:hover {color:#ff6805}
+</style>
+<nav class="user-canvas-navs">
+<!-- 1차 //-->
+<ul class="vertical menu" data-accordion-menu="" data-multi-open="false">
+<li><a href="/news/articleList.html?view_type=sm">전체기사</a></li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N1&amp;view_type=sm" target="_top">충남</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N1&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N1&amp;view_type=sm" target="_top">충남도정</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N2&amp;view_type=sm" target="_top">천안시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N3&amp;view_type=sm" target="_top">공주시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N4&amp;view_type=sm" target="_top">보령시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N5&amp;view_type=sm" target="_top">아산시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N6&amp;view_type=sm" target="_top">서산시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N7&amp;view_type=sm" target="_top">논산시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N8&amp;view_type=sm" target="_top">금산군</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N9&amp;view_type=sm" target="_top">부여군</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N10&amp;view_type=sm" target="_top">서천군</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N11&amp;view_type=sm" target="_top">청양군</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N12&amp;view_type=sm" target="_top">홍성군</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N13&amp;view_type=sm" target="_top">예산군</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N14&amp;view_type=sm" target="_top">태안군</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N15&amp;view_type=sm" target="_top">당진시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N16&amp;view_type=sm" target="_top">계룡시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N17&amp;view_type=sm" target="_top">내포</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N256&amp;view_type=sm" target="_top">카드뉴스</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N2&amp;view_type=sm" target="_top">충북</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N2&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N18&amp;view_type=sm" target="_top">충북도정</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N19&amp;view_type=sm" target="_top">청주</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N20&amp;view_type=sm" target="_top">충주</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N21&amp;view_type=sm" target="_top">제천</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N22&amp;view_type=sm" target="_top">음성</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N23&amp;view_type=sm" target="_top">진천</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N24&amp;view_type=sm" target="_top">괴산</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N25&amp;view_type=sm" target="_top">증평</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N26&amp;view_type=sm" target="_top">청원</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N27&amp;view_type=sm" target="_top">보은</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N28&amp;view_type=sm" target="_top">옥천</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N29&amp;view_type=sm" target="_top">영동</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N30&amp;view_type=sm" target="_top">단양</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N3&amp;view_type=sm" target="_top">정치/행정</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N3&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N31&amp;view_type=sm" target="_top">정치일반</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N32&amp;view_type=sm" target="_top">국정/외교</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N33&amp;view_type=sm" target="_top">지방 의회</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N34&amp;view_type=sm" target="_top">국회/정당</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N35&amp;view_type=sm" target="_top">2012년 선거</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N36&amp;view_type=sm" target="_top">2014 지선 민심리포트</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N37&amp;view_type=sm" target="_top">7·30 재·보궐선거</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N38&amp;view_type=sm" target="_top">4.13총선 출마합니다</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N39&amp;view_type=sm" target="_top">4.13총선</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N40&amp;view_type=sm" target="_top">정치통(通)</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N4&amp;view_type=sm" target="_top">경제/과학</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N4&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N41&amp;view_type=sm" target="_top">지역경제</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N42&amp;view_type=sm" target="_top">금융/증권</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N43&amp;view_type=sm" target="_top">건설/부동산</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N44&amp;view_type=sm" target="_top">유통</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N45&amp;view_type=sm" target="_top">기업</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N46&amp;view_type=sm" target="_top">대전청사</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N47&amp;view_type=sm" target="_top">과학/IT</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N48&amp;view_type=sm" target="_top">정보 통신</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N49&amp;view_type=sm" target="_top">자동차</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N50&amp;view_type=sm" target="_top">경제일반</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N51&amp;view_type=sm" target="_top">금융특집</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N52&amp;view_type=sm" target="_top">공사·공단 경제특집</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N53&amp;view_type=sm" target="_top">CEO열전</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N5&amp;view_type=sm" target="_top">사회</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N5&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N54&amp;view_type=sm" target="_top">사건사고</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N55&amp;view_type=sm" target="_top">교육</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N56&amp;view_type=sm" target="_top">환경</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N57&amp;view_type=sm" target="_top">NGO</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N58&amp;view_type=sm" target="_top">사회일반</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N6&amp;view_type=sm" target="_top">스포츠</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N6&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N59&amp;view_type=sm" target="_top">야구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N60&amp;view_type=sm" target="_top">축구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N61&amp;view_type=sm" target="_top">농구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N62&amp;view_type=sm" target="_top">골프</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N63&amp;view_type=sm" target="_top">배구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N64&amp;view_type=sm" target="_top">생활체육</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N65&amp;view_type=sm" target="_top">해외야구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N66&amp;view_type=sm" target="_top">2014브라질월드컵</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N67&amp;view_type=sm" target="_top">스포츠일반</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N68&amp;view_type=sm" target="_top">해외축구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N69&amp;view_type=sm" target="_top">대청호 마라톤</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N7&amp;view_type=sm" target="_top">문화</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N7&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N70&amp;view_type=sm" target="_top">공연/전시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N71&amp;view_type=sm" target="_top">건강/의료</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N72&amp;view_type=sm" target="_top">여성/생활</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N73&amp;view_type=sm" target="_top">여행/여가</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N74&amp;view_type=sm" target="_top">출판/문학</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N75&amp;view_type=sm" target="_top">복지</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N76&amp;view_type=sm" target="_top">따블뉴스</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N77&amp;view_type=sm" target="_top">문화일반</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N78&amp;view_type=sm" target="_top">3.1절자전거대행진</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N79&amp;view_type=sm" target="_top">문화게시판</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N80&amp;view_type=sm" target="_top">러브투게더</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N81&amp;view_type=sm" target="_top">문화리뷰</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N82&amp;view_type=sm" target="_top">변평섭의 충청역사유람</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N8&amp;view_type=sm" target="_top">연예</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N8&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N83&amp;view_type=sm" target="_top">방송연예</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N84&amp;view_type=sm" target="_top">음악</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N85&amp;view_type=sm" target="_top">영화</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N86&amp;view_type=sm" target="_top">종합</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N87&amp;view_type=sm" target="_top">연예일반</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N9&amp;view_type=sm" target="_top">사람들</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N9&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N88&amp;view_type=sm" target="_top">인터뷰</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N89&amp;view_type=sm" target="_top">인사</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N90&amp;view_type=sm" target="_top">안내판</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N91&amp;view_type=sm" target="_top">새의자</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N92&amp;view_type=sm" target="_top">초대석</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N93&amp;view_type=sm" target="_top">충청인</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N94&amp;view_type=sm" target="_top">사람이미래다</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N95&amp;view_type=sm" target="_top">부고</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N96&amp;view_type=sm" target="_top">결혼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N97&amp;view_type=sm" target="_top">수상</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N98&amp;view_type=sm" target="_top">유스페이퍼</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N10&amp;view_type=sm" target="_top">오피니언</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N10&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N99&amp;view_type=sm" target="_top">사설</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N100&amp;view_type=sm" target="_top">칼럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N101&amp;view_type=sm" target="_top">독자의 소리</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N102&amp;view_type=sm" target="_top">변평섭 칼럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N103&amp;view_type=sm" target="_top">박건옥 칼럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N104&amp;view_type=sm" target="_top">이규식 문화카페</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N105&amp;view_type=sm" target="_top">독자위원 칼럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N106&amp;view_type=sm" target="_top">기자수첩</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N107&amp;view_type=sm" target="_top">데스크 칼럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N108&amp;view_type=sm" target="_top">충청로</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N109&amp;view_type=sm" target="_top">나침반</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N110&amp;view_type=sm" target="_top">아침마당</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N111&amp;view_type=sm" target="_top">화요글밭</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N112&amp;view_type=sm" target="_top">수요광장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N113&amp;view_type=sm" target="_top">목요세평</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N114&amp;view_type=sm" target="_top">시선</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N115&amp;view_type=sm" target="_top">투데이포럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N116&amp;view_type=sm" target="_top">투데이춘추</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N117&amp;view_type=sm" target="_top">경제인칼럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N118&amp;view_type=sm" target="_top">에세이</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N119&amp;view_type=sm" target="_top">시론</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N120&amp;view_type=sm" target="_top">낱말 속 사연</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N121&amp;view_type=sm" target="_top">숫자여행</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N122&amp;view_type=sm" target="_top">월요아침편지</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N123&amp;view_type=sm" target="_top">나인문의窓</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N124&amp;view_type=sm" target="_top">지명속 이야기</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N125&amp;view_type=sm" target="_top">소방안전실천 24시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N126&amp;view_type=sm" target="_top">투데이기고</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N127&amp;view_type=sm" target="_top">반려동물이야기</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N128&amp;view_type=sm" target="_top">투데이창</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N129&amp;view_type=sm" target="_top">투데이 칼럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N130&amp;view_type=sm" target="_top">젊은 과학포럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N131&amp;view_type=sm" target="_top">특별기고</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N132&amp;view_type=sm" target="_top">이상엽의 역학이야기</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N133&amp;view_type=sm" target="_top">김윤주의 酒절주절</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N134&amp;view_type=sm" target="_top">청소년 광장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N135&amp;view_type=sm" target="_top">의학칼럼</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N136&amp;view_type=sm" target="_top">충청로2</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N137&amp;view_type=sm" target="_top">투데이 컷</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N138&amp;view_type=sm" target="_top">독자투고</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N139&amp;view_type=sm" target="_top">청소년 광장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N140&amp;view_type=sm" target="_top">문화리뷰</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N141&amp;view_type=sm" target="_top">내포이야기</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N142&amp;view_type=sm" target="_top">문화칼럼</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N11&amp;view_type=sm" target="_top">만평/만화</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N11&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N143&amp;view_type=sm" target="_top">만평</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N144&amp;view_type=sm" target="_top">만화</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N145&amp;view_type=sm" target="_top">팝툰</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N146&amp;view_type=sm" target="_top">생각한토막</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N147&amp;view_type=sm" target="_top">시치미先生</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N148&amp;view_type=sm" target="_top">대매희평</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N12&amp;view_type=sm" target="_top">종합</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N12&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N149&amp;view_type=sm" target="_top">사고</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N150&amp;view_type=sm" target="_top">본사 사령</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N151&amp;view_type=sm" target="_top">알림</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N152&amp;view_type=sm" target="_top">오늘의헤드라인</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N13&amp;view_type=sm" target="_top">국제</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N13&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N153&amp;view_type=sm" target="_top">해외 토픽</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N14&amp;view_type=sm" target="_top">이슈&amp;기획</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N14&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N154&amp;view_type=sm" target="_top">핫이슈</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N155&amp;view_type=sm" target="_top">투데이 기획</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N15&amp;view_type=sm" target="_top">맛집</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N15&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N156&amp;view_type=sm" target="_top">오늘의 추천맛집</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N157&amp;view_type=sm" target="_top">맛있는 설문</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N158&amp;view_type=sm" target="_top">권기자의 추천맛집</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N159&amp;view_type=sm" target="_top">기자추천맛집</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N16&amp;view_type=sm" target="_top">포토갤러리</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N16&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N160&amp;view_type=sm" target="_top">2010 세계대백제전</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N17&amp;view_type=sm" target="_top">기사대기실</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N18&amp;view_type=sm" target="_top">Today Life</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N18&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N161&amp;view_type=sm" target="_top">People N Family</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N162&amp;view_type=sm" target="_top">추천 부동산</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N163&amp;view_type=sm" target="_top">안내</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N19&amp;view_type=sm" target="_top">보도자료</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N20&amp;view_type=sm" target="_top">선거</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N21&amp;view_type=sm" target="_top">모바일 뉴스</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N22&amp;view_type=sm" target="_top">기획보도</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N23&amp;view_type=sm" target="_top">인포그래픽</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N23&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N164&amp;view_type=sm" target="_top">정치</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N165&amp;view_type=sm" target="_top">경제</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N166&amp;view_type=sm" target="_top">사회</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N167&amp;view_type=sm" target="_top">문화</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N24&amp;view_type=sm" target="_top">대전</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N24&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N168&amp;view_type=sm" target="_top">대전시정</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N169&amp;view_type=sm" target="_top">서구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N170&amp;view_type=sm" target="_top">중구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N171&amp;view_type=sm" target="_top">동구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N172&amp;view_type=sm" target="_top">대덕구</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N173&amp;view_type=sm" target="_top">유성구</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N25&amp;view_type=sm" target="_top">세종</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N25&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N174&amp;view_type=sm" target="_top">세종시정</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N175&amp;view_type=sm" target="_top">정부세종청사</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N26&amp;view_type=sm" target="_top">다음미노출</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N27&amp;view_type=sm" target="_top">대전</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N27&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N176&amp;view_type=sm" target="_top">광역단체장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N177&amp;view_type=sm" target="_top">기초단체장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N178&amp;view_type=sm" target="_top">광역의원</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N179&amp;view_type=sm" target="_top">기초의원</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N180&amp;view_type=sm" target="_top">교육감</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N181&amp;view_type=sm" target="_top">교육의원</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N28&amp;view_type=sm" target="_top">충남</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N28&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N182&amp;view_type=sm" target="_top">광역단체장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N183&amp;view_type=sm" target="_top">기초단체장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N184&amp;view_type=sm" target="_top">광역의원</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N185&amp;view_type=sm" target="_top">기초의원</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N186&amp;view_type=sm" target="_top">교육감</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N187&amp;view_type=sm" target="_top">교육의원</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N29&amp;view_type=sm" target="_top">충북</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N29&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N188&amp;view_type=sm" target="_top">광역단체장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N189&amp;view_type=sm" target="_top">기초단체장</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N190&amp;view_type=sm" target="_top">광역의원</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N191&amp;view_type=sm" target="_top">기초의원</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N192&amp;view_type=sm" target="_top">교육감</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N193&amp;view_type=sm" target="_top">교육의원</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N30&amp;view_type=sm" target="_top">아줌마대축제</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N30&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N194&amp;view_type=sm" target="_top">2010년 제8회</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N195&amp;view_type=sm" target="_top">커뮤니티</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N31&amp;view_type=sm" target="_top">상단메뉴</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N31&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N196&amp;view_type=sm" target="_top">뉴스</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N197&amp;view_type=sm" target="_top">지역</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N198&amp;view_type=sm" target="_top">오피니언</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N199&amp;view_type=sm" target="_top">연예</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N32&amp;view_type=sm" target="_top">오늘의핫이슈</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N34&amp;view_type=sm" target="_top">미분류기사</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N36&amp;view_type=sm" target="_top">ONTV</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N36&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N200&amp;view_type=sm" target="_top">충투라이브</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N201&amp;view_type=sm" target="_top">충투공감</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N202&amp;view_type=sm" target="_top">시·도정 소식</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N37&amp;view_type=sm" target="_top">제20대국회의원선거</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N37&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N203&amp;view_type=sm" target="_top">대전시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N204&amp;view_type=sm" target="_top">세종시</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N205&amp;view_type=sm" target="_top">충북도</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N206&amp;view_type=sm" target="_top">충남도</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N207&amp;view_type=sm" target="_top">4.13총선 격전지를가다</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N208&amp;view_type=sm" target="_top">4.13총선 누가뛰나</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N209&amp;view_type=sm" target="_top">열전현장 여기</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N38&amp;view_type=sm" target="_top">한화이글스</a>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N39&amp;view_type=sm" target="_top">투데이픽</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N39&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N257&amp;view_type=sm" target="_top">카드뉴스</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N41&amp;view_type=sm" target="_top">연재</a>
+<ul class="menu vertical nested">
+<li><a href="/news/articleList.html?sc_section_code=S1N41&amp;view_type=sm" target="_top">전체</a></li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N210&amp;view_type=sm" target="_top">뉴스박스</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N211&amp;view_type=sm" target="_top">타임라인</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N212&amp;view_type=sm" target="_top">한화이글스</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N213&amp;view_type=sm" target="_top">도안호수공원</a> </li>
+<li>
+<a href="/news/articleList.html?sc_sub_section_code=S2N255&amp;view_type=sm" target="_top">제20대국회의원선거</a> </li>
+</ul>
+</li>
+<li>
+<a href="/news/articleList.html?sc_section_code=S1N42&amp;view_type=sm" target="_top">라이프</a>
+</li>
+</ul>
+</nav> </div>
+<div class="off-canvas-content" data-off-canvas-content="">
+<!-- wrap //-->
+<div class="min-width-1190" id="user-wrap">
+<div class="user-wrapper float-center width-1190">
+<!-- header //-->
+<header class="posi-re float-center" id="user-header">
+<!-- 상단 HTML //-->
+<div class="clearfix text-center">
+</div>
+<!--// 상단 HTML -->
+<!-- 메뉴 //-->
+<script type="text/javascript">
+<!--
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="vertical";
+//-->
+</script>
+<style type="text/css">
+#user-nav .mega-menu li.megaline.large > a, #user-nav .mega-menu li.megaline > a.a-hover, #user-nav .user-search .user-search-form input#search:focus + button[onclick] {color:#ff6805}
+</style>
+<!-- 메뉴 시작 //-->
+<div id="header-wrapper">
+<!-- 로고영역 //-->
+<header id="nav-header">
+<div class="float-center width-1080">
+<div class="dis-table">
+<div class="dis-table-cell user-banner"></div>
+<div class="dis-table-cell user-logo">
+<!--<a href="http://www.cctoday.co.kr" target="_top"><img src="/image/logo/logo_201708.png" alt="충청투데이" /></a>-->
+<!--기존로고pc_191230<script type="text/javascript">var ___BANNER = "ban_1577683453635";</script><script type="text/javascript" charset="utf-8" src="http://www.cctoday.co.kr/bannerpop/uploads/js/1961.js?1577683453635" id="ban_1577683453635"></script><!--//기존로고pc_191230-->
+<!--30주년로고pc_191230--<script type="text/javascript">var ___BANNER = "ban_1577683555885";</script><script type="text/javascript" charset="utf-8" src="http://www.cctoday.co.kr/bannerpop/uploads/js/1959.js?1577683555885" id="ban_1577683555885"></script><!--//30주년로고pc_191230-->
+<!--충청투데이30주년로고pc 200106-<script type="text/javascript">var ___BANNER = "ban_1578294955123";</script><script type="text/javascript" charset="utf-8" src="http://www.cctoday.co.kr/bannerpop/uploads/js/1967.js?1578294955123" id="ban_1578294955123"></script><!--//충청투데이30주년로고pc 200106-->
+<!--로고PC_200122--><script type="text/javascript">var ___BANNER = "ban_1579666683310";</script><script charset="utf-8" id="ban_1579666683310" src="http://www.cctoday.co.kr/bannerpop/uploads/js/1979.js?1579666683310" type="text/javascript"></script><!--//로고PC_200122-->
+</div>
+<div class="dis-table-cell user-banner">
+<!-- search //-->
+<div class="user-search">
+<div class="sch-group">
+<button class="btns" id="schBtn" type="button">
+<a class="top" href="/news/searchForm.html" title="상세검색">
+<i class="fa fa-search fa-fw"><span class="show-for-sr">기사검색</span></i>
+</a>
+</button>
+<!--<a href="/news/searchForm.html" class="btns has-tip top" title="상세검색" data-tooltip><i class="fa fa-search-plus fa-fw"><span class="show-for-sr">상세검색</span></i></a>-->
+</div>
+<fieldset class="user-search-form">
+<form action="/engine_yonhap/search.php" method="post" name="head-search">
+<input name="sc_area" type="hidden" value="A"/>
+<input name="view_type" type="hidden" value="sm"/>
+<label class="show-for-sr" for="search">기사검색</label>
+<input id="search" name="sc_word" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');return false;}}" placeholder="검색어를 입력하세요" title="기사검색" type="text"/>
+<!-- <button type="button" title="기사검색" onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');this.form.sc_word.focus();return false;}"><i class="fa fa-search fa-fw"><span class="show-for-sr">검색</span></i></button> -->
+<button onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{location.href='/news/searchForm.html'}" title="기사검색" type="button"><i class="fa fa-search fa-fw"><span class="show-for-sr">검색</span></i></button>
+</form>
+</fieldset>
+</div>
+<!--// search -->
+</div>
+</div>
+</div>
+</header>
+<!--// 로고영역 -->
+<!-- 메뉴바 //-->
+<nav id="user-nav">
+<div class="float-center width-1080">
+<!-- 전체 -->
+<a class="all-articles user-point" href="/news/articleList.html?view_type=sm" title="전체기사"><i class="fa fa-bars fa-fw"><span class="show-for-sr">전체기사</span></i></a>
+<!-- search 
+			<div class="user-search">
+				<div class="sch-group">
+					<button type="button" id="schBtn" class="btns"><i class="fa fa-search fa-fw"><span class="show-for-sr">기사검색</span></i></button>
+					<a href="/news/searchForm.html" class="btns has-tip top" title="상세검색" data-tooltip><i class="fa fa-search-plus fa-fw"><span class="show-for-sr">상세검색</span></i></a>
+				</div>
+
+				<fieldset class="user-search-form">
+					<form name="head-search" method="post" action="/engine_yonhap/search.php">
+						<input type="hidden" name="sc_area" value="A">
+						<input type="hidden" name="view_type" value="sm">
+						<label class="show-for-sr" for="search">기사검색</label>
+						<input type="text" name="sc_word" id="search" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');return false;}}" placeholder="검색어를 입력하세요" title="기사검색">
+						<button type="button" title="기사검색" onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');this.form.sc_word.focus();return false;}"><i class="fa fa-search fa-fw"><span class="show-for-sr">검색</span></i></button>
+						<button type="button" class="sch-closed"><i class="fa fa-times-circle fa-fw"><span class="show-for-sr">닫기</span></i></button>
+					</form>
+				</fieldset>
+			</div>
+			<!--// search -->
+<!-- 섹션 //-->
+<ul class="mega-menu" id="mega-menu">
+<li class="megaline large"><a href="/news/articleList.html?view_type=tm" target="_top">뉴스</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?view_type=tm" target="_top">전체기사</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N3&amp;view_type=tm" target="_top">정치/행정</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N4&amp;view_type=tm" target="_top">경제/과학</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N5&amp;view_type=tm" target="_top">사회</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N6&amp;view_type=tm" target="_top">스포츠</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N7&amp;view_type=tm" target="_top">문화</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N9&amp;view_type=tm" target="_top">사람들</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N12&amp;view_type=tm" target="_top">종합</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_section_code=S1N10&amp;view_type=tm" target="_top">오피니언</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N24&amp;view_type=sm" target="_top">대전</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N168&amp;view_type=sm" target="_top">대전시정</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N169&amp;view_type=sm" target="_top">서구</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N170&amp;view_type=sm" target="_top">중구</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N171&amp;view_type=sm" target="_top">동구</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N172&amp;view_type=sm" target="_top">대덕구</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N173&amp;view_type=sm" target="_top">유성구</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N1&amp;view_type=sm" target="_top">충남</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N1&amp;view_type=sm" target="_top">충남도정</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N2&amp;view_type=sm" target="_top">천안시</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N3&amp;view_type=sm" target="_top">공주시</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N4&amp;view_type=sm" target="_top">보령시</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N5&amp;view_type=sm" target="_top">아산시</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N6&amp;view_type=sm" target="_top">서산시</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N7&amp;view_type=sm" target="_top">논산시</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N8&amp;view_type=sm" target="_top">금산군</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N9&amp;view_type=sm" target="_top">부여군</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N10&amp;view_type=sm" target="_top">서천군</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N11&amp;view_type=sm" target="_top">청양군</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N12&amp;view_type=sm" target="_top">홍성군</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N13&amp;view_type=sm" target="_top">예산군</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N14&amp;view_type=sm" target="_top">태안군</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N15&amp;view_type=sm" target="_top">당진시</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N16&amp;view_type=sm" target="_top">계룡시</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N2&amp;view_type=sm" target="_top">충북</a>
+<ul>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N18&amp;view_type=sm" target="_top">충북도정</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N19&amp;view_type=sm" target="_top">청주</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N20&amp;view_type=sm" target="_top">충주</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N21&amp;view_type=sm" target="_top">제천</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N22&amp;view_type=sm" target="_top">음성</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N23&amp;view_type=sm" target="_top">진천</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N24&amp;view_type=sm" target="_top">괴산</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N25&amp;view_type=sm" target="_top">증평</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N26&amp;view_type=sm" target="_top">청원</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N27&amp;view_type=sm" target="_top">보은</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N28&amp;view_type=sm" target="_top">옥천</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N29&amp;view_type=sm" target="_top">영동</a></li>
+<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N30&amp;view_type=sm" target="_top">단양</a></li>
+</ul>
+</li>
+<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N25&amp;view_type=tm" target="_top">세종in</a>
+<ul>
+</ul>
+</li>
+<li class="megaline img"><a href="/news/articleList.html?sc_section_code=S1N36&amp;view_type=tm" target="_top">ONTV</a>
+<ul>
+</ul>
+</li>
+</ul>
+<!--// 섹션 -->
+<!-- member joins //-->
+<ul class="user-logbox">
+<li><a href="/paoin/">지면보기</a></li>
+<li><a href="https://www.cctoday.co.kr/member/login.html" target="_top">로그인</a></li>
+<li><a href="https://www.cctoday.co.kr/member/index.html" target="_top">회원가입</a></li>
+<li><a class="for-sns fb" href="https://www.facebook.com/cctodaynews" target="_blank"><i class="fa fa-facebook fa-fw"><span class="show-for-sr">facebook</span></i></a></li>
+<li><a class="for-sns tw" href="https://twitter.com/cctodayNews" target="_blank"><i class="fa fa-twitter fa-fw"><span class="show-for-sr">twitter</span></i></a></li>
+<li><a class="for-sns rss" href="/rss/" target="_blank"><i class="fa fa-rss fa-fw"><span class="show-for-sr">rss</span></i></a></li>
+</ul>
+<!--// member joins -->
+</div>
+</nav>
+<!--// 메뉴바 -->
+</div>
+<!--// 메뉴 끝 -->
+<!--// 메뉴 -->
+</header>
+<!--// header -->
+<!-- container //-->
+<section class="posi-re text-left auto-pady-25 float-center width-1080 " id="user-container">
+<!-- layer popup position  -->
+<div class="float-center width-1080" id="layer-popups"></div>
+<!-- 플로팅 좌우 HTML //-->
+<div class="posi-re float-center width-1080"><div class="view-aside left-wing" data-duration="300" data-scroll="y" data-top-margin="5" id="floating_banner_left">
+<div style="padding-right:50px;">
+</div></div>
+<div class="view-aside right-wing" data-duration="300" data-scroll="y" data-top-margin="5" id="floating_banner_right">
+<div style="padding-left:50px;">
+</div></div>
+</div> <!--// 플로팅 좌우 HTML -->
+<div class="float-center max-width-1080">
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+<script type="text/javascript">
+	// 기사면 상단 네비게이션 호출
+	articleHeader.setScroll();
+	
+	$(window).scroll(function() {
+        var currY = $(this).scrollTop();
+        var postHeight = $(this).height();
+        var scrollHeight = $('body').height();
+        var scrollPercent = (currY / (scrollHeight - postHeight)) * 100;
+        $('.aht-bar').css('width', scrollPercent +"%");
+    });
+</script>
+<!-- 기사면 상단 네비게이션 //-->
+<div class="default" id="article-header-title">
+<!-- 이전/다음 기사 버튼 //-->
+<button class="aht-btn prev" onclick="javascript:articleHeader.move(
+				'prev',
+				'embargo_date',
+				'1568537460_2023620',
+				'S1N10',
+				'S2N99',
+				'');" title="이전기사" type="button"><i class="fa fa-angle-left fa-fw"></i><span class="sr-only">이전</span></button>
+<button class="aht-btn next" onclick="javascript:articleHeader.move(
+				'next',
+				'embargo_date',
+				'1568537460_2023620',
+				'S1N10',
+				'S2N99',
+				'');" title="다음기사" type="button"><i class="fa fa-angle-right fa-fw"></i><span class="sr-only">다음</span></button>
+<!--// 이전/다음 기사 버튼 -->
+<!-- 상단 컨텐츠 //-->
+<div class="aht-wrapper width-1080">
+<div class="aht-columns aht-logo"><a href="http://www.cctoday.co.kr"><img alt="충청투데이" src="/image/logo/printlogo_20200122014518.png"/></a></div>
+<div class="aht-columns aht-title"><div class="aht-title-view">추석 민심 뼈아프게 수용하고 민생부터 챙겨라</div></div>
+<div class="aht-columns aht-options">
+<ul class="info-social">
+<li><button class="button options-btn sns-share-btns facebook has-tip " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-disable-hover="false" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="facebook" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-tooltip="" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" title="페이스북" type="button">
+<i class="icon-facebook"></i><span class="show-for-sr">페이스북</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns twitter has-tip " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-disable-hover="false" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="twitter" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-tooltip="" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" title="트위터" type="button">
+<i class="icon-twitter"></i><span class="show-for-sr">트위터</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns talk has-tip " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-disable-hover="false" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="talk" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-tooltip="" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" title="카카오톡" type="button">
+<i class="icon-talk"></i><span class="show-for-sr">카카오톡</span>
+</button></li>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script src="/script/share.sns.js"></script>
+<script>
+	var site_ismobile		= '';			// 현재 모바일접속 여부
+	var kakaojavascriptkey	= 'b6d6c51d4f17065fd1aa321ed2761fc1';	// 카카오앱 자바스크립트키
+
+	$(document).ready(function(e) {
+
+		if(kakaojavascriptkey) kakaoinit(kakaojavascriptkey);
+		var sns_clipboard = new Clipboard('.sns_clipboard');
+		sns_clipboard.on('success', function(e) {
+			alert("클립보드에 복사되었습니다. \nCtrl+v해서 원하는 곳에 붙여넣으세요.");
+		});
+
+		$('button.sns-share-btns').on('click', function(e) {
+			
+			var sns		= $(this).data('sharesns');
+			var title	= $(this).data('title');
+			var desc	= $(this).data('desc');
+			var url		= $(this).data('url');
+			var img		= $(this).data('image');
+
+			if(sns == "talk") {
+				sendKakaoTalk(url, title, desc, img);
+			}else if(sns == "story") {
+				shareStory(url, title, desc, img);
+			}else if(sns == "http") {
+
+			}else if(sns == "band") {
+				shareBand(url, title);
+			}else{
+				shareOtherSNS(sns, title, url, img);
+			}
+		});
+
+	});
+</script> <li><button class="button options-btn social2 has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+</ul>
+</div>
+</div>
+<!--// 상단 컨텐츠 -->
+<!-- 스크롤 상태바 //-->
+<div class="aht-control">
+<div class="aht-bar user-border-top"><span class="show-for-sr">상태바</span></div>
+</div>
+<!--// 스크롤 상태바 -->
+</div>
+<!--// 기사면 상단 네비게이션 
+-->
+<!-- 기사본문 상단 //-->
+<header class="article-view-header">
+<!-- root //-->
+<nav class="article-head-nav auto-marbtm-10">
+<a href="/">HOME</a>
+<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_section_code=S1N10">오피니언</a>
+<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_sub_section_code=S2N99">사설</a>
+<!-- 참조섹션
+
+		<style type="text/css">
+		.article-head-nav {position:relative}
+		.article-head-nav-sub {position:absolute;overflow:hidden;left:0;top:24px;width:100%;height:0;padding:0 1rem;background-color:#fff;border-bottom:2px solid transparent;transition:all .5s}
+		.article-head-nav-sub.active {height:auto;padding:.625rem 1rem;border-color:rgba(0,0,0,.85);transition:all .5s}
+		</style>
+
+		<div class="article-head-nav-sub">
+		
+		</div>
+		<script type="text/javascript">
+		$(function(){
+			var articleHeadNav = $(".article-head-nav");
+			var articleHeadNavSub = articleHeadNav.find(".article-head-nav-sub");
+
+			articleHeadNav.hover(function(){
+				articleHeadNavSub.addClass('active');
+			}, function(){
+				articleHeadNavSub.removeClass('active');
+			});
+		});
+		</script> --참조섹션 -->
+</nav>
+<!--// root -->
+<!-- 본문제목 //-->
+<div class="article-header-wrap">
+<div class="article-head-title">추석 민심 뼈아프게 수용하고 민생부터 챙겨라</div>
+</div>
+<!--// 본문제목 -->
+<!-- head info //-->
+<section class="article-head-info">
+<!-- info //-->
+<div class="info-text">
+<ul class="no-bullet auto-marbtm-0 line-height-6">
+<li class="info-rows1"><i class="fa fa-user-o fa-fw"></i> 충청투데이</li>
+<li class="info-rows2"><i class="fa fa-clock-o fa-fw"></i> 승인 2019년 09월 15일 17시 51분 </li>
+<li class="info-rows3"><i class="fa fa-clock-o fa-fw"></i> 지면게재일 2019년 09월 16일 월요일</li>
+<li class="info-rows5"><i class="fa fa-book fa-fw"></i> 23면</li>
+<li class="info-rows6"><i class="fa fa-book fa-fw"></i><a class="arl_view_paoin" href="/paoin/index.html?startdate=2019-09-16&amp;enddate=2019-09-16" target='\"_blank\"'>지면보기</a></li>
+<li class="info-rows7">
+<i class="fa fa-commenting-o fa-fw"></i> 댓글 
+						0					</li>
+</ul>
+</div>
+<!--// info -->
+<ul class="info-social">
+<li><button class="button options-btn social has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+<li><button class="button options-btn defalut has-tip" data-disable-hover="false" data-tooltip="" onclick="articlePrint('2023620')" title="프린트" type="button"><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+<li><button class="button options-btn defalut has-tip" data-disable-hover="false" data-tooltip="" onclick="articleMail('2023620')" title="메일보내기" type="button"><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li>
+<li class="fonts-option">
+<button class="button options-btn fonts-btn" type="button"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+<ul class="fonts-option-panel no-bullet">
+<li>
+<input class="fontsize-radio" id="font-size15_2" name="fontsize2" title="15px" type="radio" value="font-size15"/>
+<label class="size-15" for="font-size15_2"></label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size16_2" name="fontsize2" title="16px" type="radio" value="font-size16"/>
+<label class="size-16" for="font-size16_2"></label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size17_2" name="fontsize2" title="17px" type="radio" value="font-size17"/>
+<label class="size-17" for="font-size17_2"></label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size18_2" name="fontsize2" title="18px" type="radio" value="font-size18"/>
+<label class="size-18" for="font-size18_2"></label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size19_2" name="fontsize2" title="19px" type="radio" value="font-size19"/>
+<label class="size-19" for="font-size19_2"></label>
+</li>
+<!-- <li>
+                        <input type="radio" name="fontsize2" class="fontsize-radio" id="font-size20_2" value="font-size20" title="20px">
+                        <label for="font-size20_2" class="size-20"></label>
+                    </li> -->
+</ul>
+</li>
+<!-- li><button type="button" class="options-btn has-tip" title="번역" data-open="article-lang" data-disable-hover="false" data-tooltip><i class="fa fa-language"></i></button></li -->
+</ul>
+<div class="reveal gray" data-reveal="" id="article-sns">
+<div class="reveal-header">
+<div class="reveal-title">이 기사를 공유합니다</div>
+</div>
+<section class="reveal-container">
+<div class="article-sns-group">
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="facebook" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons facebook"><i class="icon-facebook"></i></div>페이스북			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="twitter" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons twitter"><i class="icon-twitter"></i></div>트위터			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="story" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons story"><i class="icon-story"></i></div>카카오스토리			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="talk" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons talk"><i class="icon-talk"></i></div>카카오톡			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="band" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons band"><i class="icon-band"></i></div>네이버밴드			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="blog" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons blog"><i class="icon-blog"></i></div>네이버블로그			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="pholar" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons pholar"><i class="icon-pholar"></i></div>네이버폴라			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="pinterest" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons pinterest"><i class="icon-pinterest"></i></div>핀터레스트			</button>
+<button class="sns-btns sns-share-btns sns_clipboard" data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" data-sharesns="http" data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" type="button">
+<div class="sns-btn-icons user-bg"><i class="icon-http"></i></div>URL복사			</button>
+</div>
+</section>
+<!-- close //-->
+<button aria-label="Close modal" class="close-button" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// close -->
+</div>
+</section>
+<!--m-기사뷰-상단 sns 버튼 위 [55]-->
+<!--//m-기사뷰-상단 sns 버튼 위-->
+</header>
+<!--// 기사본문 상단 -->
+<div class="view-hr"></div>
+<!-- article view wrapper //-->
+<div class="user-content">
+<!-- 기사본문 내용 //-->
+<section class="user-snb">
+<div class="user-snb-wrapper">
+<!-- contents //-->
+<article class="article-veiw-body view-page">
+<!-- 편집패널 //-->
+<div class="clearfix">
+<center class="width-670">
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-5087875005466588" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="6744755952" style="display:block; text-align:center;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="box-margins height-10"></div>
+</center>
+</div>
+<!--// 편집패널 -->
+<div class="" id="article-view-content-div" itemprop="articleBody">
+<p>충청의 추석 민심은 단연 '조국 블랙홀'에 휩싸인 가운데 여야 정치권을 질타하는 목소리로 얼룩졌다. 먹고 살기가 날로 어려워지면서 서민 아픔도 여지없이 드러났다. 바닥을 해매고 있는 민생경제에 대한 불만이 극에 달한 느낌이다. 그런데도 정치권은 민생 살리기는 뒷전인 채 서로 힘겨루기를 하느라 여념이 없다. 누구를 위해서 그러는가. 극한 대결로 치닫는 한국 정치 현실 이래도 되나. 추석 민심은 묻고 또 묻는다.</p>
+<p>
+정치권이 더 잘 안다. 여야를 막론하고 조국 이슈로 이번 추석을 뜨겁게 달구었다. 조국 장관 임명을 둘러싼 찬반양론으로 국민이 쪼개진 터라 충분히 예견된 일이었다. 가족 친지끼리 모처럼 만나 얼굴까지 붉힐 수야 없지 않은가. 여야 격돌, 진영 간 승부 싸움 형국에서 검찰수사까지 겹쳐 혼돈스러운 상황이 전개되고 있다. 정치권 스스로 자신의 역할을 축소하는 상황이 지속적으로 전개되고 있어 안타깝다. 이 시점에서 각종 의혹은 하나도 남김없이 명쾌하게 규명돼야 한다. 차분하게 검찰 수사를 지켜봐야한다는 쪽에 힘이 쏠리는 분위기도 감지되고 있다.</p>
+<p>
+우리 현실이 녹록치 않다. 경제 외교 안보 등 국정 전반에 복합위기가 닥치고 있다는 지적이 잇따른다. 미중 무역전쟁, 세계 경제침체, 일본의 수출규제, 북핵 위기 속에서 우리 경제 사정이 심상찮다. 수출 내수 동반 부진으로 경제 활력을 잃고 있다. 경제 성장률이 1%대로 추락할 것이라는 비관론도 나온다. 이럴 때 가장 힘겨운 계층은 서민들이다. 이들을 보듬고 살피는 일이 중요하다. 국민을 살리는 정치, 통합과 배려의 정치가 아쉽다.</p><!--pc 기사 본문 중간//-->
+<style>#AD157958977192.ad-template { margin:auto; position:relative; display:block; clear:both; z-index:1; }
+#AD157958977192.ad-template .col { text-align:center; }
+#AD157958977192.ad-template .col .ad-view { position:relative; }</style>
+<!-- AD Manager | AD157958977192 //-->
+<div class="ad-template" id="AD157958977192">
+<div class="col"><div class="ad-view auto-padbtm-15"><!-- PC 기사뷰 중간 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-5087875005466588" data-ad-format="auto" data-ad-slot="2052307255" data-full-width-responsive="true" style="display:block"></ins></div></div>
+</div>
+<!--// AD Manager | AD157958977192 -->
+<p>
+간과할 수 없는 것이 또 있다. 국토의 11.8%에 불과한 수도권이 비수도권 인구를 웃돈다는 건 정상이 아니다. 겉돌고 있는 지방분권과 국토균형발전 정책이 도마 위에 올랐다. 대전·충남 혁신도시 추가 지정, 세종시 국회분원 및 청와대 제2집무실 설치의 필요성이 강조되고 있다. 여야는 추석 민심을 겸허하게 수용하여야 한다. 20대국회 마지막 정기국회가 제대로 가동돼야 한다. 민심으로부터 '최악의 국회'로 낙인찍히지 않도록 하라. 내년 4·15 총선 민심의 바로미터가 여기에 있다.</p>
+<div class="view-copyright">저작권자 © 충청투데이 무단전재 및 재배포 금지</div>
+<div class="view-editors">
+<div class="float-right">
+<div class="profile-images">
+<img alt="충청투데이" src="/image/newsroom/default-user.png"/>
+</div>
+<a class="names" href="mailto:cctoday@cctoday.co.kr"><strong>충청투데이</strong></a>
+<a class="articles" href="/news/articleList.html?sc_area=I&amp;sc_word=cctoday">다른기사 보기</a> </div>
+</div>
+</div>
+<!-- 190729 주석
+<div class="article-view-sns">
+	<ul class="info-social">
+	<li><button type="button" class="button options-btn sns-share-btns facebook has-tip " 
+	data-sharesns="facebook" 
+	data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" 
+	data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" 
+	data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" 
+	data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" title="페이스북" 
+	data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-disable-hover="false" data-tooltip>
+	<i class="icon-facebook"></i><span class="show-for-sr">페이스북</span>
+</button></li>
+<li><button type="button" class="button options-btn sns-share-btns twitter has-tip " 
+	data-sharesns="twitter" 
+	data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" 
+	data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" 
+	data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" 
+	data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" title="트위터" 
+	data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-disable-hover="false" data-tooltip>
+	<i class="icon-twitter"></i><span class="show-for-sr">트위터</span>
+</button></li>
+<li><button type="button" class="button options-btn sns-share-btns talk has-tip " 
+	data-sharesns="talk" 
+	data-title="%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%20%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C%20%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0%20%EC%B1%99%EA%B2%A8%EB%9D%BC" 
+	data-url="http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620" 
+	data-desc="%EC%B6%A9%EC%B2%AD%EC%9D%98%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%8B%A8%EC%97%B0%20%5C%27%EC%A1%B0%EA%B5%AD%20%EB%B8%94%EB%9E%99%ED%99%80%5C%27%EC%97%90%20%ED%9C%A9%EC%8B%B8%EC%9D%B8%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EC%97%AC%EC%95%BC%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%84%20%EC%A7%88%ED%83%80%ED%95%98%EB%8A%94%20%EB%AA%A9%EC%86%8C%EB%A6%AC%EB%A1%9C%20%EC%96%BC%EB%A3%A9%EC%A1%8C%EB%8B%A4.%20%EB%A8%B9%EA%B3%A0%20%EC%82%B4%EA%B8%B0%EA%B0%80%20%EB%82%A0%EB%A1%9C%20%EC%96%B4%EB%A0%A4%EC%9B%8C%EC%A7%80%EB%A9%B4%EC%84%9C%20%EC%84%9C%EB%AF%BC%20%EC%95%84%ED%94%94%EB%8F%84%20%EC%97%AC%EC%A7%80%EC%97%86%EC%9D%B4%20%EB%93%9C%EB%9F%AC%EB%82%AC%EB%8B%A4.%20%EB%B0%94%EB%8B%A5%EC%9D%84%20%ED%95%B4%EB%A7%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AF%BC%EC%83%9D%EA%B2%BD%EC%A0%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%B6%88%EB%A7%8C%EC%9D%B4%20%EA%B7%B9%EC%97%90%20%EB%8B%AC%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%B4%EB%8B%A4.%20%EA%B7%B8%EB%9F%B0%EB%8D%B0%EB%8F%84%20%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%80%20%EB%AF%BC%EC%83%9D%20%EC%82%B4%EB%A6%AC%EA%B8%B0%EB%8A%94%20%EB%92%B7%EC%A0%84%EC%9D%B8%20%EC%B1%84%20%EC%84%9C%EB%A1%9C%20%ED%9E%98%EA%B2%A8%EB%A3%A8%EA%B8%B0%EB%A5%BC%20%ED%95%98%EB%8A%90%EB%9D%BC%20%EC%97%AC%EB%85%90%EC%9D%B4%20%EC%97%86%EB%8B%A4.%20%EB%88%84%EA%B5%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%EC%84%9C%20%EA%B7%B8%EB%9F%AC%EB%8A%94%EA%B0%80.%20%EA%B7%B9%ED%95%9C%20%EB%8C%80%EA%B2%B0%EB%A1%9C%20%EC%B9%98%EB%8B%AB%EB%8A%94%20%ED%95%9C%EA%B5%AD%20%EC%A0%95%EC%B9%98%20%ED%98%84%EC%8B%A4%20%EC%9D%B4%EB%9E%98%EB%8F%84%20%EB%90%98%EB%82%98.%20%EC%B6%94%EC%84%9D%20%EB%AF%BC%EC%8B%AC%EC%9D%80%20%EB%AC%BB%EA%B3%A0%20%EB%98%90%20%EB%AC%BB%EB%8A%94%EB%8B%A4.%EC%A0%95%EC%B9%98%EA%B6%8C%EC%9D%B4%20%EB%8D%94%20%EC%9E%98%20%EC%95%88%EB%8B%A4.%20%EC%97%AC%EC%95%BC%EB%A5%BC%20%EB%A7%89%EB%A1%A0%ED%95%98%EA%B3%A0%20%EC%A1%B0%EA%B5%AD%20%EC%9D%B4%EC%8A%88%EB%A1%9C%20%EC%9D%B4%EB%B2%88%20%EC%B6%94%EC%84%9D%EC%9D%84%20%EB%9C%A8%EA%B2%81%EA%B2%8C%20%EB%8B%AC%EA%B5%AC%EC%97%88%EB%8B%A4.%20%EC%A1%B0%EA%B5%AD%20%EC%9E%A5%EA%B4%80%20%EC%9E%84%EB%AA%85%EC%9D%84%20%EB%91%98%EB%9F%AC%EC%8B%BC%20%EC%B0%AC%EB%B0%98%EC%96%91%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EA%B5%AD%EB%AF%BC%EC%9D%B4" 
+	data-image="http://www.cctoday.co.kr/image/logo/snslogo_20200122014518.png" title="카카오톡" 
+	data-clipboard-text="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" data-disable-hover="false" data-tooltip>
+	<i class="icon-talk"></i><span class="show-for-sr">카카오톡</span>
+</button></li>
+        <li><button type="button" class="button options-btn social has-tip" title="기사공유하기" data-open="article-sns" data-disable-hover="false" data-tooltip><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+    </ul>
+</div>
+-->
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+</article>
+<!--// contents -->
+<hr/>
+<!-- 편집패널 //-->
+<div class="clearfix">
+<!--기사뷰-주요기사 하단-taboola//-->
+<style>#AD155686279952.ad-template { margin:auto; position:relative; display:block; clear:both; z-index:1; }
+#AD155686279952.ad-template .col { text-align:center; }
+#AD155686279952.ad-template .col .ad-view { position:relative; }</style>
+<!-- AD Manager | AD155686279952 //-->
+<div class="ad-template" id="AD155686279952">
+<div class="col"><div class="ad-view"><div id="taboola-below-article-thumbnails" style="margin:30px auto 5px"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script></div></div>
+</div>
+<!--// AD Manager | AD155686279952 --><!--pc 기사면 데이블 광고//-->
+<style>#AD157905398927.ad-template { margin:auto; position:relative; display:block; clear:both; z-index:1; }
+#AD157905398927.ad-template .col { text-align:center; }
+#AD157905398927.ad-template .col .ad-view { position:relative; }</style>
+<!-- AD Manager | AD157905398927 //-->
+<div class="ad-template" id="AD157905398927">
+<div class="col"><div class="ad-view"><!-- Begin Dable 하A_그리드6_EMPTY / For inquiries, visit http://dable.io -->
+<div data-widget_id="57w0aAl8" id="dablewidget_57w0aAl8">
+<script>
+(function(d,a,b,l,e,_) {
+if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+})(window,document,'dable','script');
+dable('setService', 'cctoday.co.kr/new');
+dable('sendLogOnce');
+dable('renderWidget', 'dablewidget_57w0aAl8');
+</script>
+</div>
+<!-- End 하A_그리드6_EMPTY / For inquiries, visit http://dable.io --></div></div>
+</div>
+<!--// AD Manager | AD157905398927 --><div style="margin:15px auto;width:140px;">
+<div style="float:left;">
+<a class="twitter-share-button" data-count="vertical" data-lang="en" data-via="" href="http://twitter.com/share?original_referer=http://www.cctoday.co.kr/news/articleView.html?idxno=2023620&amp;url=http://www.cctoday.co.kr/news/articleView.html?idxno=2023620&amp;text=%EC%B6%94%EC%84%9D+%EB%AF%BC%EC%8B%AC+%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C+%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0+%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0+%EC%B1%99%EA%B2%A8%EB%9D%BC" target="_top">Tweet</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div>
+<div style="float:right;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620&amp;send=false&amp;;layout=box_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=90" style="border:none; overflow:hidden; width:63px; height:63px;"></iframe>
+</div>
+<!--<iframe src="http://csp.cyworld.com/ac/external_sp.php?B=V&U=http%3A%2F%2Fwww.cctoday.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D2023620&S=%EC%B6%A9%EC%B2%AD%ED%88%AC%EB%8D%B0%EC%9D%B4&T=%EC%B6%94%EC%84%9D+%EB%AF%BC%EC%8B%AC+%EB%BC%88%EC%95%84%ED%94%84%EA%B2%8C+%EC%88%98%EC%9A%A9%ED%95%98%EA%B3%A0+%EB%AF%BC%EC%83%9D%EB%B6%80%ED%84%B0+%EC%B1%99%EA%B2%A8%EB%9D%BC&I=http%3A%2F%2Fwww.cctoday.co.kr%2Fimage%2Flogo%2Fsnslogo_20200122014518.png&D=" scrolling="no" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" width="67" height="50" align="center" noresize></iframe>-->
+</div>
+<!--페이스북 /트위터-->
+<article class="box-skin">
+<header class="header"></header>
+<section class="content"><div class="auto-article auto-ma05-1">
+<ul id="myList_46"><li class="dis-none auto-columns">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2048432" style="background-image:url(/news/thumbnail/202001/2048432_526980_4607_v150.jpg)" target="_top">
+<span class="show-for-sr">[시청자가 찜한 TV] 드라마에도 금융바람…'머니게임' 10위</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2048432" target="_top"><strong>[시청자가 찜한 TV] 드라마에도 금융바람…'머니게임' 10위</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2048432" target="_top">'국가부도의 날'부터 '블랙머니'까지 최근 영화계에 금융사건을 재조명한 작품이 늘어나면서 안방극장에까지 그 트렌드가 뻗쳤다.22일 CJ ENM과 닐슨코리아가 발표한 1월 셋째 주(13~19일) 콘텐츠영향력평가지수(CPI·용어설명 참조) 집계에서 tvN 수목극 '머니게임'이 10위에 진입했다. CPI 지수는 217.0.'머니게임'은 흡사 '국가부도의 날'과 ...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2048431" style="background-image:url(/news/thumbnail/202001/2048431_526978_1317_v150.jpg)" target="_top">
+<span class="show-for-sr">원로 코미디언 '넘버원' 남보원 폐렴으로 별세…향년 84세</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2048431" target="_top"><strong>원로 코미디언 '넘버원' 남보원 폐렴으로 별세…향년 84세</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2048431" target="_top">원로 코미디언 넘버원(NO.1) 남보원(본명 김덕용)이 21일 타계했다. 향년 84세.대한민국방송코미디언협회는 용산구 순천향대병원에서 입원 치료 중이던 남보원이 이날 오후 3시 40분께 세상을 떠났다고 밝혔다.협회에 따르면 남보원은 연초부터 건강에 이상을 보였으며, 이후 회복했지만 다시 의식을 잃는 등 치료와 퇴원을 번복하다가 결국 폐렴으로 사망했다. 그는...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2048103" style="background-image:url(/news/thumbnail/202001/2048103_526797_1358_v150.jpg)" target="_top">
+<span class="show-for-sr">배우도 아이돌도…MCN과 손잡고 유튜브 쉽게 안착</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2048103" target="_top"><strong>배우도 아이돌도…MCN과 손잡고 유튜브 쉽게 안착</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2048103" target="_top">백종원 더본코리아 대표가 본인만의 다양한 레시피를 소개하는 유튜브 채널 '백종원의 요리비책'은 지난해 6월 개설한 후 7개월여 만에 구독자 330만명을 달성했다.이 계정은 구글이 선정한 지난해 전 세계 신규 채널 중 구독자 수가 가장 많이 성장한 10개 채널에 이름을 올리기도 했다.배우 한예슬이 지난해 9월 시작한 일상 유튜브 '한예슬 이즈(is)'도 이달...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2048100" style="background-image:url(/news/thumbnail/202001/2048100_526793_2943_v150.jpg)" target="_top">
+<span class="show-for-sr">'기생충' 미국영화배우조합 시상식서 최고영예 작품상 수상</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2048100" target="_top"><strong>'기생충' 미국영화배우조합 시상식서 최고영예 작품상 수상</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2048100" target="_top">한국 영화 최초로 아카데미(오스카) 수상에 도전하는 봉준호 감독의 영화 '기생충'이 미국영화배우조합(SAG·스크린 액터스 길드) 시상식에서 최고 영예이자 실질적인 작품상에 해당하는 '아웃스탠딩 퍼포먼스 바이 캐스트(앙상블) 인 모션픽처' 부문을 수상했다.미국영화배우조합은 19일(현지시간) 미국 로스앤젤레스 슈라인 오디토리엄에서 진행한 제26회 SAG 어워즈...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2047809" style="background-image:url(/news/thumbnail/202001/2047809_526674_5349_v150.jpg)" target="_top">
+<span class="show-for-sr">배철수, 첫 단독 토크쇼 '배철수 잼' 도전</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2047809" target="_top"><strong>배철수, 첫 단독 토크쇼 '배철수 잼' 도전</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2047809" target="_top">MBC TV는 다음 달 3일 밤 9시 50분 배철수 첫 단독 토크쇼 '배철수 잼(Jam)'을 방송한다고 20일 밝혔다.올해로 방송 30주년을 맞은 DJ 배철수가 '음악'을 통해 사회 각 분야 유명인사의 이야기를 듣고 대화하는 포맷이다.프로그램 이름 '잼'은 '재미'와 동시에 준비 없이 즉흥 연주를 이어가는 음악용어 '잼'을 동시에 뜻하며, 게스트와의 대화에...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2047509" style="background-image:url(/news/thumbnail/202001/2047509_526538_3346_v150.jpg)" target="_top">
+<span class="show-for-sr">늘리고 뒤덮고…방송가는 지금 '편성 전쟁'</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2047509" target="_top"><strong>늘리고 뒤덮고…방송가는 지금 '편성 전쟁'</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2047509" target="_top">연초부터 인기 드라마, 예능이 속속 탄생하는 가운데 방송가는 치열한 편성 경쟁을 벌이고 있다.지상파와 종편, 케이블 채널들이 드라마, 예능 가릴 것 없이 시청률을 사수하기 위해 '킬러 콘텐츠' 방송 시간을 늘리거나 변경하는 등 편성 경쟁에 합류하는 모양새다.가장 눈에 띄는 건 SBS와 tvN 사이 벌어지는 미묘한 신경전이다.SBS TV는 올해부터 월화드라마...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2047454" style="background-image:url(/news/thumbnail/202001/2047454_526465_3531_v150.jpg)" target="_top">
+<span class="show-for-sr">이병헌 "실존 인물이라 조심, 시나리오에만 충실했다"</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2047454" target="_top"><strong>이병헌 "실존 인물이라 조심, 시나리오에만 충실했다"</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2047454" target="_top">영화 '남산의 부장들'에서 이병헌(50)은 감정을 꾹꾹 눌러 담는다. 말보다는 미세한 눈의 떨림, 가끔 일그러진 얼굴 근육, 굳게 다문 입술 등 표정으로 더 많은 이야기를 들려준다.최근 종로구 삼청동에서 만난 이병헌은 "답답하리만치 계속 누르고 자제해야 하는 연기가 큰 어려움이었다"고 털어놨다.그가 맡은 배역은 1979년 법 위에 군림한 권력 이인자인 중앙...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2047180" style="background-image:url(/news/thumbnail/202001/2047180_526319_0607_v150.jpg)" target="_top">
+<span class="show-for-sr">[설특집] 볼만한 명절 영화, 특별한 계획이 없다면 영화는 늘 정답</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2047180" target="_top"><strong>[설특집] 볼만한 명절 영화, 특별한 계획이 없다면 영화는 늘 정답</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2047180" target="_top">[충청투데이 전민영 기자] 2020년 설날 극장가를 이끌 대작 영화들이 곳곳에 포진했다. 4일의 짧은 연휴를 함께할 액션, 누아르, 애니메이션, 독립영화를 추려봤다. ◆스타워즈 : 라이즈 오브 스카이 워커1977년 ‘조지 루카스’ 감독에 의해 창조된 별들의 전쟁이 ‘스타워즈 : 라이즈 오브 스카이 워커’를 끝으로 대단원의 막을 내릴 전망이다.이번 시리즈는 ...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2047455" style="background-image:url(/news/thumbnail/202001/2047455_526469_3532_v150.jpg)" target="_top">
+<span class="show-for-sr">'건나블리' 동생 생겼다…박주호-안나 부부 셋째 출산</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2047455" target="_top"><strong>'건나블리' 동생 생겼다…박주호-안나 부부 셋째 출산</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2047455" target="_top">KBS 2TV 육아 예능 '슈퍼맨이 돌아왔다'에 출연해 시청자에 친숙한 축구선수 박주호 가족이 새 식구를 맞았다.박주호의 아내 안나는 16일 자신의 인스타그램에 "2020년 1월13일. 안녕 베이비 박. 그리고 생일 축하해 박주호(13.01.2020 Hello there baby Park. And happy birthday)"라는 글을 올렸다.앞서 박주호는...</a></p>
+</div>
+</li>
+<li class="dis-none auto-columns auto-martop-12 auto-padtop-12 auto-dot">
+<a class="float-left auto-images cover line width-150 height-100 auto-maright-20" href="/news/articleView.html?idxno=2047157" style="background-image:url(/news/thumbnail/202001/2047157_526283_0317_v150.jpg)" target="_top">
+<span class="show-for-sr">설 연휴 한국 영화 삼파전…코미디 vs 정치 드라마</span>
+</a>
+<div class="auto-content">
+<div class="size-18 auto-martop-12"><a class="line-height-3-x letter-8 auto-fontA onload" href="/news/articleView.html?idxno=2047157" target="_top"><strong>설 연휴 한국 영화 삼파전…코미디 vs 정치 드라마</strong></a></div>
+<p class="auto-martop-8"><a class="auto-fontB line-height-4-3x" href="/news/articleView.html?idxno=2047157" target="_top">정초 극장가에 코미디 열풍이 불까, 아니면 묵직한 정치 드라마 바람이 일까. 설 연휴(24~27일) 대진표가 확정됐다. 한국 영화 삼파전이다. '미스터 주: 사라진 VIP'와 '히트맨', '남산의 부장들'이 이달 22일 동시 출격한다. 이 가운데 2편이 코미디 영화다. 새해를 가볍고 즐거운 마음으로 시작하고 싶은 관객들을 노린다. 작년 설 연휴 때 초대박을...</a></p>
+</div>
+</li>
+</ul>
+<div class="auto-more">
+<button class="more-btns" id="load-more_46" type="button"><i class="fa fa-angle-down fa-fw"></i> 더보기</button>
+<button class="more-btns" id="load-close_46" type="button"><i class="fa fa-angle-up fa-fw"></i> 접기</button>
+</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function () {
+
+    $('#myList_46 li:lt(5)').show();
+    $('#load-close_46').hide();
+    var items =  10;
+    $('#load-more_46').click(function () {
+        shown = $('#myList_46 li:visible').size()+5;
+        if(shown< items) {$('#myList_46 li:lt('+shown+')').show();}
+        else {$('#myList_46 li:lt('+items+')').fadeIn();
+             $('#load-more_46').hide();
+             $('#load-close_46').show();
+             }
+    });
+    $('#load-close_46').click(function () {
+        $('#myList_46 li').not(':lt(5)').hide();
+        $('#load-more_46').show();
+        $('#load-close_46').hide();
+    });
+});
+</script>
+</section>
+</article><div class="box-margins height-35"></div>
+</div>
+<!--// 편집패널 -->
+<!-- 라이브리 시티 설치 코드 -->
+<!--<div id="lv-container" data-id="city" data-uid="">-->
+<div data-id="cctoday" data-uid="Nzg0LzIwMzI1Lzk0Mg==" id="lv-container">
+<script type="text/javascript">
+	window.livereOptions = {
+		refer:'http://www.cctoday.co.kr/news/articleView.html?idxno=2023620'
+		,site:'http://www.cctoday.co.kr/news/articleView.html?idxno=2023620'	// 로그인후 되돌아올 url
+	};
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+    </script>
+<noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
+</div>
+<!-- 시티 설치 코드 끝 -->
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+</div>
+</section>
+<!--// 기사본문 내용 -->
+<!-- 기사본문 우측 //-->
+<aside class="user-aside">
+<article class="box-skin">
+<header class="header"><strong><strong class="user-point">인기기사</strong></strong></header>
+<section class="content"><div class="auto-article auto-db01">
+<ul><li class="clearfix"><div class="number count1 user-bg">1</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2048015" target="_top">대전은 대대익선(大大益善)… 2020년 올해도 대단지 열기 이어간다</a></li>
+<li class="clearfix auto-martop-8"><div class="number count2 user-bg">2</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2047440" target="_top">2019년 평균 55:1 청약광풍 기록 대전시, 올해도 과열 양상 전망</a></li>
+<li class="clearfix auto-martop-8"><div class="number count3 user-bg">3</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2047350" target="_top">대전 서구 관저동 멧돼지 출몰…차량에 치여 죽어</a></li>
+<li class="clearfix auto-martop-8"><div class="number count4 default-bg">4</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2047786" target="_top">수도권 부동산 규제…집값 영향은 대전에(?)</a></li>
+<li class="clearfix auto-martop-8"><div class="number count5 default-bg">5</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2047330" target="_top">충북 ‘반도체·전자·미래차’ 선점 나선다</a></li>
+<li class="clearfix auto-martop-8"><div class="number count6 default-bg">6</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2047450" target="_top">‘수도권 전철 독립기념관 연장 공동건의문’ 채택</a></li>
+<li class="clearfix auto-martop-8"><div class="number count7 default-bg">7</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2047401" target="_top">이해찬 “대전·충남 혁신도시 법안 노력”</a></li>
+<li class="clearfix auto-martop-8"><div class="number count8 default-bg">8</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2048174" target="_top">세종시 로컬푸드 직매장 3호점 원안대로 가나</a></li>
+<li class="clearfix auto-martop-8"><div class="number count9 default-bg">9</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2048344" target="_top">대전시 도시철도 2호선 트램 올해는 속도 낸다</a></li>
+<li class="clearfix auto-martop-8"><div class="number count10 default-bg">10</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=2047905" target="_top">[기자수첩] 재개발·재건축 복마전</a></li>
+</ul>
+</div></section>
+</article><div class="box-margins height-20"></div><!--pc 기사면 우측면 하단 (판)//-->
+<style>#AD156774418448.ad-template { margin:auto; position:relative; display:block; clear:both; z-index:1; }
+#AD156774418448.ad-template .col { text-align:center; }
+#AD156774418448.ad-template .col .ad-view { position:relative; }</style>
+<!-- AD Manager | AD156774418448 //-->
+<div class="ad-template" id="AD156774418448">
+<div class="col"><div class="ad-view"><ins class="adsbygoogle" data-ad-client="ca-pub-5087875005466588" data-ad-format="autorelaxed" data-ad-slot="1915868704" style="display:block"></ins></div></div>
+</div>
+<!--// AD Manager | AD156774418448 --><div class="box-margins height-35"></div>
+<style type="text/css">	
+	#INC_TAB_D_5_container .tabs-navs::before {border-top-color:#333}
+	#INC_TAB_D_5_container .tabs-navs .tabs-item a {color:#66676c;background-color:#f6f6f6;border-bottom-color:#333 !important}
+	#INC_TAB_D_5_container .tabs-navs .tabs-item.active a {color:#333;background-color:#ffffff;border-color:#333 !important;border-bottom-color:transparent !important}
+	#INC_TAB_D_5_container .tabs-navs .tabs-item.active a::before {border-left-color:#333}
+	#INC_TAB_D_5_container .tabs-panel {min-height:405px}
+	</style>
+<div class="tabs-wrap type-D" id="INC_TAB_D_5_container"> <ul class="tabs-navs expanded" id="INC_TAB_D_5">
+<li class="tabs-item active"><a data-tabs-target="#panel1" href="#" target="_top">연예</a></li>
+<li class="tabs-item"><a data-tabs-target="#panel2" href="#" target="_top">방송</a></li>
+<li class="tabs-item"><a data-tabs-target="#panel3" href="#" target="_top">스포츠</a></li>
+</ul>
+<div class="tabs-panel active" id="panel1">
+<div class="auto-article auto-dp04">
+<ul><li class="auto-columns">
+<a href="/news/articleView.html?idxno=2048431" target="_top"><div class="auto-images cover line" style="background-image:url(/news/photo/202001/2048431_526978_1317.jpg)"></div><div class="auto-fontA onload auto-martop-15 line-height-3-x size-18 weight-bold">원로 코미디언 '넘버원' 남보원 폐렴으로 별세…향년 84세</div>
+<p class="line-height-4-x size-13 auto-martop-8 auto-fontB">원로 코미디언 넘버원(NO.1) 남보원(본명 김덕용)이 21일 타계했다. 향년 84세.대한민국방송코미디언협회는 용산구 순천향대병원에서 입원 치료 중이던 남보원이 이날 오후 3시 4...</p>
+</a>
+</li>
+<li class="auto-columns">
+<a href="/news/articleView.html?idxno=2048100" target="_top"><div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2048100_526793_2943_v150.jpg)"></div><div class="auto-fontA onload auto-martop-8 auto-padx-8 line-height-3-2x size-15">'기생충' 미국영화배우조합 시상식서 최고영예 작품상 수상</div>
+</a>
+</li>
+<li class="auto-columns">
+<a href="/news/articleView.html?idxno=2047454" target="_top"><div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2047454_526465_3531_v150.jpg)"></div><div class="auto-fontA onload auto-martop-8 auto-padx-8 line-height-3-2x size-15">이병헌 "실존 인물이라 조심, 시나리오에만 충실했다"</div>
+</a>
+</li>
+</ul>
+</div> </div>
+<div class="tabs-panel" id="panel2">
+<div class="auto-article auto-dp04">
+<ul><li class="auto-columns">
+<a href="/news/articleView.html?idxno=2048432" target="_top"><div class="auto-images cover line" style="background-image:url(/news/photo/202001/2048432_526980_4607.jpg)"></div><div class="auto-fontA onload auto-martop-15 line-height-3-x size-18 weight-bold">[시청자가 찜한 TV] 드라마에도 금융바람…'머니게임' 10위</div>
+<p class="line-height-4-x size-13 auto-martop-8 auto-fontB">'국가부도의 날'부터 '블랙머니'까지 최근 영화계에 금융사건을 재조명한 작품이 늘어나면서 안방극장에까지 그 트렌드가 뻗쳤다.22일 CJ ENM과 닐슨코리아가 발표한 1월 셋째 주(...</p>
+</a>
+</li>
+<li class="auto-columns">
+<a href="/news/articleView.html?idxno=2048103" target="_top"><div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2048103_526797_1358_v150.jpg)"></div><div class="auto-fontA onload auto-martop-8 auto-padx-8 line-height-3-2x size-15">배우도 아이돌도…MCN과 손잡고 유튜브 쉽게 안착</div>
+</a>
+</li>
+<li class="auto-columns">
+<a href="/news/articleView.html?idxno=2047809" target="_top"><div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2047809_526674_5349_v150.jpg)"></div><div class="auto-fontA onload auto-martop-8 auto-padx-8 line-height-3-2x size-15">배철수, 첫 단독 토크쇼 '배철수 잼' 도전</div>
+</a>
+</li>
+</ul>
+</div> </div>
+<div class="tabs-panel" id="panel3">
+<div class="auto-article auto-dp04">
+<ul><li class="auto-columns">
+<a href="/news/articleView.html?idxno=2048662" target="_top"><div class="auto-images cover line" style="background-image:url(/news/photo/202001/2048662_527095_3544.jpg)"></div><div class="auto-fontA onload auto-martop-15 line-height-3-x size-18 weight-bold">윤현우 “도민 건강시대·행복시대, 선도적으로 열어나갈 것”</div>
+<p class="line-height-4-x size-13 auto-martop-8 auto-fontB">[충청투데이 심형식 기자] 윤현우 민간 첫 충북체육회장 취임식이 22일 청주 S컨벤션센터에서 열렸다.이날 취임식에는 이시종 충북도지사, 장선배 충북도의회 의장, 김병우 충북도교육감...</p>
+</a>
+</li>
+<li class="auto-columns">
+<a href="/news/articleView.html?idxno=2048575" target="_top"><div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2048575_527039_2650_v150.jpg)"></div><div class="auto-fontA onload auto-martop-8 auto-padx-8 line-height-3-2x size-15">한화이글스 2년차 포수 허관회… 차세대 안방마님 조금만 기다려주세요</div>
+</a>
+</li>
+<li class="auto-columns">
+<a href="/news/articleView.html?idxno=2048434" target="_top"><div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2048434_526984_4653_v150.jpg)"></div><div class="auto-fontA onload auto-martop-8 auto-padx-8 line-height-3-2x size-15">한국 남자핸드볼, 쿠웨이트 꺾고 아시아선수권 4강행 '희망'</div>
+</a>
+</li>
+</ul>
+</div> </div>
+</div>
+<script>$('#INC_TAB_D_5_container').tabslet({
+		mouseevent: 'hover', 
+		attribute: 'data-tabs-target', 
+		animation: false
+	});</script><!--pc 기사면 우측면 상단 (판)//-->
+<style>#AD156774378759.ad-template { margin:auto; position:relative; display:block; clear:both; z-index:1; }
+#AD156774378759.ad-template .col { text-align:center; }
+#AD156774378759.ad-template .col .ad-view { position:relative; }</style>
+<!-- AD Manager | AD156774378759 //-->
+<div class="ad-template" id="AD156774378759">
+<div class="col"><div class="ad-view"><!-- 기사뷰 우측 최상단 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-5087875005466588" data-ad-slot="3801920191" style="display:inline-block;width:300px;height:300px"></ins></div></div>
+</div>
+<!--// AD Manager | AD156774378759 --><article class="box-skin">
+<header class="header"></header>
+<section class="content"><div class="auto-article auto-pa02">
+<div class="auto-container" id="roll_42">
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2048436" style="background-image:url(/news/photo/202001/2048436_526986_243.jpg)" target="_top">
+<img alt="김돈곤 청양군수 2020 읍면순방" src="/news/photo/202001/2048436_526986_243.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2048436" target="_top">김돈곤 청양군수 2020 읍면순방</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2048435" style="background-image:url(/news/photo/202001/2048435_526985_044.jpg)" target="_top">
+<img alt="2020년 오세현 아산시장 신년사" src="/news/photo/202001/2048435_526985_044.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2048435" target="_top">2020년 오세현 아산시장 신년사</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2045231" style="background-image:url(/news/photo/202001/2045231_525418_3816.jpg)" target="_top">
+<img alt="2020 세종 신년교례회" src="/news/photo/202001/2045231_525418_3816.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2045231" target="_top">2020 세종 신년교례회</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2044986" style="background-image:url(/news/photo/202001/2044986_525307_231.jpg)" target="_top">
+<img alt="2020 경제계 신년교례회" src="/news/photo/202001/2044986_525307_231.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2044986" target="_top">2020 경제계 신년교례회</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2044984" style="background-image:url(/news/photo/202001/2044984_525305_202.jpg)" target="_top">
+<img alt="2020 교육계 신년교례회" src="/news/photo/202001/2044984_525305_202.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2044984" target="_top">2020 교육계 신년교례회</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2044983" style="background-image:url(/news/photo/202001/2044983_525304_369.jpg)" target="_top">
+<img alt="2020년 유병국 충남도의회 의장 신년사" src="/news/photo/202001/2044983_525304_369.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2044983" target="_top">2020년 유병국 충남도의회 의장 신년사</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2044482" style="background-image:url(/news/photo/202001/2044482_525008_4714.jpg)" target="_top">
+<img alt="2020년 김홍장 당진시장 신년사" src="/news/photo/202001/2044482_525008_4714.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2044482" target="_top">2020년 김홍장 당진시장 신년사</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2044481" style="background-image:url(/news/photo/202001/2044481_524994_4536.jpg)" target="_top">
+<img alt="2020년 구기수 청양군의회 의장 신년사" src="/news/photo/202001/2044481_524994_4536.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2044481" target="_top">2020년 구기수 청양군의회 의장 신년사</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2044464" style="background-image:url(/news/photo/202001/2044464_524978_5454.jpg)" target="_top">
+<img alt="2020년 양승조 충남도지사 신년사" src="/news/photo/202001/2044464_524978_5454.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2044464" target="_top">2020년 양승조 충남도지사 신년사</a>
+</div>
+</div>
+<div class="dis-none">
+<a class="auto-images cover line" href="/news/articleView.html?idxno=2044451" style="background-image:url(/news/photo/202001/2044451_524974_5019.jpg)" target="_top">
+<img alt="2020년 김지철 충남교육감 신년사" src="/news/photo/202001/2044451_524974_5019.jpg"/>
+<div class="auto-icons"><i class="icon-play-circle"></i><span class="show-for-sr">다시보기</span></div>
+</a>
+<div class="photo-titbg">
+<a class="size-14 line-height-3-x auto-fontF onload" href="/news/articleView.html?idxno=2044451" target="_top">2020년 김지철 충남교육감 신년사</a>
+</div>
+</div>
+</div>
+<div class="auto-nav" id="nav_42">
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2048436_526986_243_v150.jpg)">
+<span class="show-for-sr">김돈곤 청양군수 2020 읍면순방</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2048435_526985_044_v150.jpg)">
+<span class="show-for-sr">2020년 오세현 아산시장 신년사</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2045231_525418_3816_v150.jpg)">
+<span class="show-for-sr">2020 세종 신년교례회</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2044986_525307_231_v150.jpg)">
+<span class="show-for-sr">2020 경제계 신년교례회</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2044984_525305_202_v150.jpg)">
+<span class="show-for-sr">2020 교육계 신년교례회</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2044983_525304_369_v150.jpg)">
+<span class="show-for-sr">2020년 유병국 충남도의회 의장 신년사</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2044482_525008_4714_v150.jpg)">
+<span class="show-for-sr">2020년 김홍장 당진시장 신년사</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2044481_524994_4536_v150.jpg)">
+<span class="show-for-sr">2020년 구기수 청양군의회 의장 신년사</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2044464_524978_5454_v150.jpg)">
+<span class="show-for-sr">2020년 양승조 충남도지사 신년사</span>
+</div>
+</div>
+<div class="dis-none">
+<div class="auto-images cover line" style="background-image:url(/news/thumbnail/202001/2044451_524974_5019_v150.jpg)">
+<span class="show-for-sr">2020년 김지철 충남교육감 신년사</span>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+<!--
+$(document).ready(function(){
+
+	 $('#roll_42').slick({
+		arrows: false,
+		dots: false,
+		draggable: false,
+		fade: true,
+		asNavFor: '#nav_42'
+	});
+	$('#nav_42').slick({
+		asNavFor: '#roll_42',
+		slidesToShow: 4,
+		dots: false,
+		arrows: false,
+		draggable: false,
+		focusOnSelect: true
+	});
+});
+//-->
+</script>
+</section>
+</article><div class="box-margins height-30 "></div>
+</aside>
+<!--// 기사본문 우측 -->
+</div>
+<!--// article view wrapper -->
+<!-- 편집패널 //-->
+<div class="auto-martop-20 clearfix">
+</div>
+<!--// 편집패널 -->
+</div>
+</section>
+<!--// container -->
+<!-- 하단 //-->
+<!-- footer //-->
+<footer class="ct-style" id="user-footer">
+<div class="posi-re float-center width-1080">
+<!-- nav //-->
+<nav class="footer-nav">
+<a href="/com/com-1.html">충청투데이소개</a>
+<a href="/com/emailno.html">이메일무단수집거부</a>
+<a href="/com/kd.html">구독신청</a>
+<a href="/com/bp.html">불편신고</a>
+<a href="/com/com-6.html">광고안내</a>
+<a href="/com/com-9.html">사업안내</a>
+<a href="/com/jh.html">제휴안내</a>
+<a href="/com/com-11.html">독자위원회</a>
+<a href="/com/com-10.html">고충처리인</a>
+<a class="user-point" href="/com/privacy.html">개인정보취급방침</a>
+<a href="/com/youthpolicy.html">청소년보호정책</a>
+<a href="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" onclick="setCookie('view_pc', 'n', 1);" target="_top" title="모바일웹">모바일웹</a>
+</nav>
+<!--// nav  -->
+<div class="dis-table">
+<div class="dis-table-cell">
+<div class="user-logo"><img alt="충청투데이" src="/image/logo/downlogo_20200122014517.png"/></div>
+</div>
+<div class="dis-table-cell">
+<address class="user-address">
+<ul class="no-bullet">
+<li class="bars">본사 우)35273 대전광역시 서구 갈마중로30번길 67 (갈마동 400) 충청투데이</li>
+<li class="bars">대표전화 : 042)380-7000</li>
+<li>팩스 : 042)380-7019</li>
+<li class="bars clear">충북본사 우)28468 충북 청주시 흥덕구 흥덕로 159(운천동 1373) 충청투데이</li>
+<li class="bars">대표전화 : 043)263-0009</li>
+<li>팩스 : 043)263-2297</li>
+<li class="bars clear">회사명 : (주)충청투데이 </li>
+<li class="bars">사업자등록번호 : 314-81-46317</li>
+<li class="bars">정기간행물 등록번호 : 대전 가 00002</li>
+<li>등록일자 : 2001-12-08</li>
+<li class="bars clear">대표이사·편집인 : 김도훈</li>
+<li>청소년보호책임자 : 김도훈</li>
+<li class="clear">
+							C<a href="http://www.cctoday.co.kr/admin/adminLoginForm.html">o</a>pyright © <a href="http://www.cctoday.co.kr/news/articleView.html?idxno=2023620" onclick="setCookie('view_pc', 'n', 1);">by</a> 충청투데이. 기사등 모든 컨텐츠에 대한 무단 전제·복사·배포를 금합니다.
+							<a class="contact-btn user-bg" href="/eventConfig/html/event_inc.html?eventcode=event8">문의메일</a>
+</li>
+</ul>
+</address>
+</div>
+</div>
+<a class="ndsoft" href="http://www.ndsoft.co.kr/" target="_blank"><img alt="ND소프트" src="/image/ndsoft.gif"/></a>
+</div>
+</footer>
+<!--// footer -->
+<!--// 하단 -->
+<!-- 하단 HTML //-->
+<div class="clearfix text-center">
+</div>
+<!--// 하단 HTML -->
+<!-- back to the top //-->
+<button class="back-to-top" id="back-to-top" title="위로" type="button"><i class="s7-angle-up"><span class="show-for-sr">위로</span></i></button>
+<!--// back to the top -->
+</div>
+</div>
+<!--// wrap -->
+</div>
+</div>
+</div>
+<script>
+// Popup Json
+var ___popup = [];
+bannerpop.popup();
+</script>
+<script type="text/javascript">
+<!--
+// back to the top		
+$(document).scroll(function(){
+	var sDocumentHeight = $(document).height() - $(window).height();
+	if($(document).scrollTop() > 0){	
+		$('#back-to-top').fadeIn();
+	}else{
+		$('#back-to-top').fadeOut();
+	}
+});
+
+$('#back-to-top').click(function(){
+	$('html, body').animate( {scrollTop:0}, 100);
+});
+//-->
+</script>
+<!--taboola-footer [61]--><!--taboola-footer(PC)//-->
+<style>#AD155686270595.ad-template { margin:auto; position:relative; display:block; clear:both; z-index:1; }
+#AD155686270595.ad-template .col { text-align:center; }
+#AD155686270595.ad-template .col .ad-view { position:relative; }</style>
+<!-- AD Manager | AD155686270595 //-->
+<div class="ad-template" id="AD155686270595">
+<div class="col"><div class="ad-view"><script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script></div></div>
+</div>
+<!--// AD Manager | AD155686270595 --><!--//taboola-footer-->
+<!--기사뷰-body태그 내 삽입 [64]--><!--//기사뷰-body태그 내 삽입-->
+<link href="/adManager/css/adManager.css" rel="stylesheet"/>
+<script src="/library/isND/" type="text/javascript"></script>
+<script>
+$(document).ready(function(){
+	// 닫기 버튼 자동 노출
+	$('.ad-template.ad-close .ad-view').each(function(){
+		$(this).append('<div class="ad-close-btn"><i class="fa fa-close"></i></div>');
+	})
+
+	// 닫기 버튼 클릭 시 이벤트
+	$('body').on('click', '.ad-close-btn', function(){
+		$(this).closest('.ad-view').slideUp();
+	})
+
+	
+	if(____is_nd) {
+
+				// ND IP만 광고 ID 보이기
+		$('.ad-template').each(function(){
+			$(this).append('<div class="ad-code-id">'+$(this).attr('id')+'</div>');
+		})
+		
+				// 광고 ID 자동 숨김 설정 시
+		$('.ad-code-id').hide();
+
+		$('.ad-template').mouseenter(function(){
+			$(this).find('.ad-code-id').show();
+		}).mouseleave(function(){
+			$(this).find('.ad-code-id').hide();
+		})
+		
+
+			}
+
+	})
+</script>
+<script src="/script/lab.js"></script>
+<script>
+jQuery(function($) {
+    setTimeout(function() {
+        $LAB
+        .script("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
+        .wait(function () {
+            var adn = jQuery('.adsbygoogle').length;
+          console.log(adn);
+            if (adn > 0) {
+                for (var i = 0; i < adn; i++) {
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                }
+            }
+        });
+    }, 1000);
+});
+</script>
+</body>
