@@ -1,0 +1,1520 @@
+[갤노트7 재판매 D-3] 리콜사태로 본 삼성 득실은
+<body id="newsis"><!--<![endif]-->
+<div id="wrap" style="height: auto;">
+<a class="skip" href="#container">본문영역 바로가기</a>
+<div id="header">
+<div class="hd_rellink">
+<div class="bxcn1">
+<div class="lgroup">
+<span class="date"></span>
+<span class="weather">
+</span>
+<div class="cboth"></div>
+</div>
+<div class="rgroup">
+<ul class="sitelink lgroup">
+<li><a class="c1" href="http://k-artprice.newsis.com" target="_blank"><strong>K-Artprice</strong></a></li>
+<li><a class="c1" href="/msi"><strong>MSI</strong></a></li>
+<li><a class="c1" href="http://prime.newsis.com" target="_blank"><strong>프라임뉴스</strong></a></li>
+<li><a class="c1" href="http://weekly.newsis.com" target="_blank"><strong>위클리</strong></a></li>
+<li><a href="/m_service/web/">모바일</a></li>
+</ul>
+<ul class="sociallink lgroup">
+<li><a href="https://www.facebook.com/newsis.news?sk=wall" target="_blank"><img alt="페이스북" src="http://image.newsis.com/new_www/homepage/icon_social_facebook.png"/></a></li>
+<li><a href="https://twitter.com/newsis" target="_blank"><img alt="트위터" src="http://image.newsis.com/new_www/homepage/icon_social_twitter.png"/></a></li>
+<li><a href="http://newsstand.naver.com/?pcode=003&amp;list=ct1" target="_blank"><img alt="네이버" src="http://image.newsis.com/new_www/homepage/icon_social_naver.png"/></a></li>
+<!-- 						<li class="last"><a href="http://www.google.com/newsstand/s/CAowl7jyCg" target="_blank"><img src="http://image.newsis.com/new_www/homepage/icon_social_google.png" alt="구글"></a></li> -->
+<li class="last"><a href="https://www.youtube.com/channel/UCAKGKvxlNWuWn1wGXZnr01Q" target="_blank"><img alt="유튜브" src="http://image.newsis.com/new_www/homepage/icon_social_youtube.png?dt=201909301350"/></a></li>
+</ul>
+</div>
+<div class="cboth"></div>
+</div>
+</div>
+<div class="bxcn1">
+<div class="logobx">
+<a class="logo" href="/"><img alt="공감언론 뉴시스 newsis" src="http://image.newsis.com/new_www/homepage/logo.gif"/></a>
+<a href="#"><span class="banner1" id="header_left_ad0"></span></a><a href="#"><span class="banner1" id="header_left_ad1"></span></a><a href="#"><span class="banner1" id="header_left_ad2"></span></a> <a class="banner1" href="" target="_blank"><img align="absmiddle" border="0" height="60" src="http://image.newsis.com/new_www/advertise/2013/01/08/AD_20130108_64381_1578029382.jpg" width="270"/></a>
+<a href="#"><span class="banner2" id="header_right_ad0"></span></a><a href="#"><span class="banner2" id="header_right_ad1"></span></a><a href="#"><span class="banner2" id="header_right_ad2"></span></a><a href="#"><span class="banner2" id="header_right_ad3"></span></a><a href="#"><span class="banner2" id="header_right_ad4"></span></a><a href="#"><span class="banner2" id="header_right_ad5"></span></a> </div>
+</div>
+<script>
+$(".date").html(nowdate());
+
+var number = -1; 
+var timeOut; 
+var callFunction = adrolling();
+var callFunction2 = adrand ();
+var tempar;
+
+function adrolling() { 
+	var js_ad_array = [{"cmp_id":"AD_20161103_000305","img_id":"129493","img_type":"gif","loc_url":"http:\/\/blog.skhynix.com\/","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-11-10 00:00:00","img_name":"SK\ud558\uc774\ub2c9\uc2a4_180504.gif","old_new_flag":"Y","img_path":"AD_20161103_000305_1525411278.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2016\/11\/03\/AD_20161103_000305_1525411278.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"gif","loc_url":"https:\/\/news.samsung.com\/kr\/","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-11-12 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_190610.gif","old_new_flag":"Y","img_path":"AD_20161107_000319_1560150114.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1560150114.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20160829_126161","img_id":"135790","img_type":"jpg","loc_url":"http:\/\/www.mobis.co.kr\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2019-12-28 00:00:00","img_name":"mobis_26060_170620.jpg","old_new_flag":"Y","img_path":"AD_20160829_126161_1575004189.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2016\/08\/29\/AD_20160829_126161_1575004189.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20130108_64381","img_id":"135996","img_type":"jpg","loc_url":"","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2020-01-31 00:00:00","img_name":"KakaoTalk_20200103_142634720.jpg","old_new_flag":"Y","img_path":"AD_20130108_64381_1578029382.jpg","company_gb":"C0035","output_type":"1","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"3","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2013\/01\/08\/AD_20130108_64381_1578029382.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"}]; 
+	var js_ad_array2 = [{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"gif","loc_url":"https:\/\/news.samsung.com\/kr\/","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-11-12 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_190610.gif","old_new_flag":"Y","img_path":"AD_20161107_000319_1560150114.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1560150114.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20110124_32661","img_id":"129694","img_type":"gif","loc_url":"http:\/\/www.lgblog.co.kr\/","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-12-31 00:00:00","img_name":"LG_190227_27060.gif","old_new_flag":"Y","img_path":"AD_20110124_32661_1551245691.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2011\/01\/24\/AD_20110124_32661_1551245691.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161129_000396","img_id":"134793","img_type":"jpg","loc_url":"","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2019-12-31 00:00:00","img_name":"skt_27060_161129.jpg","old_new_flag":"Y","img_path":"AD_20161129_000396_1561690319.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2016\/11\/29\/AD_20161129_000396_1561690319.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20190809_001365","img_id":"135007","img_type":"jpg","loc_url":"http:\/\/www.seoul.go.kr\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2019-08-31 00:00:00","img_name":"\uc11c\uc6b8\uc2dc\uccad_190809-1.jpg","old_new_flag":"Y","img_path":"AD_20190809_001365_1565326445.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2019\/08\/09\/AD_20190809_001365_1565326445.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20170317_000579","img_id":"135772","img_type":"jpg","loc_url":"https:\/\/www.miraeassetdaewoo.com\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2019-12-26 00:00:00","img_name":"\ubbf8\ub798\uc5d0\uc14b\ub300\uc6b0_190626.jpg","old_new_flag":"Y","img_path":"AD_20170317_000579_1574836798.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2017\/03\/17\/AD_20170317_000579_1574836798.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20191126_001473","img_id":"135839","img_type":"jpg","loc_url":"http:\/\/mediahub.seoul.go.kr\/gongmo\/1253198","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2020-01-04 00:00:00","img_name":"\uc11c\uc6b8\uc2dc\uccad(\uc8fc\uac70\uc7ac\uc0dd\uacfc)_191205.jpg","old_new_flag":"Y","img_path":"AD_20191126_001473_1575508364.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00012","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2019\/11\/26\/AD_20191126_001473_1575508364.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"}]; 
+
+	js_ad_array = shuffle(js_ad_array)
+	js_ad_array2 = shuffle(js_ad_array2)
+	number++; 
+
+	if ( number == js_ad_array.length ) number = 0; 
+	var newSrc = "<a href='"+ js_ad_array [ number ]['loc_url'] +"'   target='"+ js_ad_array [ number ]['open_target'] +"' >"+ js_ad_array [ number ]['file_link'] + "</a>"; 
+	$(".banner1").html(newSrc);
+
+
+	if ( number == js_ad_array2.length ) number = 0; 
+	var newSrc2 = "<a href='"+ js_ad_array2 [ number ]['loc_url'] +"'   target='"+ js_ad_array2 [ number ]['open_target'] +"' >"+ js_ad_array2 [ number ]['file_link'] + "</a>"; 
+
+	$(".banner2").html(newSrc2);
+	timeOut = setTimeout ( adrolling , 20000 ); 
+}
+
+function adrand() {
+  var js_ad_array = [{"cmp_id":"AD_20161103_000305","img_id":"129493","img_type":"gif","loc_url":"http:\/\/blog.skhynix.com\/","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-11-10 00:00:00","img_name":"SK\ud558\uc774\ub2c9\uc2a4_180504.gif","old_new_flag":"Y","img_path":"AD_20161103_000305_1525411278.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2016\/11\/03\/AD_20161103_000305_1525411278.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20161107_000319","img_id":"129495","img_type":"gif","loc_url":"https:\/\/news.samsung.com\/kr\/","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2016-11-12 00:00:00","img_name":"\uc0bc\uc131\uc804\uc790_190610.gif","old_new_flag":"Y","img_path":"AD_20161107_000319_1560150114.gif","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2016\/11\/07\/AD_20161107_000319_1560150114.gif\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"},{"cmp_id":"AD_20160829_126161","img_id":"135790","img_type":"jpg","loc_url":"http:\/\/www.mobis.co.kr\/","open_width":"260","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2019-12-28 00:00:00","img_name":"mobis_26060_170620.jpg","old_new_flag":"Y","img_path":"AD_20160829_126161_1575004189.jpg","company_gb":"C0035","output_type":"2","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"1","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2016\/08\/29\/AD_20160829_126161_1575004189.jpg\" border=\"0\" align=\"absmiddle\" width=\"260\" height=\"60\"\/>"},{"cmp_id":"AD_20130108_64381","img_id":"135996","img_type":"jpg","loc_url":"","open_width":"270","open_height":"60","open_target":"_blank","open_yn":"Y","use_yn":"Y","exp_date":"2020-01-31 00:00:00","img_name":"KakaoTalk_20200103_142634720.jpg","old_new_flag":"Y","img_path":"AD_20130108_64381_1578029382.jpg","company_gb":"C0035","output_type":"1","img_script_flag":"I","script_con":"","loc_id":"ADLOC_00013","catg_id":"00000","view_order":"3","user_yn":"Y","file_link":"<img src=\"http:\/\/image.newsis.com\/new_www\/advertise\/2013\/01\/08\/AD_20130108_64381_1578029382.jpg\" border=\"0\" align=\"absmiddle\" width=\"270\" height=\"60\"\/>"}]; 
+	js_ad_array = shuffle(js_ad_array);
+
+	if(js_ad_array.length == 0){
+		return false;
+	}
+	var newSrc = "<a href='"+ js_ad_array [ number ]['loc_url'] +"'   target='"+ js_ad_array [ number ]['open_target'] +"' >"+  js_ad_array [ number ]['file_link'] + "</a>"; 
+	$("#view_adsec_2").html(newSrc);
+}
+
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+  while (0 !== currentIndex) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+  return array;
+}
+$(document).ready(function() {
+	new_logopop();
+});
+
+$(document).ready(function() {
+	
+		var now = new Date();
+		var month = now.getMonth()+1;
+		if((month+"").length < 2){
+			month="0"+month;      
+		}
+		var day = now.getDate();
+		if((day+"").length < 2){
+			day="0"+day;      
+		}
+		var year = now.getFullYear();
+		var h = now.getHours();
+		if((h+"").length < 2){
+			h="0"+h;      
+		}
+		var m = now.getMinutes();
+		if((m+"").length < 2){
+			m="0"+m;      
+		}
+
+		var target = year + '-' + month + '-' + day + ' ' + h + ':' + m;
+		var newimgurl = "http://image.newsis.com/new_www/homepage/2019logo.gif";
+
+		//console.log(target);
+		//if(target >= "2018-12-31 10:05" && target <= "2019-01-01 23:59"){
+
+		if(target >= "2019-02-02 00:00" && target <= "2019-02-06 23:59"){
+			$(".bxcn1 .logobx .logo img").attr("src", newimgurl);
+			//$(".logobx .logo").css("margin-top", "20px")
+		}
+});
+</script><!-- TOP 매뉴 -->
+<div class="" id="gnbbx_ed">
+<div class="bxcn1">
+<div class="gnb">
+<dl><dt class="depth1 pd1 first"><a href="/realnews" style="color:#ed1b2f ">실시간뉴스</a></dt> <dt class="depth1 pd1"><a class="pd1" href="/pol?cid=10300" id="top_10300">정치</a></dt>
+<dt class="depth1 pd1"><a class="pd1" href="/int?cid=10100" id="top_10100">국제</a></dt>
+<dt class="depth1 pd1"><a class="pd1" href="/eco?cid=10400" id="top_10400">경제</a></dt>
+<dt class="depth1 pd1"><a class="pd1" href="/inds?cid=13000" id="top_13000">산업</a></dt>
+<dt class="depth1 pd1"><a class="pd1" href="/soci?cid=10200" id="top_10200">사회</a></dt>
+<dt class="depth1 pd1"><a class="" href="/met?cid=14000" id="top_14000">수도권</a></dt>
+<dt class="depth1 pd1"><a class="" href="/whol?cid=10800" id="top_10800">지방</a></dt>
+<dt class="depth1 pd1"><a class="" href="/spo?cid=10500" id="top_10500">스포츠</a></dt>
+<dt class="depth1 pd1"><a class="pd1" href="/cul?cid=10700" id="top_10700">문화</a></dt>
+<dt class="depth1 pd1"><a class="" href="/ent?cid=10600" id="top_10600">연예</a></dt>
+<dt class="depth1 pd1"><a class="" href="/squ?cid=16000" id="top_16000">광장</a></dt>
+<dt class="depth1 pd1 last"><a class="" href="/pho/?cid=pho" id="top_pho">포토</a></dt> <dd class="snb" id="sub_10300" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:0px;">
+<li class="bundle"><a class="" href="/pol/list?cid=10300&amp;scid=10301" id="sub_link_10301">정치최신</a></li>
+<li class="bundle"><a class="" href="/pol/list?cid=10300&amp;scid=10302" id="sub_link_10302">청와대</a></li>
+<li class="bundle"><a class="" href="/pol/list?cid=10300&amp;scid=10303" id="sub_link_10303">국회/정당</a></li>
+<li class="bundle"><a class="" href="/pol/list?cid=10300&amp;scid=10304" id="sub_link_10304">국방/외교</a></li>
+<li class="bundle"><a class="" href="/pol/list?cid=10300&amp;scid=10332" id="sub_link_10332">북한</a></li>
+<li class="bundle"><a class="" href="/pol/list?cid=10300&amp;scid=10305" id="sub_link_10305">행정</a></li>
+<li class="bundle"><a class="" href="/pol/list?cid=10300&amp;scid=10306" id="sub_link_10306">지방정가</a></li>
+<li class="bundle"><a class="" href="/pol/list?cid=10300&amp;scid=10320" id="sub_link_10320">4·15 총선</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_10100" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:0px;">
+<li class="bundle"><a class="" href="/int/list?cid=10100&amp;scid=10101" id="sub_link_10101">국제최신</a></li>
+<li class="bundle"><a class="" href="/int/list?cid=10100&amp;scid=10106" id="sub_link_10106">국제기구</a></li>
+<li class="bundle"><a class="" href="/int/list?cid=10100&amp;scid=10104" id="sub_link_10104">미주</a></li>
+<li class="bundle"><a class="" href="/int/list?cid=10100&amp;scid=10105" id="sub_link_10105">유럽</a></li>
+<li class="bundle"><a class="" href="/int/list?cid=10100&amp;scid=10111" id="sub_link_10111">중국</a></li>
+<li class="bundle"><a class="" href="/int/list?cid=10100&amp;scid=10112" id="sub_link_10112">일본</a></li>
+<li class="bundle"><a class="" href="/int/list?cid=10100&amp;scid=10102" id="sub_link_10102">아시아/오세아니아</a></li>
+<li class="bundle"><a class="" href="/int/list?cid=10100&amp;scid=10103" id="sub_link_10103">중동/아프리카</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_10400" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:0px;">
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10401" id="sub_link_10401">경제최신</a></li>
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10440" id="sub_link_10440">경제정책</a></li>
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10403" id="sub_link_10403">증권</a></li>
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10441" id="sub_link_10441">시황</a></li>
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10424" id="sub_link_10424">공시</a></li>
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10443" id="sub_link_10443">환율</a></li>
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10404" id="sub_link_10404">금융/재테크</a></li>
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10410" id="sub_link_10410">국제경제</a></li>
+<li class="bundle"><a class="" href="/eco/list?cid=10400&amp;scid=10416" id="sub_link_10416">블록체인</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_13000" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:0px;">
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=13001" id="sub_link_13001">산업최신</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10402" id="sub_link_10402">산업/기업</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10405" id="sub_link_10405">건설부동산</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10408" id="sub_link_10408">유통/생활경제</a></li>
+<li class="bundle"><a class="" href="/cul/list?cid=13000&amp;scid=11801" id="sub_link_11801">패션/뷰티</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=11209" id="sub_link_11209">음식/맛집</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10409" id="sub_link_10409">창업/취업</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10435" id="sub_link_10435">자동차</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10414" id="sub_link_10414">항공</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10433" id="sub_link_10433">중기/벤처</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10406" id="sub_link_10406">IT</a></li>
+<li class="bundle"><a class="" href="/inds/list?cid=13000&amp;scid=10447" id="sub_link_10447">해양수산</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_10200" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:0px;">
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10201" id="sub_link_10201">사회최신</a></li>
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10202" id="sub_link_10202">사건/사고</a></li>
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10203" id="sub_link_10203">법원/검찰</a></li>
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10204" id="sub_link_10204">의료/보건</a></li>
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10219" id="sub_link_10219">복지</a></li>
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10205" id="sub_link_10205">교육</a></li>
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10221" id="sub_link_10221">노동</a></li>
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10206" id="sub_link_10206">환경</a></li>
+<li class="bundle"><a class="" href="/soci/list?cid=10200&amp;scid=10217" id="sub_link_10217">날씨</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_14000" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:300px;">
+<li class="bundle"><a class="" href="/met/city?cid=14000&amp;scid=14001" id="sub_link_14001">수도권최신</a></li>
+<li class="bundle"><a class="" href="/met/city?cid=14000&amp;scid=10801" id="sub_link_10801">서울</a></li>
+<li class="bundle"><a class="" href="/met/city?cid=14000&amp;scid=10802" id="sub_link_10802">인천</a></li>
+<li class="bundle"><a class="" href="/met/city?cid=14000&amp;scid=10804" id="sub_link_10804">경기동부</a></li>
+<li class="bundle"><a class="" href="/met/city?cid=14000&amp;scid=10803" id="sub_link_10803">경기남부</a></li>
+<li class="bundle"><a class="" href="/met/city?cid=14000&amp;scid=10817" id="sub_link_10817">경기북부</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_10800" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:200px;">
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10899" id="sub_link_10899">지방최신</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10818" id="sub_link_10818">세종</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10811" id="sub_link_10811">부산</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10810" id="sub_link_10810">대구/경북</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10809" id="sub_link_10809">광주/전남</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10807" id="sub_link_10807">대전/충남</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10814" id="sub_link_10814">울산</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10805" id="sub_link_10805">강원</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10806" id="sub_link_10806">충북</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10808" id="sub_link_10808">전북</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10812" id="sub_link_10812">경남</a></li>
+<li class="bundle"><a class="" href="/whol/city?cid=10800&amp;scid=10813" id="sub_link_10813">제주</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_10500" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:374px;">
+<li class="bundle"><a class="" href="/spo/list?cid=10500&amp;scid=10502" id="sub_link_10502">야구</a></li>
+<li class="bundle"><a class="" href="/spo/list?cid=10500&amp;scid=10522" id="sub_link_10522">해외야구</a></li>
+<li class="bundle"><a class="" href="/spo/list?cid=10500&amp;scid=10503" id="sub_link_10503">축구</a></li>
+<li class="bundle"><a class="" href="/spo/list?cid=10500&amp;scid=10523" id="sub_link_10523">해외축구</a></li>
+<li class="bundle"><a class="" href="/spo/list?cid=10500&amp;scid=10505" id="sub_link_10505">농구</a></li>
+<li class="bundle"><a class="" href="/spo/list?cid=10500&amp;scid=10506" id="sub_link_10506">배구</a></li>
+<li class="bundle"><a class="" href="/spo/list?cid=10500&amp;scid=10504" id="sub_link_10504">골프</a></li>
+<li class="bundle"><a class="" href="/spo/list?cid=10500&amp;scid=10501" id="sub_link_10501">스포츠최신</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_10700" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:443px;">
+<li class="bundle"><a class="" href="/cul/list?cid=10700&amp;scid=10701" id="sub_link_10701">문화최신</a></li>
+<li class="bundle"><a class="" href="/cul/list?cid=10700&amp;scid=10702" id="sub_link_10702">공연</a></li>
+<li class="bundle"><a class="" href="/cul/list?cid=10700&amp;scid=10705" id="sub_link_10705">전시</a></li>
+<li class="bundle"><a class="" href="/cul/list?cid=10700&amp;scid=10731" id="sub_link_10731">문화재</a></li>
+<li class="bundle"><a class="" href="/cul/list?cid=10700&amp;scid=10704" id="sub_link_10704">책</a></li>
+<li class="bundle"><a class="" href="/cul/list?cid=10700&amp;scid=11802" id="sub_link_11802">여행/레저</a></li>
+<li class="bundle"><a class="" href="/cul/list?cid=10700&amp;scid=10719" id="sub_link_10719">건강</a></li>
+<li class="bundle"><a class="" href="/cul/list?cid=10700&amp;scid=10706" id="sub_link_10706">종교</a></li>
+</ul>
+</div>
+</dd> <dd class="snb" id="sub_10600" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:503px;">
+<li class="bundle"><a class="" href="/ent/list?cid=10600&amp;scid=10601" id="sub_link_10601">연예최신</a></li>
+<li class="bundle"><a class="" href="/ent/list?cid=10600&amp;scid=10602" id="sub_link_10602">방송/TV</a></li>
+<li class="bundle"><a class="" href="/ent/list?cid=10600&amp;scid=10603" id="sub_link_10603">영화</a></li>
+<li class="bundle"><a class="" href="/ent/list?cid=10600&amp;scid=10604" id="sub_link_10604">가요</a></li>
+<li class="bundle"><a class="" href="/ent/list?cid=10600&amp;scid=10609" id="sub_link_10609">드라마</a></li>
+<li class="bundle"><a class="" href="/ent/list?cid=10600&amp;scid=10610" id="sub_link_10610">예능</a></li>
+<li class="bundle"><a class="" href="/ent/list?cid=10600&amp;scid=10605" id="sub_link_10605">해외연예</a></li>
+<li class="bundle"><a class="" href="/ent/list?cid=10600&amp;scid=10611" id="sub_link_10611">스타</a></li>
+</ul>
+</div>
+</dd> </dl>
+<dd class="snb" id="sub_16000" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:550px; display:block">
+<li class="bundle"><a href="/squ/section?cid=16000&amp;scid=11000" id="sub_link_11000">오피니언</a>
+<div class="snb2" id="sub_sub_11000" style="display:none;">
+<ul class="depth3 siz4">
+<li class="bundle2" id="li_11014"><a href="/squ/section?cid=16000&amp;scid=11000&amp;sscid=11014">기자수첩</a></li>
+<li class="bundle2" id="li_16002"><a href="/squ/section?cid=16000&amp;scid=11000&amp;sscid=16002">넛지인터뷰</a></li>
+<li class="bundle2" id="li_10528"><a href="/squ/section?cid=16000&amp;scid=11000&amp;sscid=10528">현명관 경영이야기</a></li>
+<li class="bundle2" id="li_10720"><a href="/squ/section?cid=16000&amp;scid=11000&amp;sscid=10720">아트클럽</a></li>
+<li class="bundle2" id="li_11011"><a href="/squ/section?cid=16000&amp;scid=11000&amp;sscid=11011">기고</a></li>
+</ul>
+</div>
+</li>
+<li class="bundle"><a href="/squ/section?cid=16000&amp;scid=10900" id="sub_link_10900">사람들</a>
+<div class="snb2" id="sub_sub_10900" style="display:none;">
+<ul class="depth3 siz3_a">
+<li class="bundle2" id="li_10905"><a href="/squ/section?cid=16000&amp;scid=10900&amp;sscid=10905">인터뷰</a></li>
+<li class="bundle2" id="li_10902"><a href="/squ/section?cid=16000&amp;scid=10900&amp;sscid=10902">인사</a></li>
+<li class="bundle2" id="li_10904"><a href="/squ/section?cid=16000&amp;scid=10900&amp;sscid=10904">부고</a></li>
+<li class="bundle2" id="li_10903"><a href="/squ/section?cid=16000&amp;scid=10900&amp;sscid=10903">동정</a></li>
+</ul>
+</div>
+</li>
+<li class="bundle"><a href="/squ/special?cid=16000&amp;scid=spec" id="sub_link_spec">기획특집</a></li>
+<li class="bundle"><a href="/squ/daily?cid=16000&amp;scid=daily" id="sub_link_daily">데일리뉴시스</a>
+<div class="snb2" id="sub_sub_daily" style="display:none;top:218px;">
+<ul class="depth3 siz4">
+<li class="bundle2" id="li_top"><a href="/squ/daily?cid=16000&amp;scid=daily&amp;sscid=top&amp;date=">오늘의 TOP기사</a></li>
+<li class="bundle2" id="li_major"><a href="/squ/mjr?cid=16000&amp;scid=daily&amp;sscid=major&amp;date=">주요기사</a></li>
+<li class="bundle2" id="li_sok"><a href="/squ/sokbo/?cid=16000&amp;scid=daily&amp;sscid=sok&amp;date=">속보</a></li>
+<li class="bundle2" id="li_manynews"><a href="/squ/many?cid=16000&amp;scid=daily&amp;sscid=manynews&amp;date=">많이 본 뉴스</a></li>
+<li class="bundle2" id="li_manypho"><a href="/squ/hotpho?cid=16000&amp;scid=daily&amp;sscid=manypho&amp;date=">많이 본 사진</a></li>
+</ul>
+</div>
+</li>
+<li class="bundle"><a href="/squ/sec?cid=16000&amp;scid=sec" id="sub_link_sec">섹션 코너</a></li>
+</ul>
+</div>
+</dd>
+<dd class="snb" id="sub_pho" style="display:none;">
+<div class="bxcn1">
+<ul class="depth2" style="margin-left:667px; display:block;">
+<li class="bundle"><a href="/pho/pholist?cid=pho&amp;type=int&amp;sscid=all" id="sub_link_int">국내사진</a>
+<div class="snb2" id="sub_sub_int" style="display:none;">
+<ul class="depth3 siz1_ed">
+<li class="bundle2" id="li_all"><a href="/pho/pholist?cid=pho&amp;sscid=all&amp;type=int">종합</a></li>
+<li class="bundle2" id="li_10300"><a href="/pho/pholist?cid=pho&amp;sscid=10300&amp;type=int">정치</a></li>
+<li class="bundle2" id="li_10400"><a href="/pho/pholist?cid=pho&amp;sscid=10400&amp;type=int">경제</a></li>
+<li class="bundle2" id="li_13000"><a href="/pho/pholist?cid=pho&amp;sscid=13000&amp;type=int">산업</a></li>
+<li class="bundle2" id="li_10200"><a href="/pho/pholist?cid=pho&amp;sscid=10200&amp;type=int">사회</a></li>
+<li class="bundle2" id="li_14000"><a href="/pho/pholist?cid=pho&amp;sscid=14000&amp;type=int">수도권</a></li>
+<li class="bundle2" id="li_10800"><a href="/pho/pholist?cid=pho&amp;sscid=10800&amp;type=int">지방</a></li>
+<li class="bundle2" id="li_10100"><a href="/pho/pholist?cid=pho&amp;sscid=10100&amp;type=int">국제</a></li>
+<li class="bundle2" id="li_10700"><a href="/pho/pholist?cid=pho&amp;sscid=10700&amp;type=int">문화</a></li>
+<li class="bundle2" id="li_10500"><a href="/pho/pholist?cid=pho&amp;sscid=10500&amp;type=int">스포츠</a></li>
+<li class="bundle2" id="li_10600"><a href="/pho/pholist?cid=pho&amp;sscid=10600&amp;type=int">연예</a></li>
+</ul>
+</div>
+</li>
+<li class="bundle"><a href="/pho/pholist?cid=pho&amp;sscid=AP1001&amp;type=for" id="sub_link_for">해외사진</a>
+<div class="snb2 sub_sub_80002" id="sub_sub_for" style="display:none;   margin-left: 68px;">
+<ul class="depth3 siz3">
+<li class="bundle2" id="li_AP1001"><a href="/pho/pholist?cid=pho&amp;sscid=AP1001&amp;type=for">AP</a></li>
+<li class="bundle2" id="li_AP1010"><a href="/pho/pholist?cid=pho&amp;sscid=AP1010&amp;type=for">Xinhua</a></li>
+</ul>
+</div>
+</li>
+<li class="bundle"><a href="/pho/thelist?cid=pho&amp;type=the&amp;sscid=all" id="sub_link_the">테마포토</a>
+<div class="snb2" id="sub_sub_the" style="display:none;">
+<ul class="depth3 siz5">
+<li class="bundle2" id="li2_all" style="width: 130px; margin-left: 16px;"><a href="/pho/thelist?cid=pho&amp;sscid=all&amp;type=the">종합</a></li>
+<li class="bundle2" id="li2_10300" style="width: 130px;"><a href="/pho/thelist?cid=pho&amp;sscid=10300&amp;type=the">정치</a></li>
+<li class="bundle2" id="li2_10400" style="width: 130px;"><a href="/pho/thelist?cid=pho&amp;sscid=10400&amp;type=the">경제</a></li>
+<li class="bundle2" id="li2_10200" style="width: 130px;"><a href="/pho/thelist?cid=pho&amp;sscid=10200&amp;type=the">사회</a></li>
+<li class="bundle2" id="li2_10100" style="width: 130px;"><a href="/pho/thelist?cid=pho&amp;sscid=10100&amp;type=the">국제</a></li>
+<li class="bundle2" id="li2_10700" style="width: 130px;"><a href="/pho/thelist?cid=pho&amp;sscid=10700&amp;type=the">문화</a></li>
+<li class="bundle2" id="li2_10500" style="width: 130px;"><a href="/pho/thelist?cid=pho&amp;sscid=10500&amp;type=the">스포츠</a></li>
+<li class="bundle2" id="li2_10600" style="width: 130px;"><a href="/pho/thelist?cid=pho&amp;sscid=10600&amp;type=the">연예</a></li>
+</ul>
+</div>
+</li>
+<li class="bundle"><a href="/pho/gra_list/?cid=pho&amp;type=gra&amp;page=1" id="sub_link_gra">그래픽뉴스</a></li>
+</ul>
+</div>
+</dd>
+<dd class="snb2" id="dd_m_service" style="top:157px;left: 50px; display:none;">
+<ul class="depth3 siz3" style="display:block;">
+<li class="bundle2 m_ser" id="li_web"><a href="/m_service/web">모바일 웹</a></li>
+<li class="bundle2 m_ser" id="li_app"><a href="/m_service/app">모바일 앱</a></li>
+</ul>
+</dd>
+</div>
+</div>
+</div>
+<script>
+var getParam = function(key){
+var _parammap = {};
+	document.location.search.replace(/\??(?:([^=]+)=([^&]*)&?)/g, function () {
+		function decode(s) {
+			return decodeURIComponent(s.split("+").join(" "));
+		}
+		_parammap[decode(arguments[1])] = decode(arguments[2]);
+	});
+        return _parammap[key];
+    };
+var urlpath = $(location).attr('pathname');
+var page_up_catg = getParam("cid");
+var page_catg = getParam("scid");
+//console.log(urlpath);
+if(urlpath == "/" || urlpath == "/intro/" || urlpath == "/m_service/app/" || urlpath == "/m_service/web/"|| urlpath == "/search/"|| urlpath == "/search/schlist/" || urlpath == "/special_ar/" || urlpath == "/error/" || urlpath == "/RSS/" || urlpath == "/ad/newsclub/" || urlpath == "/se_test.php" || urlpath == "/2018exam/" || urlpath == "/topnews/2017/" || urlpath == "/election/2018/" || urlpath == "/last_test.php" || urlpath =="/weather/view/" || urlpath == "/weather/heat/" || urlpath == "/anniversary17/" || urlpath == "/anniversary17/sub/" || urlpath == "/2019exam/" || urlpath == "/realnews/" || urlpath == "/event/" || urlpath == "/forum/"){
+
+	$(".snb").hide();
+	$("#gnbbx_ed").addClass("mgnb");	
+
+}else if(getParam("cid") != ''){
+	$("#sub_" + getParam("cid")).show();
+	$("#top_" + getParam("cid")).addClass("on");
+
+	if(getParam("cid") == '16000'){
+		$("#sub_sub_" + getParam("scid")).show();
+	}
+	if(getParam("scid") != ''){
+		$("#sub_link_" + getParam("scid")).addClass("on");
+	}
+	if(getParam("type") != ''){
+		$("#sub_link_" + getParam("type")).addClass("on");
+	}
+
+}else{
+		$(".snb").hide();
+		$("#gnbbx_ed").addClass("mgnb");	
+
+
+}
+if(getParam("cid") == "10800"){
+	var wholarr = { "10801": "서울", "10818": "세종", "10811": "부산", "10810" : "대구/경북", "10802" : "인천", "10809" : "광주/전남", "10807" : "대전/충남", "10814" : "울산", "10804" : "경기동부", "10803" : "경기남부", "10817" : "경기북부", "10805" : "강원", "10806" : "충북", "10808" : "전북", "10812" : "경남", "10813" : "제주" }; 
+	
+	$("#logo_title").html(wholarr[getParam("scid")]);
+}
+
+if(urlpath == "/whol/city/" || urlpath == "/met/city/"){
+
+	$(".bxcn1 .logobx div").addClass("logo_cit");
+	$(".bxcn1 .logobx div a").removeClass("logo");
+}
+</script> <div class="live_search">
+<div class="bxcn1">
+<div class="livenews lgroup" id="newsticker2">
+<ul class="group livebar_area">
+<li class="bundle" id="quick_0" pushdate="20200127140416"><a href="/view/?id=NISX20200127_0000899518">
+						세번째 우한폐렴 확진자 강남일대 성형외과·호텔 등 11곳 방문했다</a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_1" pushdate="20200127140232"><a href="/view/?id=NISX20200127_0000899508">
+						[속보]질병당국, 우한 방문자 중 유증상자 전수조사 하기로</a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_2" pushdate="20200127130739"><a href="/view/?id=NISX20200127_0000899486">
+						'우한 폐렴' 韓경제 불똥 튈라…정부, 잇단 긴급대책회의</a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_3" pushdate="20200127123130"><a href="/view/?id=NISX20200127_0000899474">
+						'우한폐렴' 확진자들 조기 격리 잇단 실패…검역시스템 구멍 논란</a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_4" pushdate="20200127114644"><a href="/view/?id=NISX20200127_0000899440">
+						'우한폐렴' 국내 네번째 확진자도 '검역'에서 안 걸려졌다</a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_5" pushdate="20200127113308"><a href="/view/?id=NISX20200127_0000899382">
+						[속보]'우한폐렴' 세번째 확진자 이틀간 74명 접촉</a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_6" pushdate="20200127113153"><a href="/view/?id=NISX20200127_0000899383">
+						[속보]'우한폐렴' 국내 확진자 또 추가…4명으로 늘어</a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_7" pushdate="20200127094646"><a href="/view/?id=NISX20200127_0000899350">
+						中 '우한폐렴' 사망자 80명·확진자 2744명으로 늘어(1보)</a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_8" pushdate="20200127094635"><a href="/view/?id=NISX20200127_0000899357">
+						[속보] 中정부, '우한폐렴'사태에 춘제연휴 2월 2일까지 연장 </a><span class="time"></span><div class="cboth"></div></li>
+<li class="bundle" id="quick_9" pushdate="20200127061143"><a href="/view/?id=NISX20200126_0000899249">
+						설연휴 마지막날 곳곳 비…최저기온 영상 "포근" </a><span class="time"></span><div class="cboth"></div></li>
+</ul>
+<a class="more" href="/squ/sokbo?cid=16000&amp;scid=daily&amp;sscid=sok"><img alt="더보기" src="http://image.newsis.com/new_www/homepage/btn_more1.png"/></a>
+</div>
+<script>fn_article3("newsticker2", "", true);</script>
+<div class="search rgroup">
+<form id="search_form" method="post" name="search_form">
+<fieldset>
+<legend>통합검색</legend>
+<input name="search_val" title="검색어를 넣어주세요" type="text"/>
+<input alt="검색" onclick="search(event);" src="http://image.newsis.com/new_www/homepage/btn_search1.png" type="image"/>
+</fieldset>
+</form>
+</div>
+<div class="cboh"></div>
+</div>
+</div>
+</div>
+<script>
+var timeCheck;
+sokobo_list();
+function sokobo_list(){
+	var sokbolist_cnt = '10';
+		for(var so_i = 0; so_i < sokbolist_cnt; so_i ++){
+			var time = $("#quick_" + so_i).attr("pushdate");
+				$("#quick_" + so_i + " .time" ).html(transferTime(time));
+		}
+	timeCheck = setTimeout ( sokobo_list , 20000 );
+}
+
+function transferTime(time){
+ var now = new Date();
+ var sYear = time.substring(0,4);
+ var sMonth = time.substring(4,6)-1;
+ var sDate = time.substring(6,8);
+ var sHour = time.substring(8,10);
+ var sMin = time.substring(10,12);
+ var sSecond = time.substring(12,14);
+ var sc = 1000;
+ var today = new Date(sYear,sMonth,sDate,sHour,sMin,sSecond);
+ //지나간 초
+ var pastSecond = Math.floor((now-today)/sc);
+ var date;
+ var hour;
+ var min;
+ var str = "";
+ var restSecond = 0;
+ if(pastSecond > 86400){
+	  date = Math.floor(pastSecond / 86400);
+	  restSecond = pastSecond % 86400;
+	  //if(restSecond > 0) date++;
+	  str = date + "일 전";
+ }else if(pastSecond > 3600){
+	  hour = Math.floor(pastSecond / 3600);
+	  restSecond = pastSecond % 3600;
+	  //if(restSecond > 0) hour++;
+	  str = hour + "시간 전";
+ }else if(pastSecond > 60){
+	  min = Math.floor(pastSecond / 60);
+	  restSecond = pastSecond % 60;
+	  //if(restSecond > 0) min++;
+	  str = min + "분 전";	
+ }else{
+	  str = pastSecond + "초 전";
+ }
+	 return str;
+}
+</script><script>
+$("#top_" + '').addClass("on");
+
+var page_up_catg = '10400';
+var page_catg = '10401';
+var getParam = function(key){
+var _parammap = {};
+	document.location.search.replace(/\??(?:([^=]+)=([^&]*)&?)/g, function () {
+		function decode(s) {
+			return decodeURIComponent(s.split("+").join(" "));
+		}
+		_parammap[decode(arguments[1])] = decode(arguments[2]);
+	});
+        return _parammap[key];
+    };
+var urlpath = $(location).attr('pathname');
+if(urlpath == "/" || urlpath == "/intro/" || urlpath == "/m_service/app/" || urlpath == "/m_service/web/"|| urlpath == "/search/schlist/" ){
+
+	$(".snb").hide();
+	$("#gnbbx").addClass("mgnb");	
+
+}else if(getParam("cid") != ''){
+
+	$("#sub_" + getParam("cid")).show();
+	$("#top_" + getParam("cid")).addClass("on");
+
+	if(getParam("cid") == '16000'){
+		$("#sub_sub_" + getParam("scid")).show();
+	}
+	if(getParam("scid") != ''){
+
+		$("#sub_link_" + getParam("scid")).addClass("on");
+	}
+	if(getParam("type") != ''){
+
+		$("#sub_link_" + getParam("type")).addClass("on");
+	}
+	if(page_up_catg != ''){
+
+		$("#sub_" + page_up_catg).show();
+		$("#top_" + page_up_catg).addClass("on");
+	}
+	if(page_catg != ''){
+		$("#sub_link_" + page_catg).addClass("on");
+	}
+}else{
+		$(".snb").hide();
+		$("#gnbbx").addClass("mgnb");	
+	}
+</script>
+<div id="detail1-1" style="height:100px;  margin: 0 auto; width: 728px; margin-top:10px;">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129560_ADLOC_00018.html" frameborder="0" height="90" marginheight="0" marginwidth="0" scrolling="no" src="" width="728"></iframe> </div>
+<div class="" id="container"> <!-- 광고 배너 - 좌측 -->
+<div style="position:absolute; top: 114px; left:48%; margin-left:-623px; width:120px; height:600px;">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129728_ADLOC_00019.html" frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="" width="160"></iframe> </div>
+<!-- 광고 배너 - 우측 -->
+<div style="position:absolute; top:114px; left:49%; margin-left:523px; width:120px; height:600px;">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129899_ADLOC_00020.html" frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="" width="160"></iframe> </div>
+<div style="position:absolute; top:720px; left:49%; margin-left:523px; width:120px; height:600px;">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129899_ADLOC_00120.html" frameborder="0" height="600" marginheight="0" marginwidth="0" scrolling="no" src="" width="160"></iframe>
+</div>
+<div class="bxcn1 cnbg">
+<div class="content mgt24" id="content"><h2 class="h2_con_tit1">경제 &gt;  경제일반</h2>
+<div id="article">
+<div class="article_tbx mgt8 w970">
+<h1>[갤노트7 재판매 D-3] 리콜사태로 본 삼성 득실은</h1>
+<h2 class="mgt6"></h2>
+<div class="function rgroup" style="margin-top:-4px;">
+<div class="social">
+<ul>
+<li><a href="#"><img alt="페이스북" onclick="snsSend('facebook', 'article');" src="http://image.newsis.com/new_www/homepage/icon_social_facebook2.png"/></a></li>
+<li><a href="#"><img alt="트위터" onclick="snsSend('twitter','article');" src="http://image.newsis.com/new_www/homepage/icon_social_twitter2.png"/></a></li>
+<li><a href="#"><img alt="네이버 블로그" onclick="snsSend('naver','article');" src="http://image.newsis.com/new_www/homepage/icon_social_naver2.png"/></a></li>
+<li><a href="#"><img alt="카카오" onclick="snsSend('kakao','article');" src="http://image.newsis.com/new_www/homepage/icon_social_kakao.png"/></a></li>
+</ul>
+<div class="cboth"></div>
+</div>
+<div class="info" style="margin-left:15px;">
+<ul>
+<li><a href="#"><img alt="이메일 보내기" onclick="output('email','article');" src="http://image.newsis.com/new_www/homepage/icon_email.png"/></a></li>
+<li><a href="#"><img alt="프린터" onclick="output('print','article');" src="http://image.newsis.com/new_www/homepage/icon_print.png"/></a></li>
+<li><a href="#"><img alt="PDF" onclick="output('pdf','article');" src="http://image.newsis.com/new_www/homepage/icon_pdf.png"/></a></li>
+<li style="margin-left:5px;"><button class="f_size_s fontbtn" id="btn_view_fontsmall" type="button"><span>작게</span></button></li>
+<li><button class="f_size_b fontbtn" id="btn_view_fontbig" type="button"><span>크게</span></button></li>
+</ul>
+<div class="cboth"></div>
+</div>
+<div class="cboth"></div>
+</div>
+<div class="cboth"></div>
+<div class="date" style="margin-top:10px; padding-top:6px;">등록 2016-09-25 07:00:00<span class="bar">  |  </span>수정 2016-12-28 17:41:10</div>
+</div>
+<div class="article_bx"> <div class="view_text">
+<!-- ADOP SEO Tag S-->
+<div id="textBody" itemprop="articleBody">
+<div id="view_ad"></div>
+<div align="justify" class="view_text"><div id="textBody"><table class="article_photo center" id="imgartitable_NISI20160919_0012192190"><tbody><tr><td class="img"><img &nbsp;="" alt="associate_pic" arti_id="NISI20160919_0012192190" check_caption="Y" mode_we="edit" src="http://image.newsis.com/2016/09/19/NISI20160919_0012192190_web.jpg" style="float:; margin:0 auto;display:block;"/></td></tr><tr><td class="desc" id="caption_NISI20160919_0012192190"></td></tr></tbody></table></div></div>리콜로 손실규모 최소 7000억~ 최대 1조5000억 규모
+"브랜드 인지도·제품 신뢰도 훼손 제한적" 재도약발판 가능성
+<br/><br/>
+【서울=뉴시스】김지은 기자 = 갤럭시노트7 리콜이 차근차근 진행되는 가운데 향후 이번 사태가 삼성전자에 어떤 영향을 미칠 지 귀추가 주목되고 있다.
+<br/><br/>
+ 삼성 갤럭시노트7은 지난달 19일 국내 공식 출시 당시 예약판매만 40만대 가량을 기록하며 침체된 스마트폰 시장에 활기를 불어넣었다. 휴대폰 유통망에서는 밀려드는 주문으로 갤럭시노트7 블루코랄 컬러 등이 품귀 현상을 빚기도 했다.
+<br/><br/>
+ 그러나 삼성전자는 지난 2일 갤럭시노트7 출시 20일만에 사용 중지 결정을 내렸다. 갤럭시노트7이 한국과 미국에서 폭발 위험 가능성으로 사용 중단 권고를 받은 탓이다. 
+<br/><br/>
+ 25일 업계에 따르면 삼성전자의 이번 리콜은 갤럭시노트7이 출시된 우리나라를 비롯 미국 등 10여개국에서 진행 중이다. 국내에 풀린 물량은 43만대, 전세계 250만대로 추정된다. 손실 규모는 최소 7000억원에서 최대 1조5000억원이 될 것이라는 전망이다. 
+<br/><br/>
+ 전문가들은 리콜 결정 발표 전 삼성전자의 올해 연간 영업이익 컨센서스는 31조2000억원이었지만 추가 비용을 최대 1조5000억원 반영하면 연간 영업이익은 4.8%로 낮아질 것으로 분석했다. 
+<br/><br/>
+ 갤럭시 시리즈가 삼성전자 스마트폰을 대표하고 있는만큼 브랜드 가치의 하락 역시 무시할 수 없는 요소다. 업계 관계자는 "삼성전자가 꾸준히 사용해 온 이름인 만큼 이에 대한 고객들의 신뢰가 무너질 수 있다는 것 역시 지켜봐야 할 부분"이라고 전했다.
+<br/><br/>
+ 반면 삼성전자가 빠르게 리콜 결정을 내린 만큼 향후 삼성전자 브랜드 인지도 및 제품 신뢰도 훼손 영향이 제한적 수준에 그칠 것이라는 분석도 있다. 
+<br/><br/>
+ 김동원 현대증권 연구원은 "삼성전자 주가는 지난 2일 갤럭시노트7 리콜 발표 이후 하반기 실적감소 우려로 약 10% 하락했다"면서도 "그러나 15일(현지시간) 미국 소비자제품안전위원회(CPSC)는 예상보다 빠른 갤럭시노트7 공식 리콜(100만대)을 발령해 불확실성 완화가 예상된다"고 말했다. 
+<br/><br/>
+ 이에 더해 삼성전자가 주요 언론매체들을 통해 사과광고를 내고 환불 대신 새 제품으로 교환하는 고객에게 통신비 일부를 지원하는 등의 조치를 취한 것도 고객들에게 긍정적인 반응이 될 수 있다는 평가다. 위기상황을 오히려 재도약의 발판으로 반전시켰다는 분석인 것이다.
+<br/><br/>
+ 외신도 삼성전자가 발화 이슈에 최선을 다해 대처했다고 전했다. 미국 포브스는 "비록 삼성의 대응이 완벽하지는 않았지만, 그래도 상황을 고려해 상당히 잘 처리해왔다"고 평가했다.
+<br/><br/>
+ 본격적인 리콜이 시작되고 삼성전자도 고객들에게 빠른 교환을 장려하는 상황에서 갤럭시노트7 판매가 재개된 후 시장 반응이 부정적이지 않을 것이라는 예상도 있다.
+<br/><br/>
+ 업계 관계자는 "리콜 후 삼성전자 제품이 고객들에게 신뢰를 회복할 수 있을 만큼 안정적이라면 삼성전자에게 이번 사건이 해프닝으로 지나갈 수도 있을 것"으로 내다봤다.
+<br/><br/>
+ whynot82@newsis.com	</div>
+<!-- ADOP SEO Tag E-->
+</div>
+<input id="NewsTitle" name="NewsTitle" type="hidden" value="[갤노트7 재판매 D-3] 리콜사태로 본 삼성 득실은"/>
+<input id="NewsUrl" name="NewsUrl" type="hidden" value="http://www.newsis.com/view?id=NISX20160924_0014407501"/>
+<input id="NewsImage" name="NewsImage" type="hidden" value="http://image.newsis.com/2016/09/19/NISI20160919_0012192190_web.jpg"/>
+<div class="function mgt76">
+<div class="info">
+<ul>
+<li><a href="#"><img alt="이메일 보내기" onclick="output('email','article');" src="http://image.newsis.com/new_www/homepage/icon_email.png"/></a></li>
+<li><a href="#"><img alt="프린터" onclick="output('print','article');" src="http://image.newsis.com/new_www/homepage/icon_print.png"/></a></li>
+<li><a href="#"><img alt="PDF" onclick="output('pdf','article');" src="http://image.newsis.com/new_www/homepage/icon_pdf.png"/></a></li>
+</ul>
+<div class="cboth"></div>
+</div>
+<div class="social" style="margin-left:15px;">
+<ul>
+<li><a href="#"><img alt="페이스북" onclick="snsSend('facebook', 'article');" src="http://image.newsis.com/new_www/homepage/icon_social_facebook2.png"/></a></li>
+<li><a href="#"><img alt="트위터" onclick="snsSend('twitter','article');" src="http://image.newsis.com/new_www/homepage/icon_social_twitter2.png"/></a></li>
+<li><a href="#"><img alt="네이버 블로그" onclick="snsSend('naver','article');" src="http://image.newsis.com/new_www/homepage/icon_social_naver2.png"/></a></li>
+<li><a href="#"><img alt="카카오" onclick="snsSend('kakao','article');" src="http://image.newsis.com/new_www/homepage/icon_social_kakao.png"/></a></li>
+</ul>
+<div class="cboth"></div>
+</div>
+<!-- 20171011 리어왕ad
+							<div class="social" style="margin-left:72px;">
+								<a href="http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=17013577" target="_blank">
+									<img src="http://image.newsis.com/banner/20171020_king_lear.gif">
+								</a>
+								<div class="cboth"></div>
+							</div>
+							 -->
+<div class="cboth"></div>
+</div>
+<div class="copy mgt11">Copyright © NEWSIS.COM, 무단 전재 및 재배포 금지</div> <div id="shuffle" style="margin-top:10px; margin-bottom:10px;">
+<ul>
+<li style="height:25px;">
+<iframe border="0" frameborder="0" height="25" leftmargin="0" scrolling="no" src="http://ads.mncmedia.co.kr/mad/NEWSIS/web_byline_1text_neo.html" topmargin="0" width="100%"></iframe> </li>
+<li style="height:25px;">
+<iframe allowtransparency="true" frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="http://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=03U9&amp;out=iframe" vspace="0" width="100%"></iframe> </li>
+<li style="height:25px;">
+<iframe allowtransparency="true" frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="https://www.kodcad.kr/ad/43/6110ed14877461a3d654c135900d4e46.html" vspace="0" width="100%"></iframe> </li>
+<li style="height:25px;">
+<iframe allowtransparency="true" frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="https://www.kodcad.kr/ad/43/e08617dacaae21829a985764dfd645f7.html" vspace="0" width="100%"></iframe> </li>
+<li style="height:25px;">
+<iframe border="0" frameborder="0" height="25" leftmargin="0" scrolling="no" src="http://ads.mncmedia.co.kr/mad/NEWSIS/web_byline_text_2_neo.html" topmargin="0" width="100%"></iframe> </li>
+<li style="height:25px;">
+<iframe allowtransparency="true" frameborder="0" height="25" hspace="0" marginheight="0" marginwidth="0" scrolling="no" src="https://www.kodcad.kr/ad/43/97f4a7f7ededefcc157a754c981b9fc6.html" vspace="0" width="100%"></iframe> </li>
+</ul>
+</div>
+<script>
+	var uls = document.querySelectorAll('#shuffle > ul');
+	for (var j = 0; j < uls.length; j++) {
+	  var ul = uls.item(j);
+	  for (var i = ul.children.length; i >= 0; i--) {
+		ul.appendChild(ul.children[Math.random() * i | 0]);
+	  }
+	}
+</script><div style="margin-top:15px;">
+<!-- 20190923 k-artprice 베너 -->
+<div style="margin-bottom: 15px;">
+<a href="http://k-artprice.newsis.com/" target="_blank">
+<img alt="k-Artprice 바로가기" src="http://image.newsis.com/new_www/banner/20190923_main_banner_4.png" style="border:0;"/>
+</a>
+<div class="cboth"></div>
+</div>
+<!--20191230 naver 구독하기 베너 출력 -->
+<div style="margin-bottom: 15px;">
+<a href="https://media.naver.com/channel/promotion.nhn?oid=003" target="_blank">
+<img alt="네이버 구독베너" src="http://image.newsis.com/new_www/banner/20190304_banner_naver_v.jpg" style="border:0;"/>
+</a>
+<div class="cboth"></div>
+</div>
+<!--20181018 naver 구독하기 베너 : 김광원 기자 제거요청 
+						20181022 다시 출력
+						20191122 링크수정 https://media.naver.com/channel/promotion.nhn?oid=003
+						
+						-->
+<!--20191220 종료
+					<div style="margin-bottom: 15px;">
+						<a href="http://www.newsis.com/naver_event.html" target="_blank">
+							<img src="http://image.newsis.com/new_www/banner/20191122_banner_naver_v.jpg" style="border:0;" alt="네이버 구독베너">
+						</a>
+						<div class="cboth"></div>
+					</div>
+					-->
+<!--<div id="detail1-1" style="height:160px;  margin: 0 auto; width: 728px; margin-top:10px; margin-bottom:5px;">-->
+<!-- Begin Dable EMPTY_교차B5_EMPTY_바이라인 / For inquiries, visit http://dable.io -->
+<div data-widget_id="6oM6ZM7b" id="dablewidget_6oM6ZM7b">
+<script>
+(function(d,a,b,l,e,_) {
+if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+})(window,document,'dable','script');
+dable('setService', 'newsis.com');
+dable('sendLogOnce');
+dable('renderWidget', 'dablewidget_6oM6ZM7b');
+</script>
+</div>
+<!-- End EMPTY_교차B5_EMPTY_바이라인 / For inquiries, visit http://dable.io --> <!-- </div>-->
+</div>
+<!--라이브리 프리미엄 설치코드-->
+<div data-id="newsis" data-uid="Mzk3LzEwNDM2LzQ0MA==" id="lv-container">
+<script type="text/javascript">
+								window.livereOptions ={
+								refer: 'newsis.com/view/?id=NISX20160924_0014407501&cid=10402',
+								site: 'http://www.newsis.com/view/?id=NISX20160924_0014407501'
+								};
+
+								(function(d,s) {
+								var j, e=d.getElementsByTagName(s)[0];
+
+								if (typeof LivereTower === 'function') {return;}
+								j=d.createElement(s);
+								j.src='https://cdn-city.livere.com/js/embed.dist.js'; j.async=true;
+								e.parentNode.insertBefore(j,e);
+								})(document,'script');
+								</script>
+<noscript>라이브리 댓글 작성을 위해 JavaScript를 활성화해주세요</noscript>
+</div>
+</div>
+<!--20180309 뉴스타 주석-->
+<!--<iframe class="lazy_iframe" src="/ad/viewad/AD_134249_ADLOC_f0002.html" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" width="640" height="180"></iframe>-->
+<!-- Dable 하B_가로4_NULL 위젯 시작/ 문의 http://dable.io 
+<div id="dablewidget_goPGerXQ" data-widget_id="goPGerXQ">
+<script>
+(function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+dable('renderWidget', 'dablewidget_goPGerXQ');
+</script>
+</div>
+-->
+<!-- Begin Dable 하A_가로3_EMPTY_중단 / For inquiries, visit http://dable.io -->
+<div data-widget_id="ml6WbrX4" id="dablewidget_ml6WbrX4">
+<script>
+		(function(d,a,b,l,e,_) {
+		if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+		e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+		_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+		})(window,document,'dable','script');
+		dable('setService', 'newsis.com');
+		dable('sendLogOnce');
+		dable('renderWidget', 'dablewidget_ml6WbrX4');
+	</script>
+</div>
+<!-- End 하A_가로3_EMPTY_중단 / For inquiries, visit http://dable.io -->
+<!-- Dable 하B_가로4_NULL 위젯 종료/ 문의 http://dable.io -->
+<script src="//js2.keywordsconnect.com/iconad_newsis.js"></script>
+<script src="//js2.keywordsconnect.com/inspace_newsis.js"></script>
+<script async="" src="//cdn.interworksmedia.co.kr/js/tm/ip/latest/interplay.js" type="text/javascript"></script>
+<script>
+	$("#li_" + '').addClass("on");
+	$("#td_" + '').addClass("on");
+
+	$('.fontbtn').click( function(){
+		 var $contents = $('#textBody');
+		 var fontSize = $contents.css('fontSize'); //alert(fontSize);
+		 var num = parseFloat(fontSize, 10); 
+		 var unit = fontSize.slice(-2);
+
+		 if(this.id == "btn_view_fontbig") {
+		  num += 2;
+		 }else if(this.id == "btn_view_fontsmall") {
+		  num -= 2;
+		 }
+
+		 $contents.css('fontSize', num + unit);
+	   });
+
+		$("#sub_" + "10401").addClass("on");
+
+		var check_artype = "ver_new";
+		var cnt_img = "1";
+		var arphoto_type = "article";
+
+		var is_ban_width	=	0;
+		var first_full_width=	600;		//	GISA WEB IMAGE MAX WIDTH
+		var force_width		=	0;
+		var ban_width		=	0;
+		var ori_bann_width	=	250;		//	AD BANNER WIDTH
+
+		$(function viewad(){
+			var url = '/_realtime/p_wd_ADLOC_00022.html'; //p_wd_ADLOC_00022.html
+
+			$.ajax({
+				  type: "post",
+				  url:  url,
+				  cache: false,
+				success: function (responseText,status,data) {
+						if(check_artype == "ver_new"){
+							if(cnt_img == 0){
+								if(arphoto_type != "photo"){
+									$("div#view_ad").append(data.responseText);
+									//$('.iwmads-wrapper').hide();
+								}
+							}else if(arphoto_type != "photo"){
+								//$("div.view_text").eq(1).append(data.responseText);
+								$(".article_photo").eq(0).after(data.responseText);
+								var i_wid		=	first_full_width;
+								if(is_ban_width > 0){
+									i_wid		=	$('img[arti_id*="NISI"]').eq(0).prop('width');
+									if(i_wid < first_full_width){
+										force_width		=	1;
+										ban_width		=	first_full_width - i_wid;
+										if(ban_width < ori_bann_width){
+											force_width		=	0;
+										}
+									}
+								}
+								if(force_width > 0){
+									$(".article_photo").eq(1).eq(0).attr('style', 'width: '+ ban_width + 'px !important;');
+								}
+							}
+						}else{
+							if(arphoto_type != "photo"){
+								$("div#view_ad").append(data.responseText);
+								//$('.iwmads-wrapper').hide();
+							}
+						}
+			  },
+			  error: function (status) {
+			  },
+			}); 
+		});
+
+	function output(type,ob){
+		var windoption = "width=687,height=700,left=300,top=100,resizable=no,scrollbars = yes";
+		if(type == "email"){
+
+		}
+		if(ob == "article"){
+			if(type =="pdf"){
+				//alert('pdf 서비스 점검 중입니다.');
+				//return false;
+
+				location.href="/pdf?id=NISX20160924_0014407501"+ '&type='+ob+'&title='+encodeURI($('#article > div.article_tbx > h1').text());
+			}else{
+				window.open('/common/?id=NISX20160924_0014407501&method='+type + '&type='+ob,'', windoption);
+			}
+
+		}else if(ob == "photo"){
+			var thopho_id = $("#hid_foc").val();
+			if(type =="pdf"){
+
+			//alert('pdf 서비스 점검 중입니다.');
+			//return false;
+
+				location.href="/pdf?id="+ thopho_id + '&type='+ob+'&title='+encodeURI($('#article > div.article_tbx > h1').text());
+			}else{
+				window.open('/common/?id='+ thopho_id +'&method='+type+'&type='+ob,'',windoption);
+			}
+		}
+	}
+
+//아이커버
+(function(){var d=!1,e="//www.mediacategory.com/servlet/iadbn?from="+escape(document.referrer)+"&s=18917&psb=99",c=function(){d=!0;var a=document.createElement("iframe");a.src=e;a.width="0";a.height="0";a.frameBorder=0;a.marginWidth=0;a.marginHeight=0;a.scrolling="no";a.async?a.async=!0:a.defer&&(a.defer=!0);if(document.body)document.body.appendChild(a);else{var b=document.getElementsByTagName("html")[0],c=document.createElement("body");b.appendChild(c);c.appendChild(a)}};try{var f=setTimeout(c,1E3),
+g=document.getElementsByTagName("head").item(0),b=document.createElement("script");b.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";b.type="text/javascript";b.async?b.async=!0:b.defer=!0;b.onload=function(){!0!==d&&(clearTimeout(f),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("ico"),enlipleMBSHandler.getWebCode(),18917).appendICover(e))};g.appendChild(b)}catch(a){c()}})();
+</script>
+<div data-ad="{'id':'D2D6689D', 'site': 'newsis_www.newsis.com_NEWS_IP_640X360_CBTF', 'page':'page'}" id="iwmads" style="display:none;"></div>
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129614_ADLOC_00031.html" frameborder="0" height="212" marginheight="0" marginwidth="0" scrolling="no" src="" width="640"></iframe> <!-- 이시간 핫뉴스 -->
+<div class="bxcn2 mgt32" style="padding:23px 32px 30px 20px;">
+<h3 class="h3_con_tit2">이시간 <span class="c1">핫 뉴스</span></h3>
+<div class="thum_b7 lgroup mgt18">
+<a href="http://www.newsis.com/view?id=NISI20200127_0016021690&amp;cid=pho">
+<span class="thum"><img alt="image" src="http://image.newsis.com/new_www/photo/2020/01/27/NISI20200127_0016021690_20200127_132143_49793.jpg?pub_date=20200127140546" style="width:270px; height:203px;"/></span>
+<strong class="txt">출입 조치 강화된 병원 입구</strong>
+</a>
+</div>
+<div class="lst_p4_1 rgroup mgt17" style="width:300px;">
+<ul class="group">
+<li class="bundle"><a href="http://www.newsis.com/view?id=NISX20200122_0000896455">유치원생 친손녀 수차례 성추행, 며느리 신고로 잡혔다</a></li>
+<li class="bundle"><a href="http://www.newsis.com/view?id=NISX20200122_0000896368">구치소 악마들…미성년자에 '가래·소변·성기학대' 충격</a></li>
+<li class="bundle"><a href="http://www.newsis.com/view?id=NISX20200127_0000899517">월요일의 변태남…대학 女화장실 1년간 몰래 들락날락</a></li>
+<li class="bundle"><a href="http://www.newsis.com/view?id=NISX20200125_0000898964">"나 19억 자산가야" 여친 돈 수천만원 꿀꺽</a></li>
+<li class="bundle"><a href="http://www.newsis.com/view?id=NISX20200125_0000898970">하루 2번 음주단속 걸리고 또 음주사고…결국 감옥행</a></li>
+<li class="bundle"><a href="http://www.newsis.com/view?id=NISX20200126_0000899116">'난방 문제'로 다투다 아버지 살해한 20대 검거</a></li>
+<li class="bundle"><a href="http://www.newsis.com/view?id=NISX20200123_0000897707">친구와 싸운뒤 SNS에 '카톡 대화' 등 유포…벌금 300만원</a></li>
+<li class="bundle"><a href="http://www.newsis.com/view?id=NISX20200123_0000898266">물청소 한 노래방서 꽈당…내 책임 몇 퍼센트?</a></li>
+<li class="bundle" id="detail2-11" style="font-size: 15px;line-height: 25px;letter-spacing: -0.25px;color: #666;">
+</li>
+<li class="bundle" id="detail2-12" style="font-size: 15px;line-height: 25px;letter-spacing: -0.25px;color: #666;">
+</li>
+</ul>
+</div>
+<div class="cboth"></div>
+</div>
+<!-- 오늘의 헤드라인 -->
+<div class="today_head mgt34">
+<h3 class="h3_con_tit2">오늘의 헤드라인</h3>
+<div class="hd_news mgt8">
+<div class="thum"><a href="/view?id=NISX20200127_0000899450&amp;cid="><img alt="image" src="http://image.newsis.com/new_www/indextop/2020/01/27/NISX20200127_0000899450_20200127_120825_25996.jpg" style="width: 160px; height: 105px;"/></a></div>
+<div class="area">
+<strong class="tit"><a href="/view?id=NISX20200127_0000899450&amp;cid=">
+																'우한폐렴' 국내 4번째 확진…55세 한국인 남성</a>
+</strong>
+<span class="tit2">
+								 우한 방문 후 20일 입국해 26일 격리, 이틀간 병원 방문…검역서 발견 못해							</span>
+<span class="txt1"><a href="/view?id=NISX20200127_0000899450&amp;cid=">'우한폐렴'으로 불리는 신종 코로나 바이러스 감염증의 국내 네 번째 확진자도 국내 입국 후 감염 증상으로 격리되기까지 6일간 시간이 소요된 것으로 확인됐다. 
+
+질병관리본부는 </a></span>
+</div>
+<div class="cboth"></div>
+</div>
+<div class="lst_t1 mgt19">
+<ul class="group">
+<li class="bundle">
+<span class="thum">
+<a href="/view?id=NISX20200127_0000899451&amp;cid="><img alt="image" src="http://image.newsis.com/new_www/subtop/2020/01/27/NISX20200127_0000899451_20200127_121529_85930.jpg" style="width:108px; height: 71px;"/></a>
+</span>
+<strong class="txt">
+<a href="/view?id=NISX20200127_0000899451&amp;cid=">국내 3번째 확진자 74명 접촉…'강남→한강→일산'</a>
+</strong>
+</li>
+<li class="bundle">
+<span class="thum">
+<a href="/view?id=NISX20200127_0000899360&amp;cid="><img alt="image" src="http://image.newsis.com/new_www/subtop/2020/01/27/NISX20200127_0000899360_20200127_113524_14370.jpg" style="width:108px; height: 71px;"/></a>
+</span>
+<strong class="txt">
+<a href="/view?id=NISX20200127_0000899360&amp;cid=">中 '우한 폐렴' 사망 80명·확진 2744명 급증</a>
+</strong>
+</li>
+<li class="bundle">
+<span class="thum">
+<a href="/view?id=NISX20200127_0000899495&amp;cid="><img alt="image" src="http://image.newsis.com/new_www/subtop/2020/01/27/NISX20200127_0000899495_20200127_131050_32532.jpg" style="width:108px; height: 71px;"/></a>
+</span>
+<strong class="txt">
+<a href="/view?id=NISX20200127_0000899495&amp;cid=">귀경 정체 오후 3시 절정…밤 10시쯤 해소 전망</a>
+</strong>
+</li>
+<li class="bundle">
+<span class="thum">
+<a href="/view?id=NISX20200127_0000899279&amp;cid="><img alt="image" src="http://image.newsis.com/new_www/subtop/2020/01/27/NISX20200127_0000899279_20200127_143115_61721.jpg" style="width:108px; height: 71px;"/></a>
+</span>
+<strong class="txt">
+<a href="/view?id=NISX20200127_0000899279&amp;cid=">검찰 '직접수사부 13곳' 내일 없어진다…직제개편</a>
+</strong>
+</li>
+</ul>
+<div class="cboth"></div>
+</div>
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129552_ADLOC_00001.html" frameborder="0" height="220" marginheight="0" marginwidth="0" scrolling="no" src="" width="640"></iframe>
+<div style="display: inline-block;">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129552_ADLOC_00002.html" frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="" width="300"></iframe>
+</div>
+<div style="display: inline-block;margin-left: 33px;padding-bottom: 24px;">
+<!--
+	<script>
+(function(){var b=!1,c="//www.mediacategory.com/servlet/adBanner?from="+escape(document.referrer)+"&s=21843&iwh=300_250&igb=74&cntad=1&cntsr=1",d=function(){b=!0;document.getElementById("mobonDivBanner_21843").innerHTML="<iframe name='ifrad' width='300' height='250' id='mobonIframe_21843' src='"+c+"' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no' ></iframe>"};try{document.write("<d"+"iv id='mobonDivBanner_21843'></d"+"iv>");var e=setTimeout(d,1E3),f=document.getElementsByTagName("head").item(0),a=document.createElement("script");a.src="//cdn.megadata.co.kr/js/media/1.1/MBSHandler.js";a.type="text/javascript";a.async?a.async=!0:a.defer=!0;a.onload=function(){!0!==b&&(clearTimeout(e),enlipleMBSHandler(enlipleMBSHandler.getProductTypeCode("banner"),enlipleMBSHandler.getWebCode(),21843).createBanner(c,"300","250"))};f.appendChild(a)}catch(g){d()}})();
+</script>
+-->
+<script src="http://compass.adop.cc/assets/js/adop/adopJ.js?v=14"></script><ins _adop_type="re" _adop_zon="48bf0d3d-621a-417a-9348-607de553aaa1" _page_url="" class="adsbyadop" style="display:inline-block;width:300px;height:250px;"></ins>
+</div> <!-- 포토 리스트 -->
+<div class="thum_t1" style="padding-top:15px; border-top:1px solid #e4e4e4;">
+<ul class="group">
+<li class="bundle">
+<span class="thum">
+<a href="/view?id=NISX20200127_0000899513&amp;cid="><img alt="image" src="http://image.newsis.com/new_www/sport/2020/01/27/NISX20200127_0000899513_20200127_135112_10423.jpg" style="width:152px; height:122px;"/></a>
+</span>
+<span class="txt">
+<a href="/view?id=NISX20200127_0000899513&amp;cid=">'NBA 전설' 브라이언트 사망 소식에 '애도 물결'</a>
+</span>
+</li>
+<li class="bundle">
+<span class="thum">
+<a href="/view?id=NISX20200127_0000899465&amp;cid="><img alt="image" src="http://image.newsis.com/new_www/entertainment/2020/01/27/NISX20200127_0000899465_20200127_123422_88348.jpg" style="width:152px; height:122px;"/></a>
+</span>
+<span class="txt">
+<a href="/view?id=NISX20200127_0000899465&amp;cid=">BTS, K팝 '그래미 어워즈' 첫 무대…"감개무량"</a>
+</span>
+</li>
+<li class="bundle">
+<span class="thum">
+<a href="/view?id=NISI20200127_0016021666&amp;cid=pho"><img alt="image" src="http://image.newsis.com/new_www/photo/2020/01/27/NISI20200127_0016021666_20200127_130519_78804.jpg?pub_date=20200127140546" style="width:152px; height:122px;"/></a>
+</span>
+<span class="txt">
+<a href="/view?id=NISI20200127_0016021666&amp;cid=pho">'우한 폐렴' 공포…마스크 품절</a>
+</span>
+</li>
+<li class="bundle">
+<span class="thum">
+<a href="/view?id=NISI20200127_0016021577&amp;cid=pho"><img alt="image" src="http://image.newsis.com/new_www/photo/2020/01/27/NISI20200127_0016021577_20200127_125858_32893.jpg?pub_date=20200127140546" style="width:152px; height:122px;"/></a>
+</span>
+<span class="txt">
+<a href="/view?id=NISI20200127_0016021577&amp;cid=pho">'우한 폐렴' 대응 점검 나선 정세균 총리</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="today_head mgt34">
+<!-- 광고 리스트 -->
+<div class="lst_t1 mgt19">
+<div class="cboth"></div>
+</div>
+</div>
+<div class="ad_border_top"></div>
+<script>
+//20180416 임시종료
+//					$("#detail2-11").html('<iframe width="300" height="56"  marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adpingpong.co.kr/newsis_wg1.html" title="AD Tag"></iframe>');
+				</script><!-- ad 4-2 영역 -->
+</div>
+</div> <!-- aside -->
+<div id="aside">
+<div style="height:216px; background:#fff;"></div> <!-- aside -->
+<div class="a_bundle1">
+<h3 class="a_h3_tit">많이 본 뉴스</h3>
+<div class="a_tab2 mgt16">
+<ul>
+<li class="on" id="manytab1"><a href="#" onmouseover="showtab('manytab','1','3')">종합</a></li>
+<li class="" id="manytab2"><a href="#" onmouseover="showtab('manytab','2','3')">경제</a></li>
+<li class="" id="manytab3"><a href="#" onmouseover="showtab('manytab','3','3')">스포츠/연예</a></li>
+</ul>
+<!-- float 해제 -->
+<div class="cboth"></div>
+</div>
+<div class="lst_a1 mgt8">
+<ul class="group" id="manytabdiv1" style="display:none;">
+<li class="bundle"><span class="num">1</span><a href="/view?id=NISX20200125_0000898964">
+				여친 돈 가로채고 통장 잔고 19억으로 변조한 30대 실형</a></li>
+<li class="bundle"><span class="num">2</span><a href="/view?id=NISX20200125_0000898970">
+				하루 2차례 음주단속된 40대, 수사 중에 음주사고까지 내 실형</a></li>
+<li class="bundle"><span class="num">3</span><a href="/view?id=NISX20200127_0000899292">
+				NBA 농구스타 코비 브라이언트(41) 헬기추락 사망(종합) </a></li>
+<li class="bundle"><span class="num">4</span><a href="/view?id=NISX20200127_0000899360">
+				中 '우한폐렴' 사망자 80명·확진자 2744명으로 늘어(종합)</a></li>
+<li class="bundle"><span class="num">5</span><a href="/view?id=NISX20200123_0000897707">
+				친구와 싸운뒤 SNS에 '카톡 대화' 등 유포…1심 벌금형</a></li>
+<li class="bundle"><span class="num">6</span><a href="/view?id=NISX20200127_0000899451">
+				'우한폐렴' 세번째 확진자 74명 접촉…'강남→한강→일산'(종합)</a></li>
+<li class="bundle"><span class="num">7</span><a href="/view?id=NISX20200127_0000899474">
+				'우한폐렴' 확진자들 조기 격리 잇단 실패…검역시스템 구멍 논란</a></li>
+</ul>
+<ul class="group" id="manytabdiv2" style="display:none;">
+<li class="bundle"><span class="num">1</span><a href="/view?id=NISX20200123_0000898375">
+				토지보상이 뭐기에…신도시 예정지 경매물건에 '관심 집중'</a></li>
+<li class="bundle"><span class="num">2</span><a href="/view?id=NISX20200123_0000898482">
+				'밀레니얼세대'가 이끄는 P2P금융…개성도 각양각색</a></li>
+<li class="bundle"><span class="num">3</span><a href="/view?id=NISX20200123_0000897819">
+				'세뱃돈 어디에 넣을까'…판매사가 꼽은 추천 펀드는</a></li>
+<li class="bundle"><span class="num">4</span><a href="/view?id=NISX20200123_0000898264">
+				'지갑, 서랍속 동전' 사라질까…작년 발행액 역대 최소</a></li>
+<li class="bundle"><span class="num">5</span><a href="/view?id=NISX20200127_0000899486">
+				'우한 폐렴' 韓경제 불똥 튈라…정부, 잇단 긴급대책회의</a></li>
+<li class="bundle"><span class="num">6</span><a href="/view?id=NISX20200127_0000899282">
+				"디스플레이·자동차·철강 등 올해 제조업 경기 더 어렵다"</a></li>
+<li class="bundle"><span class="num">7</span><a href="/view?id=NISX20200127_0000899283">
+				"中 서비스 시장 확대…韓기업에 새로운 기회 제공할 것"</a></li>
+</ul>
+<ul class="group" id="manytabdiv3" style="display:none;">
+<li class="bundle"><span class="num">1</span><a href="/view?id=NISX20200127_0000899292">
+				NBA 농구스타 코비 브라이언트(41) 헬기추락 사망(종합) </a></li>
+<li class="bundle"><span class="num">2</span><a href="/view?id=NISX20200127_0000899289">
+				 미 NBA득점왕 코비 브라이언트,  헬기추락사고로 사망 </a></li>
+<li class="bundle"><span class="num">3</span><a href="/view?id=NISX20200127_0000899309">
+				방탄소년단, 오늘 그래미어워즈서 공연···한국가수 최초</a></li>
+<li class="bundle"><span class="num">4</span><a href="/view?id=NISX20200127_0000899313">
+				'슈돌' 개리·하오 부자 등장, 최고의 1분...시청률 12.6%</a></li>
+<li class="bundle"><span class="num">5</span><a href="/view?id=NISX20200123_0000898223">
+				극장가 설 연휴 끝났지만, 상차림 풍성...화제작 개봉 러시 </a></li>
+<li class="bundle"><span class="num">6</span><a href="/view?id=NISX20200127_0000899384">
+				국내 연예계도 코비 브라이언트 추모···"믿기지가 않는다"</a></li>
+<li class="bundle"><span class="num">7</span><a href="/view?id=NISX20200127_0000899314">
+				한국, AFC U-23 챔피언십 첫 우승 시청률 11.2%</a></li>
+</ul>
+<!-- float 해제 -->
+<div class="cboth"></div>
+</div>
+</div>
+<script>
+$("#manytab1").addClass("on");
+$("#manytabdiv1").show();
+</script>
+<div class="ad_border_bottom" id="detail3-1">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129524_ADLOC_00035.html" frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="" width="300"></iframe></div>
+<div class="a_bundle mgt17">
+<h3 class="a_h3_tit"><a href="/squ/section/?cid=16000&amp;scid=11000">기자수첩</a></h3>
+<div class="thum_a2 mgt20">
+<ul class="group">
+<li class="bundle">
+<span class="thum"><a href="/view?id=NISX20200124_0000898738"><img alt="image" src="http://image.newsis.com/new_www/gija_column/2020/01/24/NISX20200124_0000898738_20200125_073948_75263.jpg"/></a></span>
+<div class="area">
+<span class="tit"><a href="/view?id=NISX20200124_0000898738">'내려놓겠다'는 황교안,<br/>시간 얼마 남지 않았다</a></span>
+<span class="txt"><a href="/view?id=NISX20200124_0000898738">설 연휴가 다가왔다. 보수야권은 그간 대통합과 공천 등 산적한 과제를 두고 '설 연휴 전'</a></span>
+</div>
+<div class="cboth"></div>
+</li>
+<li class="bundle">
+<span class="thum"><a href="/view?id=NISX20200121_0000895537"><img alt="image" src="http://image.newsis.com/new_www/gija_column/2020/01/21/NISX20200121_0000895537_20200122_174340_89207.jpg"/></a></span>
+<div class="area">
+<span class="tit"><a href="/view?id=NISX20200121_0000895537">나재철 금투협회장에 <br/>거는 금투업계의 기대</a></span>
+<span class="txt"><a href="/view?id=NISX20200121_0000895537">
+나재철 제5대 금융투자협회장이 향후 금투협을 어떻게 이끌어나갈 지 금투업계가 주목하고 </a></span>
+</div>
+<div class="cboth"></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="ad_border_top ad_border_bottom" id="detail3-3">
+<div class="ad_border_in">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129526_ADLOC_00136.html" frameborder="0" height="260" marginheight="0" marginwidth="0" scrolling="no" src="" width="260"></iframe> </div>
+</div>
+<div class="ad_border_top" id="detail3-2">
+<!-- 	<div class="ad_border_in"> -->
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129537_ADLOC_00036.html" frameborder="0" height="254" marginheight="0" marginwidth="0" scrolling="no" src="" width="300"></iframe><!-- 	</div> -->
+</div>
+<div class="a_bundle mgt17">
+<h3 class="a_h3_tit"><span class="c1">경제</span> 핫 뉴스</h3>
+<div class="a_tab2 mgt16">
+<ul>
+<li class="" id="hotnews1"><a href="#" onmouseover="showtab('hotnews','1','3')">최신</a></li>
+<li class="" id="hotnews2"><a href="#" onmouseover="showtab('hotnews','2','3')">월간</a></li>
+<li class="" id="hotnews3"><a href="#" onmouseover="showtab('hotnews','3','3')">연간</a></li>
+</ul>
+<div class="cboth"></div>
+</div>
+<div class="lst_a1 mgt8">
+<ul class="group" id="hotnewsdiv1" style="display:none;">
+<li class="bundle"><span class="num">1</span>
+<a href="/view?id=NISX20200115_0000889029">[연말정산AtoZ·끝]드디어 시작된 간소화 서비스…연말정산 Q&amp;A; 총정리</a></li>
+<li class="bundle"><span class="num">2</span>
+<a href="/view?id=NISX20200121_0000895568">2월부터 아파트 청약 '청약홈'으로 변경…자격 실시간 확인</a></li>
+<li class="bundle"><span class="num">3</span>
+<a href="/view?id=NISX20200120_0000894704">설 명절 '귀성 24일 9시· 귀경 25일 14시' 고속도로 가장 혼잡</a></li>
+<li class="bundle"><span class="num">4</span>
+<a href="/view?id=NISX20200120_0000894702">설 연휴 24~26일 고속도로 통행료 면제…전용차로 새벽 1시 연장</a></li>
+<li class="bundle"><span class="num">5</span>
+<a href="/view?id=NISX20200123_0000898460">아파트 청약 도전 이젠 '청약홈'에서…뭐가 바뀌나?</a></li>
+<li class="bundle"><span class="num">6</span>
+<a href="/view?id=NISX20200114_0000888188">차량 번호로 리콜 여부 확인한다…車리콜센터 전면 개편</a></li>
+<li class="bundle"><span class="num">7</span>
+<a href="/view?id=NISX20200117_0000892207">"치킨집 망해서 다시 치킨집 열어요"…최악 치닫는 40대 일자리</a></li>
+<li class="bundle"><span class="num">8</span>
+<a href="/view?id=NISX20200117_0000892583">집값 풍선효과 없다는 정부, 부풀어 올랐다는 업계</a></li>
+<li class="bundle"><span class="num">9</span>
+<a href="/view?id=NISX20200115_0000889500">文 정부 초고강도 '부동산 매매 허가제' 꺼내들까</a></li>
+<li class="bundle"><span class="num">10</span>
+<a href="/view?id=NISX20200123_0000898129">초조해진 다주택자들…설 이후 급매물 쏟아질까</a></li>
+</ul>
+<ul class="group" id="hotnewsdiv2" style="display:none;">
+<li class="bundle"><span class="num">1</span>
+<a href="/view?id=NISX20191218_0000864024">'근로장려금 44만원 받으세요'…국세청, 4207억 오늘 지급</a></li>
+<li class="bundle"><span class="num">2</span>
+<a href="/view?id=NISX20190806_0000733094">세계 1위 부호 베이조스, 증시폭락에 하루 4조원 '증발'</a></li>
+<li class="bundle"><span class="num">3</span>
+<a href="/view?id=NISX20191024_0000808509">국세청, 인천국제공항에 '납세지원센터' 신설</a></li>
+<li class="bundle"><span class="num">4</span>
+<a href="/view?id=NISX20200115_0000889029">[연말정산AtoZ·끝]드디어 시작된 간소화 서비스…연말정산 Q&amp;A; 총정리</a></li>
+<li class="bundle"><span class="num">5</span>
+<a href="/view?id=NISX20191031_0000816321">'교통사고 보험금 신청' 간소화…경찰서 안가도 된다</a></li>
+<li class="bundle"><span class="num">6</span>
+<a href="/view?id=NISX20191002_0000787141">산업·중기부 기관 35곳 부과금 3년간 820억…한전·한수원 64%</a></li>
+<li class="bundle"><span class="num">7</span>
+<a href="/view?id=NISX20190821_0000746184">정부, 2030년까지 에너지소비 확 줄인다…2027년부터 형광등 판매 금지</a></li>
+<li class="bundle"><span class="num">8</span>
+<a href="/view?id=NISX20191030_0000814342">오늘부터 '연말정산 미리 보기' 가능해진다</a></li>
+<li class="bundle"><span class="num">9</span>
+<a href="/view?id=NISX20191216_0000860887">[연말정산AtoZ]'소비 요정'인 당신이 연말정산서 토해내기만 하는 이유</a></li>
+<li class="bundle"><span class="num">10</span>
+<a href="/view?id=NISX20191129_0000846071">신용·체크카드 황금비율은...연말 소득공제 '꿀팁'</a></li>
+</ul>
+<ul class="group" id="hotnewsdiv3" style="display:none;">
+<li class="bundle"><span class="num">1</span>
+<a href="/view?id=NISX20190218_0000561439">국민건강보험 임의계속가입자도 농업인 인정받는다</a></li>
+<li class="bundle"><span class="num">2</span>
+<a href="/view?id=NISX20190314_0000587899">국민연금, 주총 의결권 방향 사전공개…전문가들 '우려 vs 투명성↑'</a></li>
+<li class="bundle"><span class="num">3</span>
+<a href="/view?id=NISX20190502_0000638753">[빅데이터MSI]시장심리 톱5, 현대제철·LG·하이트진로·삼성증권·롯데쇼핑</a></li>
+<li class="bundle"><span class="num">4</span>
+<a href="/view?id=NISX20190426_0000633139">[빅데이터MSI]시장심리 톱5, 한화·LG생활건강·현대차·SK이노베이션·미래에셋대우</a></li>
+<li class="bundle"><span class="num">5</span>
+<a href="/view?id=NISX20190214_0000558322">'보물선' 신일그룹 또 사기…이번엔 50경원 가치 금광</a></li>
+<li class="bundle"><span class="num">6</span>
+<a href="/view?id=NISX20190212_0000555545">[단독]'살인미수' 30대 잡고보니…16억 대출사기 여죄 들통 </a></li>
+<li class="bundle"><span class="num">7</span>
+<a href="/view?id=NISX20190708_0000703885">민간 못잖은 '공공기관 갑질' 잡는다</a></li>
+<li class="bundle"><span class="num">8</span>
+<a href="/view?id=NISX20191218_0000864024">'근로장려금 44만원 받으세요'…국세청, 4207억 오늘 지급</a></li>
+<li class="bundle"><span class="num">9</span>
+<a href="/view?id=NISX20190325_0000597909">[에너지포럼]한전 "전력 생산서 솔루션 제공업체로 변신할 것"</a></li>
+<li class="bundle"><span class="num">10</span>
+<a href="/view?id=NISX20190806_0000733094">세계 1위 부호 베이조스, 증시폭락에 하루 4조원 '증발'</a></li>
+</ul>
+<!-- float 해제 -->
+<div class="cboth"></div>
+</div>
+</div>
+<script>
+$("#hotnews1").addClass("on");
+$("#hotnewsdiv1").show();
+</script><div class="ad_border_top">
+<div class="ad_border_in">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129527_ADLOC_00038.html" frameborder="0" height="260" marginheight="0" marginwidth="0" scrolling="no" src="" width="260"></iframe> </div>
+</div>
+<div class="ad_border_top" style="border-left: 1px solid #e4e4e4; border-right: 1px solid #e4e4e4;">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129535_ADLOC_00044.html" frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="" width="300"></iframe></div>
+<div class="ad_border_top ad_border_bottom">
+<div class="ad_border_in">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129531_ADLOC_00039.html" frameborder="0" height="350" marginheight="0" marginwidth="0" scrolling="no" src="" width="260"></iframe> </div>
+</div>
+<div class="a_bundle mgt11">
+<h3 class="a_h3_tit"><a href="/pho/gra_list/?cid=pho&amp;type=gra&amp;page=1">그래픽뉴스</a></h3>
+<div class="thum_a7 mgt21">
+<ul class="group">
+<li class="bundle">
+<span class="thum"><a href="/view?id=NISI20200127_0000468139&amp;cid=pho&amp;type=gra"><img alt="image" src="http://image.newsis.com/2020/01/27/NISI20200127_0000468139_thm.jpg"/></a></span>
+<span class="txt"><a href="/view?id=NISI20200127_0000468139&amp;cid=pho&amp;type=gra">중국 '우한 폐렴' 환자 발생 추이…사망자 80명·확진자 2744명</a></span>
+</li>
+<li class="bundle">
+<span class="thum"><a href="/view?id=NISI20200127_0000468118&amp;cid=pho&amp;type=gra"><img alt="image" src="http://image.newsis.com/2020/01/27/NISI20200127_0000468118_thm.jpg"/></a></span>
+<span class="txt"><a href="/view?id=NISI20200127_0000468118&amp;cid=pho&amp;type=gra">우한 폐렴 국내외 확진 현황 …국내 4번째 확진</a></span>
+</li>
+</ul>
+<!-- float 해제 -->
+<div class="cboth"></div>
+</div>
+</div>
+<div class="ad_border_top ad_border_bottom">
+<div class="ad_border_in">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129529_ADLOC_00040.html" frameborder="0" height="260" marginheight="0" marginwidth="0" scrolling="no" src="" width="260"></iframe> </div>
+</div>
+<div class="a_bundle mgt14">
+<h3 class="a_h3_tit"><a href="/squ/special/?cid=16000&amp;scid=spec">뉴시스 기획특집</a></h3>
+<div class="thum_a8_ed mgt21">
+<ul class="group bxslider">
+<li class="bundle">
+<a href="/squ/spe_list?stid=ST20200117_0000000552&amp;cid=16000&amp;scid=spec">
+<img alt="image" src="http://image.newsis.com/new_www/special/2020/01/17/ST20200117_0000000552.jpg?pubdt=20200120072943">
+<strong class="tit">
+						5대기업, 오너가 직접 뛴다					</strong>
+</img></a>
+</li>
+<li class="bundle">
+<a href="/squ/spe_list?stid=ST20200107_0000000546&amp;cid=16000&amp;scid=spec">
+<img alt="image" src="http://image.newsis.com/new_www/special/2020/01/07/ST20200107_0000000546.jpg?pubdt=20200112221944">
+<strong class="tit">
+						5·18 이젠 발포명령자 					</strong>
+</img></a>
+</li>
+<li class="bundle">
+<a href="/squ/spe_list?stid=ST20200105_0000000545&amp;cid=16000&amp;scid=spec">
+<img alt="image" src="http://image.newsis.com/new_www/special/2020/01/05/ST20200105_0000000545.jpg?pubdt=20200108123019">
+<strong class="tit">
+						리츠시대					</strong>
+</img></a>
+</li>
+</ul>
+<button class="btn_prev" id="r_special_prevbtn" type="button"><span>이전</span></button>
+<button class="btn_next" id="r_special_nextbtn" type="button"><span>다음</span></button>
+</div>
+</div>
+<div class="a_bundle mgt21">
+<h3 class="a_h3_tit"><a href="/squ/section/?cid=16000&amp;scid=10900">피플</a></h3>
+<div class="thum_a4 mgt17">
+<span class="ptit_a"><a href="/view?id=NISX20200123_0000898116">"지리적 프로파일링 드론에 접목 시도"</a></span>
+<div class="bundle mgt14">
+<span class="thum mgt4">
+<a href="/view?id=NISX20200123_0000898116"><img alt="image" class="cropcls " src="http://image.newsis.com/new_www/people/2020/01/23/NISX20200123_0000898116_20200127_090859_78982.jpg"/></a>
+</span>
+<div class="area">
+<span class="tit2">
+<a href="/view?id=NISX20200123_0000898116">1호 프로파일러<br/>권일용 교수</a>
+</span>
+<span class="txt mgt2"><a href="/view?id=NISX20200123_0000898116">"그동안 죽음의 현장에만 있었다면, 이제는 살리는 일을 하고 싶다." 
+
+권일용 동국대</a></span>
+</div>
+<div class="cboth"></div>
+</div>
+</div>
+</div>
+<script>
+Master.imgCropEvt('#content','img.crop_flag_people','120','90');	// 피플 이미지정렬
+</script>
+<div class="ad_border_top ad_border_bottom">
+<div class="ad_border_in">
+<ins _adop_type="re" _adop_zon="a946f836-52c7-4566-8a02-171118772cb4" _page_url="" class="adsbyadop" style="display:inline-block;width:260px;height:340px;"></ins> </div>
+</div>
+<div class="a_bundle mgt15">
+<h3 class="a_h3_tit">이 시간 톱 기사</h3>
+<div class="lst_a2 mgt13">
+<ul class="group">
+<li class="bundle"><a href="/view?id=NISX20200127_0000899484">
+與 "우한 교민 선별 수송부적절…모두 데려와야"			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200127_0000899369">
+中, '우한폐렴'에 춘제연휴 2월2일로 연장…개학 연기			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200127_0000899486">
+'우한 폐렴' 경제 불똥 튈라정부, 잇단 긴급대책회의			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200122_0000897030">
+관련 업체 잇따른 동맹 구축전기차 배터리 가격 내리나			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200127_0000899451">
+국내 3호 확진자 74명 접촉이틀간 '강남→한강→일산'			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200126_0000899251">
+서울시민70% "사회불평등"부동산 등 자산 최대 원인			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200127_0000899401">
+'심판론·미워도다시한번'총선앞둔 광주·전남 설민심			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200127_0000899513">
+'NBA 전설' 브라이언트 사망 소식에 '애도 물결'			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200127_0000899380">
+'베토벤이 상상한 미래'최재혁 &amp; 앙상블블랭크			
+			</a></li>
+<li class="bundle"><a href="/view?id=NISX20200127_0000899465">
+BTS, K팝 '그래미 어워즈' 첫 무대…"감개무량"			
+			</a></li>
+</ul>
+</div>
+</div>
+<div class="ad_border_top">
+<iframe class="lazy_iframe" data-src="/ad/viewad/AD_129540_ADLOC_00042.html" frameborder="0" height="250" marginheight="0" marginwidth="0" scrolling="no" src="" width="300"></iframe></div>
+<div class="a_bundle mgt15">
+<h3 class="a_h3_tit"><a href="/squ/sec/?cid=16000&amp;scid=sec&amp;sscid=10232">세상에 이런 일이</a></h3>
+<div class="lst_a2 mgt13">
+<ul class="group">
+<li class="bundle"><a href="/view?id=NISX20200127_0000899517&amp;cid=10232">월요일의 변태남…대학 女화장실 1년간 몰래 들락날락</a></li>
+<li class="bundle"><a href="/view?id=NISX20200127_0000899441&amp;cid=10232">나이트클럽에서 남성 유인, 강도짓한 40대 여성 징역형</a></li>
+<li class="bundle"><a href="/view?id=NISX20200125_0000898970&amp;cid=10232">하루 2차례 음주단속된 40대, 수사 중에 음주사고까지 내 실형</a></li>
+<li class="bundle"><a href="/view?id=NISX20200125_0000898964&amp;cid=10232">여친 돈 가로채고 통장 잔고 19억으로 변조한 30대 실형</a></li>
+<li class="bundle"><a href="/view?id=NISX20200123_0000897707&amp;cid=10232">친구와 싸운뒤 SNS에 '카톡 대화' 등 유포…1심 벌금형</a></li>
+</ul>
+</div>
+</div>
+<div class="a_bundle mgt15">
+<h3 class="a_h3_tit"><a href="/inds/list/?cid=13000&amp;scid=16001">쏠쏠정보</a></h3>
+<div class="lst_a2 mgt13">
+<ul class="group">
+<li class="bundle"><a href="/view?id=NISX20200123_0000897860&amp;cid=16001">'설 연휴 끝!' 명절증후군 이렇게 이겨보세요</a></li>
+<li class="bundle"><a href="/view?id=NISX20200123_0000897755&amp;cid=16001">상차림 통증엔 길게 작용 '서방정'…잔소리 통증엔 빨리 '속방정'</a></li>
+<li class="bundle"><a href="/view?id=NISX20200124_0000898799&amp;cid=16001">설 명절에 문여는 동네 병원·약국, 앱이 알려준다</a></li>
+<li class="bundle"><a href="/view?id=NISX20200123_0000898095&amp;cid=16001">설 연휴 장거리 운전 나선다면 "단기 운전자 특약 들으세요"</a></li>
+<li class="bundle"><a href="/view?id=NISX20200123_0000898253&amp;cid=16001">티끌 모아 태산…세뱃돈, 재테크 꿀팁</a></li>
+</ul>
+</div>
+</div>
+<!--close-->
+</div>
+<div class="cboth"></div> <div align="center" style="overflow:hidden; margin:20px 0px; outline:1px;">
+</div>
+<!-- top버튼 -->
+<a class="btn_mtop top" href="#wrap" style="display:block;"><img alt="상단으로" src="http://image.newsis.com/new_www/homepage/btn_top.png"/></a></div>
+</div>
+<!-- footer -->
+<div id="footer">
+<!-- 서비스 전체보기 -->
+<div class="bx_service">
+<div class="bxcn1">
+<div class="lgroup">
+<button class="btn_all" onclick="btn_all();" type="button">서비스 전체보기</button>
+</div>
+<div class="fmgt">
+<dl class="bx_partners">
+<dt>제휴사</dt>
+<dd><img alt="AP통신" src="http://image.newsis.com/new_www/homepage/partner_ap.gif"/></dd>
+<dd><img alt="신화통신" src="http://image.newsis.com/new_www/homepage/partner_xi.gif"/></dd>
+</dl>
+<div class="cboth"></div>
+</div>
+<div class="cboth"></div>
+</div>
+<!-- 레이어 - 서비스 전체보기 -->
+<div class="lay_service" style="display:none; top:-252px; z-index: 15;">
+<div class="bxcn1">
+<ul class="group">
+<li class="bundle">
+<dl class="group2 l_list">
+<dt><a href="/">뉴스</a></dt>
+<dd class="mgt9"><a href="/pol/?cid=10300">정치</a></dd>
+<dd class="mgt9"><a href="/eco/?cid=10400">경제</a></dd>
+<dd><a href="/inds/?cid=13000">산업</a></dd>
+<dd><a href="/soci/?cid=10200">사회</a></dd>
+<dd><a href="/int/?cid=10100">국제</a></dd>
+<dd><a href="/cul/?cid=10700">문화</a></dd>
+<dd><a href="/whol/?cid=10800">전국</a></dd>
+<dd><a href="/spo/?cid=10500">스포츠</a></dd>
+<dd><a href="/ent/?cid=10600">연예</a></dd>
+</dl>
+<div class="cboth"></div>
+</li>
+<li class="bundle">
+<dl class="group2">
+<dt><a href="/squ/?cid=16000">광장</a></dt>
+<dd class="mgt9"><a href="/squ/section/?cid=16000&amp;scid=11000">오피니언</a></dd>
+<dd><a href="/squ/section/?cid=16000&amp;scid=10900">사람들</a></dd>
+<dd><a href="/squ/special/?cid=16000&amp;scid=spec">기획특집</a></dd>
+<dd><a href="/squ/daily/?cid=16000&amp;scid=daily">데일리뉴시스</a></dd>
+<dd><a href="/squ/sec/?cid=16000&amp;scid=sec">섹션코너</a></dd>
+</dl>
+</li>
+<li class="bundle">
+<dl class="group2">
+<dt><a href="/pho/?cid=pho">포토</a></dt>
+<dd class="mgt9"><a href="/pho/pholist/?cid=pho&amp;type=int&amp;sscid=all">국내사진</a></dd>
+<dd><a href="/pho/pholist/?cid=pho&amp;sscid=AP1001&amp;type=for">해외사진</a></dd>
+<dd><a href="/pho/thelist/?cid=pho&amp;type=the&amp;sscid=all">테마포토</a></dd>
+<dd><a href="/pho/thepho/?cid=pho&amp;type=gra">그래픽</a></dd>
+</dl>
+</li>
+<li class="bundle">
+<dl class="group2">
+<dt><a href="http://prime.newsis.com" target="_blank">프라임뉴시스</a></dt>
+<dt><a href="http://weekly.newsis.com" target="_blank">위클리뉴시스</a></dt>
+<dt><a href="http://newsstand.naver.com/?list=ct1&amp;pcode=003" target="_blank">뉴스스탠드</a></dt>
+</dl>
+</li>
+<li class="bundle">
+<dl class="group2">
+<dt><a href="" target="_blank">모바일</a></dt>
+<dd class="mgt9">모바일 뉴시스<a href="http://m.newsis.com" target="_blank">m.newsis.com</a></dd>
+<dd>모바일 앱
+									<ul>
+<li><a href="https://play.google.com/store/apps/details?id=kr.co.softcast.newsis.activitys&amp;feature=search_result" target="_blank">- Google Play store</a></li>
+<li><a href="https://itunes.apple.com/kr/app/id384045534?mt=8" target="_blank">- App Store</a></li>
+<li><a href="http://www.tstore.co.kr/userpoc/game/view?pid=0000271462" target="_blank">- T Store</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<div class="cboth"></div>
+</div>
+</div>
+</div>
+<!--// 서비스 전체보기 -->
+<div class="fbanner">
+<div class="bxcn1">
+<ul>
+<li><a href="http://www.lotte.co.kr/index.jsp" target="_blank"><img align="absmiddle" height="20" src="http://image.newsis.com/new_www/advertise/2016/11/13/AD_20161113_000356_1479016291.jpg" width="102"/></a></li>
+<li><a href="http://www.skhynix.com/kor/index.jsp" target="_blank"><img align="absmiddle" height="40" src="http://image.newsis.com/new_www/advertise/2016/11/13/AD_20161113_000356_1479016452.jpg" width="75"/></a></li>
+<li><a href="http://www.samsung.com/" target="_blank"><img align="absmiddle" height="14" src="http://image.newsis.com/new_www/advertise/2016/11/13/AD_20161113_000356_1492654493.jpg" width="90"/></a></li>
+<li><a href="http://www.lg.co.kr/index/index.dev" target="_blank"><img align="absmiddle" height="30" src="http://image.newsis.com/new_www/advertise/2016/11/13/AD_20161113_000356_1479016530.jpg" width="68"/></a></li>
+<li><a href="http://www.mobis.co.kr/main/index.do" target="_blank"><img align="absmiddle" height="32" src="http://image.newsis.com/new_www/advertise/2016/11/13/AD_20161113_000356_1479016590.jpg" width="87"/></a></li>
+</ul>
+</div>
+</div>
+<!-- 링크 -->
+<div class="relink">
+<div class="bxcn1">
+<ul>
+<li><a href="javascript:intro_popup('', '');">회사소개</a></li>
+<li><a href="javascript:intro_popup('ad_question', '');">광고ㆍ제휴 문의</a></li>
+<li><a href="javascript:intro_popup('coalition', '');">제휴사 안내</a></li>
+<li><a href="javascript:intro_popup('sale_content', '');">컨텐츠 판매</a></li>
+<li><a href="javascript:intro_popup('copyright', '');">저작권 규약</a></li>
+<li><a href="javascript:intro_popup('grievance', '');">고충처리</a></li>
+<li><a href="javascript:intro_popup('news_offer', '');">기사제보</a></li>
+<li><a href="javascript:intro_popup('policy', '1');">이용약관</a></li>
+<li><a href="javascript:intro_popup('policy', '2');">개인정보ㆍ청소년보호청책</a></li>
+<li><a class="c1" href="javascript:intro_popup('policy', '3');">개인정보취급방침</a></li>
+<li><a href="/intro">알립니다</a></li>
+<li class="last"><a href="/RSS"><img alt="RSS" src="http://image.newsis.com/new_www/homepage/icon_rss.png"/></a></li>
+</ul>
+<div class="cboth"></div>
+</div>
+</div>
+<div class="copyright">
+<div class="bxcn1">
+<div class="logo lgroup">
+<img alt="NEWSIS" src="http://image.newsis.com/new_www/homepage/logo2.gif">
+</img></div>
+<div class="add_copy lgroup mgt24">
+<address>대표이사 : 김형기   <span class="bar">|</span>   주소 : 서울 중구  퇴계로  173 남산스퀘어빌딩 (구 극동빌딩) 12층   <span class="bar">|</span>   사업자등록번호 : 102-81-36588<br>발행인 : 김형기   <span class="bar">|</span>   고충처리인 : 박상권   <span class="bar">|</span>   통신판매업신고 : 서울중구 0398호   <span class="bar">|</span>   문의  02-721-7400  <a href="mailto:webmaster@newsis.com">webmaster@newsis.com</a> </br></address>
+<span class="copy mgt5">뉴시스의 모든 컨텐츠는 저작권법의 보호를 받은바,  무단 전재ㆍ복사ㆍ배포를 금합니다.  Copyright © <span class="c1">NEWSIS.COM</span>  All  rights  reserved.</span>
+</div>
+<div class="cboth"></div>
+</div>
+</div>
+</div>
+</div>
+<form action="http://www.newsis.com/company/" method="post" name="intro_form" target="newsis_intro">
+<input name="page" type="hidden" value=""/>
+<input name="sub_page" type="hidden" value=""/>
+</form>
+<ins _adop_type="js" _adop_zon="12b33988-24c8-48d1-9923-f5ac3f90392f" _page_url="" class="adsbyadop" style="display:inline-block;width:0px;height:0px;"></ins>
+<script async="" src="http://compass.adop.cc/assets/js/adop/adop.js?v=14"></script>
+</body>

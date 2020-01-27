@@ -1,0 +1,970 @@
+삼성전자, 삼성 갤럭시 프로게임단에 모니터 후원
+<body>
+<div id="kakaoIndex">
+<a href="#kakaoBody">본문 바로가기</a>
+<a href="#kakaoGnb">메뉴 바로가기</a>
+</div>
+<div class="newsview_media" id="kakaoWrap">
+<!-- 2018-09-20 영어,인도네시아어 번역일 경우, lang_type1 클래스 추가 -->
+<!-- 2018-09-20 중국어, 일본어 번역일 경우, lang_type2 클래스 추가 -->
+<!-- 2018-09-11-v2  2018-09-20 베트남어 번역일 때 lang_type3 클래스 추가 -->
+<div class="#gnb #default hcg_media_pc_kakaoHead" id="kakaoHead" role="banner">
+<div class="head_media">
+<h1> <a class="link_daum" href="https://www.daum.net/"> <img alt="Daum" class="thumb_g" height="19" src="//t1.daumcdn.net/media/news/news2016/retina/logo_daum.jpg" width="45"/> </a> <a href="https://media.daum.net/" id="kakaoServiceLogo"><span class="ir_wa">뉴스</span></a> </h1>
+<strong class="screen_out">관련서비스</strong>
+<ul id="kakaoRelServices">
+<li><a class="link_services link_services1" href="https://media.daum.net/entertain/"><span class="ir_wa">연예</span></a></li>
+<li><a class="link_services link_services2" href="https://sports.media.daum.net/sports/"><span class="ir_wa">스포츠</span></a></li>
+</ul>
+<h2 class="screen_out">검색</h2>
+<div class="search_news" id="search_news">
+<form action="https://search.daum.net/search" id="kakaoSearch" method="get" name="kakaoSearch">
+<fieldset class="fld_inside">
+<legend class="screen_out">검색어 입력폼</legend>
+<div class="box_searchbar">
+<label class="lab_search" for="qVal">통합검색</label>
+<input name="nil_profile" type="hidden" value="search"/>
+<input name="nil_src" type="hidden" value="media"/>
+<input name="DA" type="hidden" value="23A"/>
+<input name="rtmaxcoll" type="hidden" value="NNS"/>
+<input autocomplete="off" class="tf_keyword" id="qVal" name="q" spellcheck="false" title="검색어 입력" type="text" value=""/>
+<button class="btn_search" id="kakaoBtnSearch" type="submit"><span class="ir_wa">검색</span></button>
+</div>
+</fieldset>
+<div class="wrap_suggestBox" id="wrap_suggestBox">
+<div class="suggestBox box_sub" id="suggestBox">
+<div class="baseBox bg" style="display: none"></div>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div id="kakaoGnb" role="navigation">
+<div class="inner_gnb">
+<h2 class="screen_out">뉴스 메인메뉴</h2>
+<ul class="gnb_comm" data-category="digital">
+<li class="home"><a class="link_gnb link_gnb1" href="https://media.daum.net/"><span class="ir_wa">홈</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="society"><a class="link_gnb link_gnb2" href="https://media.daum.net/society/"><span class="ir_wa">사회</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<!-- 현재페이지에 on클래스 추가  -->
+<li class="politics"><a class="link_gnb link_gnb3" href="https://media.daum.net/politics/"><span class="ir_wa">정치</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="economic"><a class="link_gnb link_gnb4" href="https://media.daum.net/economic/"><span class="ir_wa">경제</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="foreign"><a class="link_gnb link_gnb5" href="https://media.daum.net/foreign/"><span class="ir_wa">국제</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="culture"><a class="link_gnb link_gnb6" href="https://media.daum.net/culture/"><span class="ir_wa">문화</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="digital"><a class="link_gnb link_gnb7" href="https://media.daum.net/digital/"><span class="ir_wa">IT</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="popular"><a class="link_gnb link_gnb8" href="https://media.daum.net/ranking/popular/"><span class="ir_wa">랭킹</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="series editorial"><a class="link_gnb link_gnb9" href="https://media.daum.net/series/"><span class="ir_wa">연재</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="photo"><a class="link_gnb link_gnb10" href="https://media.daum.net/photo/"><span class="ir_wa">포토</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+<li class="tv"><a class="link_gnb link_gnb11" href="https://media.daum.net/tv/"><span class="ir_wa">TV</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+</ul>
+<div class="gnb_etc">
+<ul class="gnb_with">
+<li><a class="link_gnb link_gnb1" href="https://media.daum.net/1boon/"><span class="ir_wa">1boon</span></a></li>
+<li><a class="link_gnb link_gnb2" href="//gallery.v.daum.net/p/home"><span class="ir_wa">사진전</span><span class="bar_gnb"><span class="inner_bar"></span></span></a></li>
+</ul>
+<div class="gnb_weather hc_news_pc_kakaoHead_gnbWeather">
+<strong class="screen_out">날씨 정보</strong>
+<div id="gnb_weather">
+<ul class="list_weather" data-nightyn="N">
+<!-- 69px씩 이동합니다 / 밤일 경우, type_night 클래스 추가 -->
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=서울%20날씨"> <span class="ico_weather ico_weather4">서울</span> <span class="txt_weather">서울 <span class="num_heat">7</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=수원%20날씨"> <span class="ico_weather ico_weather4">수원</span> <span class="txt_weather">수원 <span class="num_heat">7</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=인천%20날씨"> <span class="ico_weather ico_weather9">인천</span> <span class="txt_weather">인천 <span class="num_heat">7</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=대구%20날씨"> <span class="ico_weather ico_weather9">대구</span> <span class="txt_weather">대구 <span class="num_heat">6</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=대전%20날씨"> <span class="ico_weather ico_weather9">대전</span> <span class="txt_weather">대전 <span class="num_heat">7</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=광주%20날씨"> <span class="ico_weather ico_weather9">광주</span> <span class="txt_weather">광주 <span class="num_heat">6</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=부산%20날씨"> <span class="ico_weather ico_weather9">부산</span> <span class="txt_weather">부산 <span class="num_heat">6</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=울산%20날씨"> <span class="ico_weather ico_weather9">울산</span> <span class="txt_weather">울산 <span class="num_heat">6</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=울릉/독도%20날씨"> <span class="ico_weather ico_weather4">울릉/독도</span> <span class="txt_weather">울릉/독도 <span class="num_heat">7</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=춘천%20날씨"> <span class="ico_weather ico_weather4">춘천</span> <span class="txt_weather">춘천 <span class="num_heat">7</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=강릉%20날씨"> <span class="ico_weather ico_weather4">강릉</span> <span class="txt_weather">강릉 <span class="num_heat">7</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=백령%20날씨"> <span class="ico_weather ico_weather4">백령</span> <span class="txt_weather">백령 <span class="num_heat">8</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=청주%20날씨"> <span class="ico_weather ico_weather4">청주</span> <span class="txt_weather">청주 <span class="num_heat">5</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=전주%20날씨"> <span class="ico_weather ico_weather9">전주</span> <span class="txt_weather">전주 <span class="num_heat">7</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=목포%20날씨"> <span class="ico_weather ico_weather9">목포</span> <span class="txt_weather">목포 <span class="num_heat">5</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=여수%20날씨"> <span class="ico_weather ico_weather9">여수</span> <span class="txt_weather">여수 <span class="num_heat">6</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=제주%20날씨"> <span class="ico_weather ico_weather9">제주</span> <span class="txt_weather">제주 <span class="num_heat">9</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=안동%20날씨"> <span class="ico_weather ico_weather4">안동</span> <span class="txt_weather">안동 <span class="num_heat">6</span> <span class="txt_heat">℃</span> </span> </a> </li>
+<li> <a class="link_cont" href="http://search.daum.net/search?nil_suggest=btn&amp;w=tot&amp;DA=SBC&amp;q=창원%20날씨"> <span class="ico_weather ico_weather9">창원</span> <span class="txt_weather">창원 <span class="num_heat">5</span> <span class="txt_heat">℃</span> </span> </a> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bar_progress" id="barProgress"></div>
+</div>
+<hr class="hide hcg_media_pc_kakaoHead"/>
+<div class="cont_view" id="kakaoContent" role="main">
+<h2 class="screen_out" id="kakaoBody">IT</h2>
+<div class="hcg_media_pc_cSub" id="cSub">
+<div class="head_view">
+<em class="info_cp"> <a class="link_cp #body #cplogo" href="https://www.mt.co.kr" target="_blank"> <img alt="머니투데이" class="thumb_g" src="https://t1.daumcdn.net/media/news/news2016/cp/cp_moneytoday.gif"/> </a> </em>
+<h3 class="tit_view" data-translation="">삼성전자, 삼성 갤럭시 프로게임단에 모니터 후원</h3>
+<span class="info_view"> <span class="txt_info">김성은 기자</span> <span class="txt_info">입력 2016.09.22. 11:00</span> <button class="emph_g2 link_cmt" id="alexCounter">댓글 <span class="alex-count-area">0</span>개</button> </span>
+<div class="util_view">
+<!-- 2018-08-31-v2 버튼 순서 변경 / 자동요약 - TTS - 번역 - 공유 - 글씨크기 - 인쇄 순 -->
+<!-- 자동요약 -->
+<!-- TTS -->
+<!-- 번역 -->
+<div class="btn_util translate_btn hc_news_pc_cSub_translateButtons">
+<!-- 활성화시 aria-expanded="true" / 비활성화시 aria-expanded="false" 추가 -->
+<button aria-expanded="false" class="btn_set btn_translate #util #translate #set" type="button"><span class="ico_newsview">번역 설정</span></button>
+<div class="wrap_translatelayer">
+<div class="layer_util layer_translate">
+<strong class="tit_translate">번역<span class="ico_newsview">beta</span>
+<!-- 2018-09-04 추가--></strong>
+<p class="desc_translate txt_newsview">Translated by <a class="link_kakaoi #util #translate #kakaoi_link" href="https://kakao.ai/" target="_blank">kakao i</a></p>
+<strong class="screen_out">번역할 언어 선택</strong>
+<ul class="list_lang">
+<li> <button class="btn_lang btn_en #util #translate #lang_en" name="en"> <span class="ico_newsview ico_flag"></span> <strong class="ico_newsview tit_lang">English</strong> </button> </li>
+<li> <button class="btn_lang btn_ch #util #translate #lang_cn" name="cn" type="button"> <span class="ico_newsview ico_flag"></span> <strong class="ico_newsview tit_lang">简体中文</strong> </button> </li>
+<li> <button class="btn_lang btn_jp #util #translate #lang_jp" name="jp" type="button"> <span class="ico_newsview ico_flag"></span> <strong class="ico_newsview tit_lang">日本語</strong> </button> </li>
+<li> <button class="btn_lang btn_ind #util #translate #lang_id" name="id" type="button"> <span class="ico_newsview ico_flag"></span> <strong class="ico_newsview tit_lang">Bahasa Indonesia</strong> </button> </li>
+<li> <button class="btn_lang btn_viet #util #translate #lang_vi" name="vi" type="button"> <span class="ico_newsview ico_flag"></span> <strong class="ico_newsview tit_lang">tiếng Việt</strong> </button> </li>
+<li> <button class="btn_lang btn_ko #util #translate #lang_kr" name="kr" type="button"> <span class="ico_newsview ico_flag"></span> <strong class="ico_newsview tit_lang">한국어</strong> </button> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="hc_translator" style="display:none;"></div>
+<!-- 공유 -->
+<div class="btn_util share_btn hc_news_pc_cSub_shareButtons">
+<button aria-expanded="false" class="btn_set btn_share" id="rSocialShareButton"> <span class="ico_newsview">공유</span> </button>
+<div id="rSocialShareLayerContainer"></div>
+</div>
+<!-- 글씨크기 -->
+<div class="font_btn btn_util hc_news_pc_cSub_fontSizeController">
+<button aria-expanded="false" class="btn_set btn_font" type="button"> <span class="ico_newsview ico_font">글씨크기 조절하기</span> </button>
+<div class="wrap_setlayer">
+<div class="layer_util layer_set layer_font">
+<strong class="screen_out">글자 크기 조절 레이어</strong>
+<ul class="list_set list_font">
+<li> <input class="screen_out" id="inpFont17" name="inpFont" type="radio" value="17"/> <label class="lab_set lab_size0" for="inpFont17"> <span class="ico_newsview"></span> <span aria-hidden="true">가나다라마바사</span> <span class="screen_out">매우 작은 폰트</span> </label> </li>
+<li> <input class="screen_out" id="inpFont18" name="inpFont" type="radio" value="18"/> <label class="lab_set lab_size1" for="inpFont18"> <span class="ico_newsview"></span> <span aria-hidden="true">가나다라마바사</span> <span class="screen_out">작은 폰트</span> </label> </li>
+<li> <input class="screen_out" id="inpFont19" name="inpFont" type="radio" value="19"/> <label class="lab_set lab_size2" for="inpFont19"> <span class="ico_newsview"></span> <span aria-hidden="true">가나다라마바사</span> <span class="screen_out">보통 폰트</span> </label> </li>
+<li> <input class="screen_out" id="inpFont20" name="inpFont" type="radio" value="20"/> <label class="lab_set lab_size3" for="inpFont20"> <span class="ico_newsview"></span> <span aria-hidden="true">가나다라마바사</span> <span class="screen_out">큰 폰트</span> </label> </li>
+<li> <input class="screen_out" id="inpFont21" name="inpFont" type="radio" value="21"/> <label class="lab_set lab_size4" for="inpFont21"> <span class="ico_newsview"></span> <span aria-hidden="true">가나다라마바사</span> <span class="screen_out">매우 큰 폰트</span> </label> </li>
+</ul>
+</div>
+</div>
+<!-- // font 팝업 레이어 -->
+</div>
+<!-- 인쇄 -->
+<div class="btn_util hc_news_pc_cSub_printButton">
+<button class="btn_print" type="button"> <span class="ico_newsview">인쇄하기 새창열림</span> </button>
+</div>
+</div>
+</div>
+</div>
+<div id="cMain">
+<div class="hcg_media_pc_mArticle" id="mArticle">
+<!-- 바꿔치기 -->
+<!-- 언론중재법 -->
+<!-- 번역 안내 -->
+<div class="status_view" id="translateNotice" style="display:none;">
+<span class="notice_lang notice_lang_en" style="display:none;">The copyright belongs to the original writer of the content, and there may be errors in machine translation results.</span>
+<span class="notice_lang notice_lang_cn" style="display:none;">版权归内容原作者所有。机器翻译结果可能存在错误。</span>
+<span class="notice_lang notice_lang_jp" style="display:none;">原文の著作権は原著著作者にあり、機械翻訳の結果にエラーが含まれることがあります。</span>
+<span class="notice_lang notice_lang_id" style="display:none;">Hak cipta milik penulis asli dari konten, dan mungkin ditemukan kesalahan dalam hasil terjemahan mesin.</span>
+<span class="notice_lang notice_lang_vi" style="display:none;">Bản quyền thuộc về tác giả gốc của nội dung và có thể có lỗi trong kết quả dịch bằng máy.</span>
+</div>
+<div class="news_view" style="font-size:17px">
+<strong class="summary_view" data-translation="">세계 최초 퀀텀닷 디스플레이 적용한 커브드 모니터 CGF70 제공..프로게임단과 손잡고 마케팅 활동</strong>
+<div class="article_view" data-translation-body="" id="harmonyContainer">
+<section dmcf-sid="i0nFpKOlWG">
+<p dmcf-pid="ig7d1uEuPd" dmcf-ptype="general">[머니투데이 김성은 기자] [세계 최초 퀀텀닷 디스플레이 적용한 커브드 모니터 CGF70 제공…프로게임단과 손잡고 마케팅 활동] </p>
+<figure class="figure_frm origin_fig" dmcf-pid="i3J3bTHzh1" dmcf-ptype="figure">
+<p class="link_figure"><img alt="삼성 갤럭시 프로게임단 소속 프로게이머들이 삼성전자가 후원한 CFG70 모니터를 활용해 게임을 즐기고 있다./사진제공=삼성전자" border="0" class="thumb_g_article" dmcf-mid="iy4KFqXlPD" dmcf-mtype="image" height="293" hspace="5" src="https://t1.daumcdn.net/news/201609/22/moneytoday/20160922110051596fdwp.jpg" vspace="5" width="520"/></p>
+<figcaption class="txt_caption default_figure">
+           삼성 갤럭시 프로게임단 소속 프로게이머들이 삼성전자가 후원한 CFG70 모니터를 활용해 게임을 즐기고 있다./사진제공=삼성전자
+          </figcaption>
+</figure>
+<p dmcf-pid="icwo92GDLw" dmcf-ptype="general">삼성전자가 삼성 갤럭시 프로게임단에 게이밍 모니터를 공식 후원한다. </p>
+<p dmcf-pid="ifW6Oe7RpE" dmcf-ptype="general">삼성전자가 '삼성 갤럭시' 프로게임단과 공식 스폰서십 계약을 체결했다고 22일 밝혔다. 삼성전자는 이번달부터 삼성 갤럭시 프로게임단 소속 선수들에게 연습과 경기 등에서 사용할 CFG70 모니터를 지원한다. </p>
+<p dmcf-pid="ivsgxLT22g" dmcf-ptype="general">삼성 갤럭시는 2000년 창단 이래 '스타크래프트2'와 '리그 오브 레전드' 등 국내외 대회에서 큰 활약을 펼치고 있는 e 스포츠 전문 프로게임단이다. </p>
+<p dmcf-pid="iUirfYZLf2" dmcf-ptype="general">삼성 갤럭시 선수들은 계약기간 동안 삼성 게이밍 모니터 로고가 부착된 유니폼을 입고 활동하며 삼성전자와 함께 다양한 온·오프라인 마케팅 활동을 할 예정이다. </p>
+<p dmcf-pid="i2bBAFqwHW" dmcf-ptype="general">삼성 갤럭시 프로게임단에 지원되는 CFG70 모니터는 세계 최초로 퀀텀닷(양자점) 디스플레이를 적용한 커브드 모니터로 게이밍에 특화된 요소를 두루 갖췄다는 설명. CGF70 모니터는 잔상과 끊김이 없는 부드러운 영상을 제공한다는 점이 특징이다. </p>
+<p dmcf-pid="ivQt4TS47c" dmcf-ptype="general">이 모니터의 영상은 응답시간이 1m/s(MPRT·Moving Picture Response Time 기준)이고 144Hz(초당 보여지는 정지 이미지의 수)의 주사율을 자랑한다. 또 눈에 맞춘 1800R 곡률을 구현해 눈의 피로도를 낮췄다. 1800R은 반지름이 1800mm인 원의 휜 정도를 뜻한다. </p>
+<p dmcf-pid="iaRmA6k3LU" dmcf-ptype="general">삼성전자 관계자는 "한눈에 보이는 대시보드 형태의 OSD(On Screen Display)는 차원이 다른 게이밍 경험을 제공하고 게임 장르에 최적화된 맞춤형 게임모드를 지원해 경기력 향상에 도움을 준다"고 설명했다. </p>
+<p dmcf-pid="i0TUqHXFzB" dmcf-ptype="general">삼성 갤럭시 프로게임단 소속 강찬용 선수는 "CGF70 모니터는 뛰어난 곡률과 색감을 구현해 몰입감이 확실히 다르다"며 "집중력이 높아져 자연스럽게 경기 결과에 긍정적인 영향을 미친다"고 말했다. </p>
+<p dmcf-pid="iVOF7bSZBE" dmcf-ptype="general">김석기 삼성전자 영상디스플레이 사업부 전무는 "CFG70 모니터는 최고의 게임 환경을 조성하기 위해 개발된 게임 전문 모니터"라며 "앞으로 게이밍 모니터 시장에서 두각을 나타낼 것"이라고 말했다. </p>
+<p dmcf-pid="itwYKfZDck" dmcf-ptype="general">김성은 기자 gttsw@mt.co.kr </p>
+</section>
+</div>
+</div>
+<div class="foot_view">
+<div class="wrap_brunch hc_news_pc_mArticle_brunchAuthor" style="display:none;">
+</div>
+<div class="relate_tag hc_news_pc_mArticle_relatedTags">
+<strong class="screen_out">관련 태그</strong>
+</div>
+<div class="relate_series hc_news_pc_mArticle_series" style="display:none;">
+<strong class="tit_series"><em class="tag_series">연재</em><span class="title_series"></span></strong>
+<!-- MCCP-856 연재 영역 수정 -->
+<ul class="list_series">
+</ul>
+<!-- //MCCP-856 연재 영역 수정 -->
+<a class="link_more #body #series_more" href="#none">더보기</a>
+</div>
+<div class="copyright_view">
+<span class="txt_copyright">저작권자 ⓒ '돈이 보이는 리얼타임 뉴스' 머니투데이 </span>
+<div class="btn_empathy hc_news_pc_mArticle_empathyButton">
+<link href="//m1.daumcdn.net/svc/original/U03/cssjs/uoclike/common/uoclike.min-20150408-2.css" rel="stylesheet" type="text/css"/>
+<div class="btn_empathy_pc" id="likeButton">
+</div>
+</div>
+</div>
+<!-- 언론사 관련기사(주요뉴스) -->
+<div class="cp_view">
+<strong class="tit_cp">머니투데이 주요 뉴스<span class="info_cp">해당 언론사로 연결됩니다.</span></strong>
+<ul class="list_relate">
+<li><a class="link_txt #body #outmedia #related_list" data-type="rss" href="http://news.mt.co.kr/mtview.php?no=2020012710395729691&amp;DMBA2" target="_blank">우한폐렴 아기 아버지, 中치료병원 근무 신고 안해</a></li>
+<li><a class="link_txt #body #outmedia #related_list" data-type="rss" href="http://news.mt.co.kr/mtview.php?no=2020012116120956794&amp;DMBA2" target="_blank">[단독]'요가복 1위' 안다르, 성희롱 피해 여직원 부당해고 논란</a></li>
+<li><a class="link_txt #body #outmedia #related_list" data-type="rss" href="http://news.mt.co.kr/mtview.php?no=2020012709365232666&amp;DMBA2" target="_blank">이부진-임우재, 진짜 '남남'...임우재가 받을 위자료는?</a></li>
+<li><a class="link_txt #body #outmedia #related_list" data-type="rss" href="http://news.mt.co.kr/mtview.php?no=2020012712125523744&amp;DMBA2" target="_blank">이부진 손들어 준 대법, 세기의 이혼소송 가른 승부처는?</a></li>
+<li><a class="link_txt #body #outmedia #related_list" data-type="rss" href="http://news.mt.co.kr/mtview.php?no=2020012713194138586&amp;DMBA2" target="_blank">국내 3번째 우한폐렴 확진자, 강남→한강→일산 갔다</a></li>
+<li><a class="link_txt #body #outmedia #related_list" data-type="rss" href="http://news.mt.co.kr/mtview.php?no=2020012714182334385&amp;DMBA2" target="_blank">'음주운전' 길 방송 복귀 "집에 악기도 다 치워버렸다"</a></li>
+</ul>
+</div>
+<div id="alex-scroll-area"></div>
+<ins class="daum_ddn_area recomm_ad hc_news_pc_mArticle_recommend_ad" data-ad-height="90" data-ad-onfail="cmRenderFailCallBack" data-ad-unit="DAN-1jezdswwiit7q" data-ad-width="658" style="display:block; width: 658px; text-decoration: none; min-width: 658px;"></ins>
+<div class="cmt_news cmt_view">
+<div class="alex-area" data-base-url="//comment.daum.net" data-client-id="26BXAvKny5WF5Z09lr5k77Y8" data-initial-limit="3" data-is-mobile="false" data-kakao-appkey="9076ba452fea1a434141d6b6a2c11a3c" data-max-length="300" data-page-limit="10" data-post-id="@20160922110052017" data-show-mask-alert="true" data-sort="R" data-use-attachment="false" data-use-emoticon="true" data-use-live-comment-mode="notify" data-use-my="true" data-use-official="true" data-use-reply="true" data-use-social-share="true" id="alex-area">
+</div>
+</div>
+</div>
+</div>
+<div class="hcg_media_pc_mAside" id="mAside">
+<div class="hc_news_pc_cSub_bnr_130" style="position:relative">
+<div class="bnr_130">
+<ins class="daum_ddn_area" data-ad-height="250" data-ad-type="P" data-ad-unit="05d90" data-ad-width="130" id="RIGHT_SPACE_BANNER" name="RIGHT_SPACE_BANNER"></ins>
+</div>
+</div>
+<!-- //130 배너 -->
+<ins class="daum_ddn_area aside_g aside_ad hc_news_pc_mAside_asideTopAd" data-ad-height="250" data-ad-type="D" data-ad-unit="05d24" data-ad-width="250" style="display:block;width:250px;height:250px;"></ins>
+<div class="hc_news_pc_mAside_popular_news">
+<div class="aside_g aside_popular" data-react-checksum="1485521426" data-reactid=".16fpyqd77lx">
+<h3 class="txt_newsview" data-reactid=".16fpyqd77lx.0">많이본 뉴스</h3>
+<ul class="tab_aside tab_media" data-reactid=".16fpyqd77lx.1">
+<li class="on" data-reactid=".16fpyqd77lx.1.0"><a class="link_tab link_tab2 #right #popular_tab #news" data-reactid=".16fpyqd77lx.1.0.0" href="#none">뉴스</a>
+<div class="cont_aside" data-reactid=".16fpyqd77lx.1.0.1">
+<strong class="screen_out" data-reactid=".16fpyqd77lx.1.0.1.0">뉴스</strong>
+<ol class="list_ranking #right #popular_news #news_list" data-reactid=".16fpyqd77lx.1.0.1.1">
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news1"><em class="num_newsview num1" data-reactid=".16fpyqd77lx.1.0.1.1.$news1.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news1.0.0">1</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news1.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news1.1"><a class="link_txt @1" data-reactid=".16fpyqd77lx.1.0.1.1.$news1.1.0" href="https://v.daum.net/v/20200127115723837">국내 '우한 폐렴' 네번째 환자 발생..우한 방문 55세 한국남성(종합)</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news2"><em class="num_newsview num2" data-reactid=".16fpyqd77lx.1.0.1.1.$news2.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news2.0.0">2</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news2.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news2.1"><a class="link_txt @2" data-reactid=".16fpyqd77lx.1.0.1.1.$news2.1.0" href="https://v.daum.net/v/20200127120504085">'우한폐렴' 세번째 확진자 74명 접촉..'강남→한강→일산'(종합)</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news3"><em class="num_newsview num3" data-reactid=".16fpyqd77lx.1.0.1.1.$news3.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news3.0.0">3</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news3.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news3.1"><a class="link_txt @3" data-reactid=".16fpyqd77lx.1.0.1.1.$news3.1.0" href="https://v.daum.net/v/20200127103411115">'우한서 빠져나간 500만명' 어디로?..한국행 6천430명</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news4"><em class="num_newsview num4" data-reactid=".16fpyqd77lx.1.0.1.1.$news4.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news4.0.0">4</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news4.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news4.1"><a class="link_txt @4" data-reactid=".16fpyqd77lx.1.0.1.1.$news4.1.0" href="https://v.daum.net/v/20200127122801367">김문수 "신당창당"..홍준표 "총선 각개전투, 좌파만 살판났다"</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news5"><em class="num_newsview num5" data-reactid=".16fpyqd77lx.1.0.1.1.$news5.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news5.0.0">5</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news5.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news5.1"><a class="link_txt @5" data-reactid=".16fpyqd77lx.1.0.1.1.$news5.1.0" href="https://v.daum.net/v/20200127110020568">사내불륜 뒤 피해자 징계요구한 여성..法 "해고정당"</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news6"><em class="num_newsview num6" data-reactid=".16fpyqd77lx.1.0.1.1.$news6.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news6.0.0">6</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news6.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news6.1"><a class="link_txt @6" data-reactid=".16fpyqd77lx.1.0.1.1.$news6.1.0" href="https://v.daum.net/v/20200127094846312">"장보기도 외식도 무섭다"..햄·라면·버거·아이스크림·빙수까지 "죄다 올랐다"</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news7"><em class="num_newsview num7" data-reactid=".16fpyqd77lx.1.0.1.1.$news7.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news7.0.0">7</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news7.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news7.1"><a class="link_txt @7" data-reactid=".16fpyqd77lx.1.0.1.1.$news7.1.0" href="https://v.daum.net/v/20200127121600260">[우한폐렴]네 번째 확진자도 '공항' 무사통과..6일 뒤 감염 판정</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news8"><em class="num_newsview num8" data-reactid=".16fpyqd77lx.1.0.1.1.$news8.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news8.0.0">8</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news8.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news8.1"><a class="link_txt @8" data-reactid=".16fpyqd77lx.1.0.1.1.$news8.1.0" href="https://v.daum.net/v/20200127120533094">[쥐들의 설]⑤"손주들 세뱃돈 주려면 노가다라도 해야.."</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news9"><em class="num_newsview num9" data-reactid=".16fpyqd77lx.1.0.1.1.$news9.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news9.0.0">9</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news9.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news9.1"><a class="link_txt @9" data-reactid=".16fpyqd77lx.1.0.1.1.$news9.1.0" href="https://v.daum.net/v/20200127122848377">'남달랐던 사랑' 이부진 러브스토리..이혼으로 종지부</a></strong></li>
+<li data-reactid=".16fpyqd77lx.1.0.1.1.$news10"><em class="num_newsview num10" data-reactid=".16fpyqd77lx.1.0.1.1.$news10.0"><span data-reactid=".16fpyqd77lx.1.0.1.1.$news10.0.0">10</span><span data-reactid=".16fpyqd77lx.1.0.1.1.$news10.0.1">위</span></em><strong class="tit_g" data-reactid=".16fpyqd77lx.1.0.1.1.$news10.1"><a class="link_txt @10" data-reactid=".16fpyqd77lx.1.0.1.1.$news10.1.0" href="https://v.daum.net/v/20200127134946465">'빨간날' 유급휴일 도입 첫해 설 명절.. 두드러진 '휴식격차'</a></strong></li>
+</ol>
+<div class="util_aside" data-reactid=".16fpyqd77lx.1.0.1.2">
+<button class="btn_slide btn_prev #right #popular_news #btn_before" data-reactid=".16fpyqd77lx.1.0.1.2.0"><span class="ico_newsview" data-reactid=".16fpyqd77lx.1.0.1.2.0.0">이전</span></button>
+<button class="btn_slide btn_next #right #popular_news #btn_after" data-reactid=".16fpyqd77lx.1.0.1.2.1"><span class="ico_newsview" data-reactid=".16fpyqd77lx.1.0.1.2.1.0">다음</span></button>
+<a class="link_all #right #popular_news #more" data-reactid=".16fpyqd77lx.1.0.1.2.2" href="http://media.daum.net/ranking/popular?include=society,politics,culture,economic,foreign,digital"><span class="txt_newsview" data-reactid=".16fpyqd77lx.1.0.1.2.2.0">전체랭킹</span><span class="ico_newsview" data-reactid=".16fpyqd77lx.1.0.1.2.2.1"></span></a>
+</div>
+</div></li>
+<li class="" data-reactid=".16fpyqd77lx.1.1"><a class="link_tab link_tab3 #right #popular_tab #enter" data-reactid=".16fpyqd77lx.1.1.0" href="#none">연예</a></li>
+<li class="" data-reactid=".16fpyqd77lx.1.2"><a class="link_tab link_tab4 #right #popular_tab #sports" data-reactid=".16fpyqd77lx.1.2.0" href="#none">스포츠</a></li>
+</ul>
+</div>
+</div>
+<div class="aside_g aside_phototv hc_news_pc_mAside_phototv">
+<h3 class="txt_newsview">포토&amp;TV</h3>
+<div class="cont_aside">
+<ul class="list_phototv">
+<li> <a class="link_cont" href="https://gallery.v.daum.net/p/viewer/47169/20200127144153369"> <span class="wrap_thumb"> <img alt="백두대간에 핀 아름다운 눈꽃" class="thumb_g" src="https://img1.daumcdn.net/thumb/S288x280.q70/?fname=https://t1.daumcdn.net/news/202001/27/kukinews/20200127144153573kxyw.jpg"/> <span class="ico_phototv"> <span class="ico_newsview ico_photo">포토</span> </span> </span> <strong class="tit_thumb">백두대간에 핀 아름다운 눈꽃</strong> </a> </li>
+<li> <a class="link_cont" href="https://v.daum.net/v/20200127143049148?s=tv_news"> <span class="wrap_thumb"> <img alt="&lt;뉴스G&gt; 하나의 언어가 된 '영화 기생충'" class="thumb_g" src="https://img1.daumcdn.net/thumb/S288x280.q70/?fname=https://t1.daumcdn.net/news/202001/27/ebs/20200127143049289ccgt.jpg"/> <span class="ico_phototv"> <span class="ico_newsview ico_vod">영상</span> </span> </span> <strong class="tit_thumb">&lt;뉴스G&gt; 하나의 언어가 된 '영화 기생충'</strong> </a> </li>
+</ul>
+</div>
+</div>
+<div class="aside_g aside_search hc_news_pc_mAside_realtimeSearch">
+<h3 class="txt_newsview">실시간 이슈</h3>
+<ul class="tab_aside tab_media" id="search_rank_tab_heads">
+<li><a class="link_tab link_tab1" href="#search_rank_total">전체</a>
+<div class="cont_aside" id="search_rank_total">
+<strong class="screen_out">전체</strong>
+<ol class="list_ranking #right #search_keyword">
+<li> <em class="num_newsview num1">1위</em> <strong class="tit_g"> <a class="link_txt @1" href="https://search.daum.net/search?w=tot&amp;q=%EC%BD%94%EB%B9%84+%EB%B8%8C%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8&amp;DA=23H&amp;rtmaxcoll=1TH">코비 브라이언트</a> </strong> </li>
+<li> <em class="num_newsview num2">2위</em> <strong class="tit_g"> <a class="link_txt @2" href="https://search.daum.net/search?w=tot&amp;q=%EA%B8%B0%EB%B0%A9%EB%8F%84%EB%A0%B9&amp;DA=23H&amp;rtmaxcoll=1TH">기방도령</a> </strong> </li>
+<li> <em class="num_newsview num3">3위</em> <strong class="tit_g"> <a class="link_txt @3" href="https://search.daum.net/search?w=tot&amp;q=%EA%B8%88%EC%9E%94%EB%94%94&amp;DA=23H&amp;rtmaxcoll=1TH">금잔디</a> </strong> </li>
+<li> <em class="num_newsview num4">4위</em> <strong class="tit_g"> <a class="link_txt @4" href="https://search.daum.net/search?w=tot&amp;q=%EC%9D%B4%EB%B6%80%EC%A7%84&amp;DA=23H&amp;rtmaxcoll=1TH">이부진</a> </strong> </li>
+<li> <em class="num_newsview num5">5위</em> <strong class="tit_g"> <a class="link_txt @5" href="https://search.daum.net/search?w=tot&amp;q=%EC%9E%84%EC%9A%B0%EC%9E%AC&amp;DA=23H&amp;rtmaxcoll=1TH">임우재</a> </strong> </li>
+</ol>
+<ol class="list_ranking #right #search_keyword">
+<li> <em class="num_newsview num6">6위</em> <strong class="tit_g"> <a class="link_txt @6" href="https://search.daum.net/search?w=tot&amp;q=%EB%81%BC%EB%A6%AC%EB%81%BC%EB%A6%AC&amp;DA=23H&amp;rtmaxcoll=1TH">끼리끼리</a> </strong> </li>
+<li> <em class="num_newsview num7">7위</em> <strong class="tit_g"> <a class="link_txt @7" href="https://search.daum.net/search?w=tot&amp;q=%EB%B9%8C%EB%A6%AC+%EC%95%84%EC%9D%BC%EB%A6%AC%EC%8B%9C&amp;DA=23H&amp;rtmaxcoll=1TH">빌리 아일리시</a> </strong> </li>
+<li> <em class="num_newsview num8">8위</em> <strong class="tit_g"> <a class="link_txt @8" href="https://search.daum.net/search?w=tot&amp;q=%EA%B0%9C%EB%A6%AC&amp;DA=23H&amp;rtmaxcoll=1TH">개리</a> </strong> </li>
+<li> <em class="num_newsview num9">9위</em> <strong class="tit_g"> <a class="link_txt @9" href="https://search.daum.net/search?w=tot&amp;q=%EC%A0%9C%EC%A3%BC%EA%B3%B5%ED%95%AD&amp;DA=23H&amp;rtmaxcoll=1TH">제주공항</a> </strong> </li>
+<li> <em class="num_newsview num10">10위</em> <strong class="tit_g"> <a class="link_txt @10" href="https://search.daum.net/search?w=tot&amp;q=%EB%8D%95%EA%B5%AC&amp;DA=23H&amp;rtmaxcoll=1TH">덕구</a> </strong> </li>
+</ol>
+</div> </li>
+<li class="on"><a class="link_tab link_tab2" href="#search_rank_news">뉴스</a>
+<div class="cont_aside" id="search_rank_news">
+<strong class="screen_out">뉴스</strong>
+<ol class="list_ranking #right #search_keyword">
+<li> <em class="num_newsview num1">1위</em> <strong class="tit_g"> <a class="link_txt @1" href="https://search.daum.net/search?w=tot&amp;q=%EB%8C%80%EA%B5%AC+%EC%9A%B0%ED%95%9C%ED%8F%90%EB%A0%B4&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">대구 우한폐렴</a> </strong> </li>
+<li> <em class="num_newsview num2">2위</em> <strong class="tit_g"> <a class="link_txt @2" href="https://search.daum.net/search?w=tot&amp;q=%EB%A7%88%EC%8A%A4%ED%81%AC&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">마스크</a> </strong> </li>
+<li> <em class="num_newsview num3">3위</em> <strong class="tit_g"> <a class="link_txt @3" href="https://search.daum.net/search?w=tot&amp;q=%EB%B6%80%EC%82%B0+%EC%B9%A8%EC%88%98&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">부산 침수</a> </strong> </li>
+<li> <em class="num_newsview num4">4위</em> <strong class="tit_g"> <a class="link_txt @4" href="https://search.daum.net/search?w=tot&amp;q=who&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">who</a> </strong> </li>
+<li> <em class="num_newsview num5">5위</em> <strong class="tit_g"> <a class="link_txt @5" href="https://search.daum.net/search?w=tot&amp;q=%EB%B2%A0%ED%8A%B8%EB%82%A8&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">베트남</a> </strong> </li>
+</ol>
+<ol class="list_ranking #right #search_keyword">
+<li> <em class="num_newsview num6">6위</em> <strong class="tit_g"> <a class="link_txt @6" href="https://search.daum.net/search?w=tot&amp;q=%EA%B9%80%ED%95%B4%EA%B3%B5%ED%95%AD&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">김해공항</a> </strong> </li>
+<li> <em class="num_newsview num7">7위</em> <strong class="tit_g"> <a class="link_txt @7" href="https://search.daum.net/search?w=tot&amp;q=%EC%A4%91%EA%B5%AD%EA%B4%80%EA%B4%91%EA%B0%9D&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">중국관광객</a> </strong> </li>
+<li> <em class="num_newsview num8">8위</em> <strong class="tit_g"> <a class="link_txt @8" href="https://search.daum.net/search?w=tot&amp;q=%EA%B3%84%EB%A3%A1%EC%82%B0+%EC%82%B0%EB%B6%88&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">계룡산 산불</a> </strong> </li>
+<li> <em class="num_newsview num9">9위</em> <strong class="tit_g"> <a class="link_txt @9" href="https://search.daum.net/search?w=tot&amp;q=%EB%B6%84%EB%8B%B9+%EC%84%9C%EC%9A%B8%EB%8C%80%EB%B3%91%EC%9B%90&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">분당 서울대병원</a> </strong> </li>
+<li> <em class="num_newsview num10">10위</em> <strong class="tit_g"> <a class="link_txt @10" href="https://search.daum.net/search?w=tot&amp;q=%EC%84%9C%EC%9A%B8%EC%97%AD&amp;DA=23I&amp;rtmaxcoll=EOA,1TH">서울역</a> </strong> </li>
+</ol>
+</div> </li>
+<li><a class="link_tab link_tab3" href="#search_rank_entertain">연예</a>
+<div class="cont_aside" id="search_rank_entertain">
+<strong class="screen_out">연예</strong>
+<ol class="list_ranking #right #search_keyword">
+<li> <em class="num_newsview num1">1위</em> <strong class="tit_g"> <a class="link_txt @1" href="https://search.daum.net/search?w=tot&amp;q=%EA%B8%B8&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">길</a> </strong> </li>
+<li> <em class="num_newsview num2">2위</em> <strong class="tit_g"> <a class="link_txt @2" href="https://search.daum.net/search?w=tot&amp;q=%EC%95%84%EB%A6%AC%EC%95%84%EB%82%98+%EA%B7%B8%EB%9E%80%EB%8D%B0&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">아리아나 그란데</a> </strong> </li>
+<li> <em class="num_newsview num3">3위</em> <strong class="tit_g"> <a class="link_txt @3" href="https://search.daum.net/search?w=tot&amp;q=%EB%B7%94&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">뷔</a> </strong> </li>
+<li> <em class="num_newsview num4">4위</em> <strong class="tit_g"> <a class="link_txt @4" href="https://search.daum.net/search?w=tot&amp;q=%EB%9F%B0%EB%8B%9D%EB%A7%A8&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">런닝맨</a> </strong> </li>
+<li> <em class="num_newsview num5">5위</em> <strong class="tit_g"> <a class="link_txt @5" href="https://search.daum.net/search?w=tot&amp;q=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8+%ED%95%AB%EB%8F%84%EA%B7%B8&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">아메리칸 핫도그</a> </strong> </li>
+</ol>
+<ol class="list_ranking #right #search_keyword">
+<li> <em class="num_newsview num6">6위</em> <strong class="tit_g"> <a class="link_txt @6" href="https://search.daum.net/search?w=tot&amp;q=bts&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">bts</a> </strong> </li>
+<li> <em class="num_newsview num7">7위</em> <strong class="tit_g"> <a class="link_txt @7" href="https://search.daum.net/search?w=tot&amp;q=%EB%B3%B5%EB%A9%B4%EA%B0%80%EC%99%95+%EC%BD%94%EB%A6%AC%EC%95%88%ED%95%AB%EB%8F%84%EA%B7%B8&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">복면가왕 코리안핫도그</a> </strong> </li>
+<li> <em class="num_newsview num8">8위</em> <strong class="tit_g"> <a class="link_txt @8" href="https://search.daum.net/search?w=tot&amp;q=%EC%86%90%EC%98%88%EC%A7%84&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">손예진</a> </strong> </li>
+<li> <em class="num_newsview num9">9위</em> <strong class="tit_g"> <a class="link_txt @9" href="https://search.daum.net/search?w=tot&amp;q=%EA%B0%95%ED%98%84%EC%A0%95&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">강현정</a> </strong> </li>
+<li> <em class="num_newsview num10">10위</em> <strong class="tit_g"> <a class="link_txt @10" href="https://search.daum.net/search?w=tot&amp;q=%EC%95%88%ED%98%84%EB%AA%A8&amp;DA=23K&amp;rtmaxcoll=DRU,1TH">안현모</a> </strong> </li>
+</ol>
+</div> </li>
+<li><a class="link_tab link_tab4" href="#search_rank_sports">스포츠</a>
+<div class="cont_aside" id="search_rank_sports">
+<strong class="screen_out">스포츠</strong>
+<ol class="list_ranking #right #search_keyword">
+<li> <em class="num_newsview num1">1위</em> <strong class="tit_g"> <a class="link_txt @1" href="https://search.daum.net/search?w=tot&amp;q=%EB%A7%88%EC%9D%B4%ED%81%B4+%EC%A1%B0%EB%8D%98&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">마이클 조던</a> </strong> </li>
+<li> <em class="num_newsview num2">2위</em> <strong class="tit_g"> <a class="link_txt @2" href="https://search.daum.net/search?w=tot&amp;q=%EB%A5%B4%EB%B8%8C%EB%A1%A0+%EC%A0%9C%EC%9E%84%EC%8A%A4&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">르브론 제임스</a> </strong> </li>
+<li> <em class="num_newsview num3">3위</em> <strong class="tit_g"> <a class="link_txt @3" href="https://search.daum.net/search?w=tot&amp;q=%EC%A0%95%ED%83%9C%EC%9A%B1&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">정태욱</a> </strong> </li>
+<li> <em class="num_newsview num4">4위</em> <strong class="tit_g"> <a class="link_txt @4" href="https://search.daum.net/search?w=tot&amp;q=rip&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">rip</a> </strong> </li>
+<li> <em class="num_newsview num5">5위</em> <strong class="tit_g"> <a class="link_txt @5" href="https://search.daum.net/search?w=tot&amp;q=%EC%A0%95%EC%9A%B0%EC%98%81&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">정우영</a> </strong> </li>
+</ol>
+<ol class="list_ranking #right #search_keyword">
+<li> <em class="num_newsview num6">6위</em> <strong class="tit_g"> <a class="link_txt @6" href="https://search.daum.net/search?w=tot&amp;q=%ED%8C%8C%EB%A8%B8%EC%8A%A4+%EC%9D%B8%EC%8A%88%EC%96%B4%EB%9F%B0%EC%8A%A4+%EC%98%A4%ED%94%88&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">파머스 인슈어런스 오픈</a> </strong> </li>
+<li> <em class="num_newsview num7">7위</em> <strong class="tit_g"> <a class="link_txt @7" href="https://search.daum.net/search?w=tot&amp;q=%EB%8B%A4%EB%8B%88%EC%97%98+%EA%B0%95&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">다니엘 강</a> </strong> </li>
+<li> <em class="num_newsview num8">8위</em> <strong class="tit_g"> <a class="link_txt @8" href="https://search.daum.net/search?w=tot&amp;q=%EC%86%A1%EB%B2%94%EA%B7%BC&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">송범근</a> </strong> </li>
+<li> <em class="num_newsview num9">9위</em> <strong class="tit_g"> <a class="link_txt @9" href="https://search.daum.net/search?w=tot&amp;q=%EA%B9%80%ED%95%99%EB%B2%94&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">김학범</a> </strong> </li>
+<li> <em class="num_newsview num10">10위</em> <strong class="tit_g"> <a class="link_txt @10" href="https://search.daum.net/search?w=tot&amp;q=%EC%97%AC%EC%9E%90%EB%8B%B9%EA%B5%AC&amp;DA=23J&amp;rtmaxcoll=MBK,1TH">여자당구</a> </strong> </li>
+</ol>
+</div> </li>
+</ul>
+</div>
+<ins class="daum_ddn_area aside_g aside_ad hc_news_pc_mAside_asideBottomAd" data-ad-height="250" data-ad-type="D" data-ad-unit="0QH44" data-ad-width="250" style="display:block;width:250px;height:250px;"></ins>
+</div>
+</div>
+<div class="hcg_media_pc_cEtc" id="cEtc">
+<div class="realtime_view">
+<div class="inner_realtime">
+<div class="realtime_news hc_news_pc_cEtc_realtime_news_201904">
+<h3 class="txt_newsview">이 시각 추천뉴스</h3>
+<ul class="list_realtime"></ul>
+</div>
+<div class="realtime_aside" id="realtime_aside">
+<div class="aside_g aside_issue hc_news_pc_cEtc_realtimeIssue">
+<h3 class="txt_newsview">실시간 주요이슈</h3>
+<span class="info_aside">2020.01.27. 14:43 기준</span>
+<div class="cont_aside">
+<ul class="list_issue">
+<li> <a class="link_thumb" href="http://media.daum.net/issue/5008621"> <img alt="" class="thumb_g" height="54" src="https://img1.daumcdn.net/thumb/S168x108.q70/?fname=https://t1.daumcdn.net/news/202001/27/yonhap/20200127142415115opav.jpg" width="84"/> </a>
+<div class="cont_thumb">
+<strong class="tit_thumb"> <a class="link_txt" href="http://media.daum.net/issue/5008621">신종코로나바이러스 확산</a> </strong>
+</div> </li>
+<li> <a class="link_thumb" href="http://media.daum.net/issue/735628"> <img alt="" class="thumb_g" height="54" src="https://img1.daumcdn.net/thumb/S168x108.q70/?fname=https://t1.daumcdn.net/news/202001/27/NEWS1/20200127140014282ogon.jpg" width="84"/> </a>
+<div class="cont_thumb">
+<strong class="tit_thumb"> <a class="link_txt" href="http://media.daum.net/issue/735628">'양승태대법원' 사법농단</a> </strong>
+</div> </li>
+<li> <a class="link_thumb" href="http://media.daum.net/issue/1516073"> <img alt="" class="thumb_g" height="54" src="https://img1.daumcdn.net/thumb/S168x108.q70/?fname=https://t1.daumcdn.net/news/202001/27/NEWS1/20200127112349632choq.jpg" width="84"/> </a>
+<div class="cont_thumb">
+<strong class="tit_thumb"> <a class="link_txt" href="http://media.daum.net/issue/1516073">北, 발사체 발사</a> </strong>
+</div> </li>
+</ul>
+</div>
+</div>
+<div class="shopad_news aside_g aside_shopping hc_news_pc_cEtc_shopping" id="daum-sfocus-root"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- // kakaoContent -->
+<hr class="hide"/>
+<div class="hcg_media_pc_translation_status">
+<!-- 번역중 -->
+<div class="translate_layer" id="translatingLayer">
+<!-- 레이어 열리면 display:block; 스타일 추가 -->
+<div class="inner_translate_layer">
+<div class="layer_body">
+<strong class="tit_translate"> 번역중 <span class="eng_tit">Now in translation</span> </strong>
+</div>
+</div>
+</div>
+<!-- 번역 오류 -->
+<div class="translate_layer" id="translateErrorLayer">
+<!-- 레이어 열리면 display:block; 스타일 추가 -->
+<div class="inner_translate_layer inner_error_layer">
+<div class="layer_body">
+<span class="ico_newsview ico_error"></span>
+<strong class="tit_translate"> 잠시 후 다시 시도해 주세요 <span class="eng_tit">Please try again in a moment</span> </strong>
+</div>
+</div>
+</div>
+</div>
+<!-- 번역상태 레이어 -->
+<div class="footer_comm hcg_media_pc_kakaoFoot" id="kakaoFoot" role="contentinfo">
+<div class="inner_foot">
+<div class="direct_link">
+<h2 class="tit_direct">바로가기</h2>
+<div class="item_bundle">
+<a class="link_txt" href="http://media.daum.net/">뉴스홈</a>
+<a class="link_txt" href="http://media.daum.net/society/">사회</a>
+<a class="link_txt" href="http://media.daum.net/politics/">정치</a>
+<a class="link_txt" href="http://media.daum.net/economic/">경제</a>
+<a class="link_txt" href="http://media.daum.net/foreign/">국제</a>
+<a class="link_txt" href="http://media.daum.net/culture/">문화</a>
+<a class="link_txt" href="http://media.daum.net/digital/">IT</a>
+<a class="link_txt" href="http://media.daum.net/photo/">포토</a>
+<a class="link_txt" href="http://media.daum.net/tv/">TV</a>
+</div>
+<div class="item_bundle">
+<a class="link_txt" href="http://media.daum.net/issue/">이슈</a>
+</div>
+<div class="item_bundle">
+<a class="link_txt" href="http://media.daum.net/cp/">언론사별 뉴스</a>
+</div>
+<div class="item_bundle">
+<a class="link_txt" href="http://media.daum.net/newsbox/">배열이력</a>
+</div>
+<div class="item_bundle">
+<a class="link_txt" href="http://media.daum.net/breakingnews/">전체뉴스</a>
+<a class="link_txt" href="http://media.daum.net/ranking/popular/">랭킹</a>
+<a class="link_txt" href="http://media.daum.net/series/">연재</a>
+<a class="link_txt" href="http://media.daum.net/1boon/">1boon</a>
+</div>
+<button class="btn_fold" type="button"><span class="ico_news">바로가기 링크 더보기/접기</span></button>
+</div>
+<h2 class="screen_out">서비스 이용정보</h2>
+<div class="footer_link">
+<a class="link_info" href="https://media.daum.net/info/intro.html">다음뉴스 소개</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="https://media.daum.net/info/notice/">공지사항</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="https://news.daum.net/info/bbsrule">게시물 운영원칙</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="http://policy.daum.net/info/info">서비스 약관/정책</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="https://with.kakao.com/media">뉴스제휴</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="https://business.kakao.com/">비즈니스</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="https://cs.daum.net/redbell/top.html">권리침해신고</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="https://cs.daum.net/faq/63.html">다음뉴스 고객센터</a>
+</div>
+<div class="footer_link">
+<a class="link_info" href="https://news.daum.net/info/newscenter24">24시간 뉴스센터</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="https://news.daum.net/info/edit">서비스원칙</a>
+<span class="txt_dot"> ・ </span>
+<a class="link_info" href="https://news.daum.net/info/correct">바로잡습니다</a>
+<span class="txt_dot"> ・ </span>
+<span class="link_info">기사배열책임자 : 손정아</span>
+<span class="txt_dot"> ・ </span>
+<span class="link_info">청소년보호책임자 : 권대열</span>
+</div>
+<div class="info_copyright">
+<strong class="info_warn">위 내용에 대한 저작권 및 법적 책임은 자료제공사 또는 <br/>글쓴이에 있으며, Kakao의 입장과 다를 수 있습니다.</strong>
+<small class="txt_copyright">Copyright © <strong class="txt_kakao"><a class="link_kakao" href="http://www.kakaocorp.com/">Kakao Corp.</a></strong> All rights reserved.</small>
+</div>
+</div>
+</div>
+<div id="wrapMinidaum"></div>
+</div>
+<div class="hcg_media_pc_last_js">
+<div class="hc_gallery_icon_on_image"></div>
+</div>
+<div class="hcg_common_new_tiara">
+<div class="hc_common_new_tiara_click_helper">
+</div>
+</div>
+<script src="//t1.daumcdn.net/harmony_static/view_cloud/2019/07/01/183439/media/common_pc.js" type="text/javascript"></script>
+<script>
+      document.domain = 'daum.net';
+      window.docId = 'imTFNtV9f2';
+      window.newsId = '20160922110052017';
+      window.serviceId = 'news';
+      window.title = '삼성전자, 삼성 갤럭시 프로게임단에 모니터 후원';
+      window.uccStatus = true;
+      window.realMode = 'true' == 'true' ? true : false;
+      window.isDaumApp = 'false' == 'true' ? true : false;
+      window.layoutId = 'media_pc';
+      window.cpId = '5';
+      window.mc2Connect = new Mc2.Mc2ConnectV2({
+        contentId: 'news,' + window.newsId,
+        clusterType: 'author,issuecluster,series,planning,tv,video',
+        clusterSize: 1,
+        contentsType: 'news',
+        contentsCount: 5
+      });
+    </script>
+<script>
+            var ttsPlayerSrcMap = {};
+          </script>
+<script>
+              var dmcfLanguage = 'ko';
+          	</script>
+<script src="//t1.daumcdn.net/daumtop_deco/socialshare/socialshare_nocss_pc-2.3.1.js"></script>
+<script src="//t1.daumcdn.net/section/uoclike/20180727165723/uoclike.js"></script>
+<script class="hc_news_pc_mArticle_recommend_ad" type="text/javascript">
+function cmRenderFailCallBack(arg1) {
+  arg1.parentElement.removeChild(arg1);
+}
+</script>
+<script>
+        (function(){
+          window.excludeCorejs = true;
+          window.alexConfig = {
+            label: {emptyImage: '//i1.daumcdn.net/img-section/enter2013/liveviewer/pc_emot_co.gif'}
+          };     
+
+             })();
+      </script>
+<script src="//comment.daum.net/js/latest/alex.single.min.js"></script>
+<script type="text/javascript">
+       // s2graph insert
+        _s2Imps = 'undefined' !== typeof _s2Imps ? _s2Imps : [];
+        _s2Imps.push('{"timestamp":@@timestamp@@,"to":"' + window.newsId + '","label":"mediadaum_v2_user_doc_read","from":"@@userKey@@","props":{"service_id":"n","category":"IT","view_from":"others","url":"' + location.href + '" @@mediadaum_v2_user_doc_read@@}}');
+        
+        // send s2graph imp request after 2000 ms
+        setTimeout(function(){
+			try {
+                $.ajax({ 
+                    url: 'https://api.v.daum.net/s2/insert',
+                    method: 'get',
+                    dataType: 'jsonp',
+                    jsonpCallback: "pc_realtime_news_imp",
+                    data: {"body": _s2Imps.join("@@@")}
+                }).complete(function(impResult) {
+                });
+            } catch(e) {
+                console.log('error sending imp', e); 
+            }
+        }, 2000);
+    </script>
+<script src="//search1.daumcdn.net/search/statics/common/js/g/search_dragselection.min.js"></script>
+<script src="//t1.daumcdn.net/tiara/js/v1/tiara.js" type="text/javascript"></script>
+<script>
+(function($){
+  const DOMPATH_REG = /#([0-9a-zA-Z_@\.\-]+)/g;
+  const DOMID_REG = /^([0-9a-zA-Z_\.\-]+)$/;
+  const CONTENTNO_REG = /@([0-9a-zA-Z_:\.\-]+)/;
+  const CONTENTINFO_REG = /\?([0-9a-zA-Z_:=&+%\.\-\/]+)/;
+  const C_TITLE_REG = /^c_title=.+/;
+  const pageMeta = window.__pageMeta;
+  const regFind = (reg, str) => {
+    return reg.exec(str);
+  };
+  const getNodeIndex = (node, className) => {
+    if (node && node.parentNode) {
+      let childNodes = node.parentNode.childNodes,
+        j = 0;
+      for (let i = 0, j = -1; i < childNodes.length; i++) {
+        let cnode = childNodes[i];
+        if ((cnode && cnode.nodeType !== 1) || cnode.tagName !== node.tagName) {
+          continue;
+        }
+        if (className !== '') {
+          if (
+            'undefined' !== typeof cnode.className &&
+            cnode.className.indexOf(className) !== -1
+          ) {
+            j++;
+            if (cnode === node) {
+              break;
+            }
+          }
+        } else {
+          j++;
+          if (cnode === node) {
+            break;
+          }
+        }
+      }
+      return j;
+    }
+    return 0;
+  };
+  const logClickEvent = e => {
+    const evt = e || window.event;
+    // let content = {
+    //   id: ARTICLE_ID, // [필수] 콘텐츠 고유번호
+    //   name: TITLE, // [필수] 콘텐츠 제목
+    //   type: 'article', // [필수] 콘텐츠 타입(video,music,webtoon,article,commerce)
+    //   category: SERVICE_KEY, // [선택] 카테고리
+    //   tags: TAG, // [선택] 태그정보 (복수개일 경우 ,로 구분)
+    //   author: EDITOR, // [선택/있을경우 필수] 저자 (저자가 복수일 경우 ,로 구분)
+    //   author_id: EDITOR, // [선택/있을경우 필수] 저자 고유번호 (UserID, 계정ID, 내부아이디 - 복수일 경우 복수에 대한 고유값)
+    //   provider: CATEGORY_TITLE, // [선택/있을경우 필수] 제공자
+    //   provider_id: CP_ID, // [선택/있을경우 필수] 제공자 고유번호
+    //   regdate: $('meta[name="date"]').attr('content'), // [선택] 콘텐츠 등록일
+    //   plink: META_URL, // [선택/있을경우 필수] perma link
+    //   image: leaderImage, // [선택] 대표 이미지
+    //   media: TIARA_MEDIA, // [선택] 제공방식 (노출시) web, app, flash
+    //   viewer: 'scroll',
+    //   harmony_consumer_id: CPINFO // 카카오하모니 consumerId
+    // };
+    let node = evt.scrElement || evt.target,
+      domPath = [],
+      stopPathTree = false,
+      click = {},
+      layer = ['layer1', 'layer2', 'layer3'],
+      domTree = [],
+      copyIgnore = false,
+      info = {},
+      targetMeta={},
+      __conf = {},
+        actionKind = 'ClickContent';
+    while (node && 'string' === typeof node.tagName && node.tagName !== 'BODY') {
+      if (node.nodeType === 1 && node.tagName !== 'FORM') {
+        if ('string' === typeof node.id && node.id) {
+          if (DOMID_REG.test(node.id)) {
+            domTree.push('#' + node.id);
+          }
+        } else {
+          let className = '';
+          let nodeIndex = '';
+          if ('string' === typeof node.className && node.className) {
+            if (node.classList && node.classList.length !== 0) {
+              className = node.classList[0];
+            } else {
+              className = node.className.replace(/^\s+/, '').split(' ')[0];
+            }
+            if (className !== '') {
+              className = className.replace(CONTENTNO_REG, '');
+              className = className.replace(DOMPATH_REG, '');
+            }
+          }
+          let pos = getNodeIndex(node, className);
+          if (pos > 0) {
+            nodeIndex = ':eq(' + pos + ')';
+          }
+          if (className !== '') {
+            className = '.' + className;
+          }
+          domTree.push(node.nodeName.toLowerCase() + className + nodeIndex);
+        }
+        if ('string' === typeof node.className && node.className) {
+          let res,
+            cno_index = node.className.indexOf('@');
+          if (cno_index !== -1 && 'undefined' === typeof click.ordnum) {
+            if (node.className.indexOf('@ignore') !== -1) {
+              copyIgnore = true;
+            } else {
+              res = regFind(CONTENTNO_REG, node.className);
+              if (res && res.length > 1) {
+                click.ordnum = res[1].toLowerCase();
+              }
+            }
+          }
+          if (
+            cno_index !== -1 &&
+            /(?:^|\s)@(op)(.*?)(?:\s|$)/.test(node.className)
+          ) {
+            click.op = 'op';
+          }
+          if (!stopPathTree && node.className.indexOf('#') > -1) {
+            res = node.className.match(DOMPATH_REG);
+            if (res) {
+              switch (res.length) {
+                case 1:
+                  domPath.push(res[0].substring(1).toLowerCase());
+                  break;
+                default:
+                  stopPathTree = true;
+                  for (let i = res.length; i > 0; i--) {
+                    domPath.push(res[i - 1].substring(1).toLowerCase());
+                  }
+              }
+            }
+          }
+        }
+        if (
+          node.tagName === 'IMG' &&
+          node.src &&
+          'undefined' === typeof click.image
+        ) {
+          click.image = node.src || '';
+          if (node.alt) {
+            click.copy = node.alt;
+          }
+        }
+
+        if (
+          node.tagName === 'A' ||
+          node.tagName === 'AREA' ||
+          (node.tagName === 'BUTTON')
+        ) {
+
+          click.click_url = node.href || '';
+          if (node.tagName === 'BUTTON') {
+            click.click_url = location.href || '';
+          }
+          if (__conf.disableQuery) {
+            let posQ = click.click_url.indexOf('?');
+            click.click_url =
+              posQ === -1 ? click.click_url : click.click_url.substring(0, posQ);
+          }
+          let copy = node.innerHTML
+            .replace(/\<br([^\>]+)?\>/gi, ' ')
+            .replace(/(\<([^\>]+)\>|\r\n|\n|\r)/gm, ' ')
+            .replace(/(\s+)/gm, ' ');
+          if ('function' === typeof copy.trim) {
+            copy = copy.trim();
+          } else {
+            copy = copy.replace(/^\s+|\s+$|/gm, '');
+          }
+          if (copy.length !== 0) {
+            click.copy = copy.substring(0, 100);
+          }
+          if ('undefined' === typeof click.image) {
+            let img = node.getElementsByTagName('IMG')[0];
+            if (img && img.src) {
+              click.image = img.src;
+              if (copy.length === 0 && img.alt) {
+                copy = img.alt.replace(/^\s+|\s+$/gm, '').replace(/(\s+)/gm, ' ');
+                if (copy.length !== 0) {
+                  click.copy = copy.substring(0, 100);
+                }
+              }
+            }
+          }
+
+          if (
+            'undefined' !== typeof node.className &&
+            node.className.indexOf('?') > -1 &&
+            'undefined' === typeof click.cinfo
+          ) {          
+            let cinfo = regFind(CONTENTINFO_REG, node.className);
+            if (cinfo && cinfo.length > 1) {
+              info['cinfo'] = cinfo[1];
+
+              // cinfo 안에 c_title이 있는 경우엔 c_copy로 강제 사용
+              let infos = cinfo[1].split('&');
+              for (let i = 0; i < infos.length; i++) {
+                let cTitle = regFind(C_TITLE_REG, infos[i]);
+                if (cTitle && cTitle.length > 0) {
+                  let splitTitle = cTitle[0].split('=');
+                  let copy = decodeURIComponent(
+                    splitTitle[1].replace(/\+/g, ' ')
+                  );
+                  if ('function' === typeof copy.trim) {
+                    copy = copy.trim();
+                  } else {
+                    copy = copy.replace(/^\s+|\s+$|/gm, '');
+                  }
+                  if (copy.length !== 0) {
+                    click.copy = copy.substring(0, 100);
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      if ('string' === typeof node.id && node.id === __conf.rootId) {
+        break;
+      }
+      if (node.parentNode) {
+        node = node.parentNode;
+      } else {
+        break;
+      }
+    }
+    if (copyIgnore) {
+      click.copy = '';
+      click.image = '';
+    }
+    click.dtree = domTree.reverse().join(' ');
+    let cnt = 0;
+    while (domPath.length > 0) {
+      let click_layer = domPath.pop();
+      click[layer[cnt]] = click_layer;
+      cnt++;
+    }
+    if(typeof click.click_url === 'string' && click.click_url.length > 5 && click.click_url.indexOf('javascript') === -1){
+      click.posx = e.pageX;
+      click.posy = e.pageY;
+      const clickInfo = TiaraTracker.getClickInfo(e);
+      const actionName = (clickInfo.action && clickInfo.action.name) ? clickInfo.action.name : '클릭';
+      const eventMeta = clickInfo.eventMeta;
+      TiaraTracker.getInstance()
+        .trackEvent(actionName)
+        .click(click)
+        .pageMeta(pageMeta)
+        .eventMeta(eventMeta)
+        .actionKind(actionKind)
+        .track();  
+    }
+  };
+  window.__logClickEvent = logClickEvent;
+})(jQuery);
+  </script>
+<script>
+  (function($){
+    const isIOS = /iP[ao]d|iPhone/i.test(navigator.userAgent.toLowerCase());
+    const beforeUnloadEventName = isIOS ? "pagehide" : "beforeunload";
+    const addEvent = function (target, evt, fn, capture) {
+      target.addEventListener ? target.addEventListener(evt, fn, !!capture) : target.attachEvent('on' + evt, fn);
+    };
+    const removeEvent = function(target, evt, fn, capture) {
+      target.removeEventListener ? target.removeEventListener(evt, fn, !!capture) : target.detachEvent('on' + evt, fn);
+    };
+    
+    const config = {
+      svcDomain: $( 'meta[name="svcdomain"]' ).attr( 'content' ) || location.host
+    };
+
+    const pageMeta = {
+      "id": "20160922110052017",
+      "type": "article",
+      "harmony_consumer_id": "media",
+      "name": "삼성전자, 삼성 갤럭시 프로게임단에 모니터 후원",
+      "default_category_id": "100031",
+      "category": "digital",
+      "author": "김성은 기자",
+      "author_id": "gttsw@mt.co.kr",
+      "provider": "머니투데이",
+      "provider_id": "5",
+      "regdate": "2016-09-22 11:00:51", // 등록일
+      "plink": $("meta[name=plink]").attr("content"),
+      "image": "https://t1.daumcdn.net/news/201609/22/moneytoday/20160922110051596fdwp.jpg", // 대표 이미지
+      "media":  "pcweb"
+    };
+
+    TiaraTracker.getInstance()
+      .init(config)
+      .setPage(window.__tiaraPageName || 'newsview')
+      .setSection(window.__tiaraSection || 'news')
+      .pageMeta(pageMeta)
+      .trackPage('기사뷰')
+      .actionKind('ViewContent')
+      .track();
+
+
+    const startTime = new Date();
+    const trackUsage = function() {
+      const duration = new Date().getTime() - startTime.getTime();
+      const scrollTop = $(window).scrollTop();
+      const scrollInnerHeight = $(window).height();
+      const scrollBottom = scrollTop + scrollInnerHeight;
+      const scrollHeight = $(document).height();
+
+      const usage = {
+        duration: duration,
+        scroll_percent: scrollBottom/scrollHeight,
+        scroll_height: scrollHeight,
+        scroll_top: scrollTop,
+        scroll_inner_height: scrollInnerHeight,
+        scroll_bottom: scrollBottom
+      };   
+      TiaraTracker.getInstance()
+        .trackUsage()
+        .usage(usage)
+      	.pageMeta(pageMeta)
+        .track();
+
+      removeEvent(window, beforeUnloadEventName, trackUsage);
+    }
+    addEvent(window, beforeUnloadEventName, trackUsage);
+    addEvent(document, 'mousedown', __logClickEvent, false)
+  })(jQuery);
+  </script>
+<script>
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hc_common_new_tiara_click_helper\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hc_news_pc_cEtc_realtimeIssue\x22));"));
+
+(0,eval("(function(elements){\n(function($) {\n    var target \x3d elements[0];\n\n    // \ucd08\uae30 \ub79c\ub354\ub9c1 \uac2f\uc218\n    var initialRenderSize \x3d 12;\n    var imageBoxSize \x3d 2;\n\n    // toros\n    var toros \x3d new Toros.TorosConnect({\n        id: \x27jBCtOFwcFU\x27,\n        query: {\n            itemid: window.newsId,\n            category: \x27news\x27\n        },\n        source: window.newsId,\n        svc: \x27mediadaum_sim\x27,\n        impLabel: \x27toros_mediadaum_sim_imp\x27,\n        viewableLabel: \x27toros_mediadaum_sim_vimp\x27,\n        clickLabel: \x27toros_mediadaum_sim_click\x27,\n        target: target.querySelector(\x27.list_realtime\x27),\n        renderSize: initialRenderSize,\n        manipulate: function(result) {\n            var oldResults \x3d result.results;\n            var newResults \x3d [];\n\n            // Image 2\uac1c\n            var imageItems \x3d _.filter(oldResults, function(item) {\n                return (item.image);\n            }).slice(0, imageBoxSize);\n\n          \t// Image box\uc6a9\uc774\ub77c\uace0 \ud45c\uc2dc\ud55c\ub2e4 ( template \uc5d0\uc11c \uc774\uc6a9 ) \n            // \ucca8\uc5b8) \ub9c8\ud06c\uc5c5 \uad6c\uc870\uac00 \ub0b4\ub9bc\uc21c\uc73c\ub85c \ub79c\ub354\ub9c1\ud574\ub3c4 \ub41c\ub2e4\uba74 \uc774\ub7f0 \ubed8\uc9d3\uc740 \uc548\ud574\ub3c4 \ub420 \uac83\uc784.. \ub9c8\ud06c\uc5c5\uc758 \uc911\uc694\uc131 !!\n            imageItems \x3d _.map(imageItems, function(item) {\n                item.isImageBox \x3d true;\n                return item\n            });\n\n            // Image \ube7c\uace0 \ub098\uba38\uc9c0\n            var otherItems \x3d _.reject(oldResults, function(item) {\n                return (item._id \x3d\x3d imageItems[0]._id || item._id \x3d\x3d imageItems[1]._id)\n            });\n\n            // \ub9c8\ud06c\uc5c5 \uc21c\uc11c\ub370\ub85c \ub370\uc774\ud130 \ub9cc\ub4e4\uae30 \ud3ec\ud1a0\ubc15\uc2a41\uac1c + \uc77c\ubc18 5\uac1c \x3d\x3e 2\uc138\ud2b8\n            newResults \x3d newResults.concat(imageItems.splice(0, 1));\n            newResults \x3d newResults.concat(otherItems.splice(0, 5));\n            newResults \x3d newResults.concat(imageItems.splice(0, 1));\n            newResults \x3d newResults.concat(otherItems.splice(0, 5));\n\n            result.results \x3d newResults;\n            return result;\n        },\n        filter: function(item, idx) {\n            item.url \x3d \x22https://v.daum.net/v/\x22 + item.newsid;\n            return item;\n        },\n        template: \x27\x3c% if (obj.isImageBox) { %\x3e\\\n                      \x3cli class\x3d\x22item_main\x22\x3e\\\n\t\t\t\t\t\t \x3ca class\x3d\x22link_cont #bottom #mainnews #photo @\x3c%\x3dobj._idx%\x3e\x22 href\x3d\x22\x3c%\x3dobj.url%\x3e\x22\x3e\\\n                          \x3cspan class\x3d\x22wrap_thumb\x22\x3e\\\n                              \x3cimg class\x3d\x22thumb_g\x22 src\x3d\x22//img1.daumcdn.net/thumb/S570x320/?fname\x3d\x3c%\x3dobj.image%\x3e\x22 /\x3e\\\n                          \x3c/span\x3e\\\n                          \x3cstrong class\x3d\x22tit_thumb\x22\x3e\x3c%\x3dobj.title%\x3e\x3c/strong\x3e\\\n                         \x3c/a\x3e\\\n\t\t\t\t\t  \x3c/li\x3e\\\n                  \x3c% } else { %\x3e\\\n                      \x3cli\x3e\x3cstrong class\x3d\x22tit_g\x22\x3e\\\n                          \x3cspan class\x3d\x22info_news\x22\x3e\x3c%\x3dobj.cp_name%\x3e\x3c/span\x3e\\\n                          \x3ca class\x3d\x22link_txt #bottom #mainnews #news_list @\x3c%\x3dobj._idx%\x3e\x22 href\x3d\x22\x3c%\x3dobj.url%\x3e\x22\x3e\x3c%\x3dobj.testIdx%\x3e\x3c%\x3dobj.title%\x3e\x3c/a\x3e\\\n                      \x3c/strong\x3e\x3c/li\x3e\\\n                  \x3c% } %\x3e\x27\n    });\n})(window.jQuery);\n})(document.querySelectorAll(\x22.hc_news_pc_cEtc_realtime_news_201904\x22));"));
+
+(0,eval("(function(elements){\nwindow.daum_sfocus_adunit \x3d \x27DAU-f6a75279b\x27;\nwindow.daum_sfocus_cp \x3d window.cpId + \x27_pc_media_news\x27;\nwindow.daum_sfocus_channel \x3d \x27harmony\x27;\n(function (d) {\n  var a \x3d d.createElement(\x27script\x27);\n  a.type \x3d \x27text/javascript\x27;\n  a.async \x3d true;\n  a.src \x3d \x27//keyword.ad.daum.net/script/load_sfocus.js\x27;\n  var s \x3d d.getElementsByTagName(\x27script\x27)[0];\n  s.parentNode.insertBefore(a, s);\n})(self.document);\n})(document.querySelectorAll(\x22.hc_news_pc_cEtc_shopping\x22));"));
+
+(0,eval("(function(elements){\n(function($) {\n  var DEFAULT_FONTSIZE \x3d 17;\n  var COOKIE_NAME \x3d \x27GS_font_size\x27;\n  var $elements \x3d $(elements);\n  var $newsview \x3d $(\x27.news_view\x27);\n  var $listFont \x3d $elements.find(\x27.list_font\x27);\n\n  var fontSize \x3d Cookies.get(COOKIE_NAME) || DEFAULT_FONTSIZE;\n  var fontLayer \x3d $elements;\n  var fontBtn \x3d $elements.find(\x27.btn_font\x27);\n  var radioEl \x3d $elements.find(\x27.list_font input\x27);\n\n  accessibleLayer({layer: fontLayer, btn: fontBtn, input: radioEl});\n  function accessibleLayer(options) {\n    var layer \x3d options.layer;\n    var btn \x3d options.btn;\n    var input \x3d options.input;\n    var tid;\n    var isMouseOn \x3d false;\n    var showLayer \x3d function() {\n      clearTimeout(tid);\n      layer.addClass(\x27layer_open\x27);\n      btn.attr(\x27aria-expanded\x27, true);\n    }\n    var hideLayer \x3d function() {\n      layer.removeClass(\x27layer_open\x27);\n      btn.attr(\x27aria-expanded\x27, false);\n    }\n    var delayHideLayer \x3d function() {\n      tid \x3d setTimeout(hideLayer, 1);\n    }\n    var checkMouseAndHideLayer \x3d function() {\n      if (!isMouseOn) delayHideLayer();\n    }\n\n    layer.on(\x27mouseover\x27, function() {\n      isMouseOn \x3d true;\n      showLayer();\n    });\n    layer.on(\x27mouseleave\x27, function() {\n      isMouseOn \x3d false;\n      hideLayer();\n    });\n    btn.on(\x27focus\x27, showLayer);\n    btn.on(\x27blur\x27, checkMouseAndHideLayer);\n    input.on(\x27focus\x27, showLayer);\n    input.on(\x27blur\x27, checkMouseAndHideLayer);\n  }\n\n  accessibleInput({options: $elements.find(\x27.ico_newsview\x27), input: radioEl});\n  function accessibleInput(opt) {\n    var options \x3d opt.options;\n    var input \x3d opt.input;\n    options.on(\x27mouseover\x27, function(event) {\n      $(this).addClass(\x27ico_focused\x27);\n    });\n    options.on(\x27mouseleave\x27, function(event) {\n      $(this).removeClass(\x27ico_focused\x27);\n    });\n    input.on(\x27focus\x27, function() {\n      $(this).next().find(\x27span\x27).addClass(\x27ico_focused\x27);\n    });\n    input.on(\x27blur\x27, function() {\n      $(this).next().find(\x27span\x27).removeClass(\x27ico_focused\x27);\n    });\n  }\n\n\n  function setFontSize(fontSize) {\n    $newsview.css(\x27font-size\x27, fontSize + \x27px\x27);\n    $(\x22#inpFont\x22 + fontSize).prop(\x22checked\x22, true);\n    $(\x27label\x27, $listFont).removeClass(\x27on\x27);\n    $(\x27label[for\x3dinpFont\x27 + fontSize + \x27]\x27, $listFont).addClass(\x27on\x27);\n    // \uc774\uc804 \uc0dd\uc131 \ub3c4\uba54\uc778\ucfe0\ud0a4\ub97c \uc0ad\uc81c\ud558\uc5ec \ud3f0\ud2b8\uc124\uc815\uc548\ub418\ub294 \ubb38\uc81c\ub97c \ud574\uacb0 ( 1\uc8fc\uc77c\uac04 \uc720\uc9c0\ud558\uace0 2\uc6d4 14\uc77c\uc5d0 \ub85c\uc9c1\uc0ad\uc81c \uc608\uc815 ) \n    Cookies.set(COOKIE_NAME, \x27\x27, {domain:\x27.media.daum.net\x27, expires:-1});\n    Cookies.set(COOKIE_NAME, \x27\x27, {domain:\x27.daum.net\x27, expires:-1});\n    Cookies.set(COOKIE_NAME, fontSize, {expires: 365});\n  }\n\n  //$(\x27#btn_font_save\x27).click(function(event) {\n  //\tsetFontSize($(\x27input[name\x3dinpFont]:checked\x27, $listFont).val(), true);\n  //\talert(\x27\ud3f0\ud2b8 \uc124\uc815\uc774 \uc800\uc7a5\ub418\uc5c8\uc2b5\ub2c8\ub2e4.\x27);\n  //});\n\n  radioEl.change(function(event) {\n    setFontSize($(this).val());\n  });\n\n  setFontSize(fontSize);\n})(jQuery);\n})(document.querySelectorAll(\x22.hc_news_pc_cSub_fontSizeController\x22));"));
+
+(0,eval("(function(elements){\njQuery(elements).on(\x27click\x27, function(e) {\n\te.preventDefault();\n\twindow.open(\x27?s\x3dprint_view\x27, \x27newsPrint\x27, \x27width\x3d750,height\x3d550,scrollbars\x3dyes\x27);\n});\n})(document.querySelectorAll(\x22.hc_news_pc_cSub_printButton\x22));"));
+
+(0,eval("(function(elements){\n(function($) {\n  var KAKAO_APP_KEY \x3d \x2753e566aa17534bc816eb1b5d8f7415ee\x27; //\uce74\uce74\uc624\ub9c1\ud06c \ub2e4\uc74c\uc571 \ubc30\ud3ec\ubc84\uc804 key\n  var requestUrl \x3d \x27https://\x27 + location.host + \x27/v/\x27 + (window.newsId || window.docId);\n  var title \x3d $(\x27\x3cdiv/\x3e\x27).html(window.title).text();\n\n\n  // \ud15c\ud50c\ub9bf\uc758 \ud615\ud0dc\ub294 \ub370\ubaa8\ud398\uc774\uc9c0\uc758 \uce74\uce74\uc624\ud1a1 \uacf5\uc720 \uae30\ub2a5\uc73c\ub85c \ud655\uc778\ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4.\n  // \uce74\uce74\uc624\ud1a1 \ub9c1\ud06c4.0 \ud15c\ud50c\ub9bf \ucc38\uace0 \ubb38\uc11c -- https://developers.kakao.com/docs/js-reference\n  // url \uc8fc\uc18c\ub294 http:// \ub098 https:// \ud504\ub85c\ud1a0\ucf5c\uc744 \ud3ec\ud568\ud55c \ud615\ud0dc\ub85c \uae30\uc785 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4.\n  // ************************************************* \uce74\ud1a1\ub9c1\ud06c 4.0 \uc5d0 \ud544\uc694\ud55c \ub370\uc774\ud130 \uc591\uc2dd *******************************************************************************\n\n  //\uae30\ubcf8\ud615 - OG \ub370\uc774\ud130\n  var KAKAO_LINK_OG_DATA \x3d {\n    shareType : \x27sendScrap\x27,\n    shareData : {\n      templateId: 7952,\n      installTalk: true,\n      requestUrl: requestUrl,\n      templateArgs: {\n        //\ub2e4\uc74c\uc571\uc5d0\uc11c \uc5f4\uae30\uc704\ud55c \ub9c1\ud06c\n        \x27${EncodingUrl}\x27: encodeURIComponent(requestUrl),\n        //pc, mac\uc5d0\uc11c \uc5f4\uae30\uc704\ud55c \ub9c1\ud06c\n        \x27${webUrl}\x27: requestUrl + \x27?f\x3dp\x27,\n        //\uc778\uc571\ube0c\ub77c\uc6b0\uc800\uc5d0\uc11c \uc5f4\uae30\uc704\ud55c \ub9c1\ud06c\n        \x27${mobileWebUrl}\x27: requestUrl + \x27?f\x3dm\x27\n      }\n    }\n  };\n\n  var $element \x3d $(elements[0]);\n  var layerBtn \x3d $element.find(\x27#rSocialShareButton\x27).get(0);\n  var layerContainer \x3d $element.find(\x27#rSocialShareLayerContainer\x27).get(0);\n  var layerCloseTid \x3d null;\n  var testShare \x3d new socialshareRenewal.Main(layerBtn, {\n    moreViewContainer: layerContainer,\n    action: \x27hover\x27, // \ub808\uc774\uc5b4 \ub098\ud0c0\ub098\ub294 \ub3d9\uc791: \x27hover\x27 or \x27click\x27\n    link: requestUrl,\n    prefix: title,\n    service_name: \x27\ub2e4\uc74c\ub274\uc2a4\x27,\n    //  cafe: \x27http://m.cafe.daum.net/_dialogs/share?link\x3d\x27 + encodeURIComponent(requestUrl),\n    cafe: \x27http://scrap.cafe.daum.net/_dss_/scrap?folder_id\x3d100000\x26source_location_code\x3d10\x26target_location_code\x3d1\x26data_id\x3d\x27 + window.newsId, //\uce74\ud398 \uc2a4\ud06c\ub7a9\uc6a9 url http://wiki.daumkakao.com/pages/viewpage.action?pageId\x3d319097174 \ucc38\uace0.\n    kakaoAPI: {\n      appkey: KAKAO_APP_KEY,\n      kakaoLinkData : KAKAO_LINK_OG_DATA\n    }\n  });\n\n  function hideLayer() {\n    layerCloseTid \x3d setTimeout(function() {\n      $element.removeClass(\x22layer_open\x22);\n      layerBtn.setAttribute(\x27aria-expanded\x27, false);\n      testShare.close();\n    }, 100);\n  }\n\n  function showLayer() {\n    clearLayerTimeout();\n    $element.addClass(\x22layer_open\x22);\n    layerBtn.setAttribute(\x27aria-expanded\x27, true);\n    testShare.open();\n  }\n\n  function clearLayerTimeout() {\n    layerCloseTid \x26\x26 clearTimeout(layerCloseTid);\n  }\n\n  $(layerBtn).on(\x22mouseenter focus\x22, showLayer).on(\x22mouseleave blur\x22, hideLayer);\n  $(layerContainer).on(\x22mouseenter\x22, clearLayerTimeout).on(\x22mouseleave\x22, hideLayer);\n  $(layerContainer).find(\x22a\x22).on(\x22focus\x22, clearLayerTimeout).on(\x22blur\x22, hideLayer);\n})(window.jQuery);\n})(document.querySelectorAll(\x22.hc_news_pc_cSub_shareButtons\x22));"));
+
+(0,eval("(function(elements){\n(function($) {\n  var $elements \x3d $(elements);\n  var translateButtonLayer \x3d $elements;\t\t// $(\x22.translate_btn\x22);\n\n  var translateButton \x3d $elements.find(\x22.btn_translate\x22);\n  var translateKakaoILink \x3d $elements.find(\x22.link_kakaoi\x22);\n  var translateLanguageButton \x3d $elements.find(\x22.btn_lang\x22);\n  \n  var translatingLayer \x3d $(\x22#translatingLayer\x22);\n  var translateErrorLayer \x3d $(\x22#translateErrorLayer\x22);\n  var translateNotice \x3d $(\x22#translateNotice\x22);\n\n  var kakaoWrap \x3d $(\x22#kakaoWrap,#dkWrap\x22);\t\t// \uc601\ud654\ub294 id\uac00 \x22dkWrap\x22\n  \n  // \ud55c\uad6d\uc5b4\ub9cc \ubc88\uc5ed\ubc84\ud2bc \ud45c\uc2dc\n  if (typeof dmcfLanguage !\x3d \x27undefined\x27 \x26\x26 dmcfLanguage \x3d\x3d\x3d \x22ko\x22) {\n    translateButtonLayer.show();\n  } else {\n    return;\n  }\n\n  \n  // \ubaa8\ub4e0 \ub808\uc774\uc5b4 \uc228\uae30\ub294 \ud568\uc218\n  var hideAllLayers \x3d function () {\n    translatingLayer.css(\x22display\x22, \x22none\x22);\n    translateErrorLayer.css(\x22display\x22, \x22none\x22);\n    $(\x22body\x22).css(\x22overflow\x22, \x22\x22);\n  };\n\n  // \ubc88\uc5ed\uc911 \ub808\uc774\uc5b4 \ud45c\uc2dc\n  var showTranslatingLayer \x3d function () {\n    hideAllLayers();\n    translatingLayer.css(\x22display\x22, \x22block\x22);\n    $(\x22body\x22).css(\x22overflow\x22, \x22hidden\x22);\n  };\n\n  // \ubc88\uc5ed \uc624\ub958 \ub808\uc774\uc5b4 \ud45c\uc2dc\n  var showTranslateErrorLayer \x3d function () {\n    hideAllLayers();\n    translateErrorLayer.css(\x22display\x22, \x22block\x22);\n    $(\x22body\x22).css(\x22overflow\x22, \x22hidden\x22);\n  };\n  \n  \n  // \uc6f9\uc811\uadfc\uc131\n  accessibleLayer({layer: $elements, btn: translateButton, input: translateKakaoILink.add(translateLanguageButton)});\n  function accessibleLayer(options) {\n    var layer \x3d options.layer;\n    var btn \x3d options.btn;\n    var input \x3d options.input;\n    var tid;\n    var isMouseOn \x3d false;\n    var showLayer \x3d function() {\n      clearTimeout(tid);\n      layer.addClass(\x27layer_open\x27);\n      btn.attr(\x27aria-expanded\x27, true);\n    }\n    var hideLayer \x3d function() {\n      layer.removeClass(\x27layer_open\x27);\n      btn.attr(\x27aria-expanded\x27, false);\n    }\n    var delayHideLayer \x3d function() {\n      tid \x3d setTimeout(hideLayer, 1);\n    }\n    var checkMouseAndHideLayer \x3d function() {\n      if (!isMouseOn) delayHideLayer();\n    }\n\n    layer.on(\x27mouseover\x27, function() {\n      isMouseOn \x3d true;\n      showLayer();\n    });\n    layer.on(\x27mouseleave\x27, function() {\n      isMouseOn \x3d false;\n      hideLayer();\n    });\n    btn.on(\x27focus\x27, showLayer);\n    btn.on(\x27blur\x27, checkMouseAndHideLayer);\n    input.on(\x27focus\x27, showLayer);\n    input.on(\x27blur\x27, checkMouseAndHideLayer);\n  }\n\n  // \ubc88\uc5ed \uc5b8\uc5b4 \ubc84\ud2bc \ud074\ub9ad\n  translateLanguageButton.click(function (e) {\n    var sourceLang \x3d \x22kr\x22;\n    var targetLang \x3d e.currentTarget.name;\n\n    // \ubc88\uc5ed\uc911\uc774\ub77c\uace0 \ub808\uc774\uc5b4 \ud45c\uc2dc\n    showTranslatingLayer();\n    \n    // \ubc88\uc5ed\n    HarmonyTranslator.translate(sourceLang, targetLang, function (success) {\n      if (success \x3d\x3d true) {\n        // \ubc88\uc5ed\ud55c \uc5b8\uc5b4\ubcc4\ub85c class \uc801\uc6a9\n        switch (targetLang) {\n          case \x22en\x22:\n          case \x22id\x22:\n            kakaoWrap.addClass(\x22lang_type1\x22);\n            kakaoWrap.removeClass(\x22lang_type2\x22);\n            kakaoWrap.removeClass(\x22lang_type3\x22);\n            break;\n            \n          case \x22cn\x22:\n          case \x22jp\x22:\n            kakaoWrap.removeClass(\x22lang_type1\x22);\n            kakaoWrap.addClass(\x22lang_type2\x22);\n            kakaoWrap.removeClass(\x22lang_type3\x22);\n            break;\n\n          case \x22vi\x22:\n            kakaoWrap.removeClass(\x22lang_type1\x22);\n            kakaoWrap.removeClass(\x22lang_type2\x22);\n            kakaoWrap.addClass(\x22lang_type3\x22);\n            break;\n            \n          default:\n            kakaoWrap.removeClass(\x22lang_type1\x22);\n            kakaoWrap.removeClass(\x22lang_type2\x22);\n            kakaoWrap.removeClass(\x22lang_type3\x22);\n            break;\n        }\n        \n        // \ubc88\uc5ed \uc548\ub0b4 \ud45c\uc2dc\n        if (targetLang \x3d\x3d \x22kr\x22) {\n          translateNotice.find(\x22.notice_lang\x22).hide();\n          translateNotice.hide();\n        } else {\n          translateNotice.find(\x22.notice_lang\x22 + \x22:not(.notice_lang_\x22 + targetLang + \x22)\x22).hide();\n          translateNotice.find(\x22.notice_lang\x22 + \x22.notice_lang_\x22 + targetLang).show();\n          translateNotice.show();\n        }\n      }\n\n      // Delay \ucc98\ub9ac\ud558\ub294 \uc774\uc720: \ubc88\uc5ed API \ud638\ucd9c\uc774 \ub108\ubb34 \ube60\ub974\uba74 \ubc88\uc5ed\uc911 \ub808\uc774\uc544\uc6c3\uc774 \ud45c\uc2dc\ub418\uae30 \uc804\uc5d0 \ub2eb\ud78c\ub2e4. \uadf8\ub7ec\uba74 \uc5b8\uc5b4\ubc84\ud2bc\uc5d0 hover\uac00 \uba39\ud600\uc11c \uc5b8\uc5b4\uc120\ud0dd \ub808\uc774\uc5b4\uac00 \ub2eb\ud788\uc9c0 \uc54a\ub294\ub2e4. \uadf8\ub9ac\uace0 \uc544\uc8fc \uc9e7\uc740 \uc2dc\uac04\uc774\ub77c\ub3c4 \ubc88\uc5ed\uc911\uc774\ub77c\uace0 \ud45c\uc2dc\ud574 \uc8fc\ub824\uace0 \ud558\ub294 \ubaa9\uc801\ub3c4 \uc788\ub2e4.\n      setTimeout(function () {\n        if (success \x3d\x3d true) {\n          hideAllLayers();\n        } else {\n          // \uc624\ub958 \ub808\uc774\uc5b4 \ud45c\uc2dc\n          showTranslateErrorLayer();\n          \n          // \uc870\uae08\uc9c0\ub098\uace0 \uc624\ub958 \ub808\uc774\uc5b4 \ub2eb\uae30\n          setTimeout(function () {\n            hideAllLayers();\n          }, 2000);\n        }\n      }, 500);\n    });\n  });\n})(jQuery);\n\n})(document.querySelectorAll(\x22.hc_news_pc_cSub_translateButtons\x22));"));
+
+(0,eval("(function(elements){\n(function($){\n  var $elements \x3d $(elements);\n  var TTS_COOKIE_NAME \x3d \x22VIEW_TTS\x22;\n  var ttsPlayer \x3d $(\x22#ttsPlayer\x22);\n\n  function ttsOptionsSourceKey() {\n    return $(\x27input[name\x3dttsSpeed]:radio:checked\x27).val() + \x27_\x27 + \n      $(\x27input[name\x3dttsGender]:radio:checked\x27).val();\n  }\n\n  function ttsPlayerSrcSet(src) {\n    var key \x3d ttsOptionsSourceKey();\n    ttsPlayer.attr(\x27src\x27, ttsPlayerSrcMap[key] ); \n    // \ubbf8\ub9ac load \ud558\uba74 \ucc98\uc74c dom load \ub420\ub54c \ubb34\uc870\uac74 m4a \uac00 load \ub418\uc5b4\uc11c \ub124\ud2b8\uc6cd\uc744 \ub9ce\uc774 \uc7a1\uc544 \uba39\ub294\ub2e4 \n    // \ub530\ub77c\uc11c, \uba85\uc2dc\uc801\uc73c\ub85c play \ud560\ub54c\ub9cc load \ud558\ub3c4\ub85d \ubcc0\uacbd\ud588\uc74c... \n    // ttsPlayer.trigger(\x27load\x27);\n\n    Cookies.set(TTS_COOKIE_NAME, \x27\x27, {domain:\x27.daum.net\x27, expires:-1});\n    Cookies.set(TTS_COOKIE_NAME, key, {expires: 365});\n  }\n\n  var textLayer \x3d $elements.find(\x27.ico_speak\x27);\n  function ttsPlayerControl(control) {\n    if( control \x3d\x3d \x22playOptions\x22 ) {\n      ttsPlayerSrcSet();\t\n      ttsPlayer.trigger(\x27load\x27);\n      ttsPlayer.trigger(\x27play\x27);\n      textLayer.text(\x27\uc74c\uc131 \uae30\uc0ac \uc815\uc9c0\x27);\n    } \n    else if( control \x3d\x3d \x22play\x22 ) {\n      ttsPlayer.trigger(\x27load\x27);\n      ttsPlayer.trigger(control);\t\n      textLayer.text(\x27\uc74c\uc131 \uae30\uc0ac \uc815\uc9c0\x27);\t\t\t\n    } else {\n      ttsPlayer.trigger(control);\n      textLayer.text(\x27\uc74c\uc131 \uae30\uc0ac \ub4e3\uae30\x27);\t\t\t\t\n    }\n  }\n\n  // --------------------------\n  // \uc6f9\uc811\uadfc\uc131\n  // --------------------------\n  var btnTtsLayer \x3d $elements;\n  var btnTtsClick \x3d $elements.find(\x27.btn_tts\x27);\n  var inputTts \x3d $elements.find(\x27.list_tts input\x27);\n  var subLayer \x3d $elements.find(\x27.wrap_setlayer\x27);\n  \n  \n  accessibleLayer({layer: btnTtsLayer, btn: btnTtsClick, input: inputTts});\n  function accessibleLayer(options) {\n    var layer \x3d options.layer;\n    var btn \x3d options.btn;\n    var input \x3d options.input;\n    var tid;\n    var isMouseOn \x3d false;\n    var showLayer \x3d function() {\n      clearTimeout(tid);\n      layer.addClass(\x27layer_open\x27);\n      btn.attr(\x27aria-expanded\x27, true);\n    }\n    var hideLayer \x3d function() {\n      layer.removeClass(\x27layer_open\x27);\n      btn.attr(\x27aria-expanded\x27, false);\n    }\n    var delayHideLayer \x3d function() {\n      tid \x3d setTimeout(hideLayer, 1);\n    }\n    var checkMouseAndHideLayer \x3d function() {\n      if (!isMouseOn) delayHideLayer();\n    }\n\n    layer.on(\x27mouseover\x27, function() {\n      isMouseOn \x3d true;\n      showLayer();\n    });\n    layer.on(\x27mouseleave\x27, function() {\n      isMouseOn \x3d false;\n      hideLayer();\n    });\n    btn.on(\x27focus\x27, showLayer);\n    btn.on(\x27blur\x27, checkMouseAndHideLayer);\n    input.on(\x27focus\x27, showLayer);\n    input.on(\x27blur\x27, checkMouseAndHideLayer);\n  }\n\n  accessibleInput({options: $elements.find(\x27.ico_newsview\x27), input: inputTts});\n  function accessibleInput(opt) {\n    var options \x3d opt.options;\n    var input \x3d opt.input;\n    options.on(\x27mouseover\x27, function(event) {\n      $(this).addClass(\x27ico_focused\x27);\n    });\n    options.on(\x27mouseleave\x27, function(event) {\n      $(this).removeClass(\x27ico_focused\x27);\n    });\n    input.on(\x27focus\x27, function() {\n      $(this).next().find(\x27span\x27).addClass(\x27ico_focused\x27);\n    });\n    input.on(\x27blur\x27, function() {\n      $(this).next().find(\x27span\x27).removeClass(\x27ico_focused\x27);\n    });\n  }\n  \n\n  btnTtsClick.on(\x27click\x27, function(event) {\n    btnTtsLayer.toggleClass(\x27on\x27);\n    if( btnTtsLayer.hasClass(\x27on\x27) ) {\n      ttsPlayerControl(\x27play\x27);\n    }\n    else {\n      ttsPlayerControl(\x27pause\x27);\n    }\n  });\n\n  // --------------------------\n  // tts play ended \uc77c\ub54c.. \n  // --------------------------\n  ttsPlayer.on(\x22ended\x22, function(event){\n    btnTtsLayer.removeClass(\x27on\x27);\n  });\n\n\n  // --------------------------\n  // tts options layer\n  // --------------------------\n  inputTts.on(\x27change\x27, function(event) {\n    btnTtsLayer.addClass(\x27on\x27);\n    ttsPlayerControl(\x27playOptions\x27);\n  });\n\n  // --------------------------\n  // init\n  // --------------------------\n  var ttsCookieValue \x3d Cookies.get(TTS_COOKIE_NAME);\n  // tts Cookie\uac00 \uc5c6\ub2e4\uba74 [\ub0a8\uc131+\ubcf4\ud1b5] \uae30\ubcf8\uc73c\ub85c \uc14b\ud305.. \n  if(typeof ttsCookieValue \x3d\x3d \x22undefined\x22 || ttsCookieValue.includes(\x22undefined\x22)) {\n    $(\x27#ttsGenderMale\x27).prop(\x22checked\x22, true);\n    $(\x27#ttsSpeedNormal\x27).prop(\x22checked\x22, true);\n  }\n  else {\n    // tts Cookie Value\ub85c \ubd80\ud130 \uc131\ubcc4, \ube60\ub974\uae30 \uc815\ubcf4\ub97c \uc5bb\uc5b4\uc640 \uc14b\ud305..\n    var cv \x3d ttsCookieValue.split(\x27_\x27);\n    // normal -\x3e Normal\n    var speedName \x3d \x22ttsSpeed\x22 + cv[0].charAt(0).toUpperCase() + cv[0].slice(1);\n    var genderName \x3d \x27ttsGender\x27 + cv[1];\n\n    $(\x27#\x27 + genderName).prop(\x22checked\x22, true);\n    $(\x27#\x27+ speedName).prop(\x22checked\x22, true);\n  }\n\n  btnTtsClick.addClass(\x22#util #tts #p_\x22 + ttsOptionsSourceKey());\n\n  // load.. \n  ttsPlayerSrcSet();\n})(jQuery);\n})(document.querySelectorAll(\x22.hc_news_pc_cSub_tts\x22));"));
+
+(0,eval("(function(elements){\n(function($) {\n  // API URL\n  var TRANSLATION_API_URL \x3d \x22https://api.v.daum.net/p/RLeeXg9Gx9\x22;\n\n  // \ubc88\uc5ed\ud560 \uacf3\n  var TRANSLATION_OBJECTS \x3d null;\n  \n  // \ubc88\uc5ed\ud560 dmcf-ptype\n  var TRANSLATION_PTYPES \x3d [\x22general\x22, \x22figure\x22, \x22slide\x22, \x22h3\x22, \x22h4\x22, \x22blockquote1\x22, \x22blockquote2\x22, \x22quote1\x22, \x22quote2\x22, \x22pre\x22, \x22ul\x22];\n\n  // \ubc88\uc5ed \ub300\uc0c1\uc774\ub418\ub294 \uc18c\uc2a4\ub4e4 (\ud14d\uc2a4\ud2b8 element)\n  var translationSources \x3d [];\n\n\n  // \ubc88\uc5ed \ub300\uc0c1 translationSources\ub97c \ub9cc\ub4dc\ub294 \ud568\uc218\n  var generateTranslationSources \x3d function (element) {\n    // \ubc88\uc5ed \ub300\uc0c1\uc774 \uc544\ub2cc \uac83\uc740 \uc81c\uc678\n    if (element.hasAttribute(\x22data-no-translation\x22)) {\n      return;\n    }\n\n    // \ubaa8\ub4e0 \uc790\uc2dd\ub178\ub4dc \uc5bb\uae30\n    var childElements \x3d element.childNodes;\n\n    _.each(childElements, function (childElement) {\n      if (childElement.nodeType \x3d\x3d Node.TEXT_NODE || childElement.nodeType \x3d\x3d Node.CDATA_SECTION_NODE) {\n        if (childElement.textContent.trim() !\x3d \x22\x22) {\n          // \ubc88\uc5ed \ub300\uc0c1\uc774\ub77c\uace0 translationSources\uc5d0 \uc785\ub825\n          translationSources.push({\n            translationElement: childElement,\n    \t    translationOrgText: childElement.textContent,\n            translatedTargetLang: null,\n            translatedText: null\n          });          \n        }\n      } else if (childElement.nodeType \x3d\x3d Node.ELEMENT_NODE) {\n        // Recursive call\n        generateTranslationSources(childElement);\n      }\n    });\n  };\n    \n   \n  // \ubc88\uc5ed \ud568\uc218 \uc815\uc758\n  // kr:\ud55c\uad6d\uc5b4 , en:\uc601\uc5b4 , jp:\uc77c\ubcf8\uc5b4 , cn:\uc911\uad6d\uc5b4 , vi:\ubca0\ud2b8\ub0a8\uc5b4 , id:\uc778\ub3c4\ub124\uc2dc\uc544\uc5b4\n  function HarmonyTranslator() {}\n  HarmonyTranslator.prototype.translate \x3d function (sourceLang, targetLang, callback) {\n    // \ucd08\uae30\ud654\n    if (!TRANSLATION_OBJECTS) {\n      // \ubcf8\ubb38(body) dmcf-ptype\uc774 \uc788\ub294 \uac83\ub9cc \uc5bb\uae30\n      var translationBodyObjects \x3d $(\x22[data-translation-body] [dmcf-ptype]\x22);\n      translationBodyObjects.each(function (index, element) {\n        var dmcfPtype \x3d element.getAttribute(\x22dmcf-ptype\x22);\n        \n        // \ubc88\uc5ed\ud560 \ubb38\ub2e8\ud0c0\uc785\uc5d0 data-translation \uc18d\uc131 \uc124\uc815\n        if (_.contains(TRANSLATION_PTYPES, dmcfPtype) \x3d\x3d true) {\n          element.setAttribute(\x22data-translation\x22, \x22\x22);\n        }\n      });\n      \n      // \ubc88\uc5ed\ud560 \uacf3 \ucc3e\uae30\n      TRANSLATION_OBJECTS \x3d $(\x22[data-translation]\x22);\n      \n      // \ubc88\uc5ed\ud560 \uacf3 \ucd08\uae30\ud654 \ucc98\ub9ac\ud558\uae30\n      TRANSLATION_OBJECTS.each(function (index, element) {\n        // \uc6d0\ubcf8 \ub0b4\uc6a9\uc744 \uc720\uc9c0\ud558\uae30 \uc704\ud558\uc5ec clone\ud558\uc5ec data\ub85c \uc124\uc815\n        $.data(element, \x22orgElement\x22, element.cloneNode(true));\n      });\n    }\n    \n    // \uae30\ubcf8 source \uc5b8\uc5b4\ub294 \ud55c\uad6d\uc5b4\n    if (!sourceLang) {\n      sourceLang \x3d \x22kr\x22;\n    }\n    \n    translationSources \x3d [];\n    \n    // \ubc88\uc5ed\ud560 \uacf3 \ubd84\uc11d\ud558\uc5ec translationSources \uc0dd\uc131\n    TRANSLATION_OBJECTS.each(function (index, element) {\n      // \uc6d0\ubcf8 \uc5bb\uae30\n      var orgElement \x3d $.data(element, \x22orgElement\x22);\n      \n      // \ubcf5\uc81c\n      var orgCloneElement \x3d orgElement.cloneNode(true);\n      \n      // \ubc88\uc5ed\ub41c element\n      $.data(element, \x22translatedElement\x22, orgCloneElement);\n\n      // \ubb34\uc2dc\ud560 \ud0dc\uadf8 \uc81c\uac70\n      // \uc774 \ud0dc\uadf8\uac00 \uc788\uc73c\uba74 \ubb34\uc2dc\ud558\uace0 \ud558\ub098\uc758 \ud14d\uc2a4\ud2b8\ub85c \ucb49~ \ucc98\ub9ac\ud558\ub824\uace0 \ud55c\ub2e4.\n      // \uc608: \x22\ub108\ub294 \x3cstrong\x3e\ud559\uc0dd\x3c/strong\x3e\uc774\uace0, \ub098\ub294 \x3ca href\x3d\x22http://student.com\x22\x3e\uc120\uc0dd\x3c/a\x3e\uc774\uc57c!\x22\n      var ignoreObjects \x3d $(\x22span, a, strong, b, s, strike, del, i, em, mark, small, ins\x22, orgCloneElement);\n      var filteredIgnoreObjects \x3d ignoreObjects.filter(function (index) {\n        // \ubc88\uc5ed \ud558\uc9c0 \ub9d0\uc544\uc57c\ud560 \uacf3\uc740 \uc2a4\ud0b5\n        if ($(this).closest(\x22[data-no-translation]\x22).length \x3e 0) {\n          return false;\n        } else {\n          return true;\n        }\n      });\n      filteredIgnoreObjects.contents().unwrap();\n      \n      // \uc5f0\uc18d\ub418\ub294 text element\ub97c \ud569\uce58\uae30\n      orgCloneElement.normalize();\n\n      // \ubc88\uc5ed \ub300\uc0c1 translationSources \ub9cc\ub4e4\uae30\n      generateTranslationSources(orgCloneElement);\n    });\n    \n    // \uae00\uc790\uc218 \uc81c\ud55c\ub54c\ubb38\uc5d0 \ub098\ub220\uc11c API \ud638\ucd9c\ud558\uae30 \uc704\ud568\n    var LIMIT_ORG_TEXT_LENGTH \x3d 5000;\n    var orgTextLength \x3d 0;\n    var segments \x3d [[]];\n    _.each(translationSources, function (translationSource) {\n      var lastSegment \x3d _.last(segments);\n      \n      orgTextLength +\x3d translationSource.translationOrgText.length;\n      \n      if (orgTextLength \x3c LIMIT_ORG_TEXT_LENGTH) {\n        lastSegment.push(translationSource);\n      } else {\n        var newSegment \x3d [translationSource];\n        segments.push(newSegment);\n        \n        orgTextLength \x3d 0;\n      }\n    });\n    \n    // Deferred \ucc98\ub9ac\ub97c \uc704\ud558\uc5ec ajax \uac1d\uccb4\ub97c \ubc30\uc5f4\ub85c \uc5bb\uae30\n    var dfdObjects \x3d _.map(segments, function (segment) {\n      // kr\uc774\uba74 ajax \ud638\ucd9c\uc774 \uc544\ub2c8\uace0, \uc77c\ubc18 Deferred \uac1d\uccb4 \uc0ac\uc6a9\n      if (targetLang \x3d\x3d \x22kr\x22) {\n\t\tvar dfd \x3d $.Deferred();\n        dfd.done(function (data) {\n          _.each(segment, function (translationSource) {\n            translationSource.translatedTargetLang \x3d \x22kr\x22;\n            translationSource.translatedText \x3d translationSource.translationOrgText;\n          });\n        });\n        \n        // API \ud638\ucd9c\ud558\uace0 \ub3d9\uc77c\ud55c \ud615\ud0dc\uc758 arguments\n        dfd.resolve([{output: _.pluck(segment, \x22translatedText\x22), status_code: 200, message: \x22\x22}, \x22success\x22, null]);\n        \n        return dfd;\n      } else {\n        // API \ud638\ucd9c\ud558\uace0 ajax \uac1d\uccb4\ub294 \ubc18\ud658\n        return $.ajax({\n          url: TRANSLATION_API_URL,\n          method: \x22POST\x22,\n          timeout: 10000,\n          data: {\n            source_lang: sourceLang,\n            target_lang: targetLang,\n            q: JSON.stringify(_.pluck(segment, \x22translationOrgText\x22))\n          },\n          success: function (data) {\n            // translationSource\uc5d0 \ubc88\uc5ed\ub41c \uacb0\uacfc \uc124\uc815\n            _.each(segment, function (translationSource, index) {\n              translationSource.translatedTargetLang \x3d targetLang;\n              translationSource.translatedText \x3d data.output[index].join(\x22 \x22);\n            });\n          }\n        });\n      }\n    });\n    \n    // \ubc88\uc5ed API \ud638\ucd9c deferred \ucc98\ub9ac\n    $.when.apply(this, dfdObjects).done(function (data, textStatus, jqXHR) {\t// \uc131\uacf5\n      // \uac01 element\uc5d0 \ubc88\uc5ed \uacb0\uacfc \uc124\uc815\n      _.each(translationSources, function (translationSource) {\n        translationSource.translationElement.textContent \x3d translationSource.translatedText;\n      });\n      \n      // \ubc88\uc5ed\ud55c \uacf3\uc5d0 \uacb0\uacfc \ud45c\uc2dc\n      TRANSLATION_OBJECTS.each(function (index, element) {\n        var translationObject \x3d $(element);\n        \n        // \ubc88\uc5ed\ub41c element \uc5bb\uae30\n        var translatedElement \x3d $.data(element, \x22translatedElement\x22);\n        \n        // \ubc88\uc5ed\ub41c element\ub85c \uad50\uccb4\n        translationObject.empty().append(translatedElement.childNodes);\n      });\n      \n      callback(true);\n    }).fail(function (data, textStatus, jqXHR) {\t// \uc2e4\ud328\n      console.log(\x22FAIL: \x22 + data + \x22 , \x22 + textStatus + \x22 , \x22 + jqXHR);\n      \n      callback(false);\n    });\n  };\n  \n  // \ubc88\uc5ed \ud568\uc218\ub97c \uc804\uc5ed\uc73c\ub85c \uc124\uc815\n  window.HarmonyTranslator \x3d new HarmonyTranslator();\n})(jQuery);\n\n\n})(document.querySelectorAll(\x22.hc_translator\x22));"));
+
+(0,eval("(function(elements){\n/*! vTicker 1.21 http://richhollis.github.com/vticker/ | http://richhollis.github.com/vticker/license/ | based on Jubgits vTicker http://www.jugbit.com/jquery-vticker-vertical-news-ticker/ */\n(function(d){var g,c,f;g\x3d{speed:700,pause:4E3,showItems:1,mousePause:!0,height:0,animate:!0,margin:0,padding:0,startPaused:!1,autoAppend:!0};c\x3d{moveUp:function(a,b){return c.showNextItem(a,b,\x22up\x22)},moveDown:function(a,b){return c.showNextItem(a,b,\x22down\x22)},nextItemState:function(a,b){var e,c;c\x3da.element.children(\x22ul\x22);e\x3da.itemHeight;0\x3ca.options.height\x26\x26(e\x3dc.children(\x22li:first\x22).height());e+\x3da.options.margin+2*a.options.padding;return{height:e,options:a.options,el:a.element,obj:c,selector:\x22up\x22\x3d\x3d\x3db?\n\x22li:first\x22:\x22li:last\x22,dir:b}},showNextItem:function(a,b,e){var d;d\x3dc.nextItemState(a,e);d.el.trigger(\x22vticker.beforeTick\x22);e\x3dd.obj.children(d.selector).clone(!0);\x22down\x22\x3d\x3d\x3dd.dir\x26\x26d.obj.css(\x22top\x22,\x22-\x22+d.height+\x22px\x22).prepend(e);b\x26\x26b.animate?a.animating||c.animateNextItem(d,a):c.nonAnimatedNextItem(d);\x22up\x22\x3d\x3d\x3dd.dir\x26\x26a.options.autoAppend\x26\x26e.appendTo(d.obj);return d.el.trigger(\x22vticker.afterTick\x22)},animateNextItem:function(a,b){b.animating\x3d!0;return a.obj.animate(\x22up\x22\x3d\x3d\x3da.dir?{top:\x22-\x3d\x22+a.height+\x22px\x22}:{top:0},\nb.options.speed,function(){d(a.obj).children(a.selector).remove();d(a.obj).css(\x22top\x22,\x220px\x22);return b.animating\x3d!1})},nonAnimatedNextItem:function(a){a.obj.children(a.selector).remove();return a.obj.css(\x22top\x22,\x220px\x22)},nextUsePause:function(){var a,b;b\x3dd(this).data(\x22state\x22);a\x3db.options;if(!b.isPaused\x26\x26!c.hasSingleItem(b))return f.next.call(this,{animate:a.animate})},startInterval:function(){var a,b;b\x3dd(this).data(\x22state\x22);a\x3db.options;return b.intervalId\x3dsetInterval(function(a){return function(){return c.nextUsePause.call(a)}}(this),\na.pause)},stopInterval:function(){var a;if(a\x3dd(this).data(\x22state\x22))return a.intervalId\x26\x26clearInterval(a.intervalId),a.intervalId\x3dvoid 0},restartInterval:function(){c.stopInterval.call(this);return c.startInterval.call(this)},getState:function(a,b){var c;if(!(c\x3dd(b).data(\x22state\x22)))throw Error(\x22vTicker: No state available from \x22+a);return c},isAnimatingOrSingleItem:function(a){return a.animating||this.hasSingleItem(a)},hasMultipleItems:function(a){return 1\x3ca.itemCount},hasSingleItem:function(a){return!c.hasMultipleItems(a)},\nbindMousePausing:function(a){return function(a,e){return a.bind(\x22mouseenter\x22,function(){if(!e.isPaused)return e.pausedByCode\x3d!0,c.stopInterval.call(this),f.pause.call(this,!0)}).bind(\x22mouseleave\x22,function(){if(!e.isPaused||e.pausedByCode)return e.pausedByCode\x3d!1,f.pause.call(this,!1),c.startInterval.call(this)})}}(this),setItemLayout:function(a,b,c){var f;a.css({overflow:\x22hidden\x22,position:\x22relative\x22}).children(\x22ul\x22).css({position:\x22absolute\x22,margin:0,padding:0}).children(\x22li\x22).css({margin:c.margin,\npadding:c.padding});return isNaN(c.height)||0\x3d\x3d\x3dc.height?(a.children(\x22ul\x22).children(\x22li\x22).each(function(){if(d(this).height()\x3eb.itemHeight)return b.itemHeight\x3dd(this).height()}),a.children(\x22ul\x22).children(\x22li\x22).each(function(){return d(this).height(b.itemHeight)}),f\x3dc.margin+2*c.padding,a.height((b.itemHeight+f)*c.showItems+c.margin)):a.height(c.height)},defaultStateAttribs:function(a,b){return{itemCount:a.children(\x22ul\x22).children(\x22li\x22).length,itemHeight:0,itemMargin:0,element:a,animating:!1,options:b,\nisPaused:b.startPaused,pausedByCode:!1}}};f\x3d{init:function(a){var b,e;d(this).data(\x22state\x22)\x26\x26f.stop.call(this);b\x3djQuery.extend({},g);a\x3dd.extend(b,a);b\x3dd(this);e\x3dc.defaultStateAttribs(b,a);d(this).data(\x22state\x22,e);c.setItemLayout(b,e,a);a.startPaused||c.startInterval.call(this);if(a.mousePause)return c.bindMousePausing(b,e)},pause:function(a){var b;b\x3dc.getState(\x22pause\x22,this);if(!c.hasMultipleItems(b))return!1;b.isPaused\x3da;b\x3db.element;if(a)return d(this).addClass(\x22paused\x22),b.trigger(\x22vticker.pause\x22);\nd(this).removeClass(\x22paused\x22);return b.trigger(\x22vticker.resume\x22)},next:function(a){var b;b\x3dc.getState(\x22next\x22,this);if(c.isAnimatingOrSingleItem(b))return!1;c.restartInterval.call(this);return c.moveUp(b,a)},prev:function(a){var b;b\x3dc.getState(\x22prev\x22,this);if(c.isAnimatingOrSingleItem(b))return!1;c.restartInterval.call(this);return c.moveDown(b,a)},stop:function(){c.getState(\x22stop\x22,this);return c.stopInterval.call(this)},remove:function(){var a;a\x3dc.getState(\x22remove\x22,this);c.stopInterval.call(this);\na\x3da.element;a.unbind();return a.remove()}};return d.fn.vTicker\x3dfunction(a){return f[a]?f[a].apply(this,Array.prototype.slice.call(arguments,1)):\x22object\x22!\x3d\x3dtypeof a\x26\x26a?d.error(\x22Method \x22+a+\x22 does not exist on jQuery.vTicker\x22):f.init.apply(this,arguments)}})(jQuery);\n\nvar listEl \x3d $(elements[0]).find(\x22.list_weather\x22);\nvar nightYn \x3d listEl.data(\x22nightyn\x22);\nvar nightClassName \x3d \x22type_night\x22;\nif (nightYn \x3d\x3d \x27Y\x27) {\n    listEl.addClass(nightClassName);\n} else {\n    listEl.removeClass(nightClassName);\n}\n\njQuery(function() {\n  jQuery(\x27#gnb_weather\x27).vTicker();\n});\n\n\n})(document.querySelectorAll(\x22.hc_news_pc_kakaoHead_gnbWeather\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hc_common_search_dragselection\x22));"));
+
+(0,eval("(function(elements){\n(function($) {\n  fetch(window.docId);\n\n  function fetch(docId) {\n    var api \x3d \x27https://api.v.daum.net/p/TeJRdODOgf?paths\x3d\x27 + docId;\n    $.ajax({\n      url: api,\n      dataType: \x22jsonp\x22\n    }).done(function(resp) {\n      if (resp.success \x26\x26 resp.gallery \x26\x26 resp.gallery.status \x3d\x3d\x3d \x27S\x27) {\n        var renderInfo \x3d {\n          title: resp.gallery.title,\n          url: \x27http://gallery.v.daum.net/p/viewer/\x27 + resp.gallery.id + \x27/\x27 + docId\n        };\n        render(renderInfo);\n      }\n    });\n  }\n  var TPL \x3d \x27\x3cdiv class\x3d\x22direct_view\x22 style\x3d\x22top:\x3c%\x3d top %\x3epx;width:\x3c%\x3d width %\x3epx;margin-left:\x3c%\x3d left %\x3epx\x22\x3e\\\n              \x3ca href\x3d\x22\x3c%\x3d url %\x3e\x22 class\x3d\x22link_view\x22\x3e\\\n                \x3cspan class\x3d\x22txt_g\x22\x3e\x3c%\x3d title %\x3e\x3c/span\x3e\\\n                \x3cspan class\x3d\x22ico_view\x22\x3e\\\n                   \x3cspan class\x3d\x22ico_newsview ico_gallery\x22\x3e\uac24\ub7ec\ub9ac \uc774\ub3d9\x3c/span\x3e\\\n                \x3c/span\x3e\\\n              \x3c/a\x3e\\\n            \x3c/div\x3e\x27;\n  function render(data) {\n    var $imgs \x3d $(\x27img[dmcf-mtype\x3d\x22image\x22]\x27);\n    $imgs.each(function(i) {\n      if (i \x3e 0) return false; // \uccab\ubc88\uc9f8 \uc774\ubbf8\uc9c0\uc5d0\ub9cc \uc801\uc6a9\n      // \uc601\uc0c1\ubc14\ub85c\ubcf4\uae30\uac00 \uc788\uc73c\uba74 \ud328\uc2a4\n      if ($(this).find(\x27.direct_vod\x27).size() \x3e 0) return false;\n\n      var imgHeight \x3d $(this).height();\n      var imgWidth \x3d $(this).width();\n      var tplData \x3d {\n        title: data.title,\n        url: data.url,\n        top: imgHeight - 62,\n        width: imgWidth,\n        left: imgWidth / 2 * -1\n      };\n      var html \x3d _.template(TPL)(tplData);\n      var $icon \x3d $(html);\n\n      $(this).parent().append($icon);\n    });\n  }\n})(jQuery);\n\n})(document.querySelectorAll(\x22.hc_gallery_icon_on_image\x22));"));
+
+(0,eval("(function(elements){\nmc2Connect.render(function(resp) {\n    var $brunch \x3d $(\x27.wrap_brunch\x27);\n    var clusters \x3d resp.data || [];\n    var cluster \x3d _.find(clusters, function(item) { return item.factor.service \x3d\x3d\x3d \x22brunch\x22 \x26\x26 item.factor.type \x3d\x3d\x3d \x22author\x22 });\n\n    var brunch_template \x3d \x27\x3ca href\x3d\x22\x3c%\x3dobj.link%\x3e\x22 class\x3d\x22link_thumb #body #brunch\x22\x3e\\\n                            \x3c% if (obj.thumbnail) { %\x3e\\\n                            \x3cimg src\x3d\x22\x3c%\x3dobj.thumbnail%\x3e\x22 class\x3d\x22thumb_g\x22 alt\x3d\x22\x3c%\x3dobj.name%\x3e\x22\x3e\\\n                            \x3c% } %\x3e\\\n                            \x3c/a\x3e\\\n                            \x3cdiv class\x3d\x22profile_brunch\x22\x3e\\\n                            \x3ca href\x3d\x22\x3c%\x3dobj.link%\x3e\x22 class\x3d\x22link_profile #body #brunch\x22\x3e\x3c%\x3dobj.name%\x3e\x3c/a\x3e\\\n                            \x3cspan class\x3d\x22txt_profile\x22\x3e\x3c%\x3dobj.job%\x3e\x3c/span\x3e\\\n                            \x3c/div\x3e\\\n                            \x3ca href\x3d\x22\x3c%\x3dobj.link%\x3e\x22 class\x3d\x22link_brunch #body #brunch\x22\x3e\\\n                            \x3cspan class\x3d\x22ico_newsview ico_view ico_brunch\x22\x3e\x3c/span\x3e\ube0c\ub7f0\uce58 \uac00\uae30\\\n                            \x3c/a\x3e\x27\n\n    if (cluster \x26\x26 cluster.factor \x26\x26 cluster.factor.service \x3d\x3d \x27brunch\x27 \x26\x26 cluster.factor.type \x3d\x3d\x3d \x27author\x27) {\n      $brunch.show();\n    } else {\n      $brunch.hide();\n      return false;\n    }\n\n    var stripBrackets \x3d function (str) {\n      if ( !str ) return str;\n      var ret \x3d str.replace(/^\x3c.*\x3e/, \x27\x27);\n      return ret.replace(/\\[[^\\]]*\\]/, \x27\x27);\n    }\n    var brunchData \x3d cluster.etcInfo;\n    if ( brunchData.thumbnail ) { \n      brunchData.thumbnail \x3d brunchData.thumbnail.replace(\x27thumb/C500x500\x27, \x27thumb/C60x60\x27);\n    }\n\n    $brunch.append(_.template(brunch_template)({name: stripBrackets(cluster.title), \n                                                thumbnail: brunchData.thumbnail, \n                                                job: stripBrackets(brunchData.job), \n                                                link: brunchData.homepage}));\n});\n})(document.querySelectorAll(\x22.hc_news_pc_mArticle_brunchAuthor\x22));"));
+
+(0,eval("(function(elements){\n(function($){\n\t$(\x22#likeButton\x22).UOCLike({\n\t\tsvc: window.serviceId,\n\t\tuid: window.newsId,\n\t\tpcUrl: \x27https://news.v.daum.net/v/\x27 + window.newsId,\n\t\tmobileUrl: \x27https://news.v.daum.net/v/\x27 + window.newsId + \x27?f\x3dm\x27,\n\t\tbuttonType: \x27pc\x27,\n\t\tshowLayer: false,\n\t\tcompleteWidgetLoad : function(widget) {\n\t\t\t// \uacf5\uac10\ubc84\ud2bc\uc5d0 \ud2f0\uc544\ub77c \ud074\ub9ad\ud0dc\uadf8 \uc0bd\uc785\n\t\t\tjQuery(\x22#likeButton\x22).ready(function() {\n\t\t\t\tjQuery(\x22#likeButton .btn_empathy\x22).addClass(\x22#body\x22).addClass(\x22#like\x22);\n\t\t\t});\n\t\t}\n\t});\n})(jQuery);\n})(document.querySelectorAll(\x22.hc_news_pc_mArticle_empathyButton\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hc_news_pc_mArticle_news_notice\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hc_news_pc_mArticle_recommend_ad\x22));"));
+
+(0,eval("(function(elements){\nmc2Connect.render(function(resp) {\n\tvar WRAPPER_DOM \x3d $(\x27.relate_tag\x27);\n\tvar LINK_URL \x3d \x27http://media.daum.net/\x27;\n  \tvar clusters \x3d resp.data || [];\n    var cluster \x3d _.find(clusters, function(item) { return item.factor.type \x3d\x3d \x22issuecluster\x22});\n\n\tvar addTag \x3d function (keyword, url, emphasize, index) {\n\t\t\tvar tag_relate \x3d $(\x27\x3cspan\x3e\x27);\n\t\t\tvar link_txt \x3d $(\x27\x3ca\x3e\x27);\n\t\t\tvar txt_tag \x3d $(\x27\x3cspan\x3e\x27);\n\t\t\tvar keyword_tag \x3d $(\x27\x3cspan\x3e\x27);\n\n\t\t\ttag_relate.addClass(\x27tag_relate\x27);\n\t\t\tlink_txt.addClass(emphasize ? \x27emph_g link_txt #body #category #issue\x27 :\x27link_txt #body #keyword @\x27 + (index + 1));\n\n\t\t\t// \ud0a4\uc6cc\ub4dc\ud0d1 \ud654\uba74 url \ud655\uc778 \ud544\uc694\n\t\t\tlink_txt.attr(\x27href\x27, url);\n\t\t\ttxt_tag.addClass(\x27txt_tag\x27);\n\n\t\t\ttxt_tag.text(emphasize ? \x27\x27 : \x27#\x27);\n\t\t\tkeyword_tag.text(emphasize ? \x27\uc774\uc288 \xb7 \x27 + keyword : keyword);\n\t\t\tlink_txt.append(txt_tag);\n\t\t\tlink_txt.append(keyword_tag);\n\t\t\ttag_relate.append(link_txt);\n\t\t\tWRAPPER_DOM.append(tag_relate);\n\t}\n    \n    // ISSUE \uac00 \ub118\uc5b4\uc624\uba74 \uac15\uc870\n    if (cluster) {\n      var issueUrl \x3d \x27http://media.daum.net/issue/\x27 + cluster._id;\n      addTag(resp.editedTitle || cluster.title, issueUrl, true); \n    }\n\n});\n})(document.querySelectorAll(\x22.hc_news_pc_mArticle_relatedTags\x22));"));
+
+(0,eval("(function(elements){\nmc2Connect.render(function(resp) {\n\tvar LIST_URL \x3d \x27//media.daum.net/series/{seriesId}\x27;\n\tvar $relate_series \x3d $(\x27.relate_series\x27);\n\tvar $title \x3d $(\x27.relate_series .title_series\x27);\n\tvar $link_more \x3d $(\x27.relate_series .link_more\x27);\n\n    var clusters \x3d resp.data || [];\n    var cluster \x3d _.find(clusters, function(item) { return item.factor.type \x3d\x3d \x22series\x22 \x26\x26 item.contents});\n\n    var issue \x3d cluster, regDt \x3d window.newsId.substr(0, 14) * 1, $list_series \x3d $(\x27.list_series\x27), \n        current_template \x3d \x27\x3cli class\x3d\x22on\x22\x3e\\\n                            \x3cdiv class\x3d\x22inner_box\x22\x3e\x3cspan class\x3d\x22link_txt\x22\x3e\x3c%\x3dobj.title%\x3e\x3c/span\x3e\x3c/div\x3e\\\n                            \x3c/li\x3e\x27, another_template \x3d \x27\x3cli\x3e\\\n                            \x3cdiv class\x3d\x22inner_box\x22\x3e\x3ca href\x3d\x22https://news.v.daum.net/v/\x3c%\x3dobj.newsId%\x3e\x22 class\x3d\x22link_txt\x22\x3e\x3c%\x3dtitle%\x3e\x3c/a\x3e\x3c/div\x3e\\\n                            \x3c/li\x3e\x27;\n\n    if (issue \x26\x26  issue.factor \x26\x26 (issue.factor.type \x3d\x3d\x3d \x27series\x27)) {\n      $relate_series.show();\n    } else {\n      $relate_series.hide();\n      return false;\n    }\n\n    var filter \x3d function (srcArr, filterFunc) {\n      var i \x3d 0;\n      var arrLength \x3d srcArr.length;\n      var retArr  \x3d [];\n      for (i; i \x3c arrLength; i++) {\n        var res \x3d filterFunc(srcArr[i]);\n        if (res) retArr.push(srcArr[i]);\n      }\n      return retArr; \n    };\n\n    var prevArticleArr \x3d filter(issue.contents, function (content) {\n      return regDt \x3e (content._id.key + \x27\x27).substr(0, 14) * 1;\n    }), prevArticle;\n    prevArticle \x3d prevArticleArr.sort(function (a, b) {\n      if (b._id.key \x3c a._id.key) return -1;\n      return 1;\n    })[0];\n\n    var nextArticleArr \x3d filter(issue.contents, function (content) {\n      return regDt \x3c (content._id.key + \x27\x27).substr(0, 14) * 1;\n    }), nextArticle;\n    nextArticle \x3d nextArticleArr.sort(function (a, b) {\n      if (a._id.key \x3c b._id.key) return -1;\n      return 1;\n    })[0];\n\n    // \uc774\uc804 \uae30\uc0ac 2\uac1c\uac00 \ubd99\uc5b4\uc57c \ud558\ub294 \uacbd\uc6b0, prevArticleArr \ub97c \ub2e4\uc2dc \uc2dc\uac04 \uc21c\uc73c\ub85c \uc815\ub82c\n    if (nextArticleArr.length \x3d\x3d\x3d 0) {\n      prevArticleArr \x3d prevArticleArr.slice(0, 2).sort(function (a, b) {\n        if (a._id.key \x3c b._id.key) return -1;\n        return 1;\n      });\n    } else {\n      prevArticleArr \x3d prevArticleArr.slice(0, 1);\n    }\n\n    if (prevArticleArr.length \x3d\x3d\x3d 0) {\n      nextArticleArr \x3d nextArticleArr.slice(0, 2);\n    } else {\n      nextArticleArr \x3d nextArticleArr.slice(0, 1);\n    }\n\n    var stripBrackets \x3d function (str) {\n      var ret \x3d str.replace(/^\x3c.*\x3e/, \x27\x27);\n      return ret.replace(/\\[[^\\]]*\\]/, \x27\x27);\n    }\n\n    var escapeElem \x3d $(\x27\x3ctextarea/\x3e\x27);\n    escapeElem.html(window.title);\n    var documentTitle \x3d escapeElem.text();\n\n    if (prevArticleArr.length \x3e 0) {\n      prevArticleArr.forEach(function(item) {\n        $list_series.append(_.template(another_template)({newsId: item._id.key, title: stripBrackets(item.title)}));  \n      });\n    }\n    $list_series.append(_.template(current_template)({title: stripBrackets(documentTitle)}));\n\n    if (nextArticleArr.length \x3e 0) {\n      nextArticleArr.forEach(function(item) {\n        $list_series.append(_.template(another_template)({newsId: item._id.key, title: stripBrackets(item.title)}));\n      });\n    }\n\n    if (prevArticleArr.length + nextArticleArr.length \x3d\x3d\x3d 1) {\n      $relate_series.addClass(\x27relate_series2\x27);\n    }\n    var issueTitle \x3d issue.editedTitle || issue.title || issue.keyword;\n    $title.text(issueTitle);\n\n    if (issue.factor.type \x3d\x3d\x3d \x27series\x27) {\n      $link_more.attr(\x27href\x27, LIST_URL.replace(\x27{seriesId}\x27, issue._id));\n    } else {\n      $link_more.hide();\n    }\n});\n\n})(document.querySelectorAll(\x22.hc_news_pc_mArticle_series\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hc_news_pc_cSub_bnr_130\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hc_news_pc_mAside_asideBottomAd\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hc_news_pc_mAside_asideTopAd\x22));"));
+
+(0,eval("(function(elements){\nvar TITLE_MAX_LENGTH \x3d 50; //\ud55c\uae00\uc740 2\uc790\ub85c \uc778\uc2dd\nvar titles \x3d Array.prototype.slice.call(elements[0].querySelectorAll(\x27.tit_thumb\x27), 0);\n\ntitles.forEach( function (elem) {\n    var str \x3d elem.innerText;\n    var strLength \x3d 0;\n    var returnStrings \x3d [];\n    str.split(\x27\x27).forEach(function (char) {\n    \tstrLength \x3d strLength + (char.charCodeAt(0) \x3e 128 ? 2 : 1);\n        if (strLength \x3c TITLE_MAX_LENGTH) {\n        \treturnStrings.push(char);\n        }\n    });\n    \n    if (strLength \x3e TITLE_MAX_LENGTH) returnStrings.push(\x27...\x27);\n    \n    elem.textContent \x3d returnStrings.join(\x27\x27);                                                     \n});\n\n})(document.querySelectorAll(\x22.hc_news_pc_mAside_phototv\x22));"));
+
+(0,eval("(function(elements){\n\x22use strict\x22;\n\nvar component \x3d function component() {\n    var tabNameMap \x3d { \x22news\x22: \x22\ub274\uc2a4\x22, \x22sports\x22: \x22\uc2a4\ud3ec\uce20\x22, \x22entertain\x22: \x22\uc5f0\uc608\x22 };\n\n    var mainClass \x3d React.createClass({\n        displayName: \x22mainClass\x22,\n        getInitialState: function getInitialState() {\n            return {\n                activeTabName: \x22news\x22,\n                targetLink: {\n                    \x22news\x22: \x22http://media.daum.net/ranking/popular?include\x3dsociety,politics,culture,economic,foreign,digital\x22,\n                    \x22sports\x22: \x22http://media.daum.net/ranking/popular?include\x3dsports\x22,\n                    \x22entertain\x22: \x22http://media.daum.net/ranking/popular?include\x3dentertain\x22\n                },\n                dataIndex: 1\n            };\n        },\n        selectTab: function selectTab(tabName) {\n            if (this.state.activeTabName !\x3d tabName) {\n                this.setState({\n                    activeTabName: tabName,\n                    dataIndex: 1\n                });\n            }\n        },\n        contAside: function contAside(tabName) {\n            if (this.state.activeTabName \x3d\x3d tabName) {\n                return React.createElement(\n                    \x22div\x22,\n                    { className: \x22cont_aside\x22 },\n                    React.createElement(\n                        \x22strong\x22,\n                        { className: \x22screen_out\x22 },\n                        tabNameMap[tabName]\n                    ),\n                    this.rankingOlHtml(tabName),\n                    React.createElement(\n                        \x22div\x22,\n                        { className: \x22util_aside\x22 },\n                        React.createElement(\n                            \x22button\x22,\n                            { className: \x22btn_slide btn_prev #right #popular_news #btn_before\x22, onClick: this.clickPrev },\n                            React.createElement(\n                                \x22span\x22,\n                                { className: \x22ico_newsview\x22 },\n                                \x22\\uC774\\uC804\x22\n                            )\n                        ),\n                        React.createElement(\n                            \x22button\x22,\n                            { className: \x22btn_slide btn_next #right #popular_news #btn_after\x22, onClick: this.clickNext },\n                            React.createElement(\n                                \x22span\x22,\n                                { className: \x22ico_newsview\x22 },\n                                \x22\\uB2E4\\uC74C\x22\n                            )\n                        ),\n                        React.createElement(\n                            \x22a\x22,\n                            { href: this.state.targetLink[tabName], className: \x22link_all #right #popular_news #more\x22 },\n                            React.createElement(\n                                \x22span\x22,\n                                { className: \x22txt_newsview\x22 },\n                                \x22\\uC804\\uCCB4\\uB7AD\\uD0B9\x22\n                            ),\n                            React.createElement(\x22span\x22, { className: \x22ico_newsview\x22 })\n                        )\n                    )\n                );\n            }\n        },\n        rankingOlHtml: function rankingOlHtml(activeTab) {\n            var dynamicClassName \x3d \x22list_ranking #right #popular_news #\x22 + activeTab + \x22_list\x22;\n            return React.createElement(\n                \x22ol\x22,\n                { className: dynamicClassName },\n                this.rankingListHtml(activeTab)\n            );\n        },\n        rankingListHtml: function rankingListHtml(activeTab) {\n            switch (activeTab) {\n                case \x22news\x22:\n                    var popular \x3d this.props.news;\n                    break;\n                case \x22sports\x22:\n                    var popular \x3d this.props.sports;\n                    break;\n                case \x22entertain\x22:\n                    var popular \x3d this.props.entertain;\n                    break;\n                default:\n                    return null;\n            }\n\n            var start \x3d (this.state.dataIndex - 1) * 10;\n            var end \x3d this.state.dataIndex * 10;\n            var newsList \x3d popular.slice(start, end);\n\n            return newsList.map(function (item, i) {\n\n                var index \x3d (this.state.dataIndex - 1) * 10 + (i + 1);\n                var emClassName \x3d \x22num_newsview num\x22 + index;\n                var aClassName \x3d \x22link_txt @\x22 + index;\n                var key \x3d activeTab + index;\n                var url \x3d \x22https://v.daum.net/v/\x22 + item.newsId;\n                var title \x3d item.title;\n                if (activeTab \x3d\x3d \x22entertain\x22) {\n                    title \x3d title.replace(/\\[.*?\\]+/gi, \x22\x22); // https://kakao.agit.in/g/300001832/wall/308386790#comment_panel_308952677\n                }\n\n                return React.createElement(\n                    \x22li\x22,\n                    { key: key },\n                    React.createElement(\n                        \x22em\x22,\n                        { className: emClassName },\n                        index,\n                        \x22\\uC704\x22\n                    ),\n                    React.createElement(\n                        \x22strong\x22,\n                        { className: \x22tit_g\x22 },\n                        React.createElement(\n                            \x22a\x22,\n                            { href: url, className: aClassName },\n                            title\n                        )\n                    )\n                );\n            }.bind(this));\n        },\n        clickPrev: function clickPrev() {\n            var dataIndex \x3d this.state.dataIndex \x3d\x3d 1 ? 3 : this.state.dataIndex - 1;\n            this.setState({ dataIndex: dataIndex });\n        },\n        clickNext: function clickNext() {\n            var dataIndex \x3d this.state.dataIndex \x3d\x3d 3 ? 1 : this.state.dataIndex + 1;\n            this.setState({ dataIndex: dataIndex });\n        },\n        render: function render() {\n            var activeTab \x3d this.state.activeTabName;\n\n            return React.createElement(\n                \x22div\x22,\n                { className: \x22aside_g aside_popular\x22 },\n                React.createElement(\n                    \x22h3\x22,\n                    { className: \x22txt_newsview\x22 },\n                    \x22\\uB9CE\\uC774\\uBCF8 \\uB274\\uC2A4\x22\n                ),\n                React.createElement(\n                    \x22ul\x22,\n                    { className: \x22tab_aside tab_media\x22 },\n                    React.createElement(\n                        \x22li\x22,\n                        { className: this.state.activeTabName \x3d\x3d \x22news\x22 ? \x22on\x22 : \x22\x22 },\n                        React.createElement(\n                            \x22a\x22,\n                            { href: \x22#none\x22, className: \x22link_tab link_tab2 #right #popular_tab #news\x22, onFocus: this.selectTab.bind(this, \x22news\x22), onMouseOver: this.selectTab.bind(this, \x22news\x22) },\n                            \x22\\uB274\\uC2A4\x22\n                        ),\n                        this.contAside(\x22news\x22)\n                    ),\n                    React.createElement(\n                        \x22li\x22,\n                        { className: this.state.activeTabName \x3d\x3d \x22entertain\x22 ? \x22on\x22 : \x22\x22 },\n                        React.createElement(\n                            \x22a\x22,\n                            { href: \x22#none\x22, className: \x22link_tab link_tab3 #right #popular_tab #enter\x22, onFocus: this.selectTab.bind(this, \x22entertain\x22), onMouseOver: this.selectTab.bind(this, \x22entertain\x22) },\n                            \x22\\uC5F0\\uC608\x22\n                        ),\n                        this.contAside(\x22entertain\x22)\n                    ),\n                    React.createElement(\n                        \x22li\x22,\n                        { className: this.state.activeTabName \x3d\x3d \x22sports\x22 ? \x22on\x22 : \x22\x22 },\n                        React.createElement(\n                            \x22a\x22,\n                            { href: \x22#none\x22, className: \x22link_tab link_tab4 #right #popular_tab #sports\x22, onFocus: this.selectTab.bind(this, \x22sports\x22), onMouseOver: this.selectTab.bind(this, \x22sports\x22) },\n                            \x22\\uC2A4\\uD3EC\\uCE20\x22\n                        ),\n                        this.contAside(\x22sports\x22)\n                    )\n                )\n            );\n        }\n    });\n\n    return mainClass;\n},\n    data \x3d new Object({ \x22news\x22: [{ \x22newsId\x22: \x2220200127115723837\x22, \x22title\x22: \x22\uad6d\ub0b4 \x27\uc6b0\ud55c \ud3d0\ub834\x27 \ub124\ubc88\uc9f8 \ud658\uc790 \ubc1c\uc0dd..\uc6b0\ud55c \ubc29\ubb38 55\uc138 \ud55c\uad6d\ub0a8\uc131(\uc885\ud569)\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/yonhap/20200127115723622tqny.jpg\x22, \x22cpKorName\x22: \x22\uc5f0\ud569\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127120504085\x22, \x22title\x22: \x22\x27\uc6b0\ud55c\ud3d0\ub834\x27 \uc138\ubc88\uc9f8 \ud655\uc9c4\uc790 74\uba85 \uc811\ucd09..\x27\uac15\ub0a8\u2192\ud55c\uac15\u2192\uc77c\uc0b0\x27(\uc885\ud569)\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsis/20200127120504352uvgw.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2dc\uc2a4\x22 }, { \x22newsId\x22: \x2220200127103411115\x22, \x22title\x22: \x22\x27\uc6b0\ud55c\uc11c \ube60\uc838\ub098\uac04 500\ub9cc\uba85\x27 \uc5b4\ub514\ub85c?..\ud55c\uad6d\ud589 6\ucc9c430\uba85\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/yonhap/20200127103411291wcev.jpg\x22, \x22cpKorName\x22: \x22\uc5f0\ud569\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127122801367\x22, \x22title\x22: \x22\uae40\ubb38\uc218 \\\x22\uc2e0\ub2f9\ucc3d\ub2f9\\\x22..\ud64d\uc900\ud45c \\\x22\ucd1d\uc120 \uac01\uac1c\uc804\ud22c, \uc88c\ud30c\ub9cc \uc0b4\ud310\ub0ac\ub2e4\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/moneytoday/20200127122801898kdfk.jpg\x22, \x22cpKorName\x22: \x22\uba38\ub2c8\ud22c\ub370\uc774\x22 }, { \x22newsId\x22: \x2220200127110020568\x22, \x22title\x22: \x22\uc0ac\ub0b4\ubd88\ub95c \ub4a4 \ud53c\ud574\uc790 \uc9d5\uacc4\uc694\uad6c\ud55c \uc5ec\uc131..\u6cd5 \\\x22\ud574\uace0\uc815\ub2f9\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/fnnewsi/20200127110020880vzzd.jpg\x22, \x22cpKorName\x22: \x22\ud30c\uc774\ub0b8\uc15c\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127094846312\x22, \x22title\x22: \x22\\\x22\uc7a5\ubcf4\uae30\ub3c4 \uc678\uc2dd\ub3c4 \ubb34\uc12d\ub2e4\\\x22..\ud584\xb7\ub77c\uba74\xb7\ubc84\uac70\xb7\uc544\uc774\uc2a4\ud06c\ub9bc\xb7\ube59\uc218\uae4c\uc9c0 \\\x22\uc8c4\ub2e4 \uc62c\ub790\ub2e4\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/akn/20200127094846733pagx.jpg\x22, \x22cpKorName\x22: \x22\uc544\uc2dc\uc544\uacbd\uc81c\x22 }, { \x22newsId\x22: \x2220200127121600260\x22, \x22title\x22: \x22[\uc6b0\ud55c\ud3d0\ub834]\ub124 \ubc88\uc9f8 \ud655\uc9c4\uc790\ub3c4 \x27\uacf5\ud56d\x27 \ubb34\uc0ac\ud1b5\uacfc..6\uc77c \ub4a4 \uac10\uc5fc \ud310\uc815\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/NEWS1/20200127121600469ilzt.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a41\x22 }, { \x22newsId\x22: \x2220200127120533094\x22, \x22title\x22: \x22[\uc950\ub4e4\uc758 \uc124]\u2464\\\x22\uc190\uc8fc\ub4e4 \uc138\ubc43\ub3c8 \uc8fc\ub824\uba74 \ub178\uac00\ub2e4\ub77c\ub3c4 \ud574\uc57c..\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/Edaily/20200127120533223ehoj.jpg\x22, \x22cpKorName\x22: \x22\uc774\ub370\uc77c\ub9ac\x22 }, { \x22newsId\x22: \x2220200127122848377\x22, \x22title\x22: \x22\x27\ub0a8\ub2ec\ub790\ub358 \uc0ac\ub791\x27 \uc774\ubd80\uc9c4 \ub7ec\ube0c\uc2a4\ud1a0\ub9ac..\uc774\ud63c\uc73c\ub85c \uc885\uc9c0\ubd80\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsis/20200127122848205pslt.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2dc\uc2a4\x22 }, { \x22newsId\x22: \x2220200127134946465\x22, \x22title\x22: \x22\x27\ube68\uac04\ub0a0\x27 \uc720\uae09\ud734\uc77c \ub3c4\uc785 \uccab\ud574 \uc124 \uba85\uc808.. \ub450\ub4dc\ub7ec\uc9c4 \x27\ud734\uc2dd\uaca9\ucc28\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/hankooki/20200127134946855fhoz.jpg\x22, \x22cpKorName\x22: \x22\ud55c\uad6d\uc77c\ubcf4\x22 }, { \x22newsId\x22: \x2220200127123602471\x22, \x22title\x22: \x22\uac19\uc740 \uc124, \uac19\uc740 \uad6d\ubbfc\uc778\ub370..\ubbfc\uc2ec \ubcf4\ub294 \ub208\uc740 \ub2e4\ub978 \ub450 \ub0a8\uc790\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/moneytoday/20200127123603789aczc.jpg\x22, \x22cpKorName\x22: \x22\uba38\ub2c8\ud22c\ub370\uc774\x22 }, { \x22newsId\x22: \x2220200127130022768\x22, \x22title\x22: \x22\u5317\uacf5\ube44 \x27\ubc29\ucca9\ub300\uc6d0\x27 \ucc99\ud558\ub2e4 \ucd1d\uae30 \ub09c\uc0ac ..52\uc8fc\ub144 \ub9de\uc740 \x271\xb721 \uc0ac\uac74\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/NEWS1/20200127130026229gevz.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a41\x22 }, { \x22newsId\x22: \x2220200127130346822\x22, \x22title\x22: \x22[\ub2e8\ub3c5]  \\\x224\uc0b4\uc9dc\ub9ac\uac00 \uc5b4\ub9b0\uc774\uc9d1\uc5d0 \ucee4\ud53c \uc0ac\uac00\uc57c \ud55c\ub2e4\uace0 \uc878\ub77c\uc694\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/hankooki/20200127130346809qmbc.jpg\x22, \x22cpKorName\x22: \x22\ud55c\uad6d\uc77c\ubcf4\x22 }, { \x22newsId\x22: \x2220200127113321328\x22, \x22title\x22: \x22\\\x22\uc911\uad6d\uc774 \uac10\ud788 \ub364\ube44\uc9c0 \ubabb\ud558\uac8c \ud558\ub77c\\\x22 \uc544\uba54\ub9ac\uce74 \ud37c\uc2a4\ud2b8 \ub3c5\ud574\uc84c\ub2e4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/joongang/20200127113321547zrbo.jpg\x22, \x22cpKorName\x22: \x22\uc911\uc559\uc77c\ubcf4\x22 }, { \x22newsId\x22: \x2220200127131113901\x22, \x22title\x22: \x22\ub3d9\ud574 \ud39c\uc158 \uac00\uc2a4\ud3ed\ubc1c \uc0ac\uace0, LP\uac00\uc2a4 \ub9c8\uac10 \ud50c\ub7ec\uadf8 \uc548 \ubcf4\uc5ec\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/NEWS1/20200127131113473cbej.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a41\x22 }, { \x22newsId\x22: \x2220200127103345106\x22, \x22title\x22: \x22[\ubc15\ub3d9\ud718\uc758 \ubca0\ud2b8\ub0a8\uc740 \uc9c0\uae08] \x27\ucd5c\uace0,\ucd5c\ub300,\ucd5c\ub2e4\x27 \ubca0\ud2b8\ub0a8\uc758 2019\ub144\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/ked/20200127103346583peeq.jpg\x22, \x22cpKorName\x22: \x22\ud55c\uad6d\uacbd\uc81c\x22 }, { \x22newsId\x22: \x2220200127114848656\x22, \x22title\x22: \x22[\uc6b0\ud55c\ud3d0\ub834]\\\x22\ub300\ucc3d\uad90 \uc9c1\uc804 \ub2e8\uacc4 \ub3cc\uc785\ud588\ub2e4\\\x22-\ud64d\ucf69 \uc804\ubb38\uac00\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/NEWS1/20200127114848262jemd.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a41\x22 }, { \x22newsId\x22: \x2220200127124053510\x22, \x22title\x22: \x22\ud55c\uad6d\ub2f9, \uc6b0\ud55c \ud3d0\ub834\uc5d0 \\\x22\u6587\ub300\ud1b5\ub839 \ubb34\ucc45\uc784..\u4e2d \uc5ec\ud589\uac1d \ub9c9\uc544\uc57c\\\x22(\uc885\ud569)\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsis/20200127124053179drwx.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2dc\uc2a4\x22 }, { \x22newsId\x22: \x2220200127094346239\x22, \x22title\x22: \x22\ub2f9\uc2e0\uc774 \ubaa8\ub974\ub294 \x27\uc5d0\uc774\uc988\x27 \uc0c1\uc2dd\ub4e4..\ucc0c\uac1c \ud568\uaed8 \uba39\uc73c\uba74 \uac10\uc5fc\ub420\uae4c\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/khan/20200127094346555lpps.jpg\x22, \x22cpKorName\x22: \x22\uacbd\ud5a5\uc2e0\ubb38\x22 }, { \x22newsId\x22: \x2220200127131806985\x22, \x22title\x22: \x22\x27\uc6b0\ud55c \ud3d0\ub834\x27 \ubd88\uc548\uc5d0 \uc911\uad6d\ud589 \uc904\ucde8\uc18c..\ud56d\uacf5\uc0ac\ub4e4, \ud658\ubd88 \uc218\uc218\ub8cc \uba74\uc81c\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/yonhap/20200127131807009wsbg.jpg\x22, \x22cpKorName\x22: \x22\uc5f0\ud569\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127105125401\x22, \x22title\x22: \x22\\\x22\ud55c\uad6d \uc774\uc5b4 \u4e2d\uc6b0\ud55c\ud3d0\ub834\uc5d0 \ub354\ube14\ud380\uce58 \ub9de\uc558\ub2e4\\\x22..\u65e5\uad00\uad11\uc5c5\uacc4 \ube44\uba85\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/joongang/20200127105125652psac.jpg\x22, \x22cpKorName\x22: \x22\uc911\uc559\uc77c\ubcf4\x22 }, { \x22newsId\x22: \x2220200127125316688\x22, \x22title\x22: \x22\\\x22\uba54\ub974\uc2a4 \uc545\ubabd\uc740 \ub2e4\uc2dc \uc5c6\ub2e4\\\x22..\ubcd1\uc6d0\ub4e4, \uba74\ud68c\uc81c\ud55c\xb7\uc120\ubcc4\uc9c4\ub8cc \uc8fc\ub825\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/yonhap/20200127125316111xkyz.jpg\x22, \x22cpKorName\x22: \x22\uc5f0\ud569\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127120520089\x22, \x22title\x22: \x22\x27\ubc31\ub450\uc0b0 \uc544\ub798 \uccab \ub3d9\ub124 \u5317 \uc0bc\uc9c0\uc5f0\uc2dc\x27 \uad6d\uc81c\uad00\uad11\ud2b9\uad6c\ub85c \ubcc0\uc2e0 (\ud654\ubcf4\u2461)\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsis/20200127120521077hnvu.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2dc\uc2a4\x22 }, { \x22newsId\x22: \x2220200127121302206\x22, \x22title\x22: \x22\uc6b0\ud55c\ud3d0\ub834 4\ubc88\uc9f8 \ud655\uc9c4\uc790 5\uc77c\uac04 \ubab0\ub790\ub2e4..\uc9c0\uc5ed\ub0b4 \uc804\ud30c \uc6b0\ub824 \ucee4\uc838(\uc0c1\ubcf4)\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/Edaily/20200127132811690ucun.jpg\x22, \x22cpKorName\x22: \x22\uc774\ub370\uc77c\ub9ac\x22 }, { \x22newsId\x22: \x2220200127093046021\x22, \x22title\x22: \x22\uc0ac\ub9c9\uc5d4 \ub208 \uc624\uace0, \ud540\ub780\ub4dc\ub294 \x27\ud30c\ub987\ud30c\ub987\x27..\uc138\uacc4 \uacf3\uacf3 \x27\uc774\uc0c1\ud55c \uaca8\uc6b8\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/khan/20200127093047264xxvd.jpg\x22, \x22cpKorName\x22: \x22\uacbd\ud5a5\uc2e0\ubb38\x22 }, { \x22newsId\x22: \x2220200127104039227\x22, \x22title\x22: \x22\ub300\ubc95 \\\x22\uae40\ubb34\uc131 \x27\uc5ed\uc0ac\uad50\uacfc\uc11c \uc885\ubd81\uc88c\ud30c\x27 \ubc1c\uc5b8, \uc9d1\ud544\uc9c4 \uba85\uc608\ud6fc\uc190 \uc544\ub0d0\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/NEWS1/20200127104040525pjif.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a41\x22 }, { \x22newsId\x22: \x2220200127123000390\x22, \x22title\x22: \x22\ud55c\uad6d\ub2f9 \uacf5\uad00\uc704, \uacf5\ucc9c\uc791\uc5c5 \x27\uc2dc\ub3d9\x27..5\uc120 \uc2ec\uc7ac\ucca0 \x27\uacac\uc81c\uad6c\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/moneytoday/20200127123000931drlz.jpg\x22, \x22cpKorName\x22: \x22\uba38\ub2c8\ud22c\ub370\uc774\x22 }, { \x22newsId\x22: \x2220200127030053926\x22, \x22title\x22: \x22\x27\ud574\uc5f4\uc81c \uba39\uace0 \uc2dd\ub2f9 \uac14\ub2e4\ub294\ub370..\x27 \ud655\uc9c4\uc790 \ub098\uc628 \ub9d8\uce74\ud398 \x27\ud328\ub2c9\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/kukminilbo/20200127030054827rgcd.jpg\x22, \x22cpKorName\x22: \x22\uad6d\ubbfc\uc77c\ubcf4\x22 }, { \x22newsId\x22: \x2220200127123500459\x22, \x22title\x22: \x22600\uba85 \uad50\ubbfc\uc218\uc1a1\uc5d0..\\\x22\uad6d\ub0b4\uac10\uc5fc \uc6b0\ub824\\\x22 vs \\\x22\uc2e0\uc18d\ub300\uc751\\\x22 \uc758\uacac \ubd84\ubd84(\uc885\ud569)\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/NEWS1/20200127123501277qivz.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a41\x22 }, { \x22newsId\x22: \x2220200127113100255\x22, \x22title\x22: \x22\\\x22\uc6b0\ud55c\ud3d0\ub834 \ub9c9\uc790\\\x22..\x27\ud6c4\ucfe0\uc2dc\ub9c8 \uc6d0\uc804\uae09\x27 \ub300\uc751\ub098\uc120 \uc815\ubd80\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/moneytoday/20200127113100752uacy.jpg\x22, \x22cpKorName\x22: \x22\uba38\ub2c8\ud22c\ub370\uc774\x22 }], \x22sports\x22: [{ \x22newsId\x22: \x2220200127093654104\x22, \x22title\x22: \x22\ub9c8\uc774\ud074 \uc870\ub358, \\\x22\uce5c\ub3d9\uc0dd \uac19\ub358 \ucf54\ube44\uac00 \uc774\ub807\uac8c \ub5a0\ub098\ub2e4\ub2c8..\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/moneytoday/20200127093655026txpc.jpg\x22, \x22cpKorName\x22: \x22\uba38\ub2c8\ud22c\ub370\uc774\x22 }, { \x22newsId\x22: \x2220200127113045247\x22, \x22title\x22: \x22\x27\ud559\ubc94\uc2a8\x27 \uae40\ud559\ubc94 \uac10\ub3c5\uc740 \uc774\ub7f0 \uc9c0\ub3c4\uc790\uc785\ub2c8\ub2e4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/sportskhan/20200127140947842cevz.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\uacbd\ud5a5\x22 }, { \x22newsId\x22: \x2220200127114742628\x22, \x22title\x22: \x22\\\x22\uc9c0\uc2dc\ub97c \ubabb \ub0b4\ub9ac\uaca0\ub2e4\\\x22 NBA \uac10\ub3c5\ub4e4\ub3c4 \ucf54\ube44 \ub5a0\uc62c\ub9ac\uba70 \ub208\ubb3c\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/jumpball/20200127114742385swjw.jpg\x22, \x22cpKorName\x22: \x22\uc810\ud504\ubcfc\x22 }, { \x22newsId\x22: \x2220200127060033592\x22, \x22title\x22: \x22\uc77c\ubcf8 \uc7a1\ub358 \uc8fc\uba39 \ud55c\ubc29\uc5d0 \uac15\ub0a8\uc544\ud30c\ud2b8 \ud55c\ucc44\uac12, \uc9c0\uae08\uc740..\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/moneytoday/20200127060036160kmco.jpg\x22, \x22cpKorName\x22: \x22\uba38\ub2c8\ud22c\ub370\uc774\x22 }, { \x22newsId\x22: \x2220200127121853293\x22, \x22title\x22: \x22\x27\uc77c\ubcf8\u2192\ud55c\uad6d\x27 \uc6d0\ub450\uc7ac, \\\x22\uc774\uc81c K\ub9ac\uadf8\uc5d0\uc11c \uc774\ub984 \uc54c\ub9ac\uace0 \uc2f6\ub2e4\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/interfootball/20200127121853814gfsc.jpg\x22, \x22cpKorName\x22: \x22\uc778\ud130\ud48b\ubcfc\x22 }, { \x22newsId\x22: \x2220200127090851711\x22, \x22title\x22: \x22\uacf5\ud3ec\uc758 \ub85c\ud14c\uc774\uc158, \uc5ed\ub300 \uc774\ub7f0 \ud300\uc740 \uc5b4\ub514\uc5d0\ub3c4 \uc5c6\uc5c8\ub2e4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/SpoChosun/20200127090851720iqdo.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\uc870\uc120\x22 }, { \x22newsId\x22: \x2220200127081347115\x22, \x22title\x22: \x22LAD \ub9c8\uc5d0\ub2e4 \\\x22\uc774\uc81c \uc640\uc11c \ucc54\ud53c\uc5b8\ubc18\uc9c0? \ubc1b\uc544\ub3c4 \uc548 \uae30\ubed0\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/SPORTSSEOUL/20200127081348011spxf.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\uc11c\uc6b8\x22 }, { \x22newsId\x22: \x2220200127060601794\x22, \x22title\x22: \x22\ucf54\ube44 \ubaa9\uc228 \uc557\uc544\uac04 \ud5ec\uae30\uc0ac\uace0, \ub538\ub3c4 \ud76c\uc0dd\ub410\ub2e4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/mksports/20200127060602437gjjc.jpg\x22, \x22cpKorName\x22: \x22MK\uc2a4\ud3ec\uce20\x22 }, { \x22newsId\x22: \x2220200127054602456\x22, \x22title\x22: \x22\x27\ub2e4\uc2dc \uad70\uc778\x27 \uc624\uc138\ud6c8, \\\x22\uba38\ub9ac \ubc00\uace0 \ud6c8\ub828\uc18c\ub85c..\ucc29\ud55c \ud6c4\uc784\ub418\uaca0\ub2e4\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/interfootball/20200127054602954kdyi.jpg\x22, \x22cpKorName\x22: \x22\uc778\ud130\ud48b\ubcfc\x22 }, { \x22newsId\x22: \x2220200127101609799\x22, \x22title\x22: \x22\uacbd\uae30\uacb0\uc7a5\uc5d0 \ucf54\ube44\ub18d\uad6c\ud654 \ud5cc\uc815\uae4c\uc9c0..NBA \ud6c4\ubc30\ub4e4\ub3c4 \ucf54\ube44\uc0ac\ub9dd\uc5d0 \uc560\ub3c4\ud589\ub82c\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127101610131qelt.jpg\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127112344105\x22, \x22title\x22: \x22\ucf54\ube44 \ud5ec\ub9ac\ucf65\ud130 \uc0ac\uace0, \ub3d9\uc2b9\uc790\ub294 \uc560\ub7f0 \uc800\uc9c0 \uc804 \ucf54\uce58\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/tvpot/thumb/v9adflNVHftVlULHboft1Nd/thumb.png\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\ud2f0\ube44\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127123203421\x22, \x22title\x22: \x22\uc5d0\ub9ad\uc13c, \uba54\ub514\uceec \uc704\ud574 \uc624\ub298 \uc544\uce68 \ubc00\ub780\u884c..\x274\ub144 \ubc18 \uacc4\uc57d+\uc5f0\ubd09 103\uc5b5\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/interfootball/20200127123203331nybt.jpg\x22, \x22cpKorName\x22: \x22\uc778\ud130\ud48b\ubcfc\x22 }, { \x22newsId\x22: \x2220200127073645760\x22, \x22title\x22: \x22\x27\uc6d0\ud300\x27 \uae40\ud559\ubc94\ud638, \uc808\ubc18\uc740 \uc62c\ub9bc\ud53d \ubabb \uac04\ub2e4\ub2c8.. \ub2e4\uac00\uc624\ub294 \x27\uc794\uc778\ud55c \uc120\ud0dd\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/footballist/20200127073646100lcgt.jpg\x22, \x22cpKorName\x22: \x22\ud48b\ubcfc\ub9ac\uc2a4\ud2b8\x22 }, { \x22newsId\x22: \x2220200127073239739\x22, \x22title\x22: \x22\ucf54\ube44 \uc0ac\ub9dd \uc804\ub0a0 \ucd95\ud558\ubc1b\uc740 \ubca8\ub9b0\uc800 \\\x22\ubbff\uc744 \uc218 \uc5c6\ub2e4, \uc0ac\uc2e4\uc774 \uc544\ub2c8\uae38\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/mydaily/20200127073239707roff.jpg\x22, \x22cpKorName\x22: \x22\ub9c8\uc774\ub370\uc77c\ub9ac\x22 }, { \x22newsId\x22: \x2220200127084814420\x22, \x22title\x22: \x22\\\x22\uc5f0\uc7a5\uc804\uc5d0\uc11c \uc644\ubcbd\ud55c \ub9c8\ubb34\ub9ac\uc600\ub2e4\\\x22 \uc678\uc2e0\ub3c4 \uadf9\ucc2c\ud55c \uae40\ud559\ubc94\ud638\uc758 \uc6b0\uc2b9\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127084815990fbid.jpg\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127080008914\x22, \x22title\x22: \x22\x27\uc544\uc2dc\uc544 \ub9f9\uc8fc\x27 \ud55c\uad6d, AFC \uc8fc\uad00 \uc5f0\ub839\ubcc4 \ub300\ud68c \ubaa8\ub450 \uc11d\uad8c\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/xportsnews/20200127080008881jyeh.jpg\x22, \x22cpKorName\x22: \x22\uc5d1\uc2a4\ud3ec\uce20\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127063351109\x22, \x22title\x22: \x22\x27\uc67c\ubc1c\uc5d0 \uac19\uc740 \ud3ec\uc9c0\uc158\x27 \uc774\ub3d9\uacbd, \\\x22\uc774\uac15\uc778 \uc62c\ub9bc\ud53d\uc5d0 \ud569\ub958\ud55c\ub2e4\uba74..\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/tvpot/thumb/v0b66xZEEG9ixU9tkxGZG7G/thumb.png\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\ud2f0\ube44\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127082009175\x22, \x22title\x22: \x22\\\x22\uac00\uc2b4\uc774 \ucc22\uc5b4\uc9c4\ub2e4\\\x22 \ucf54\ube44\uc758 \ucda9\uaca9\uc801\uc778 \uc0ac\ub9dd\uc5d0 \ub974\ube0c\ub860\uacfc \uc0e4\ud06c\ub3c4 \uc560\ub3c4 \uba54\uc2dc\uc9c0\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127082009342ognr.jpg\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127132939145\x22, \x22title\x22: \x22\uc22b\uc790\ub85c \ub3cc\uc544\ubcf8 NBA \uc804\uc124 \ucf54\ube44 \ube0c\ub77c\uc774\uc5b8\ud2b8\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/yonhap/20200127132939204kowj.jpg\x22, \x22cpKorName\x22: \x22\uc5f0\ud569\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127105321431\x22, \x22title\x22: \x22\\\x22\uc6b0\ub9ac\ub294 \ucf54\ube44\uc758 \uc2dc\ub300\uc5d0 \uc0b4\uc558\ub2e4\\\x22..\uc774\ubc29\uc778 \uacbd\ud5d8\uc774 \ub0b3\uc740 \ubd88\uc138\ucd9c \ub18d\uad6c \uc2a4\ud0c0\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/tvpot/thumb/v9adflNVHftVlULHboft1Nd/thumb.png\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\ud2f0\ube44\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127090027549\x22, \x22title\x22: \x22\uc0cc\ub514\uc5d0\uc774\uace0\uc5d0 \ub2e4\uc800\uc2a4\uae4c\uc9c0..\ubcf4\uc2a4\ud134, \ubb34\ud0a4 \ubca0\uce20 \ub300\ud615 \ud2b8\ub808\uc774\ub4dc \ub9cc\uc9c0\uc791\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/SPORTSSEOUL/20200127090028213jkgr.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\uc11c\uc6b8\x22 }, { \x22newsId\x22: \x2220200127090124589\x22, \x22title\x22: \x22\x27RYU \uc5d0\uc774\uc2a4\x27 \ud1a0\ub860\ud1a0\uc758 \uc0c1\uc804\ubcbd\ud574, \x2721\uba85 \uc120\ubc1c \uacbd\ud5d8\u21925\uc120\ubc1c 6\uc778 \uacbd\uc7c1\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127090125119ccji.png\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127120305012\x22, \x22title\x22: \x22\x27\ud55c\uacbd\uae30 81\ub4dd\uc810\uc758 \uc804\uc124\x27 \ucf54\ube44, \ud604\ub300\ub18d\uad6c \ubd88\uba78\uc758 \uae30\ub85d \uc138\uc6b0\ub2e4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/SpoHankook/20200127120306781hazb.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\ud55c\uad6d\x22 }, { \x22newsId\x22: \x2220200127130005763\x22, \x22title\x22: \x22\\\x22\ub958\ud604\uc9c4\uc740 1\uc120\ubc1c, \uae40\uad11\ud604\uc740 5\uc120\ubc1c\\\x22 MLB\ub2f7\ucef4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/spotvnews/20200127130006231geye.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\ud2f0\ube44\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127092634959\x22, \x22title\x22: \x22\uc544\ud508 \uc190\uac00\ub77d\ub3c4 \ucc59\uae30\ub294 \ucea1\ud2f4, \uc774\ub7f0 \uc8fc\uc7a5 \ub610 \uc5c6\uc2b5\ub2c8\ub2e4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/besteleven/20200127092634824qhun.jpg\x22, \x22cpKorName\x22: \x22\ubca0\uc2a4\ud2b8\uc77c\ub808\ube10\x22 }, { \x22newsId\x22: \x2220200127140202642\x22, \x22title\x22: \x22\uae40\ud559\ubc94\uc740 \uc5b4\ub5bb\uac8c \x27\ubd80\uc0c1 \uc5c6\uc774\x27 \ucd5c\ucd08 \uc6b0\uc2b9\uc744 \ub9cc\ub4e4\uc5c8\ub098 (\uacb0\uc0b0 \u2460)\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/tvpot/thumb/v9081VetQQVQY6TfDYtStwN/thumb.png\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\ud2f0\ube44\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127121509239\x22, \x22title\x22: \x22\uc815\ubbfc\ucca0 \ud55c\ud654 \ub2e8\uc7a5, \ud32c+\uc120\uc218\ub2e8 \ubaa8\ub450 \ub9cc\uc871\uc2dc\ud0a8 \uc2a4\ud1a0\ube0c\ub9ac\uadf8 \x27\ub370\ubdd4\x27\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/SpoChosun/20200127143650399geos.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\uc870\uc120\x22 }, { \x22newsId\x22: \x2220200127115440784\x22, \x22title\x22: \x22\ub9c8\ud06c \ud050\ubc18 \ub308\ub7ec\uc2a4 \uad6c\ub2e8\uc8fc, \x27\ucf54\ube44 24\ubc88\x27 \uc601\uad6c\uacb0\ubc88 \uacb0\uc815\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127115440683klmr.jpg\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127102104869\x22, \x22title\x22: \x228\uc6d4 24\uc77c, \ub2e4\uc2dc \ucf54\ube44\uac00 \uc0dd\uac01\ub098\uba74 \uc5b4\uca4c\uc9c0\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/SpoHankook/20200127102106226mrna.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\ud55c\uad6d\x22 }, { \x22newsId\x22: \x2220200127050014199\x22, \x22title\x22: \x22MIN\ub9e4\uccb4 \\\x22\ud55c \uac00\uc9c0 \ubd88\ub9cc, \ub958\ud604\uc9c4 \uc601\uc785 \ub178\ub825\ud588\uc9c0\ub9cc \ube48\uc190\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/mydaily/20200127050014217yryi.jpg\x22, \x22cpKorName\x22: \x22\ub9c8\uc774\ub370\uc77c\ub9ac\x22 }], \x22entertain\x22: [{ \x22newsId\x22: \x2220200127095550431\x22, \x22title\x22: \x22[SC\ucd08\uc810] \uac1c\ub9ac, \uadf9\ube44\uacb0\ud63c\u2192\u5b50 \ud558\uc624\uc640 \x27\uc288\ub3cc\x27 \ud569\ub958..\ud654\uc81c\uc131\u2191 \uc2f8\ub298\ud55c \uc5ec\ub860\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/SpoChosun/20200127095551051tvyq.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\uc870\uc120\x22 }, { \x22newsId\x22: \x2220200127131156907\x22, \x22title\x22: \x22\uc190\uc608\uc9c4\xb7\x27\ubd88\uc2dc\ucc29\x27 \uc591\uce21 \\\x22\ud53c\ub85c \ub204\uc801\uc73c\ub85c \uc751\uae09\uc2e4 \ud6c4\uc1a1 \uc544\ub2cc \uce58\ub8cc, \ucd2c\uc601\uc7a5 \ubcf5\uadc0\\\x22(\uc885\ud569)\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127131156395fkgg.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127060851856\x22, \x22title\x22: \x22\uc18c\uc720\uc9c4, \uc138\ubc43\ub3c8 \ubc31\uc885\uc6d0 \uc8fc\ub294 \uc544\ub4e4\ub538\uc5d0 \\\x22\uc65c \ub2e4 \uc544\ube60\uc57c\\\x22 \uc11c\uc6b4 [\uacb0\uc815\uc801\uc7a5\uba74]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127060851982ckmv.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127113746438\x22, \x22title\x22: \x22\uc568\ub9ac\uc0e4 \ud0a4\uc2a4 \\\x22\ubaa8\ub450 BTS\uc5d0 \uc0ac\ub85c\uc7a1\ud614\ub2e4\\\x22 \ubc30\ucca0\uc218 \\\x22\ub2e8\ub3c5\ubb34\ub300\uc600\ub2e4\uba74 \ub354 \uc88b\uc744\ud150\ub370\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127113746186tire.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127093855138\x22, \x22title\x22: \x22\uc591\uc900\ud601 \x27\ubc25\uc740 \uba39\uace0 \ub2e4\ub2c8\ub0d0\x27\uc11c \uc5f4\uc560 \ucd5c\ucd08 \uace0\ubc31 \\\x22\uc624\ub79c \ud32c\uacfc \uad50\uc81c\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127093855190obqh.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127124304543\x22, \x22title\x22: \x22[\ub2e8\ub3c5]\x27\uc0ac\ub791\uc758\ubd88\uc2dc\ucc29\x27 \uc190\uc608\uc9c4, \ucd2c\uc601 \uc911 \uacfc\ub85c\ub85c \uc751\uae09\uc2e4\u884c\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/starnews/20200127124305198ltmy.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud0c0\ub274\uc2a4\x22 }, { \x22newsId\x22: \x2220200127085340464\x22, \x22title\x22: \x22\x27\uc544\uc774\ucf58\ud0dd\ud2b8\x27 \uae38, 3\ub144 \uc7a0\uc801 \uae68\uace0 \ubc29\uc1a1 \ucd9c\uc5f0..\ub208\ub9de\ucda4 \uc0c1\ub300 \\\x22\uc790\uc5c5\uc790\ub4dd\\\x22 \uc2f8\ub298\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127085341423yudu.jpg\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127060950875\x22, \x22title\x22: \x22\x27\uc544\ube60\ubcf8\uc0c9\x27 \uc18c\uc720\uc9c4 \ubd80\ubaa8 \ub098\uc774\ucc28 30\uc0b4 \\\x22\ub098\ucc98\ub7fc \uc0ac\ub294 \ub538\\\x22 \uc560\ud2cb [\uc5b4\uc81cTV]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127060951063jkts.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127120644108\x22, \x22title\x22: \x22[\uadf8\ub798\ubbf8\uc5b4\uc6cc\uc988] \ubc29\ud0c4\uc18c\ub144\ub2e8, \ub9b4 \ub098\uc2a4\uc640 \ud654\ub824\ud55c \ucf5c\ub77c\ubcf4 \\\x22\ud6c4\ubcf4 \ub4e4\uc9c0 \ubabb\ud55c \uc544\uc26c\uc6c0+\ub2e8\ub3c5 \ubb34\ub300 \uae30\ub300\\\x22 [\uc885\ud569]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/mydaily/20200127120644258oafn.jpg\x22, \x22cpKorName\x22: \x22\ub9c8\uc774\ub370\uc77c\ub9ac\x22 }, { \x22newsId\x22: \x2220200127070112406\x22, \x22title\x22: \x22\uc720\ud29c\ubc84\uac00 \ub41c \uc5f0\uc608\uc778 VS \uc5f0\uc608\uc778\uc774 \ub41c \uc720\ud29c\ubc84, \uc6b0\ub9ac\uac00 \ubab0\ub790\ub358 \uba85\uacfc\uc554 [\uc124\ud2b9\uc9d1]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/mydaily/20200127070112770jvbr.jpg\x22, \x22cpKorName\x22: \x22\ub9c8\uc774\ub370\uc77c\ub9ac\x22 }, { \x22newsId\x22: \x2220200127111800955\x22, \x22title\x22: \x22\uc0ac\uace8 \uac19\uc740 \x27\ubbf8\uc2a4\ud130\ud2b8\ub86f\x27, \uba85\uc808 \ub0b4\ub0b4 \ubc29\uc601\ud574\ub3c4 \uc798 \uba39\ud788\ub294 \uae4c\ub2ed\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/entermedia/20200127111801062dhme.jpg\x22, \x22cpKorName\x22: \x22\uc5d4\ud130\ubbf8\ub514\uc5b4\x22 }, { \x22newsId\x22: \x2220200127063007061\x22, \x22title\x22: \x22[RE:TV] \\\x22\uac00\uc2a4\ube44\ub3c4 \ubabb\ub0bc \uc815\ub3c4\\\x22 \x27\ubbf8\uc6b0\uc0c8\x27 \uc774\uc131\ubbfc, \ub208\ubb3c\ub85c \ubc1d\ud78c \ubb34\uba85\uc0dd\ud65c\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/NEWS1/20200127063008789izyd.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a41\x22 }, { \x22newsId\x22: \x2220200127060447768\x22, \x22title\x22: \x22\\\x22\uc804\uc18c\ubbfc \uc591\uc138\ucc2c \uc5ff\uac19\uc740 \uad81\ud569, \uacb0\ud63c\ud558\uba74 \uc774\ud63c \uc548\ub41c\ub2e4\\\x22[\uacb0\uc815\uc801\uc7a5\uba74]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127060448066luji.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127114413556\x22, \x22title\x22: \x22\x27\uc544\ube60\ubcf8\uc0c9\x27 \uc18c\uc720\uc9c4, 30\uc138 \ucc28\uc774 \ubd80\ubaa8\ub2d8 \uc5b8\uae09 \\\x22\ud55c \ubc88\ub3c4 \uc2f8\uc6b0\uc2e0 \uc801 \uc5c6\uc5b4\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/ked/20200127114414039ptew.jpg\x22, \x22cpKorName\x22: \x22\ud55c\uad6d\uacbd\uc81c\x22 }, { \x22newsId\x22: \x2220200127102146888\x22, \x22title\x22: \x22\\\x22\ubab8\uc774 \uac00\ub09c\uc744 \uae30\uc5b5\ud55c\ub2e4\\\x22..\x27\ubbf8\uc6b0\uc0c8\x27 \uc74c\ubb38\uc11d, \ub2e8\uc9e0 \uc624\uac00\ub294 \uc77c\uc0c1 [\uac04\ubc24TV]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/sportskhan/20200127102147611epls.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\uacbd\ud5a5\x22 }, { \x22newsId\x22: \x2220200127100633660\x22, \x22title\x22: \x22\x27\ubbf8\uc2a4\ud130\ud2b8\ub86f\x27 \ud64d\uc7a0\uc5b8X\uc784\ub3c4\ud615 \x27\uc544\ub0b4\uc758 \ub9db\x27 \ud2b9\ubcc4\ucd9c\uc5f0, \ud0c8\ub77d \uadf8 \ud6c4 \uc774\uc57c\uae30 \uc804\ud55c\ub2e4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127100633776xteh.png\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127065152281\x22, \x22title\x22: \x22\x27\uc544\ube60\ubcf8\uc0c9\x27 \uc18c\uc720\uc9c4, \ub108\ubb34 \uc80a\uc740 \u6bcd \uacf5\uac1c..\uc0ac\uc704 \ubc31\uc885\uc6d0 \x27\uc2a4\uc717\x27 \ud3ed\ubc1c [\uc5b4\uc800\uaed8TV]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127065152933fdff.png\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200126215215638\x22, \x22title\x22: \x22\x27\uc544\ube60\ubcf8\uc0c9\x27 \uc18c\uc720\uc9c4 \\\x22\u6bcd, \uc544\ube60\uc640 \ub098\uc774\ucc28 30\uc0b4..\uc5b4\ub824\ubcf4\uc77c\uae4c \uc5fc\uc0c9 \uc808\ub300 NO\\\x22 [Oh!\uc388 \ub9ac\ubdf0]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/26/poctan/20200126215216173soss.png\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127060848854\x22, \x22title\x22: \x22\ubc95\ub95c\uc2a4\ub2d8 \\\x22\ub098\ub3c4 \uc2eb\uc5b4\ud558\ub294 \uc0ac\ub78c \uc788\uc5b4, \ud2f0 \ub0b4\uae30\ub3c4\\\x22[\uacb0\uc815\uc801\uc7a5\uba74]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127060848741mknz.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127093710107\x22, \x22title\x22: \x22\x27\uc544\ube60\ubcf8\uc0c9\x27 \uc18c\uc720\uc9c4 \\\x22\u6bcd, \u7236\ubcf4\ub2e4 30\uc0b4 \uc5b4\ub824..\uc80a\uc5b4 \ubcf4\uc77c\uae4c \uc5fc\uc0c9\ub3c4 \uc548 \ud574\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/YTN/20200127093710988piwh.jpg\x22, \x22cpKorName\x22: \x22YTN\x22 }, { \x22newsId\x22: \x2220200127061047892\x22, \x22title\x22: \x22\uc18c\uc720\uc9c4 \u6bcd, \ubc31\uc885\uc6d0 \ub5a1\uad6d\uc5d0 \\\x22\ub9e4\uc77c \uc0ac\uc704\ubc25 \uc5bb\uc5b4\uba39\ub124\\\x22 [\uacb0\uc815\uc801\uc7a5\uba74]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127061047251fnvv.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127092202880\x22, \x22title\x22: \x22\x27\uc544\uce68\ub9c8\ub2f9\x27 \ud06c\ub9ac\uc2a4\ud2f0\ub098 \\\x22\uc2dc\uc5b4\uba38\ub2c8\uc5d0\uac8c \uc798 \ub299\uc5c8\ub2e4\uace0 \uce6d\ucc2c\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/tvdaily/20200127092203213nvbu.jpg\x22, \x22cpKorName\x22: \x22\ud2f0\ube0c\uc774\ub370\uc77c\ub9ac\x22 }, { \x22newsId\x22: \x2220200127102205899\x22, \x22title\x22: \x22\uc568\ub9ac\uc0e4 \ud0a4\uc2a4, \u6545 \ucf54\ube44 \ube0c\ub77c\uc774\uc5b8\ud2b8 \ucd94\ubaa8 \\\x22\uac00\uc2b4\uc774 \ubb34\ub108\uc9c0\ub294 \ub290\ub08c\\\x22 [\uadf8\ub798\ubbf8 \uc5b4\uc6cc\ub4dc 2020]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/sportsdonga/20200127102206607lylw.jpg\x22, \x22cpKorName\x22: \x22\uc2a4\ud3ec\uce20\ub3d9\uc544\x22 }, { \x22newsId\x22: \x2220200127060751837\x22, \x22title\x22: \x22\x27\uc0ac\ub791\uc740\ubdf0\ud2f0\ud480\x27 \uc774\ud0dc\uc120 \uc30d\ub465\uc774 \uc5ec\ub3d9\uc0dd \uc870\uc6b0\ub9ac? \uc0ac\uc9c4 \ucc3e\uc558\ub2e4 [\uacb0\uc815\uc801\uc7a5\uba74]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127060751531uapc.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127134837448\x22, \x22title\x22: \x22\ubc29\ud0c4\uc18c\ub144\ub2e8 \u97d3\ucd5c\ucd08 \ubb34\ub300\u2192\ube4c\ub9ac \uc544\uc77c\ub9ac\uc2dc, \uc62c\ud574\uc758 \uc568\ubc94\u30fb\ub178\ub798\u30fb\ub808\ucf54\ub4dc \uc2f9\uc4f8\uc774(\uc885\ud569) [2020 \uadf8\ub798\ubbf8]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127134838762rtaa.jpg\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127091424789\x22, \x22title\x22: \x22\x27\uae40\uc0ac\ubd802\x27 \ud55c\uc11d\uaddcvs\uae40\uc8fc\ud5cc, \ubd84\ub178\xb7\uace0\uc131 \ud130\uc9c4 \x27\ub370\uc2a4\ub9e4\uce58\x27..\uadf9\uac15 \ub300\ub9bd \uc2dc\uc791 [Oh!\uc388 \uc608\uace0]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/poctan/20200127091424420feiw.jpg\x22, \x22cpKorName\x22: \x22OSEN\x22 }, { \x22newsId\x22: \x2220200127000044766\x22, \x22title\x22: \x22[TF\uc124\uae30\ud68d-\ubbf8\uc2a4\ud130\ud2b8\ub86f\u2462] \ubbf8\ub9ac\ubcf4\ub294 \uc9c4\xb7\uc120\xb7\ubbf8..20\u219260\ub300\uac00 \ubf51\uc740 \uc6b0\uc2b9\ud6c4\ubcf4\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/THEFACT/20200127000044810xkoa.jpg\x22, \x22cpKorName\x22: \x22\ub354\ud329\ud2b8\x22 }, { \x22newsId\x22: \x2220200127091331779\x22, \x22title\x22: \x22\x27\ube14\ub799\ub3c5\x27 \uc885\uc601\uae4c\uc9c0 4\ud68c, \uc815\uad50\uc0ac \ucc44\uc6a9 \ub5a8\uc5b4\uc9c4 \uc11c\ud604\uc9c4\uc758 \ubbf8\ub798\ub294\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/newsen/20200127091331207ehgp.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }, { \x22newsId\x22: \x2220200127080047957\x22, \x22title\x22: \x22\x27\ub0a8\uc0b0\uc758\ubd80\uc7a5\ub4e4\x27 \uc774\ubcd1\ud5cc \\\x22\uc2e4\uc874\uc778\ubb3c \uc5f0\uae30 \ubd80\ub2f4..\uc678\ubaa8 \uc544\ub2cc \ub0b4\uba74 \ub2ee\uc73c\ub824 \ud588\ub2e4\\\x22[\uc778\ud130\ubdf0]\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/27/tvreport/20200127080049888yuxn.jpg\x22, \x22cpKorName\x22: \x22TV\ub9ac\ud3ec\ud2b8\x22 }, { \x22newsId\x22: \x2220200126214835608\x22, \x22title\x22: \x22\x27\uc544\ube60\ubcf8\uc0c9\x27 \uc2ec\uc9c4\ud654 \\\x22\uc18c\uc720\uc9c4 \ud654\uc7a5 \uc9c0\uc6b0\uba74 \uc544\ub4e4\uacfc \uc9c4\uc9dc \ub611\uac19\uc544\\\x22\x22, \x22imageUrl\x22: \x22https://t1.daumcdn.net/news/202001/26/newsen/20200126214835125sqhx.jpg\x22, \x22cpKorName\x22: \x22\ub274\uc2a4\uc5d4\x22 }] });\nReactDOM.render(React.createElement(component(), data), elements[0]);\n})(document.querySelectorAll(\x22.hc_news_pc_mAside_popular_news\x22));"));
+
+(0,eval("(function(elements){\nvar TAB_HEADS \x3d $(\x22#search_rank_tab_heads \x3e li \x3e a\x22).each(function() {\n  this.tabId \x3d this.hash.substring(1);\n  this.tab \x3d $(\x27#\x27 +  this.tabId);\n  $(this).on(\x27mouseover focus\x27, function (ev) {\n    var selection \x3d this.tabId;\n\n    ev.originalEvent.preventDefault();\n    TAB_HEADS.each(function () {\n      if (this.tabId \x3d\x3d\x3d selection) {\n        $(this).parent().addClass(\x27on\x27);\n        this.tab.css(\x27display\x27, \x27block\x27);\n      } else {\n        $(this).parent().removeClass(\x27on\x27);\n        this.tab.css(\x27display\x27, \x27none\x27);\n      }\n    });\n  });\n  $(this).on(\x27click\x27, function (ev) {\n    var e \x3d ev.originalEvent || ev;\n    e.preventDefault();\n  });\n});\n})(document.querySelectorAll(\x22.hc_news_pc_mAside_realtimeSearch\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hcg_common_new_tiara\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hcg_media_pc_cEtc\x22));"));
+
+(0,eval("(function(elements){\n(function($){\n\t\x27use strict\x27;\n\tvar summaryButton \x3d $(\x27.btn_summary\x27);\n\tvar summaryLayer \x3d $(\x27.util_summary\x27);\n\tvar shareButtonsLayer \x3d $(\x27#shareButtons\x27);\n\tvar summaryLayerStatus \x3d false;\n\n\tsummaryButton.on(\x27click\x27, function (ev) {\n\t\tsummaryLayerStatus \x3d !summaryLayerStatus;\n\n\t\tif (summaryLayerStatus) {\n\t\t\tshowLayer();\n\t\t} else {\n\t\t\thideLayer();\n\t\t}\n\t});\n\t\n\tsummaryLayer.focusin(function(event) {\n\t\tshowLayer();\n    });\n\tsummaryLayer.focusout(function(event) {\n\t\thideLayer();\n    });\n\n\tfunction showLayer () {\n\t\tsummaryLayer.addClass(\x27layer_open\x27);\n\t\tsummaryButton.attr(\x27aria-expanded\x27, true);\n\t\t$(window).on(\x27click\x27, checkLayer);\n\t}\n\n\tfunction hideLayer () {\n\t\tsummaryLayerStatus \x3d false;\n\t\tsummaryLayer.removeClass(\x27layer_open\x27);\n\t\tsummaryButton.attr(\x27aria-expanded\x27, false);\n\t}\n\n\tfunction checkLayer (ev) {\n\t\t\tif (summaryButton[0] \x3d\x3d ev.target || summaryButton[0].childNodes[0] \x3d\x3d ev.target) return false;\n\t\t\thideLayer();\n\t\t\t$(window).off(\x27click\x27, checkLayer);\n\t}\n})(jQuery);\n})(document.querySelectorAll(\x22.hcg_media_pc_cSub\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hcg_media_pc_head\x22));"));
+
+(0,eval("(function(elements){\n$(\x22.direct_link .btn_fold\x22).click(function() { \n\t$(\x22.direct_link\x22).toggleClass(\x22direct_open\x22);\n});\n\n})(document.querySelectorAll(\x22.hcg_media_pc_kakaoFoot\x22));"));
+
+(0,eval("(function(elements){\nvar kakaoWrap \x3d document.getElementById(\x27kakaoWrap\x27);\nvar categoryName \x3d $(elements).find(\x22.gnb_comm\x22).data(\x22category\x22);\ncategoryName \x3d window.layoutId \x3d\x3d \x27tvNews_pc\x27 ? \x27tv\x27 : categoryName;\n\n$(elements).find(\x22.gnb_comm li\x22).each(function() {\n  var $this \x3d $(this);\n  if($this.hasClass(categoryName)) {\n    $this.addClass(\x22on\x22).find(\x22.inner_bar\x22).css(\x22width\x22, \x22100%\x22);\n  }\n});\n\n//\uac80\uc0c9 suggest\n$.ajax({url:\x22https://search1.daumcdn.net/search/suggest_pc/suggest-1.2.16.min.js\x22, cache:true, dataType:\x22script\x22}).done(function(){\n  var suggestInstance \x3d new suggest.Suggest(document.getElementById(\x22search_news\x22), {\n    inputEl: \x27qVal\x27,\n    suggestBoxEl: \x27suggestBox\x27,\n    autoFocus: \x27NORMAL\x27,\n    suggestLimit: 10,\n    isReverse: false,\n    searchURL: \x27https://search.daum.net/search\x27,\n    APIServer: {\n      host: \x27https://dapi.kakao.com/suggest/v2/pc.json\x27,\n      apiType: suggest.Suggest.APITYPE.DAPISUGGEST,\n      appkey: \x27d7022f6ca2a04430ce1b97b922da58e8\x27,\n      queries: {\n        \x27mod\x27: \x27json\x27,\n        \x27code\x27: \x27utf_in_out\x27\n      }\n    }\n  });\n\n  // \ucd94\ucc9c \uac80\uc0c9\uc5b4 \ub9c8\uc6b0\uc2a4 \ud074\ub9ad\uc2dc \uac80\uc0c9\uc73c\ub85c \ubcf4\ub0b8\ub2e4.\n  suggestInstance.on(\x27click-item\x27, function () {\n    var $kakaoSearch \x3d $(\x27#kakaoSearch\x27);\n    $kakaoSearch.find(\x22input[name\x3d\x27DA\x27]\x22).val(\x2723B\x27);\n    $kakaoSearch.submit();\n  });\n\n  var queryInput \x3d $(\x22#qVal\x22);\n  queryInput.on(\x22focus\x22, function (e) {\n    e \x26\x26 e.preventDefault();\n    if (queryInput.val().length \x3e\x3d 0) {\n      queryInput.parent().addClass(\x22search_on\x22);\n    }\n  });\n  queryInput.on(\x22focusout\x22, function (e) {\n    e \x26\x26 e.preventDefault();\n    if (queryInput.val().length \x3d\x3d 0) {\n      queryInput.parent().removeClass(\x22search_on\x22);\n    }\n  });\n});\n\n})(document.querySelectorAll(\x22.hcg_media_pc_kakaoHead\x22));"));
+
+(0,eval("(function(elements){\n$(function(){\n    // click code\n    var click_codes \x3d [];\n    // GNB \n    click_codes.push({\n        \x22code\x22: \x22#logo\x22 , \x22selector\x22: \x22#kakaoHead \x3e div.head_media \x3e h1 \x3e a.link_daum\x22\n    });\n  \tclick_codes.push({\n        \x22code\x22: \x22#logo\x22 , \x22selector\x22: \x22.img_logo\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#gnb #default #service_news\x22 , \x22selector\x22: \x22#kakaoServiceLogo\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#gnb #default #service_enter\x22 , \x22selector\x22: \x22#kakaoRelServices \x3e li:nth-child(1) \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#gnb #default #service_sports\x22 , \x22selector\x22: \x22#kakaoRelServices \x3e li:nth-child(2) \x3e a\x22\n    });\n  \tclick_codes.push({\n        \x22code\x22: \x22#gnb #default #service_lab\x22 , \x22selector\x22: \x22#kakaoRelServices \x3e li:nth-child(3) \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#gnb #default #search\x22 , \x22selector\x22: \x22#kakaoBtnSearch\x22\n    });\n\n    click_codes.push({\n        \x22code\x22: \x22#media_home\x22 , \x22selector\x22: \x22.home \x3e a\x22\n    });\t\n    click_codes.push({\n        \x22code\x22: \x22#media_society\x22 , \x22selector\x22: \x22.society \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_politics\x22 , \x22selector\x22: \x22.politics \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_economic\x22 , \x22selector\x22: \x22.economic \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_foreign\x22 , \x22selector\x22: \x22.foreign \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_culture\x22 , \x22selector\x22: \x22.culture \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_digital\x22 , \x22selector\x22: \x22.digital \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_popular\x22 , \x22selector\x22: \x22.popular \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_series\x22 , \x22selector\x22: \x22.series \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_photo\x22 , \x22selector\x22: \x22.photo \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#media_tv\x22 , \x22selector\x22: \x22.tv \x3e a\x22\n    });\n\n    // \uc678\ubd80 \uc11c\ube44\uc2a4 \ub9c1\ud06c\n    click_codes.push({\n        \x22code\x22: \x22#gnb #default #media_1boon\x22 , \x22selector\x22: \x22#kakaoGnb \x3e div \x3e div \x3e ul \x3e li:nth-child(1) \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#gnb #default #media_funding\x22 , \x22selector\x22: \x22#kakaoGnb \x3e div \x3e div \x3e ul \x3e li:nth-child(2) \x3e a\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#gnb #default #widget_weather\x22 , \x22selector\x22: \x22#gnb_weather \x3e ul \x3e li \x3e a\x22\n    });\n\n    // \uae30\ub2a5 \uc601\uc5ed\n    click_codes.push({\n        \x22code\x22: \x22#util #widget_comment\x22 , \x22selector\x22: \x22#cSub .link_cmt\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #btn_summary\x22 , \x22selector\x22: \x22button.btn_summary\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #btn_share\x22 , \x22selector\x22: \x22button.btn_share\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #layer #facebook\x22 , \x22selector\x22: \x22a.link_fb\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #layer #kakaostory\x22 , \x22selector\x22: \x22a.link_ks\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #layer #twitter\x22 , \x22selector\x22: \x22a.link_tw\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #layer #mail\x22 , \x22selector\x22: \x22a.link_mail\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #layer #blog\x22 , \x22selector\x22: \x22a.link_blog\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #layer #cafe\x22 , \x22selector\x22: \x22a.link_cafe\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #btn_print\x22 , \x22selector\x22: \x22button.btn_print\x22\n    });\n  \tclick_codes.push({\n        \x22code\x22: \x22#util #btn_font\x22 , \x22selector\x22: \x22button.btn_font\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #font_btn #small\x22 , \x22selector\x22: \x22button.btn_smaller\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#util #font_btn #big\x22 , \x22selector\x22: \x22button.btn_bigger\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#body #outmedia #related_list\x22 , \x22selector\x22: \x22.cp_view .list_relate\x22, \x22child_selector\x22: \x22.cp_view .list_relate li\x22\n    });\n    // \ub9c8\ud06c\uc5c5 \uc9c1\uc811 \uc2ec\uc740 \uac83\ub4e4\n    // \ud31d\uc5c5_\uc778\uc1c4, \ud31d\uc5c5_\ucde8\uc18c, \ub9c1\ud06c_\uc774\uc288/\uc5f0\uc7ac\ud0c0\uc774\ud2c0, \ud0a4\uc6cc\ub4dc, \ud301, \uacf5\uac10\uc740 \uc774\ubca4\ud2b8 \ud578\ub4e4\ub7ec\ub85c \ucd94\uac00\n\n    // \ub0a0\uac1c\n    // \ub9ce\uc774\ubcf8\ub274\uc2a4\ub294 component react\uc5d0\uc11c \ubc14\ub85c \ub123\uc74c\n    click_codes.push({\n        \x22code\x22: \x22#right #photo_tv #photo\x22 , \x22selector\x22: \x22.list_phototv li:nth-child(1)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#right #photo_tv #tv\x22 , \x22selector\x22: \x22.list_phototv li:nth-child(2)\x22\n    });\n\n    // bottom \uc774\uc2dc\uac01\uc8fc\uc694\ub274\uc2a4 photo, news_list\ub294 ajax \uc694\uccad\uc774\uae30 \ub54c\ubb38\uc5d0 \uc751\ub2f5\uc2dc \ub3d4 \uc0dd\uc131\uc2dc \ud558\ub4dc \ucf54\ub529\n    click_codes.push({\n        \x22code\x22: \x22#bottom #mainnews #issue\x22 , \x22selector\x22: \x22#hot_issue\x22\n    });\n\n    // \ud48b\ud130\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_newshome\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\ub274\uc2a4\ud648\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_issue\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uc774\uc288\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_lab\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\ubbf8\ub514\uc5b4\ub7a9\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_media\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uc5b8\ub860\uc0ac\ubcc4 \ub274\uc2a4\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_history\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\ubc30\uc5f4\uc774\ub825\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_all\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uc804\uccb4\ub274\uc2a4\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_society\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uc0ac\ud68c\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_politics\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uc815\uce58\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_economic\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uacbd\uc81c\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_foreign\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uad6d\uc81c\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_culture\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\ubb38\ud654\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_digital\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27IT\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_photo\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\ud3ec\ud1a0\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_tv\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27TV\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_keyword\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\ud0a4\uc6cc\ub4dc\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_quote\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\ucffc\ud2b8\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_rank\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\ub7ad\ud0b9\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_series\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uc5f0\uc7ac\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_1boon\x22 , \x22selector\x22: \x22.direct_link a:contains(\x271boon\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #direct_funding\x22 , \x22selector\x22: \x22.direct_link a:contains(\x27\uc2a4\ud1a0\ub9ac\ud380\ub529\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #direct #btn_open\x22 , \x22selector\x22: \x22.direct_link .btn_fold\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #info_daumnews\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\ub2e4\uc74c\ub274\uc2a4 \uc18c\uac1c\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #notice\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\uacf5\uc9c0\uc0ac\ud56d\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #bbsrule\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\uac8c\uc2dc\ud310 \uc6b4\uc601\uc6d0\uce59\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #policy\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\uc11c\ube44\uc2a4 \uc57d\uad00/\uc815\ucc45\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #harmony\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\ub274\uc2a4\uc81c\ud734\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #adinfo\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\uad11\uace0\uc548\ub0b4\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #redbell\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\uad8c\ub9ac\uce68\ud574\uc2e0\uace0\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #consumer\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\ub2e4\uc74c\ub274\uc2a4 \uace0\uac1d\uc13c\ud130\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #newscenter\x22 , \x22selector\x22: \x22.footer_link a:contains(\x2724\uc2dc\uac04 \ub274\uc2a4\uc13c\ud130\x27)\x22\n    });\n    click_codes.push({\n        \x22code\x22: \x22#footer #edit\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\uc11c\ube44\uc2a4\uc6d0\uce59\x27)\x22\n    });\n  \tclick_codes.push({\n        \x22code\x22: \x22#footer #correct\x22 , \x22selector\x22: \x22.footer_link a:contains(\x27\ubc14\ub85c\uc7a1\uc2b5\ub2c8\ub2e4\x27)\x22\n    });\n\n  \t// \uc678\ubd80 \uc2a4\ud06c\ub9bd\ud2b8 \uacb0\uacfc\uc5d0 \ucf54\ub4dc\ub97c \uc785\ud788\ub294 \uacbd\uc6b0\uac00 \uc788\uc5b4\uc11c 1\ucd08\ud6c4 \uc2e4\ud589\n\tsetTimeout(function() {\n        _.each(click_codes, function(click_code) {\n            var $element \x3d $(click_code.selector);\n            if ($element.length  \x3d\x3d 0) {\n                // console.log(click_code, \x27not found!\x27);\n                return;\n            }\n            $element.addClass(click_code.code);\n            if (click_code.child_selector) {\n                $(click_code.child_selector).each(function(index, value) {\n                    $(value).addClass(\x27@\x27 + (1 + index));\n                });\n            }\n        });\n    }, 1000);\n});\n\n})(document.querySelectorAll(\x22.hcg_media_pc_last_js\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hcg_media_pc_mArticle\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hcg_media_pc_mAside\x22));"));
+
+(0,eval("(function(elements){\n\n})(document.querySelectorAll(\x22.hcg_media_pc_translation_status\x22));"));
+
+
+
+
+
+
+
+(0,eval("(function(){ \n//\ubbf8\ub2c8\ub2e4\uc74c\n$(function(){\n  window.minidaum_options \x3d { \n    enableLogoutRetun: true,\n    disableTracker: true\n  }\n\n  $.ajax({url:\x22https://go.daum.net/minidaum_pc.daum\x22,cache:\x22true\x22,dataType:\x22script\x22});\n});\n\n// \uad11\uace0\n$(function(){\n  var channel \x3d \x27harmony\x27;\n  var cp \x3d window.cpId + \x27_pc_media_news\x27;\n  $(\x27.daum_ddn_area\x27).attr(\x27data-ad-param-channel\x27, channel).attr(\x27data-ad-param-cp\x27, cp);\n  $.ajax({\n    url: \x22//t1.daumcdn.net/adfit/static/ad.min.js\x22,\n    cache: true,\n    dataType: \x22script\x22\n  });\n});\n\n// floating GNB \x26 Wing\n$(function () {\n  var $window \x3d $(window),\n      $cMain \x3d $(\x22#cMain\x22),\n      $kakaoWrap \x3d $(\x22#kakaoWrap\x22),\n      $kakaoGnb \x3d $(\x22#kakaoGnb\x22),\n      headHeight \x3d $(\x22#wrapMinidaum\x22).outerHeight() + $(\x22.head_media\x22).outerHeight(),\n      $mArticle \x3d $(\x22#mArticle\x22),\n      $mAside \x3d $(\x22#mAside\x22),\n      adFirst \x3d $(\x22.aside_ad:first\x22),\n      adLast \x3d $(\x22.aside_ad:last\x22),\n      cmNews \x3d $(\x22.cmt_news\x22),\n      $barProgress \x3d $(\x22#barProgress\x22),\n      // \ub0a0\uac1c \ud53d\uc2a4\ub4dc\uc778 \uacbd\uc6b0 left \uc704\uce58\ub97c \uc9c0\uc815\ud558\uae30 \uc704\ud574 \ud558\ub2e8 \uc2e4\uc2dc\uac04 \uac80\uc0c9\uc5b4\uc758 left \uac12\uc744 \uc774\uc6a9. \ub9cc\uc57d \uc5c6\uc73c\uba74 \uacc4\uc0b0\uc744 \ud55c\ub2e4.\n      realtimeAsideEl \x3d document.getElementById(\x27realtime_aside\x27);\n\n\n  var floatGnb \x3d function () {\n    if ($window.scrollTop() \x3e headHeight) {\n      var scrollPercent \x3d 100 * $window.scrollTop() / ($(document).height() - $window.height());\n      $kakaoWrap.addClass(\x22header_fixed\x22);\n      $barProgress.width(parseInt(scrollPercent, 10) + \x22%\x22);\n    } else {\n      $kakaoWrap.removeClass(\x22header_fixed\x22);\n    }\n  };\n\n  var floatWing \x3d function () {\n    var cMainWidth \x3d $cMain.width(),\n        mArticleWidth \x3d $mArticle.width(),\n        mAsideWidth \x3d $mAside.width(),\n        aSideGap \x3d cMainWidth - mArticleWidth - mAsideWidth,\n        leftOfRealtimeAside \x3d realtimeAsideEl ? (realtimeAsideEl.getBoundingClientRect().left \x3c 880 ? realtimeAsideEl.getBoundingClientRect().left + $(window).scrollLeft() : realtimeAsideEl.getBoundingClientRect().left ) :  mArticleWidth + aSideGap + parseInt($cMain.css(\x22marginLeft\x22), 10) - $window.scrollLeft(),\n        topPosition \x3d $window.scrollTop() - 8 - ($cMain.position().top + adFirst.height());\n\n    if($(\x22#mArticle\x22).outerHeight() \x3c $(\x22#mAside\x22).outerHeight())\n      return;\n\n    $(\x22.cmt_view\x22).css(\x22min-height\x22, \x22250px\x22);\n    if (topPosition \x3e 0) {\n      var articleHeight \x3d $mArticle.outerHeight() - cmNews.outerHeight();\n      var wingHeight \x3d $mAside.outerHeight() - adLast.outerHeight();\n      if (articleHeight \x3e (wingHeight + topPosition + 8)) {\n        $mAside.css({\n          \x22position\x22 : \x22fixed\x22,\n          \x22top\x22 : $kakaoGnb.height() - adFirst.outerHeight() - 74,\n          \x22left\x22 : parseInt(leftOfRealtimeAside, 10)\n        });\n      } else {\n        $mAside.css({\n          \x22position\x22 : \x22relative\x22,\n          \x22top\x22 : articleHeight - wingHeight,\n          \x22left\x22 : \x22inherit\x22\n        });\n      }\n    } else {\n      $mAside.css({\n        \x22position\x22 : \x22static\x22,\n        \x22top\x22 : \x22inherit\x22,\n        \x22left\x22 : \x22inherit\x22\n      });\n    }\n  };\n\n  $(window).on(\x22scroll\x22, function () {\n    floatGnb();\n    floatWing();\n  });\n\n  $(window).on(\x22resize\x22, function() {\n    floatWing();\n  });\n\n  floatGnb();\n  floatWing();\n\n});\n\n})();"));
+
+</script>
+</body>
