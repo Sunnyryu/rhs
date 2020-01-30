@@ -57,6 +57,13 @@ class Todolist(Resource):
 api.add_resource(Todolist, '/todos/')
 api.add_resource(Todo, '/todos/<string:todo_id>')
 
+# 터미널에서 curl을 이용한 restful!!
+# curl http://localhost:5000/todos => 목록 가져오기 
+# curl curl http://localhost:5000/todos/todo3 => 단일 테스크 가져오기!
+# curl http://localhost:5000/todos/todo2 -X DELETE -v => 2번 테스크 삭제
+# curl http://localhost:5000/todos -d "task=something new" -X POST -v =>테스크 추가 
+# curl http://localhost:5000/todos/todo3 -d "task=something different" -X PUT -v => 테스크 업데이트 
+
 # 서버 실행 
 if __name__=='__main__':
     app.run(debug=True)
