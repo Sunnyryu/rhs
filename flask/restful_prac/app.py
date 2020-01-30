@@ -18,7 +18,9 @@ def abort_if_todo_not_exist(todo_id):
         abort(404, message="Todo {} not exist".format(todo_id))
 
 parser = reqparse.RequestParser()
-parser.add_argument('task')
+parser.add_argument('task') # 인수 값을 추가할 때에는 required=True를 넣어주면 됨 !, #여러값을 허용하려면 action=append로 해줘야함 
+# 구문 분석 후에 다른 이름으로 저장하려면 dest 키워드 변수가 있어야함 (dest=name ), 인수 위치는 location이 들어가면 됨 ! 
+
 
 # 마이리스트
 # GET, DELETE, PUT 정의
