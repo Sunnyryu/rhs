@@ -12,12 +12,21 @@
 <body>
   <div id="container"></div>
   <script type="text/babel">
-    var destination = document.querySelector("#container");
-    ReactDOM.render(React.createElement(
-      "h1",
-      null,
-      "Batman"
-    ), destination);
+    var HelloWorld = React.createClass({
+      render : function() {
+        return (
+          <p>Hello,{this.props.greenTarget}!</p>
+        );
+      }
+    });
+    ReactDOM.render(
+      <div>
+        <HelloWorld greenTarget="iu"/>
+        <HelloWorld greenTarget="sooya"/>
+        <HelloWorld greenTarget="irin"/>
+      </div>,
+      document.querySelector("#container")
+    );
   </script>
 </body>
 </html>

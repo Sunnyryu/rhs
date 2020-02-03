@@ -12,12 +12,21 @@
 <body>
   <div id="container"></div>
   <script type="text/babel">
-    var destination = document.querySelector("#container");
-    ReactDOM.render(React.createElement(
-      "h1",
-      null,
-      "Batman"
-    ), destination);
+    var Buttonify = React.createClass({
+      render : function() {
+        return (
+          <div>
+          <button type={this.props.behavior}>{this.props.children}</button>
+          </div>
+          );
+      }
+    });
+    ReactDOM.render(
+      <div>
+        <Buttonify behavior="Submit">data</Buttonify>
+      </div>,
+      document.querySelector("#container")
+    );
   </script>
 </body>
 </html>
