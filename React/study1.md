@@ -149,6 +149,64 @@ setState: 이 메소드는 state 객체의 값을 갱신할 수 있게 해줌!!
 
 엘리먼트를 일종의 식별자로 마킹하는 방법 => 마킹은 JSX에서 엘리먼트를 명식적으로 지정할 때 자동으로 수행함 
 
+이벤트 
+
+무언가를 눌렀을 떄 반응하여 . 반영되는거..? 
+
+이벤트 인자는 e / 시그니처를 보면 알 수 있음.. 
+
+이벤트는 이벤트 핸들러에 인자로 전달.. 이벤트 인자는 이벤트의 종류에 따른 한 무더기의 속성이 들어있음 .. 마우스 이벤트라든가.. 키보드 이벤트 등이 있다..
+컴
+합성 이벤트 (DOM 이벤트를 직접 다루지 않고 SyntheticEvent를 다룸 .. 항상 브라우저의 네이티브 이벤트를 래핑하는 이벤트 타입을 인자로 받음)
+
+bubbles, cancelable, currentTarget, defaultPrevented, eventPhase, isTrusted, nativeEvent, preventDefault(), isDefaultPrevented(), isPropagationStopped, target, timeStamp, type 등이 있음 
+
+합성 이벤트와 그 속성을 사용할 때는 DOM 이벤트 문서를 참고하지 말고 리액트의 SyntheticEvent 문서를 참조(https://facebook.github.io/react/docs/events.html)
+
+컴포넌트의 이벤트는 직접 리스닝할 수 없어서 .. 다른 컴포넌트를 추가해서 나타내야함 !!
+
+모든 DOM 이벤트가 SyntheticEvent에 대응하지는 않음 .. 따라서 그런 경우에는 addEventLIstener를 사용해서 이벤트를 작동시켜야함 !!
+
+컴포넌트가 소멸된 후에는 더 이상 이벤트 리스닝을 하지 않겠다는 입장을 하기 위해 .. ComponentWillUnmount 메소드 안에 removeEventLister 함수를 추가해야함!
+
+this의 의미: 리액트가 아닌 일반적인 곳에서는 리스닝하는 대상 엘리멘트를 참조한다고 한다. 
+그렇지만 리액트에서는 (React.createClass를 한 경우)에는  이벤트 핸들러가 속해있는 컴포넌트로 참조한다.
+
+예를 들어 increase 이벤트에 this가 있다고 할 때 다른 컴포넌트를 참조하는 경우로 써준다. 이는 리액트가 컴포넌트 안의 모든 메소드를 this에 자동 바인딩 시켜준다. 
+그렇지만 자동 바인딩 되는 경우는 오직 React.createClass를 통해 컴포넌트를 만든 경우엔느 사용된다.. 
+
+컴포넌트 생명주기 
+
+컴포넌트가 하는 일을 알기 위해 생명주기 메소드를 사용한다. 생명주기 메소드는 컴포넌트가 어떤 작업 단계에 진입할 때 자동으로 호출되는 특별한 메소드 !!
+
+ComponentWillUnmount, componentDidMount, componentWillmount, componentWillUpdate, componentDidUpdate shouldComponentUpdate, componentWillReceiveProps이 있으며,
+
+우리가 많이 쓰는 getInitialState, getDefaultProps, render등은 많이 쓰이는 메소드!! 
+
+getDefaultProps : this.props의 기본값을 지정할 수 있음 . 메소드는 컴포넌트가 만들어지려 할 때나 부모로부터 속성이 전달되었을 때 호출! 
+getInitialState: this.state의 기본값을 지정할 수 있게 해줌. getDefaultProps과 마찬가지로 컴포넌트가 만들어지기 전에 호출 
+componentWillMount : 컴포넌트가 DOM 안으로 렌더링되기 전에 호출되는 마지막 메소드! . 이 메소드 안에 setState를 호출해도 컴포넌트가 다시 랜더링 되지 않음 .. 갱신되는 일은 없다는 거임..?
+render : 컴포넌트에는 이 메소드가 정의되어야 하며, 단 하나의 루트 노드를 리턴하는 책임을 짐.. 랜더링 하고 싶지않으면 단순히 null이나 false를 씀 
+componentDidMount: 컴포넌트가 랜다링돼 DOM에 자리잡은 직후 호출됨. RENDER 메소드를 제외한 이 모든 생명주기 메소드는 단 한번만 실행 (모든 준비가 된 컴포넌트라면 모두 이메소드 안에서 수행해야함!)
+(초기 렌더링 getDefaultProps, getInitialStatem, componentWillMount render componentDidMount 순으로 쭉쭉 나감 ..)
+상태변경시 렌더 메소드가 다시 호출한다.
+
+shouldComponentUpdate : 상태가 변경됬어도 업데이트 변경을 바라지 않는 경우가 있는데 이 메소드르를 사용하면 .. 그와 같은 업데이트 여부를 제어할 수 있게됨!, true 진행, false 무시 .. 
+componentWillUpdate: 이 메소드는 컴포넌트가 업데이트되기 직전에 호출..크게 주목할 만한 건 없으나 이 메소드 안에서 this.setState를 사용해 상탤르 변경시킬 수 없음 !!
+render : shouldComponentUpdate가 false를 리턴함으로써 업데이터 작업을 건너뛰지만 않는다면 render 메소드가 다시 호출돼 컴포넌트가 올바로 보이게 해줌.
+componentDidUpdate: 이 메소드는 컴포넌트가 업데이트 되고 render 메소드 실행이 끝난 다음에 호출됨. 업데이트 후에 수행하고 싶은 코드가 있다면 이 메소드가 가장 적합한 장소임 !
+(상태변경: shouldComponentUpdate, componentWillUpdate, render, componentDidUpdate 순으로 쭉쭉 나감)
+
+componentWillReceiveProps: 이 메소드는 하나의 인자를 받는데 그 인자는 새로 할당하고자 하는 속성 값이 포함된 객체임!!
+(속성변경 시 componentWillReceiveProps, shouldComponentUpdate, componentWillUpdate, render, componentDidUpdate로 쭉쭉 나감!!)
+
+언마운트 시에는 ComponentWillUnmount으로만 언마운트를 처리함!!
+
+ref:  리액트는 DOM에서의 최종 HTML 엘리먼트와 JSX 사이클을 연결해주는 Ref(reference의 약자)라고 하는 것을 제공함 .. 
+통상적으로는 ref 속성의 값에 자바스크립트 콜백 함수를 설정하게 된다. 그 함수는 현재 컴포넌트의 마운트가 끝나면 자동으로 호출됨. 만약 ref 속성의 값으로 단순히 DOM 엘리먼트의 참조를 저장하는 자바스크립트 함수를 지정한다
+
+ES6를 이용하면 .. ref와 관련해 콜밸 함수를 다룰 때 화살표 함수를 사용하면 작업이 좀 더 간편해질 수 있음 (=> , ), 그렇게 되먄 self등을 안쓰고 도 간단하게 만들 수 있음 
+
 
 
 
