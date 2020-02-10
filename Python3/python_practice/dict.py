@@ -1,0 +1,5 @@
+x = input().split()
+y = input().split()
+y = list(map(float, y))
+dict_a = dict(zip(x,y))
+print(dict_a)
