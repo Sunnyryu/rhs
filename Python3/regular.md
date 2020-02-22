@@ -24,7 +24,44 @@
 \S: [^ \t\n\r\f\v]와 같음. 공백을 제외하고 \t, \n, \r, \f, \v만 포함
 
 
+(정규표현식) (정규표현식) => 그룹으로 만듬 !!
 
+ex) k = re.match('([0-9]+) ([0-9]+)', '10 295')
+k.group(1) = '10'
+k.group(2) = '295'
+k.group() = '10 295'
+k.group(0) = '10 295'
+
+k.groups() 
+('10', '295')
+
+m = re.match('(?P<func>[a-zA-Z_][a-zA-Z0-9_]+)\((?P<arg>\w+)\)', 'print(1234)')
+m.group('func')    # 그룹 이름으로 매칭된 문자열 출력
+'print'
+m.group('arg')     # 그룹 이름으로 매칭된 문자열 출력
+'1234'
+
+re.findall('패턴', '문자열')
+re.findall('[0-9]+', '1 2 Fizz 4 Buzz Fizz 7 8') ['1', '2', '4', '7', '8']
+
+ re.sub('apple|orange', 'fruit', 'apple box orange tree')    # apple 또는 orange를 fruit로 바꿈 => fruit box fruit tree'
+
+def multiple10(m):        # 매개변수로 매치 객체를 받음
+     n = int(m.group())    # 매칭된 문자열을 가져와서 정수로 변환
+     return str(n * 10)    # 숫자에 10을 곱한 뒤 문자열로 변환해서 반환
+
+re.sub('[0-9]+', multiple10, '1 2 Fizz 4 Buzz Fizz 7 8')
+'10 20 Fizz 40 Buzz Fizz 70 80'
+
+re.sub('([a-z]+) ([0-9]+)', '\\2 \\1 \\2 \\1', 'hello 1234')    # 그룹 2, 1, 2, 1 순으로 바꿈
+'1234 hello 1234 hello'
+
+re.sub('({\s*)"(\w+)":\s*"(\w+)"(\s*})', '<\\2>\\3</\\2>', '{ "name": "james" }')'<name>james</name>' (\\숫자)
+
+\\g<이름>, \\g<숫자>
+
+re.sub('({\s*)"(?P<key>\w+)":\s*"(?P<value>\w+)"(\s*})', '<\\g<key>>\\g<value></\\g<key>>', '{ "name": "james" }')
+'<name>james</name>'
 
 
 
