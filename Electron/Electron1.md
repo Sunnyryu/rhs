@@ -14,6 +14,10 @@ app 인스턴스는 어플리케이션의 생명주기 조작등을 담당하며
 
 BrowserWindow 클래스의 인스턴스는 Renderer 프로세스를 만들어 웹 페이지를 출력하게 해주며, 인스턴스 1개는 웹 페이지 1개를 의미한다고 생각하자! 
 
-
+app 인스턴스를 기반으로 어플리케이션 전체의 생명주기 관리 !
+ready : electron 어플리케이션이 실행되고 초기화가 완료되었을 때 ! 
+window-all-closed 모든 윈도우가 닫혔을 때 ! 
+activate - electron 어플리케이션이 비활성화 상태에서 활성화되었을 때 ! 
+win.loadURL은 BrowserWindow 인스턴스의 loadURL 메서드를 실행시켜 HTML 파일을 읽어들임! 
 
 ```
