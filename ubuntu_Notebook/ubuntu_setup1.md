@@ -121,8 +121,8 @@ https://downloads.mariadb.org/mariadb/repositories/#distro=Ubuntu&distro_release
 다 완료하면 밑의 코드가 나오니 터미널에 치게 되면 기존에 있던 10.1 버전이 아닌 위에서 고른 버전을 설치할 수 있음
 
 sudo apt-get install software-properties-common
-sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
-sudo add-apt-repository 'deb [arch=amd64,arm64,ppc64el] https://downloads.mariadb.org/mariadb/repositories/#mirror=yongbokbionic main'
+sudo apt-key adv --fetch-keys 'https://mariadb.org/mariadb_release_signing_key.asc'
+sudo add-apt-repository 'deb [arch=amd64,arm64,ppc64el] http://mirror.yongbok.net/mariadb/repo/10.4/ubuntu bionic main'
 
 그리고 난 후에 아래 내용을 터미널에 작성을 함
 sudo apt update
