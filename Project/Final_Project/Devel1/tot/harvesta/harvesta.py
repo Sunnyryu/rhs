@@ -42,13 +42,13 @@ def harvest(startpath, datebf7, date, keyword_source_dic):
             if _doNaver:
                 print("{} 검색어 {} NAVER 뉴스 수집 시작... ".format(
                     keywordSource, i+1), flush=True)
-                naverList = naverfuncs.get_newslist(keywords, 5, datebf7, date)
+                naverList = naverfuncs.get_newslist(keywords, 2, datebf7, date)
                 util.insert_dfrow(
                     df, keywordSource, keywords, i, 'NAVER', naverList)
             if _doDaum:
                 print("{} 검색어 {} DAUM 뉴스 수집 시작... ".format(
                     keywordSource, i+1), flush=True)
-                daumList =  daumfuncs.get_newslist(keywords, 5, datebf7, date)
+                daumList =  daumfuncs.get_newslist(keywords, 2, datebf7, date)
                 util.insert_dfrow(
                     df, keywordSource, keywords, i, 'DAUM', daumList)
 
@@ -57,7 +57,7 @@ def harvest(startpath, datebf7, date, keyword_source_dic):
                 if doGoogling :
                     print("{} 검색어 {} Google 뉴스 수집 시작... ".format(
                         keywordSource, i+1), flush=True)
-                    googleList = googlefuncs.get_newslist(keywords, 5 , datebf7 ,date)
+                    googleList = googlefuncs.get_newslist(keywords, 2 , datebf7 ,date)
                     if googleList != -1:
                         util.insert_dfrow(df, keywordSource, keywords, i, 
                             'Google', googleList)
@@ -79,12 +79,21 @@ def harvest(startpath, datebf7, date, keyword_source_dic):
     # 약속된 디렉토리 상위 구조 생성
     #--------------------------------------------------------------------------
     now = datetime.now()
-    outputRoot = os.path.join(
-        startpath,
-        "%d%d%02d" % (now.year % 100, now.month, now.day), 
-        # "%02d%02d" % (now.hour, now.minute // 10 * 10)
-        f'%02d{now.minute}' % (now.hour)
-    )
+    if now.month < 10:
+        outputRoot = os.path.join(
+            startpath,
+            "%d%s%02d" % (now.year % 100, '0'+str(now.month), now.day), 
+            # "%02d%02d" % (now.hour, now.minute // 10 * 10)
+            f'%02d{now.minute}' % (now.hour)
+        )
+    else:
+        outputRoot = os.path.join(
+            startpath,
+            "%d%d%02d" % (now.year % 100, now.month, now.day), 
+            # "%02d%02d" % (now.hour, now.minute // 10 * 10)
+            f'%02d{now.minute}' % (now.hour)
+        )
+        
     # 디렉토리 존재 시 모두 삭제 후 새로 생성
     if os.path.isdir(outputRoot): shutil.rmtree(outputRoot)
     if not(os.path.isdir(outputRoot)): os.makedirs(outputRoot)

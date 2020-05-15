@@ -21,15 +21,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 import os
-from decouple import config
-
 # SECURITY WARNING: don't run with debug turned on in production!
 #DEBUG = True
 #DEBUG = bool( os.environ.get('DJANGO_DEBUG', True) )
 
 ALLOWED_HOSTS = ['*']
-SECRET_KEY = config('SECRET_KEY')
-DEBUG= config('DEBUG')
+SECRET_KEY = 'z!v3x$w8d7kwg=4e*8p4f=b^z^59ag^f2+5&eygt8leaxs9y%5'
+DEBUG = True
 
 # Application definition
 

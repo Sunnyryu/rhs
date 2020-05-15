@@ -58,13 +58,9 @@ def preproc(inputRoot):
         # 제거 룰 적용
         if prefix != "T":
             # 뉴스
-            try:
-                if textlines[1] == "None":
-                    status = "blacklist"
-            except:
-                pass
+            if textlines[1] == "None":
                 # body가 없는 문서는 제거 룰 돌리지 않고 건너뜀
-                
+                status = "blacklist"
             else :
                 for func in rules.get_rulefns():
                     status, soup = func(soup)

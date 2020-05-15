@@ -1,11 +1,15 @@
 from flask import Flask, request, render_template, redirect, url_for
 from flask_paginate import Pagination, get_page_args
 import pymysql
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 app = Flask(__name__)
 #app.template_folder = ''
 users = list(range(300))
-
+p1 = os.getenv("PASSWORD")
+d1 = os.getenv("DB")
 def playerData():
     connection = None
     rows = None
@@ -15,8 +19,8 @@ def playerData():
     try:
         connection = pymysql.connect(host='localhost',
                                  user= 'root',
-                                 password= 'acs0214',
-                                 db='nbaplayerid',
+                                 password= p1,
+                                 db=d1,
                                  charset='utf8',
                                  cursorclass=pymysql.cursors.DictCursor)
         if connection :

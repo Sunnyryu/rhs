@@ -1,15 +1,20 @@
 import pandas as pd
 import pymysql
 from sqlalchemy import create_engine
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
+p1 = os.getenv("PASSWORD")
+d1 = os.getenv("DB")
 def playeridData(playerid):
     connection = None
     playeridrows = None
     try:
         connection = pymysql.connect(host='localhost',
                                  user= 'root',
-                                 password= 'acs0214',
-                                 db='nbaplayerid',
+                                 password= p1,
+                                 db=d1,
                                  charset='utf8',
                                  cursorclass=pymysql.cursors.DictCursor)
         if connection :

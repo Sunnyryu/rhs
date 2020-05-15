@@ -1,0 +1,7 @@
+2/5	./200515/1410/E_K_01/D_02.txt	unknown
+4/5	./200515/1410/E_K_01/D_01.txt	unknown
+5/5	./200515/1410/E_K_01/N_01.txt	unknown
+Useless : 0 (0.0%)
+Unknown : 3 (60.0%)
+Hit : 2 (40.0%)
+걸린 시간: 0m 00s

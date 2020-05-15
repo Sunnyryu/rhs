@@ -1,4 +1,4 @@
-#!/home/sunny/ubuntu/Project/Final_Project/Devel1/venv/bin/python3.7
+#!/home/sunny/ubuntu/Project/Final_Project/Devel2/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":

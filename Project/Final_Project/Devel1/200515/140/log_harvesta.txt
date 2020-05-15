@@ -1,0 +1,4 @@
+4	http://www.fnnews.com/news/201911291739140537	HTTPSConnectionPool(host='www.fnnews.com', port=443): Max retries exceeded with url: /news/201911291739140537 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1108)')))
+
+수집한 문서 개수: 6개
+걸린 시간: 0m 13s

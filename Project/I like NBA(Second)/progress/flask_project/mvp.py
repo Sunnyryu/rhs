@@ -2,7 +2,12 @@ import pandas as pd
 import pymysql
 from sqlalchemy import create_engine
 from nba_api.stats.endpoints import leagueleaders
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
+p1 = os.getenv("PASSWORD")
+d1 = os.getenv("DB")
 def PredMVP():
     start = leagueleaders.LeagueLeaders()
     startframe = start.get_data_frames()
@@ -14,7 +19,7 @@ def PredMVP():
         df = df.append(pd.DataFrame([[no, fullname, predmvppoint]], columns=['no', 'fullname', 'predmvppoint']), ignore_index= True)
     df.set_index('no', inplace=True)
     #print(df)
-    engine = create_engine("mysql+mysqldb://root:"+"acs0214"+"@localhost/nbaplayerid", encoding='utf-8')
+    engine = create_engine("mysql+mysqldb://root:"+p1+"@localhost/nba", encoding='utf-8')
     conn = engine.connect()
     df.to_sql(name='mvp', con=engine, if_exists='replace')
     connection = None
@@ -22,8 +27,8 @@ def PredMVP():
     try:
         connection = pymysql.connect(host='localhost',
                                  user= 'root',
-                                 password= 'acs0214',
-                                 db='nbaplayerid',
+                                 password= p1,
+                                 db=d1,
                                  charset='utf8',
                                  cursorclass=pymysql.cursors.DictCursor)
         if connection :

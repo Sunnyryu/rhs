@@ -1,2 +1,0 @@
-4	https://www.horsebiz.co.kr/news/articleView.html?idxno=46553	'NoneType' object has no attribute 'body'
-

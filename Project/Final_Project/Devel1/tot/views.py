@@ -9,7 +9,6 @@ import sys
 import subprocess
 import os
 import DateTime
-#import datetime
 from math import log10
 from konlpy.tag import Mecab
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -196,7 +195,7 @@ def anal(request):
     date1 = date1[0:10]
     date1 = str(date1)
     keyword3 = Keyword.objects.filter(word=keyword, date=date1).values().exists()
-    #print(keyword3)
+    print(keyword3)
     if keyword3:
         keyword2 = Keyword.objects.filter(word=keyword, date=date1).values()
         keyword_word = keyword2[0]['word']
@@ -219,11 +218,11 @@ def anal(request):
             hwf_list.append(st)
         #print(hwf_list)
         #print(hwf_list)
-        #print(hwf_keys[0])
+        print(hwf_keys[0])
         a = hwf_keys[0]
         b = hwf_keys[1]
         c = hwf_keys[7]
-        #print(hwf_list[0]['text'])
+        print(hwf_list[0]['text'])
         created = keyword2[0]['created'].strftime('%Y%m%d%H%M%S')
         urls, titles = read_csv(created)
         title_urls = zip(urls, titles)
@@ -246,67 +245,34 @@ def anal(request):
         preproca.preproc(outPath)
         #p = subprocess.Popen(['./tot/analyzas/analyza.py',outPath])
         #p.wait()
-        current = datetime.now()
         current_time = datetime.today().strftime("%Y%m%d%H%M%S")
-        m1_current_time = current - timedelta(minutes=1)
-        m1_current_time = m1_current_time.strftime("%Y%m%d%H%M%S")
-        m2_current_time = m1_current_time[10:12]
-        #print(current_time)
+        print(current_time)
         current_ymd = current_time[2:8]
         current_time0 = current_time[8:10]
         current_time2 = current_time[10:12]
-        time3 = m2_current_time[0:2]
-        #print(time3)
-        #print(current_time3)
+
         #print(os.path.isdir(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0}/'))
         #print(os.path.dirname(os.path.realpath(__file__)) )
         directory =f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+current_time2}/E_K_01/'
-        directory2=f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+time3}/E_K_01/'
-        #print(directory2)
-        #print(type(directory2))
-        #print(time3)
-        #print(type(time3))
-        #print(current_time2)
-        #print(type(current_time2))
         outfile_name = "text.txt"
         out_file = open(outfile_name, 'w')
-        files = '0'
-        try:
-            files= os.listdir(directory)
-        except:
-            pass   
-        if files != '0':
-            if os.path.isdir(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+current_time2}/'):
-                for filename in files:
-                    if ".txt" not in filename:
-                        continue
-                    file = open(directory + filename)
-                    for line in file:
-                        out_file.write(line)
-                    out_file.write("\n")
-                    file.close()
-                out_file.close()
-                
-            else:
-                pass
-            txtfile = open(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/text.txt', 'r')
-            #readtxt = txtfile.read()
-            txtfile.close()
+        files= os.listdir(directory)
+        if os.path.isdir(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+current_time2}/'):
+            for filename in files:
+                if ".txt" not in filename:
+                    continue
+                file = open(directory + filename)
+                for line in file:
+                    out_file.write(line)
+                out_file.write("\n")
+                file.close()
+            out_file.close()
+            
         else:
-            files= os.listdir(directory2)
-            if os.path.isdir(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+time3}/'):
-                for filename in files:
-                    if ".txt" not in filename:
-                        continue
-                    file = open(directory2 + filename)
-                    for line in file:
-                        out_file.write(line)
-                    out_file.write("\n")
-                    file.close()
-                out_file.close()
-                
-            else:
-                pass
+            pass
+        txtfile = open(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/text.txt', 'r')
+        readtxt = txtfile.read()
+        txtfile.close()
 
         #corpus = [readtxt]
         #vectorizer = TfidfVectorizer()
@@ -320,7 +286,7 @@ def anal(request):
         #    print([(token, sp_matrix[i, word2id[token]]) for token in sent.split()])
         
         # POS tag a sentence
-        shutil.copy('text.txt', '/home/sunny/ubuntu/Project/Final_Project/Devel1/venv/lib/python3.7/site-packages/konlpy/data/corpus/kolaw/a.txt')
+        shutil.copy('text.txt', '/home/sunny/ubuntu/Project/Final_Project/Devel1/venv/lib/python3.8/site-packages/konlpy/data/corpus/kolaw/a.txt')
         s = kolaw.open('a.txt').read()  # 한국 법률 말뭉치
         words = Mecab().pos(s)
 
@@ -355,17 +321,16 @@ def anal(request):
         #result2 = dict(result[0:10])
         #result2 = json.dumps(result2, ensure_ascii=False)
         keyword_db = Keyword.objects.create(word=keyword, date=date1, high_word_frequency=result4)
-        #print(keyword_db.created)
+        print(keyword_db.created)
         created = keyword_db.created.strftime('%Y%m%d%H%M%S')
         urls,titles=read_csv(created)
         title_urls = zip(urls,titles)
-        #print(title_urls)
+        print(title_urls)
         # print(urls)
         # print(titles)
-        context = {'result2': result2,  'title_urls': title_urls}#, 'readtxt': readtxt}
+        context = {'result2': result2, 'readtxt': readtxt, 'title_urls': title_urls}
         #print(keyword_read_db)
         #print(keyword2)
-        oper = current_time0+time3
         return render(request, 'tot/anal.html', context)
 
 
@@ -375,40 +340,13 @@ def read_csv(current_time):
     current_time0 = current_time[8:10]
     current_time1 = current_time[10:12]
     current_time2 = current_time[10:12]
-    current = datetime.now()
-    m1_current_time = current - timedelta(minutes=1)
-    m1_current_time = m1_current_time.strftime("%Y%m%d%H%M%S")
-    m2_current_time = m1_current_time[10:12]
-    time3 = m2_current_time[0:2]
-    vvv = current_time0+time3
-    print(time3)
     titles = []
     urls = []
-    print(vvv)
-    a = 0
-    try:
-        open(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+current_time2}/output.csv','r')
-        a = 1
-    except:
-        pass
-    print(a)
-    if a != 0:
-        with open(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+current_time2}/output.csv', 'r', encoding='utf-8-sig') as csv_file:
-            # csv 파일을 Dictionary 형식으로 읽어옴.
-            csv_data = csv.DictReader(csv_file, delimiter=",")
-            for i in csv_data:
-                titles.append(i['title'])
-                urls.append(i['url'])
-                #b=1
-                #print(b)
-        return urls,titles
-    else:
-        with open(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+time3}/output.csv', 'r', encoding='utf-8-sig') as csv_file:
+    with open(f'/home/sunny/ubuntu/Project/Final_Project/Devel1/{current_ymd}/{current_time0+current_time2}/output.csv', 'r', encoding='utf-8-sig') as csv_file:
         # csv 파일을 Dictionary 형식으로 읽어옴.
-            csv_data = csv.DictReader(csv_file, delimiter=",")
-            for i in csv_data:
-                titles.append(i['title'])
-                urls.append(i['url'])
-                #b=1
-                #print(b)
-            return urls,titles
+        csv_data = csv.DictReader(csv_file, delimiter=",")
+        for i in csv_data:
+            titles.append(i['title'])
+            urls.append(i['url'])
+    return urls,titles
+

@@ -10,15 +10,20 @@ from matplotlib.colors import LinearSegmentedColormap
 from numpy import nan, inf
 from nba_api.stats.endpoints import shotchartdetail
 # import cmaps
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
+p1 = os.getenv("PASSWORD")
+d1 = os.getenv("DB")
 def playerId(playerid):
     connection = None
     playeridrows = None
     try:
         connection = pymysql.connect(host='localhost',
                                  user= 'root',
-                                 password= 'acs0214',
-                                 db='nbaplayerid',
+                                 password= p1,
+                                 db=d1,
                                  charset='utf8',
                                  cursorclass=pymysql.cursors.DictCursor)
         if connection :

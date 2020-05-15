@@ -1,4 +1,0 @@
-8	http://v.media.daum.net/v/20191213091402766	HTTPSConnectionPool(host='news.v.daum.net', port=443): Read timed out. (read timeout=10)
-
-수집한 문서 개수: 15개
-걸린 시간: 0m 46s
