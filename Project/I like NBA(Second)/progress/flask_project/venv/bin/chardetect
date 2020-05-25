@@ -1,4 +1,6 @@
-#!/home/sunny/ubuntu/flask_project/venv/bin/python3.7
+#!/bin/sh
+'''exec' "/home/sunny/ubuntu/Project/I like NBA(Second)/progress/flask_project/venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
