@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block title %}
+BBS
+{% endblock %}
+
+{% block body %}
+
+{% if 'loggedin' in session %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="jumbotron p-3">
+                <h2><b>수정</b> </h2>
+
+            </div>
+            <form action="{{url_for('bbs.Update', id = ROW.id)}}" method="POST" >
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+                <div class="form-group">
+                    <label >제목</label>
+                    <input type="text" class="form-control" name="title" value="{{ROW.title}}" required="1" >
+                </div>
+                <div class="form-group">
+                    <label for="inputPassword">내용</label>
+                    <textarea   id="summernote" class="form-control mb-2"  name="content"  required="1" >{{ ROW.content }}</textarea>
+                </div>
+                
+               
+
+                <button type="submit" class="btn btn-primary">제출</button>
+            </form> 
+          
+            
+            
+        </div>
+    </div>
+  
+</div>
+<script>
+   $(document).ready(function() {
+  $('#summernote').summernote({
+      height:300,
+      minHeight:null,
+      maxHeight:null,
+      focus:true
+
+  });
+});
+</script>
+{% endif %}
+{% endblock %}

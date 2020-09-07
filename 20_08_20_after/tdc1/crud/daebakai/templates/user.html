@@ -1,0 +1,172 @@
+{% extends 'base.html' %}
+{% block title %}
+사용자 데이터
+{% endblock %}
+
+{% block body %}
+
+{% if 'loggedin' in session %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-9">
+
+            <div class="jumbotron p-3">
+                <h2><b>사용자 </b>관리 <button type="button" class="btn btn-success float-right" data-toggle="modal"
+                        data-target="#Insert">사용자 추가</button></h2>
+
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>순번 </th>
+                        <th>이름 </th>
+                        <th>이메일 </th>
+                        <th>전화번호 </th>
+                        <th>실행</th>
+                    </tr>
+                </thead>
+
+
+                <tbody>
+
+                    {% for row in ROWS %}
+                    <tr>
+                        <td>{{ row.id }}</td>
+                        <td>{{ row.name }}</td>
+                        <td>{{ row.email }}</td>
+                        <td>{{ row.phone }}</td>
+                        <td>
+                            <a href="{{ url_for('user.Update') }} " class="btn btn-warning" data-toggle="modal"
+                                data-target="#Update{{ row.id }}">편집</a>
+                            <a href="{{ url_for('user.Delete', id = row.name) }}" class="btn btn-danger btn-xs"
+                                onclick="return confirm('{{ row.name }} 정말삭제하실래요?')">삭제</a>
+
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+
+            </table>
+        </div>
+        <div class="col-md-3">
+            <img src="{{url_for('static', filename='main.jpg')}}" class="img-fluid" alt="Responsive image">
+            <table class="table">
+                <tr>
+
+                    <td>추가</td>
+                    <td>추가</td>
+
+                </tr>
+
+            </table>
+        </div>
+
+        <!-- 사용자 추가 Insert  -->
+        <div class="modal" id="Insert" tabindex="-1" role="dialog" aria-hidden="false">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <form action="{{ url_for('user.Insert') }}" method="POST">
+                        <div class="modal-header">
+                            <h5 class="modal-title">사용자추가</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body">
+
+                            <div class="form-group">
+                                <label>이름</label>
+                                <input type="text" class="form-control" name="name" required="1">
+                            </div>
+
+                            <div class="form-group">
+                                <label>이메일</label>
+                                <input type="email" class="form-control" name="email" required="1">
+                            </div>
+                            <div class="form-group">
+                                <label>전화번호</label>
+                                <input type="number" class="form-control" name="phone" required="1">
+                            </div>
+                            <div class="form-group">
+                                <label>비밀번호</label>
+                                <input type="password" class="form-control" id="pass" name="password" required="1">
+                            </div>
+                            <div class="form-group">
+                                <label>비밀번호확인</label>
+                                <input type="password" class="form-control" id="confirmpass" name="confirm-password"
+                                    required="1">
+                            </div>
+
+
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">취소</button>
+                            <button type="submit" class="btn btn-success" onclick="return ValidatePassword()">사용자
+                                추가</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        {% for row in ROWS %}
+        <!--  업데이트 -->
+        <div class="modal" id="Update{{ row.id }}" tabindex="-1" role="dialog" aria-hidden="false">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <form action="{{ url_for('user.Update') }}" method="POST">
+                        <div class="modal-header">
+                            <h5 class="modal-title">사용자편집</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body">
+
+                            <div class="form-group">
+                                <input type="hidden" class="form-control" name="id" value="{{ row.id }}" required="1">
+                            </div>
+
+                            <div class="form-group">
+                                <label>이름</label>
+                                <input type="text" class="form-control" name="name" value="{{ row.name }}" required="1">
+                            </div>
+
+                            <div class="form-group">
+                                <label>이메일</label>
+                                <input type="email" class="form-control" name="email" value="{{ row.email }}" required="1">
+                            </div>
+                            <div class="form-group">
+                                <label>전화번호</label>
+                                <input type="number" class="form-control" name="phone" value="{{ row.phone }}"
+                                    required="1">
+                            </div>
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">취소</button>
+                            <button type="submit" class="btn btn-warning">사용자 편집</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<script type="text/javascript">
+    function ValidatePassword() {
+        var password = document.getElementById("pass").value;
+        var confirmpassword = document.getElementById("confirmpass").value;
+        if (password != confirmpassword) {
+            alert("패스워드가 일치되지 않습니다.")
+            return false;
+        }
+        return true;
+    }
+
+</script>
+{% endif %}
+{% endblock %}

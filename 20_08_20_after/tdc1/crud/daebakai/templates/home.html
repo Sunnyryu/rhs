@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block title %}
+데이터 베이스 CRUD 테스트
+{% endblock %}
+
+{% block body %}
+<div class="container">
+    <div class="img-container">
+        <img src="{{url_for('static', filename='main.jpg')}}" class="img-fluid" alt="Responsive image">
+        <div >
+            <span>개발중...</span>
+        </div>
+    </div>
+
+
+    <div class="card-deck mb-3 text-center">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">데이터 수집</h4>
+            </div>
+            <div class="card-body">
+                
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>상품 정보 수집 자동화</li>
+                    <li>AI 설문 시스템</li>
+                    <li>고객 정보 수집</li>
+                    <li>데이터 분석</li>
+                </ul>
+                <button type="button" class="btn btn-lg btn-block btn-primary">데이터 수집</button>
+            </div>
+        </div>
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">데이터 편집</h4>
+            </div>
+            <div class="card-body">
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>상품 정보 편집</li>
+                    <li>언어 편집</li>
+                    <li>.</li>
+                    <li>.</li>
+                </ul>
+                <button type="button" class="btn btn-lg btn-block btn-primary">데이터 편집</button>
+            </div>
+        </div>
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">Daebak.co 써포트</h4>
+            </div>
+            <div class="card-body">
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>생산된 데이터 제공</li>
+                    <li>머신러닝 모델</li>
+                    <li>예측</li>
+                    <li>.</li>
+                </ul>
+                <button type="button" class="btn btn-lg btn-block btn-primary">예측</button>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+{% endblock %}
