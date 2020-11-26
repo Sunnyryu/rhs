@@ -1,24 +1,60 @@
 import React from 'react';
-// import Potato from "./Potato";
-//
-function Food(props) {
- console.log(props.fav);
- return <h2>I love {props.fav}. </h2>;
- }
-// props로 fav 등 다양한 것을 가져올 수 있음!
-// component는 대문자 ! / props는 component에 넣는 것들!
-// function Food({fav}) {
-  // console.log(fav);
-  // return <h2>I love {fav}. </h2>;
-// }
+import axios from "axios";
+import Movie from "./Movie";
+import "./App.css"
+//import PropTypes from "prop-types";
 
-function App() {
-  return <div><h2>Hello </h2>
-  <Food fav = "kimchi"/>
-  <Food fav = "chicken"/>
-  <Food fav = "love"/>
-  <Food fav = "ramen"/>
-  </div>;
+class App extends React.Component {
+  state = {
+    isLoading: true,
+    movies: []
+  };
+  getMovies = async () => {
+    const {
+      data: {
+        data:{movies}
+      }
+    } = await axios.get("https://yts-proxy.now.sh/list_movies.json?sort_by=rating"
+  );
+    this.setState({movies, isLoading: false})
+
+  };
+componentDidMount() {
+  // setTimeout(()  => {
+  //   this.setState({ isLoading: false});
+  // }, 6000);
+  this.getMovies();
 }
+
+render(){
+  console.log(this.state.movies)
+  const { isLoading, movies } = this.state;
+  return (
+    <section className="container">
+        {isLoading ? (
+          <div className="loader">
+            <span className="loader__text">Loading...</span>
+          </div>
+        ) : (
+          <div className="movies">
+            {movies.map(movie => (
+              <Movie
+                key={movie.id}
+                id={movie.id}
+                year={movie.year}
+                title={movie.title}
+                summary={movie.summary}
+                poster={movie.medium_cover_image}
+                genres={movie.genres}
+              />
+
+            ))}
+  </div>
+      )}
+    </section>
+);
+}
+}
+
 
 export default App;
