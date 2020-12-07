@@ -23,6 +23,7 @@ this.state.count를 이용해서 할 수 있지만 그건 좋은 밥법이 아�
 
 component가 render 된 후에 호출되는 다른 function이 존재
 
+# 동적인 리스트를 만들 때마다 적절한 키를 할당할 것을 강력하게 추천합니다.
 Mounting => component가 태어남 (constructor=> class 만들 때 호출(JS))
 getDerivedStateFromProps() => screen에 표시될 떄 constructor를 호출!
 render()
