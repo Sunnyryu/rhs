@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+            p {
+                 width : 400px;
+                 padding: 5px;
+                 background-color : #ddd;
+                 word-wrap : normal;
+                 word-break: break-all;
+             }
+    </style>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th colspan="2">충청남도 특산물</th>
+        </tr>
+        <tr>
+            <th>태안</th>
+            <td>대하</td>
+        </tr>
+        <tr>
+            <th>서산</th>
+            <td>굴</td>
+        </tr>
+        <tr>
+            <th rowspan="3">부여</th>
+            <td>수박</td>
+        </tr>
+        <tr>
+            <td>토끼</td>
+        </tr>
+        <tr>
+            <td>인삼</td>
+        </tr>
+        <tr>
+            <th rowspan="4">아산</th>
+            <td>표고버섯</td>
+        </tr>
+        <tr>
+            <td>포도</td>
+        </tr>
+        <tr>
+            <td>쌀</td>
+        </tr>
+        <tr>
+            <td>토마토</td>
+        </tr>
+    </table>
+    <form>
+        <h1>이메일</h1>
+        <fieldset>
+           <legend>메일 정보</legend>
+           <label for="receiver">받는 사람: <input type="email" placeholder="aaa@naver.com" id="receiver"><br>
+           <label for="cc">참조 : </label> <input type="email" placeholder="aaa@naver.com" id="cc"><br>
+           <label for="title">제목 : </label> <input type="checkbox" id="important">
+           <label for="important">중요!</label> <input type="text" id="title"><br>
+           <label for="file">파일첨부 : </label> <input type="file" id="file"><br>
+        </fieldset>
+        <fieldset>
+           <legend>메일 내용</legend>
+           <textarea rows=30 cols=100  placeholder="자기소개는 짧게 해주세요."></textarea><br>
+           <button type="submit">전송</button>
+           <button type="reset">취소</button>
+        </fieldset>
+     </form> 
+     <div style="border: double 20px black;"> css border 속성 실습 </div>
+     <div id="box">
+        <span>boostcourse</span>
+    </div>
+    <p>loremipsumdolorloremipsumdolorloremipsumdolorloremipsumdolorloremipsumdolor</p>
+     <footer>                                                
+        <address>                                         
+           회사 정보<br>
+           서울시 강남구 역삼동<br>
+           Tel : (02)123-4567  | Fax : (02)123-4567
+        </address>                                              
+     </footer>       
+     <script>
+         document.querySelector("#box > span")
+     </script>                                           
+</body>
+</html>

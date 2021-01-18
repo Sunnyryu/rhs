@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .wrap  {
+            color:green !important;
+        }
+        .wrap .box2{
+            color:blueviolet ;
+        }
+        .box2 {
+            color:yellow;
+
+        }
+        .wrap .abcd {
+            color: skyblue ;
+        }
+    </style>
+    <style>
+
+        .box { color: red !important; }
+        .index > .in_item { color: pink  }
+        div ul .in_item { color: orange; }
+        .in_item.in1 { color: black; }
+        p + ul.index { color: yellow; }
+        
+        </style>
+</head>
+<body>
+    <div class="wrap">
+        1
+        <div class="box2">2</div>
+        <div class="abcd">3</div>
+    </div>
+    <div class="box" style="color: yellow">
+        <h1 class="title">title</h1>
+        <p class="desc">description</p>
+        
+        <ul class="index" style="color: blue;">  
+        <li>kiss</li>
+        <li class="in_item in1">index 1</li>
+        <li class="in_item ">index 2</li>
+        
+        </ul>
+        
+        </div>
+</body>
+</html>
