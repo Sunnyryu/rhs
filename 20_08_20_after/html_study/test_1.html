@@ -1,18 +1,107 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
+    <!-- 위에서 어떤 것이 우선시 되어야 하는가.. => 명시적 선언이 필요 
+0, 0, 0, 0,
+0, 1, 0, 0 (선택자에 있는 모든 id 속성값)
+0, 0, 1, 0 (선택자에 있는 모든 class 속성값, 기타 속성, 가상 클래스)
+0, 0, 0, 1 (선택자에 있는 모든 요소, 가상요소)
+전체 선택자는 0,0,0,0를 갖음
+조합자는 구체성에 영향을 주지 않음!
+(> + 등 말함)
+
+h1 {...} => 0,0,0,1
+body h1 {...} => 0,0,0,2  (h1보다 이것이 구성된 것이 많으므로 body h1ㅇ이 우선)
+grape {...} => 0,0,1,0
+*.bringht {...} => 0,0,1,0 (전체선택자는 영향을 주지 못하므로)
+p.bright em.dark {...} => 0,0,2,0 
+#page {...} => 0,1,0,0
+ div#page{...} => 0, 1,0,1 (div와 id 값을 가짐) -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+
         .myset{
             border-color: blue;
             border-style: dotted;
             border-width: 3px;
         }
+
+
+        /*table  tr.adtr {
+            color: pink;
+        }*/
+        /*table > thead > tr.adtr {
+            color: red;
+        }*/
+        tr.adtr > th:first-child {
+            color : skyblue;
+        }
+        tr.adtr > th:last-child {
+            color: pink;
+        }
+        .adtr2 + tr {
+            color: blue;
+        }
+        a:link {
+            color: gray;
+        }
+        a:visited {
+            color: violet;
+        }
+        a:focus {
+            background-color: yellow;
+        }
+        table:hover {
+            background-color: lightcyan;
+        }
+        table:active{
+            background-color: blue;
+        }
+        div.just > p.doit::before {
+            color: lightgreen;
+            content: "안녕하세여 ";
+        }
+        div.just > p.doit::after {
+            color: lightsalmon;
+            content: "써니예여!";
+        }
+        ul li {
+            color: saddlebrown;
+        }
+        /*nav.prac {
+            color: red;
+        }*/
+        nav.prac {
+            color: yellow !important;
+        }
+        /* important는 모든걸 무시하구 css를 적용해줌! */
+        h2 {
+            color : lawngreen;
+        }
+        /* h2에 있는 다른 태그도 같이 영향을 받음 - margin, padding, background, border 등은 예외 */
+        *{
+            color: black
+        }
+        /* h2 밑에 있는 em은 검은색으로 됨.. 구체성이 높아도 상속이 되었다면 0,0,0,0보다 못함
+        /* 상속보다 자체의 important가 우선이며, 같은 위치라면 important가 우선이 됨! 다른 포인트라면 더 하위 포인트가 우선!important
+        /* 사용자 에이전트 스타일 < 사용자 스타일 < 제작자 스타일 < 제작자 important 스타일 < 사용자 important 스타일 (클수록 우순순위가 큼!)*/
+
+
+         /* tr[class="adtr"]{ color: blue } -->
+        <!-- table .adtr {color:red} */
     </style>
 </head>
 <body>
+    <nav class="prac" style="color:blue">html 연습중</nav>
+    <a href="https://www.naver.com">네이버</a>
+    <div class="just">
+        <p class="doit">나는 </p><br>
+
+        <h2>조아 조아 <em>너무 흐흐</em></h2>
+    </div>
 <ul>
     <li>hi</li>
     <li>hi2</li>
@@ -28,16 +117,16 @@
     <dd>ta</dd>
     <dd>tb</dd>
 </dl>
-<table border="1px" >
+<table class="bb" border="1px" >
     <caption>테스트</caption>
     <thead>
-        <tr>
+        <tr class="adtr">
             <th>1</th>
             <th>2</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="adtr2">
             <td>sunny</td>
             <td>jay</td>
         </tr>
@@ -92,7 +181,9 @@
         사진 파일을 올려줘!<input type="file" name="file" id="file">
     </span>
     <br>
-
+    <label for="date">너의 생일은?</label>
+    <input type="date" name="date" id="date">
+    <br>
     <input type="submit" value="제출">
     <input type="reset" value="취소">
 </fieldset>
