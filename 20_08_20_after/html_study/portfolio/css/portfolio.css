@@ -1,0 +1,138 @@
+* {
+   font-family: '나눔 고딕', NanumGothic, '돋움', Dotum, sans-serif; 
+   margin:0;
+}
+body {
+    
+}
+.navbar {
+    background-color: #000;
+    height: 120px;
+    display: flex;
+
+    
+
+
+
+}
+.navbar .navbar_text {
+    display: flex;
+    align-items: center;
+    width: 1040px;
+    color:#fff;
+    font-weight:bold;
+    font-size:40px;
+    padding-left:40px;
+    text-align: center;    
+    margin: 0 auto;
+    /*justify-content: center;*/
+    
+}
+
+.three_elements{
+    display: flex;
+    width: 1000px;
+    margin-top: 100px;
+    margin: 0 auto;
+    padding-left:40px;
+    padding-right:40px;
+    margin-top: 50px;
+  
+    
+
+}
+
+.three_elements_table{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 324px;
+    height: 50px;
+    border: 1px solid #d1d1d1;
+    margin-right: 14px;
+    font-size:16px;
+    color:#000;
+}
+.three_elements_form{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 324px;
+    height: 50px;
+    border: 1px solid #d1d1d1;
+    margin-right: 14px;
+    font-size:16px;
+    color:#000;
+}
+.three_elements_form:hover{
+    border-color: #454545;
+    font-weight: bold;
+}
+.three_elements_list{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 324px;
+    height: 50px;
+    border: 1px solid #d1d1d1;
+    font-size:16px;
+    color:#000;
+}
+
+.elements_subject{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    color: #000;
+    font-weight:bold;
+    border-bottom: 1px solid #454545;
+
+}
+
+.table_elements_contents, .form_elements_contents, .list_elements_contents {
+    
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid #d1d1d1;
+    margin-top: 30px;
+}
+.table_element, .form_element, .list_element{
+    display: flex;
+    align-items: center;
+    height: 46px;
+    background-color: #f7f7f7;
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+    padding-left:15px;
+
+}
+
+.table_content, .form_content, .list_content{
+    height: 12px;
+    border: 1px solid #d1d1d1;
+    padding:30px;
+    font-size: 12px;
+    color: #000;
+}
+
+footer {
+    margin-top: 40px;
+    border-top: 1px solid #d1d1d1;
+    padding-top: 40px;
+}
+
+address {
+    text-align: center;
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 10px;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 12px;
+    color: #000;
+}
