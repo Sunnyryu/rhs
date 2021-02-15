@@ -2,9 +2,7 @@
    font-family: '나눔 고딕', NanumGothic, '돋움', Dotum, sans-serif; 
    margin:0;
 }
-body {
-    
-}
+
 .navbar {
     background-color: #000;
     height: 120px;
@@ -111,7 +109,7 @@ body {
 }
 
 .table_content, .form_content, .list_content{
-    height: 12px;
+    
     border: 1px solid #d1d1d1;
     padding:30px;
     font-size: 12px;
@@ -135,4 +133,321 @@ address {
     text-align: center;
     font-size: 12px;
     color: #000;
+}
+
+.usa_child_size {
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+    text-align:left;
+    margin-bottom: 8px;
+    
+}
+.usa_child > thead > tr > th, .usa_child > tbody > tr > td {
+    height: 30px;
+
+}
+.usa_child, .usa_child > thead > tr > th, .usa_child > tbody > tr > td{
+    border-collapse: collapse; 
+    border: 1px solid #ababab;
+    background-color: #fbfbfb;
+    font-size: 12px;
+    color: #555;
+    text-align: center;
+
+}
+
+.usa_child > thead, .usa_child > tbody > tr > td:nth-child(-n+2) {
+    font-weight : bold;
+}
+
+.refund_money {
+    background-color: #fbfbfb;
+    font-size: 12px;
+    color: #555;
+    border-top: 2px solid #a5a5a5;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.refund_money_element {
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.refund_money_value {
+    border-bottom: 1px solid #a5a5a5;
+}
+.refund_money_value > tr > td:nth-child(n+2), .refund_money_total > tr > td:nth-child(n+2) {
+    text-align: right;
+}
+
+.refund_money_total {
+    border-bottom: 1px solid #e4e4e4;
+    font-weight: bold;
+}
+.refund_money_element > tr > th {
+    height: 30px;
+}
+.refund_money_value > tr > td {
+    height: 30px;
+}
+.refund_money_total > tr > td { 
+    height: 30px;
+}
+.refund_money_checking {
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+    text-align:left;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.form_join {
+    border: 1px solid #e4e4e4;
+    background-color: #fbfbfb;
+}
+.form_join_id{
+    margin-left: 10px;
+    width:900px;
+    font-size:12px;
+    color: #000
+}
+
+.form_join_password{
+    margin-left: 10px;
+    width:900px;
+    font-size:12px;
+    color: #000
+}
+
+.form_join_name{
+    margin-left: 10px;
+    width:900px;
+    font-size:12px;
+    color: #000
+}
+.form_join_year, .form_join_month, .form_join_day{
+    margin-left: 10px;
+    width: 290px;
+    font-size:12px;
+    color: #000;
+}
+.form_join_male, .form_join_female {
+    font-size:12px;
+    margin-left: 10px;
+    color: #000;
+}
+.form_join_email {
+    width:900px;
+    margin-left:10px;
+}
+
+.form_join_phone_number {
+    width: 700px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.form_join_phone_number_receive_button {
+    width: 195px;
+    border: 1px solid #08a600;
+    background-color: #4ec53d;
+    font-size: 12px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.form_join_phone_number_receive{
+    width: 900px;
+    margin-left: 10px;
+}
+
+.form_join_hobby_1 {
+    margin-left: 10px;
+}
+.form_join_box{
+    margin-left: 10px;
+    width: 900px;
+    border: 1px solid #08a600;
+    background-color: #4ec53d;
+    font-size: 16px;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom:20px;
+}
+.join_introduce{
+    width:900px;
+    height: 75px;
+}
+
+.list_content > p {
+    font-size:14px;
+    color: #000;
+    font-weight: bold;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.list_content_project {
+    border: 1px solid #e4e4e4;
+}
+.subject_project {
+    font-size: 32px;
+    color: #000;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+}
+.list_content_project_one, .list_content_project_two {
+    margin-left: 10px;
+    font-size:14px;
+    color:#000;
+    font-weight: bold;
+}
+
+.list_content_project_dict_one, .list_content_project_dict_two{
+    font-size: 12px;
+    color: #559bfa;
+}
+
+.list_content_realtime_search {
+    border: 1px solid #e4e4e4;
+    width: 300px;
+}
+
+.list_content_realtime_search > div {
+    margin:10px;
+}
+
+.list_content_realtime_search >div > a {
+    text-decoration: none;
+    color:#000;
+}
+
+.list_content_realtime_search > div > a:hover {
+    text-decoration: underline;
+}
+
+.list_content_cookie{
+    border: 1px solid #e4e4e4;
+    width:910px;
+    padding: 10px;
+}
+
+.list_content_cookie > ul > li {
+    font-size: 12px;
+    line-height: 150%;
+}
+
+.li_one {
+    font-weight:bold;
+}
+.li_one > span {
+    color: #559bfa;
+}
+.li_two > span {
+    color: #ec5336;
+}
+
+
+.li_three > a {
+    color: #559bfa;
+}
+
+.list_content_cookie > a {
+    margin-left: 40px;
+}
+
+.list_content_news{
+    border: 1px solid #e4e4e4;
+    border-collapse: collapse;
+    width: 870px;
+    padding: 30px;
+    font-size:12px;
+    color: #000;
+}
+
+.list_content_news_one, .list_content_news_two {
+    border-bottom: 1px solid #e4e4e4;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.list_content_news_one > img, .list_content_news_three > img {
+    float: left;
+    height:70px;
+    margin-right: 10px;
+}
+
+.list_content_news_one > a, .list_content_news_two > a, .list_content_news_three > a{
+    font-size: 14px;
+    color: #00c;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.list_content_webtoon {
+    border:1px #e4e4e4 solid;
+    width:960px;
+}
+
+
+
+.list_content_webtoon_1 > .list_content_webtoon_1_subject, .list_content_webtoon_2 > .list_content_webtoon_2_subject,
+.list_content_webtoon_3 > .list_content_webtoon_3_subject, .list_content_webtoon_4 > .list_content_webtoon_4_subject,
+.list_content_webtoon_5 > .list_content_webtoon_5_subject, .list_content_webtoon_6 > .list_content_webtoon_6_subject {
+    font-size:14px;
+    color: #000;
+    font-weight: bold;
+    width:285px;
+    padding-right:0;
+}
+
+.list_content_webtoon_1 > .list_content_webtoon_1_content, .list_content_webtoon_2 > .list_content_webtoon_2_content,
+.list_content_webtoon_3 > .list_content_webtoon_3_content, .list_content_webtoon_4 > .list_content_webtoon_4_content,
+.list_content_webtoon_5 > .list_content_webtoon_5_content, .list_content_webtoon_6 > .list_content_webtoon_6_content {
+    font-size:12px;
+    color:#000;
+    width:285px;
+    margin-right:0;
+    padding-right:0;
+}
+
+.list_content_webtoon_2_subject > span, .list_content_webtoon_5_subject > span {
+    border: 1px solid #71b036;
+    background-color: #80c83d;
+    font-size: 10px;
+    color: #fff;
+    margin-right:1.5px;
+}
+
+.list_content_webtoon_4_subject > span {
+    border: 1px solid #df4e28;
+    background-color: #ec5336;
+    font-size: 10px;
+    color:#fff;
+    margin-right:1.5px;
+}
+
+.list_content_webtoon_list1, .list_content_webtoon_list2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.list_content_webtoon_1, .list_content_webtoon_2, .list_content_webtoon_3, .list_content_webtoon_4, .list_content_webtoon_5, .list_content_webtoon_6 {
+    margin-left:20px;
+    margin-bottom: 20px;
+    width:285px;
+}
+
+.list_content_webtoon_3, .list_content_webtoon_6{
+    margin-right:1px;
+}
+
+.webtoon_link {
+    text-decoration: none;
+    color:#000;
+}
+.webtoon_link:hover {
+    text-decoration: underline;
 }
