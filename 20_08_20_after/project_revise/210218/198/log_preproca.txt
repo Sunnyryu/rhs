@@ -1,0 +1,33 @@
+1/38	./210218/198/E_K_01/D_12.txt	unknown
+2/38	./210218/198/E_K_01/D_20.txt	unknown
+3/38	./210218/198/E_K_01/N_03.txt	unknown
+4/38	./210218/198/E_K_01/N_01.txt	unknown
+5/38	./210218/198/E_K_01/D_07.txt	unknown
+8/38	./210218/198/E_K_01/D_05.txt	unknown
+9/38	./210218/198/E_K_01/D_16.txt	unknown
+10/38	./210218/198/E_K_01/D_04.txt	unknown
+11/38	./210218/198/E_K_01/D_18.txt	unknown
+12/38	./210218/198/E_K_01/N_06.txt	unknown
+13/38	./210218/198/E_K_01/N_14.txt	unknown
+14/38	./210218/198/E_K_01/N_16.txt	unknown
+17/38	./210218/198/E_K_01/D_02.txt	unknown
+18/38	./210218/198/E_K_01/N_10.txt	unknown
+20/38	./210218/198/E_K_01/D_15.txt	unknown
+21/38	./210218/198/E_K_01/N_15.txt	unknown
+22/38	./210218/198/E_K_01/D_08.txt	unknown
+23/38	./210218/198/E_K_01/D_14.txt	unknown
+25/38	./210218/198/E_K_01/N_11.txt	unknown
+27/38	./210218/198/E_K_01/D_06.txt	unknown
+29/38	./210218/198/E_K_01/D_10.txt	unknown
+30/38	./210218/198/E_K_01/D_03.txt	unknown
+31/38	./210218/198/E_K_01/D_17.txt	unknown
+32/38	./210218/198/E_K_01/D_11.txt	unknown
+33/38	./210218/198/E_K_01/N_07.txt	unknown
+34/38	./210218/198/E_K_01/D_19.txt	unknown
+35/38	./210218/198/E_K_01/D_09.txt	unknown
+36/38	./210218/198/E_K_01/D_13.txt	unknown
+37/38	./210218/198/E_K_01/D_01.txt	unknown
+Useless : 0 (0.0%)
+Unknown : 29 (76.3%)
+Hit : 9 (23.7%)
+걸린 시간: 0m 02s

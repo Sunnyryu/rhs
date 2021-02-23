@@ -1,0 +1,26 @@
+'Samsung AI Forum 2020' to Explore Future of Artificial Intelligence
+Samsung Electronics Co. announced on Oct. 6 that it will hold the Samsung AI Forum 2020 online via its YouTube channel for two days from Nov. 2-3.
+Marking its fourth anniversary this year, the forum gathers world-renowned academics and industry experts on artificial intelligence (AI) and serves as a platform for exchanging ideas, insights and latest research findings, as well as a platform to discuss the future of AI.
+On Day 1, which will be hosted by Samsung Advanced Institute of Technology (SAIT), Kim Ki-nam, vice chairman, CEO and head of Device Solutions Division at Samsung Electronics will deliver opening remarks. Renowned AI experts will subsequently give presentations under the theme “AI Technologies for Changes in the Real World.”
+This year, Kang In-yup, president of System LSI Business at Samsung Electronics will join the panel discussion with the presenters. Topics for in-depth discussions include: challenges that need to be overcome on a global level through AI technologies over the next decade; limitations that AI faces in tackling real-world issues such as a pandemic or climate change; and whether humans need human-level AI, among other topics.
+The following are Day 1 sessions:
+“Towards discovering causal representations” by Prof. Yoshua Bengio, the University of Montreal;
+“Self-Supervised Learning” by Prof. Yann LeCun, New York University;
+“Meta-Learning: from Few-Shot Adaptation to Uncovering Symmetries” by Prof. Chelsea Finn, Stanford University;
+“Reconstruction of the brain” by Prof. Ham Don-hee, fellow at the Samsung Advanced Institute of Technology, Professor at Harvard University;
+“Intelligibility Throughout the Machine Learning Life Cycle” by Dr. Jennifer Wortman Vaughan, Microsoft Research;
+and “End-to-End Models for Speech Recognition” by Dr. Tara Sainath, Google Research.
+Prof. Yoshua Bengio, the winner of the 2018 Turing Award, often referred to as “the Nobel Prize in computing,” is assuming co-chairmanship for the forum, and the newly established “Samsung AI Researcher of the Year” award will be presented at the event.
+The awardee of the “Researcher of the Year” honor is selected among global AI researchers under the age of 35 through extensive evaluations and assessments made by AI experts at both Samsung Electronics and renowned academic institutions. On the first day of the forum, the award ceremony will be held to present the US$30,000 prize and the awardee will give a presentation.
+Additionally, Samsung has named Prof. Bengio as “Samsung AI Professor.” As the co-chair of the forum with Hwang Sung-woo, president and head of SAIT, Professor Bengio will utilize his wide networks and expertise in the field of deep learning to broaden cooperation for expanding the boundaries of AI research at Samsung Electronics.
+“We have an outstanding set of speakers and discussion topics which promise to shed light on both the limitations of current AI technologies, which raise both practical and theoretical questions, and research directions aimed at reaching human-level intelligence,” said Bengio.
+Day 2 sessions will be hosted by Samsung Research, the advanced R&D hub of the company that leads the development of future technologies for Samsung Electronics’ SET (end-products) Business. Under the theme “Human-Centered AI,” Sebastian Seung, president and head of Samsung Research, will deliver the keynote speech, and AI experts who have been actively engaging in AI research activities worldwide will share their insights.
+Day 2 sessions include:
+“Natural Language Processing” by Prof. Christopher Manning, Stanford University;
+“Vision” by Prof. Devi Parikh, the Georgia Institute of Technology;
+“Human Robot Interaction” by Prof. Subbarao Kambhampati, Arizona State University;
+and “Robotics” by Prof. Daniel D. Lee, Cornell Tech, executive vice president at Samsung Research and head of Samsung AI Center-New York.
+Prof. Christopher Manning, a renowned expert in natural language processing (NLP), will speak on the current status and future of NLP technologies required for Human-Centered AI. He previously delivered the keynote speech at the first Samsung AI Forum in 2017 on the development of neural network-based natural language understanding technology. Samsung has been working with Professor Manning on Q&A and dialogue modeling and will continue to collaborate with him on the overall development of NLP technologies.
+After the presentations, Sebastian Seung, a pioneer in AI research based on neuroscience, will preside over an in-depth panel discussion with the four speakers regarding the prospects and future direction of Human-Centered AI.
+“We hope that Samsung AI Forum 2020 will contribute to enhanced understanding of AI technology developments and its applications that can bring positive impact to human lives,” said Seung. “Especially since this year’s forum will be held online, I hope that the event will be an opportunity for greater participation of those interested in AI technologies.”
+The event will be open to pre-registered attendees. Registration is available through the Samsung Advanced Institute of Technology website and the Samsung Research website starting Oct. 6.

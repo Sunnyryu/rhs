@@ -1,0 +1,4 @@
+25	http://www.domin.co.kr/news/articleView.html?idxno=1295700	HTTPConnectionPool(host='www.domin.co.kr', port=80): Read timed out. (read timeout=10)
+
+수집한 문서 개수: 40개
+걸린 시간: 2m 40s

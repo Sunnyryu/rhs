@@ -1,0 +1,15 @@
+현대백화점 천호점, 25일까지 마블 팝업스토어 진행
+<body>
+<!--상단광고-->
+<script type="text/javascript">
+ if ( getCookie( "Notice46" ) != "done" ){  
+  document.write("<div class='top_banner' id='popup3'>");
+ }else document.write("<div class='top_banner' id='popup3' style='display:none;'>");
+</script>
+<div class="ad_banner">
+<iframe frameborder="no" framespacing="0" height="90" leftmargin="0" marginheight="0" marginwidth="0" name="sports-chosun_p_at_t_a01_728x90" scrolling="no" src="//kitweb.tadapi.info/network/adapi.php?a=sports-chosun_p_at_t_a01_728x90&amp;refercheck=101" topmargin="0" width="728"></iframe>
+</div>
+<!--닫기버튼-->
+<div class="ad_clsebtn"><a onclick="closeLayer('popup3')"><img src="/images/common/btn/btn_colse.gif"/></a></div>
+<!--//닫기버튼-->
+</body>

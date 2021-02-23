@@ -1,0 +1,10 @@
+7	https://sports.donga.com/article/all/20200503/100892034/1	HTTPSConnectionPool(host='sports.donga.com', port=443): Max retries exceeded with url: /article/all/20200503/100892034/1 (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1108)')))
+
+19	http://www.domin.co.kr/news/articleView.html?idxno=1292439	HTTPConnectionPool(host='www.domin.co.kr', port=80): Read timed out. (read timeout=10)
+
+25	http://www.domin.co.kr/news/articleView.html?idxno=1292439	HTTPConnectionPool(host='www.domin.co.kr', port=80): Read timed out. (read timeout=10)
+
+35	https://www.vop.co.kr/A00001485683.html	HTTPSConnectionPool(host='www.vop.co.kr', port=443): Max retries exceeded with url: /A00001485683.html (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1108)')))
+
+수집한 문서 개수: 40개
+걸린 시간: 2m 39s

@@ -1,0 +1,985 @@
+현대차 팰리세이드·BMW X6, 패밀리카 선호도 ‘1위’ 등극
+<body>
+<div id="warp">
+<div class="warpBg">
+<div class="skip_navigation">
+<ul>
+<li><a href="#topSearch">검색창 바로가기</a></li>
+<li><a href="#box_news">대메뉴 바로가기</a></li>
+<li><a href="#right_news">사이드 메뉴 바로가기</a></li>
+<li><a href="">전체서비스 메뉴 바로가기</a></li>
+<li><a href="#warpHeadline">헤드라인 기사 바로가기</a></li>
+<li><a href="#importantNews">주요기사 바로가기</a></li>
+<li><a href="#warpContainer01">주요 콘텐츠 바로가기</a></li>
+</ul>
+</div>
+<!--//.skip_navigation 접근성 준수 바로가기 메뉴 -->
+<div class="warpHeader">
+<div class="warpgrid">
+<ul>
+<li class="grid01"></li>
+<li class="grid02"></li>
+</ul>
+</div>
+<!--//.warpgrid 최상단 (주,남)그리드-->
+<div class="header">
+<h1 id="topLogo">
+<a href="/"><img alt="온라인 경제미디어 뉴스웨이" src="http://nimage.newsway.kr/ne_w/images/top_logo_03.png"/></a>
+</h1>
+<!--//.topLogo 상단로고 -->
+<div class="topMeunright">
+<div class="warpTnb">
+<ul class="iconright">
+<li><a href="https://www.facebook.com/newswayon/" target="_blank"><img alt="페이스북" src="http://nimage.newsway.kr/ne_w/images/icon_top_facebook.png" title="페이스북"/></a></li>
+<li><a href="https://post.naver.com/ewaynews" target="_blank"><img alt="네이버" src="http://nimage.newsway.kr/ne_w/images/icon_top_naver.png" title="네이버"/></a></li>
+<li><a href="https://www.youtube.com/channel/UCoFVLuTZ0FBrB54L4fU4uKQ" target="_blank"><img alt="유튜브" src="http://nimage.newsway.kr/ne_w/images/icon_top_youtube.png" title="유튜브"/></a></li>
+<li><a class="blockstreet" href="http://www.blockstreet.co.kr" target="_blank"><img alt="blocklogo" src="http://nimage.newsway.kr/ne_w/images/blocksLogo.png"/></a></li>
+<li><a href="https://www.antzcoin.net" target="_blank">AntzCoin.net</a></li>
+</ul>
+<!--//.iconright 최상단 아이콘영역-->
+<div class="topSearch">
+<form action="/news/search" method="get" name="sch_frm" onsubmit="Common.checkSearchKeyword(this); return false;">
+<input class="qr" name="qr" placeholder="검색어를 입력주세요." title="검색어 입력" type="text" value=""/><span class="textClear">X</span><button type="submit"></button>
+</form>
+</div>
+<!--//.topSearch 검색창 -->
+<!-- 제호광고 -->
+</div>
+<!--//.warpTnb -->
+<div class="warpMenu">
+<h2 id="menuTitle">
+<a href="#">전체메뉴 건너뛰기</a>
+</h2>
+<div class="gnb">
+<ul>
+<li><a href="/news/section?cate_cd=02.01.00" title="기업">기업</a></li>
+<li><a href="/news/section?cate_cd=02.02.00" title="사람">사람</a></li>
+<li><a href="/news/section?cate_cd=02.03.00" title="머니">머니</a></li>
+<li><a href="/news/section?cate_cd=02.10.00" title="지배구조">지배구조</a></li>
+</ul>
+</div>
+<!--//.gnb 좌측 대 메뉴 -->
+<div class="sideMenu">
+<ul>
+<li><a href="/plan/total" title="기획&amp;탐사">기획&amp;탐사</a></li>
+<li><a href="/news/section?cate_cd=02.04.00" title="정책">정책</a></li>
+<li><a href="/media/video_list" title="뉴스웨이TV">뉴스웨이TV</a></li>
+<li><a href="/media/photo_list" title="포토뉴스">포토뉴스</a></li>
+<li><a href="/card_news/total" title="카드뉴스+">카드뉴스<span class="mnsup">+</span></a></li>
+<li><a href="/news/tong" title="뉴스通">뉴스通</a></li>
+<li><a href="/news/local" title="로컬">로컬뉴스</a></li>
+</ul>
+</div>
+<!--//.sideMenu 우측 사이드 메뉴 -->
+<div class="btnAll">
+<button class="nav_open" id="btn1">
+<img alt="전체서비스메뉴 열기" src="http://nimage.newsway.kr/ne_w/images/btn_all.png" title="전체서비스메뉴 열기"/>
+</button>
+<button class="nav_close" id="btn2" style="display:none;">
+<img alt="전체서비스메뉴 닫기" src="http://nimage.newsway.kr/ne_w/images/btn_clor.png" title="전체서비스메뉴 닫기"/>
+</button>
+<div class="topsiteMap nav_wrap" id="btn_word">
+<div class="footst">
+<dl>
+<dt> <a href="/news/section?cate_cd=02.01.00">기업</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.01.01">산업</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.01.02">마켓</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.01.03">부동산</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.01.04">공기업</a>
+</dd> </dl>
+<dl>
+<dt> <a href="/news/section?cate_cd=02.02.00">사람</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.02.01">오너</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.02.02">CEO</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.02.03">뱅커</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.02.04">관료</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.02.05">Stock人</a>
+</dd> </dl>
+<dl>
+<dt> <a href="/news/section?cate_cd=02.03.00">머니</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.03.01">IB</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.03.02">Stock</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.03.03">블록체인</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.03.04">재테크</a>
+</dd> </dl>
+<dl>
+<dt> <a href="/news/section?cate_cd=02.10.00">지배구조</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.10.01">대기업</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.10.02">중견기업</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.10.03">코스닥기업</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.10.04">거버넌스</a>
+</dd> </dl>
+<dl>
+<dt> <a href="/news/section?cate_cd=02.04.00">정책</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.04.01">청와대</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.04.02">국회</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.04.03">세종</a>
+</dd> </dl>
+<ul>
+<li><a href="/plan/total">기획&amp;탐사</a></li>
+<li><a href="/media/video_list">뉴스웨이TV</a></li>
+<li><a href="/media/photo_list">포토뉴스</a></li>
+<li><a href="/news/tong">뉴스通</a></li>
+<li><a href="/opinion/total">오피니언</a></li>
+</ul>
+<dl>
+<dt> <a href="/card_news/total">카드뉴스<span class="mnsup">+</span></a>
+</dt> <dd> <a href="/card_news/lists?cate_cd=02.07.01">카드뉴스</a>
+</dd> <dd> <a href="/card_news/lists?cate_cd=02.07.02">5픽뉴스</a>
+</dd> <dd> <a href="/card_news/lists?cate_cd=02.07.04">스토리뉴스 #더</a>
+</dd> <dd> <a href="/card_news/lists?cate_cd=02.07.03">창업자로부터 온 편지</a>
+</dd> </dl>
+<p>
+<a href="/news/lists">전체뉴스</a>
+<a href="/news/local">로컬뉴스</a>
+</p>
+</div>
+<!--//.footst -->
+</div>
+</div>
+<!--//.btnAll 전체 서비스 메뉴 -->
+</div>
+<!--//.warpMenu 전체 메뉴-->
+</div>
+<!--//.topMeunright -->
+</div>
+<!--//.header -->
+</div>
+<div class="warpSection01">
+<nav id="nav">
+<div class="c_nav">
+<ul>
+<li class="n_logo"><a href="/" title="온라인 경제미디어 뉴스웨이"><img alt="" src="http://nimage.newsway.kr/ne_w/images/sub/nav_top_logo_01.png"/></a></li>
+<li class="locationLnb03">
+<p>현대차 팰리세이드·BMW X6, 패밀리카 선호도 ‘1위’ 등극</p>
+</li>
+<li><a href="#"><span></span></a></li>
+</ul>
+<div class="nv_lfiCon">
+<ul>
+<li>
+<a href="javascript:void(Common.snsShare('facebook', 'http%3A%2F%2Fwww.newsway.co.kr%2Fnews%2Fview%3Ftp%3D1%26ud%3D2020052911182471027', '%ED%98%84%EB%8C%80%EC%B0%A8+%ED%8C%B0%EB%A6%AC%EC%84%B8%EC%9D%B4%EB%93%9C%C2%B7BMW+X6%2C+%ED%8C%A8%EB%B0%80%EB%A6%AC%EC%B9%B4+%EC%84%A0%ED%98%B8%EB%8F%84+%E2%80%981%EC%9C%84%E2%80%99+%EB%93%B1%EA%B7%B9'));" title="페이스북">
+<img alt="페이스북" src="http://nimage.newsway.kr/ne_w/images/sub/icon_fb.gif"/>
+</a>
+</li>
+<li>
+<a href="javascript:void(Common.snsShare('twitter', 'http%3A%2F%2Fwww.newsway.co.kr%2Fnews%2Fview%3Ftp%3D1%26ud%3D2020052911182471027', '현대차 팰리세이드·BMW X6, 패밀리카 선호도 ‘1위’ 등극'));" title="트위터">
+<img alt="트위터" src="http://nimage.newsway.kr/ne_w/images/sub/icon_twt.gif"/>
+</a>
+</li>
+<li>
+<a href="javascript:void(Common.snsShare('kakaostory', 'http%3A%2F%2Fwww.newsway.co.kr%2Fnews%2Fview%3Ftp%3D1%26ud%3D2020052911182471027', ''));" title="카카오스토리">
+<img alt="카카오스토리" src="http://nimage.newsway.kr/ne_w/images/sub/icon_kkosto.gif"/>
+</a>
+</li>
+<!-- 20190429 폰트 변경, 프린트과 추가 건으로 추가 -->
+<li class="pnt">
+<a href="javascript:void(Common.viewPagePrintPopup('1', '2020052911182471027'));" title="프린트">
+<img alt="프린트" src="http://nimage.newsway.kr/ne_w/images/sub/top_print_btn.gif"/>
+</a>
+</li>
+<li class="fontVsize">
+<button>
+<img alt="폰트 크기 조정하기" src="http://nimage.newsway.kr/ne_w/images/common/iconview_05.png"/>
+</button>
+<ul class="fontsizeWarp headerFont"></ul>
+<!--//.fontsizeWarp -->
+</li>
+<!--//.fontVsize -->
+<!-- //20190429 폰트 변경, 프린트과 추가 건으로 추가  -->
+</ul>
+</div>
+<div class="nav_btnAll">
+<button class="nav_open" id="btn1">
+<img alt="전체서비스메뉴 열기" src="http://nimage.newsway.kr/ne_w/images/btn_all.png" title="전체서비스메뉴 열기"/>
+</button>
+<button class="nav_close" id="btn2" style="display:none;">
+<img alt="전체서비스메뉴 닫기" src="http://nimage.newsway.kr/ne_w/images/btn_clor.png" title="전체서비스메뉴 닫기"/>
+</button>
+<div class="topsiteMap nav_wrap" id="btn_word">
+<div class="footst">
+<dl>
+<dt><a href="/news/section?cate_cd=02.01.00" title="기업">기업</a></dt>
+<dd><a href="/news/section?cate_cd=02.01.01" title="산업">산업</a></dd>
+<dd><a href="/news/section?cate_cd=02.01.02" title="마켓">마켓</a></dd>
+<dd><a href="/news/section?cate_cd=02.01.03" title="부동산">부동산</a></dd>
+<dd><a href="/news/section?cate_cd=02.01.04" title="공기업">공기업</a></dd>
+</dl>
+<dl>
+<dt><a href="/news/section?cate_cd=02.02.00" title="사람">사람</a></dt>
+<dd><a href="/news/section?cate_cd=02.02.01" title="오너">오너</a></dd>
+<dd><a href="/news/section?cate_cd=02.02.02" title="CEO">CEO</a></dd>
+<dd><a href="/news/section?cate_cd=02.02.03" title="뱅커">뱅커</a></dd>
+<dd><a href="/news/section?cate_cd=02.02.04" title="관료">관료</a></dd>
+<dd><a href="/news/section?cate_cd=02.02.05" title="Stock人">Stock人</a></dd>
+</dl>
+<dl>
+<dt><a href="/news/section?cate_cd=02.03.00" title="머니">머니</a></dt>
+<dd><a href="/news/section?cate_cd=02.03.01" title="IB">IB</a></dd>
+<dd><a href="/news/section?cate_cd=02.03.02" title="Stock">Stock</a></dd>
+<dd><a href="/news/section?cate_cd=02.03.03" title="블록체인">블록체인</a></dd>
+<dd><a href="/news/section?cate_cd=02.03.04" title="재테크">재테크</a></dd>
+</dl>
+<dl>
+<dt><a href="/news/section?cate_cd=02.10.00" title="지배구조">지배구조</a></dt>
+<dd><a href="/news/section?cate_cd=02.10.01" title="대기업">대기업</a></dd>
+<dd><a href="/news/section?cate_cd=02.10.02" title="중견기업">중견기업</a></dd>
+<dd><a href="/news/section?cate_cd=02.10.03" title="코스닥기업">코스닥기업</a></dd>
+<dd><a href="/news/section?cate_cd=02.10.04" title="거버넌스">거버넌스</a></dd>
+</dl>
+<dl>
+<dt><a href="/news/section?cate_cd=02.04.00" title="정책">정책</a></dt>
+<dd><a href="/news/section?cate_cd=02.04.01" title="청와대">청와대</a></dd>
+<dd><a href="/news/section?cate_cd=02.04.02" title="국회">국회</a></dd>
+<dd><a href="/news/section?cate_cd=02.04.03" title="세종">세종</a></dd>
+</dl>
+<div class="subTopsite">
+<a href="/plan/total" title="기획&amp;탐사">기획&amp;탐사</a>
+<a href="/media/video_list" title="뉴스웨이TV">뉴스웨이TV</a>
+<a href="/media/photo_list" title="포토뉴스">포토뉴스</a>
+<a href="/news/tong" title="뉴스通">뉴스通</a>
+<a href="/opinion/total" title="오피니언">오피니언</a>
+</div>
+<dl>
+<dt><a href="/card_news/total" title="카드뉴스+">카드뉴스<span class="mnsup">+</span></a></dt>
+<dd><a href="/card_news/lists?cate_cd=02.07.01" title="카드뉴스">카드뉴스</a></dd>
+<dd><a href="/card_news/lists?cate_cd=02.07.02" title="5픽뉴스">5픽뉴스</a></dd>
+<dd><a href="/card_news/lists?cate_cd=02.07.04" title="스토리뉴스 #더">스토리뉴스 #더</a></dd>
+<dd><a href="/card_news/lists?cate_cd=02.07.03" title="창업자편지">창업자로부터 온 편지</a></dd>
+</dl>
+<p><a href="/news/lists">전체뉴스</a><a href="/news/local">로컬뉴스</a></p>
+</div>
+<!--//.footst -->
+</div>
+</div>
+<!--//.nav_btnAll 전체 서비스 메뉴 -->
+</div>
+<!--//.c_nav -->
+</nav>
+<!--//.nav 스크롤시 내려오는 네비 -->
+<div class="warpSection0bg">
+<!-- 티제이튠 애드오피 20190220 교체 -->
+<div style="position: absolute; top:260px; left:-193px; width:160px;">
+<!-- Right_120x600 -->
+<script charset="euc-kr" src="//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=0Awz&amp;out=script"></script>
+</div>
+<!-- // 티제이튠 애드오피 20190220 교체 -->
+<!-- 뷰페이지 왼쪽 날개배너 1-->
+<div style="position: absolute; top:260px; width:160px; right:-540px;">
+<!-- Left_120x600 -->
+<div style="width:120px; height:600px;">
+<!--/* OptimaA Script Tag v3.0.5 */-->
+<script type="text/javascript"><!--//<<![CDATA[
+       var m3_u = 'http://ads-optima.com/www/delivery/ajs.php'
+       var m3_r = Math.floor(Math.random()*99999999999);
+       if (!document.MAX_used) document.MAX_used = ',';
+       document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+       document.write ("?zoneid=306");
+       document.write ('&amp;cb=' + m3_r);
+       if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+       document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+       document.write ("&amp;loc=" + escape(window.location));
+       if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+       if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+       document.write ("'><\/scr"+"ipt>");
+    //]]>--></script>
+</div>
+</div>
+<!-- 뷰페이지 오른쪽 날개배너 1-->
+<div style="position: absolute; top:950px; width:160px; right:-540px;">
+<div style="width:120px; height:600px;">
+<a href="http://www.lgblog.co.kr/lg-story/lg-product/81783" target="_blank"><img alt="인간과 공간을 위한 빛의 가장 아름다운 진화 옳은미래 lg의 옳은 미래가 더 궁금하다면 lgfyture.com  " src="http://nimage.newsway.kr/banner/banner_20170609_01.gif"/></a>
+</div>
+</div>
+<!-- 뷰페이지 오른쪽 날개배너 2-->
+<div class="warpSection0b2">
+<div class="locationLnb01">
+<a href="/news/section?cate_cd=02.01.00">
+<h3>기업</h3>
+</a>
+<span></span>
+<ul>
+<li class="on">
+<a href="/news/section?cate_cd=02.01.01" title="산업">산업</a>
+</li>
+<li class="">
+<a href="/news/section?cate_cd=02.01.02" title="마켓">마켓</a>
+</li>
+<li class="">
+<a href="/news/section?cate_cd=02.01.03" title="부동산">부동산</a>
+</li>
+<li class="">
+<a href="/news/section?cate_cd=02.01.04" title="공기업">공기업</a>
+</li>
+</ul>
+<!--//.카테고리 -->
+<ul class="btn_info">
+<li>
+<a href="javascript:void(Common.viewPagePrintPopup('1', '2020052911182471027'));" title="프린트">
+<img alt="프린트" src="http://nimage.newsway.kr/ne_w/images/sub/top_print_btn.gif"/>
+</a>
+</li>
+<!-- <li class="minus"><a href="javascript:void(Common.fontJMinus('articleText'));" title="글씨 축소하기">가 -</a></li>
+                <li class="plus"><a href="javascript:void(Common.fontJPlus('articleText'));" title="글씨 확대하기">가 +</a></li> -->
+<!-- 20190429 폰트 변경과 레이어에 폰트 크기 조정 추가 건으로 수정 -->
+<li class="fontVsize">
+<button>
+<img alt="폰트 크기 조정하기" src="http://nimage.newsway.kr/ne_w/images/common/iconview_05.png"/>
+</button>
+<ul class="fontsizeWarp contentsFont"></ul>
+<!--//.fontsizeWarp -->
+</li>
+<!--//.fontVsize -->
+<!-- //20190429 폰트 변경과 레이어에 폰트 크기 조정 추가 건으로 수정 -->
+</ul>
+</div>
+<!--//.locationLnb -->
+<div class="lf_pw">
+<div class="lfiCon">
+<ul>
+<li>
+<a href="javascript:void(Common.snsShare('facebook', 'http%3A%2F%2Fwww.newsway.co.kr%2Fnews%2Fview%3Ftp%3D1%26ud%3D2020052911182471027', '%ED%98%84%EB%8C%80%EC%B0%A8+%ED%8C%B0%EB%A6%AC%EC%84%B8%EC%9D%B4%EB%93%9C%C2%B7BMW+X6%2C+%ED%8C%A8%EB%B0%80%EB%A6%AC%EC%B9%B4+%EC%84%A0%ED%98%B8%EB%8F%84+%E2%80%981%EC%9C%84%E2%80%99+%EB%93%B1%EA%B7%B9'));" title="페이스북">
+<img alt="페이스북" src="http://nimage.newsway.kr/ne_w/images/sub/icon_fb.gif"/>
+</a>
+</li>
+<li>
+<a href="javascript:void(Common.snsShare('twitter', 'http%3A%2F%2Fwww.newsway.co.kr%2Fnews%2Fview%3Ftp%3D1%26ud%3D2020052911182471027', '현대차 팰리세이드·BMW X6, 패밀리카 선호도 ‘1위’ 등극'));" title="트위터">
+<img alt="트위터" src="http://nimage.newsway.kr/ne_w/images/sub/icon_twt.gif"/>
+</a>
+</li>
+<li>
+<a href="javascript:void(Common.snsShare('kakaostory', 'http%3A%2F%2Fwww.newsway.co.kr%2Fnews%2Fview%3Ftp%3D1%26ud%3D2020052911182471027', ''));" title="카카오스토리">
+<img alt="카카오스토리" src="http://nimage.newsway.kr/ne_w/images/sub/icon_kkosto.gif"/>
+</a>
+</li>
+</ul>
+</div>
+<!--//.lfiCon 왼쪽 sns아이콘 -->
+<div class="reporterBox">
+<dl>
+<dt>
+<a href="/news/search?gz=윤경현">윤경현 기자</a><br/>
+</dt>
+<dd>
+<span>등록 :<br/>2020-05-29 11:18</span>
+</dd>
+</dl>
+</div>
+<!--//.reporterBox 기자명 -->
+<div class="relatedTags">
+<strong>관련 태그</strong>
+<p><a href="/news/search?kw=현대차" title="현대차">#현대차</a></p>
+<p><a href="/news/search?kw=BMW" title="BMW">#BMW</a></p>
+<p><a href="/news/search?kw=엔카닷컴" title="엔카닷컴">#엔카닷컴</a></p>
+<p><a href="/news/search?kw=김상법" title="김상법">#김상법</a></p>
+</div>
+<!--//.relatedTags 관련태그 -->
+</div>
+<!--//. lf_pw 기사 왼쪽 영역 -->
+<div class="rl_pw">
+<div class="tit">
+<h4>
+                    현대차 팰리세이드·BMW X6, 패밀리카 선호도 ‘1위’ 등극                                    </h4>
+</div>
+<div class="subTitle">
+<p>총 2004명 가운데 팰리세이드 32.8% 차지<br/>2위 기아차 카니발·3위 기아차 쏘렌토 순<br/>수입차, 1위 BMW X6(19.7%)·2위 볼보 XC60</p>
+</div>
+<!--//.subTitle -->
+<!--//.editor 편집자주 혹은 전문시 사용 -->
+<div class="tipro" id="articleText" itemprop="articleBody">
+<div class="viwPhoto" style="clear:both; "><div style="margin:5px 0px 5px 0px; position:relative; text-align:center;"><div style="position:relative; width:323px; margin:auto;"><span style="position:absolute; margin-top:5px; right:5px;"><a href="javascript:void(Common.imageViewPopup('20200529000059_1024.jpg'));" title="확대하기"><img src="http://nimage.newsway.kr/site_images/sub/plus.png"/></a></span><img alt="" src="http://nimage.newsway.kr/photo/2020/05/29/20200529000059_0700.jpg"> <p style="width:323px; word-break:break-all; word-break:nowrap;">엔카닷컴은 최근 ‘가족들과 함께 타고 싶은 패밀리카’를 묻는 설문조사를 실시한 결과 국산차는 현대차 팰리세이드, 수입차는 BMW X6가 각각 1위를 차지했다. 사진=엔카닷컴 제공</p></img></div></div></div>
+현대자동차 대형 SUV 팰리세이드와 BMW X6 모델이 소비자가 꼽은 최고의 패밀리카에 선정됐다. <br>
+<br>
+29일 엔카닷컴(대표 김상범)에 따르면 ‘가족들과 함께 타고 싶은 패밀리카’를 묻는 설문조사를 실시한 결과 국산차는 현대차 팰리세이드, 수입차는 BMW X6가 각각 1위를 차지했다. <br>
+  <br/>
+엔카닷컴은 5월 가정의 달을 맞아 지난 13일부터 20일까지 엔카닷컴 홈페이지와 SNS를 통해 ‘가족들과 함께 타고 싶은 패밀리카’를 묻는 설문조사를 진행했다.  <div class="googlead" style="width:300px; height:250px;float:right; margin:30px 5px 0;"><!--/* OptimaA Script Tag v3.0.5 */--><script charset="euc-kr" src="//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=0Ax0&amp;out=script"></script>
+<noscript><a href="http://www.ads-optima.com/www/delivery/ck.php?n=a7da46ad&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img alt="" border="0" src="http://www.ads-optima.com/www/delivery/avw.php?zoneid=1765&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a7da46ad"/></a></noscript></div><br/>
+<br/>
+총 2004명이 참가했으며 국산차과 수입차 후보 중 각각 최대 2개씩 선택이 가능하도록 했다. <br/>
+  <br/>
+투표 대상 후보 패밀리카는 엔카닷컴에 등록된 인기 모델로 국산차는 ▲기아차 올뉴 카니발 ▲기아차 쏘렌토(MQ4) ▲기아차 K7 ▲기아차 K5 ▲르노삼성 QM6 ▲르노삼성 SM6 ▲쉐보레 말리부 ▲현대차 팰리세이드 ▲현대차 더뉴 싼타페 ▲현대차 더뉴 그랜저 ▲현대차 LF 쏘나타 ▲현대차 올뉴 아반떼 등이다. <br/>
+<br/>
+수입차는 ▲벤츠GLE ▲벤츠 E-클래스 ▲볼보 XC60 ▲BMW X6 ▲BMW 5시리즈 ▲포드 익스플로러 ▲폭스바겐 티구안이다. <br/>
+  <br/>
+설문조사 결과 국산차에서는 현대 팰리세이드가 32.8%의 선택을 받아 1위를 차지했다. 2위는 기아 올뉴 카니발(30.9%), 3위 기아 쏘렌토(10.4%), 4위 현대 더뉴 그랜저(7.7%), 5위 현대 더뉴 싼타페(5.9%), 6위 기아 K7(4.4%), 7위는 르노삼성 QM6(2.3%)로 1위부터 7위까지가 모두 SUV나 준대형 세단으로 나타났다. <br/>
+  <br/>
+수입차에서는 BMW X6가 19.7%로 1위를 차지했다. 2위는 19.1%의 선택을 받은 볼보 XC60가, 3위는 포드 익스플로러(17.1%), 4위는 벤츠 GLE(15.8%)로 1위부터 4위까지가 모두 SUV로 나타났다. 이외 5위는 벤츠 E-클래스(14.1%), 6위는 BMW 5시리즈(8.4%), 7위는 폭스바겐 티구안(5.9%)이 차지했다. <br/>
+  <br/>
+이번 설문조사에서 1위를 차지한 모델은 국산차와 수입차 모두 대형 SUV로 “실내가 넓고 디자인이 좋아요”, “넓고 외관도 괜찮아서” 등 넓은 실내와 디자인을 선택 이유로 꼽은 참여자가 많았다.            <br/>
+  <br/>
+엔카닷컴 사업총괄본부 박홍규 본부장은 “이번 패밀리카 설문조사를 통해 대형 SUV의 인기를 실감했다”며 “앞으로도 고객의 선호도나 취향을 공유할 수 있는 다양한 이벤트를 진행할 계획”이라고 말했다. <br/>
+  <br/>
+엔카닷컴은 연간 약 100만대의 중고차 차량이 등록되고 온라인과 모바일 방문자 수가 매일 60만 명을 넘어서는 국내 최대 규모의 자동차 거래 플랫폼이다.  <br/><br/>
+윤경현 기자 squashkh@<br/>
+</br></br></br></div>
+<!--//.tipro 기사내용 -->
+<!--//.relation_list 관련기사 -->
+<!-- 20180705 티제이튠광고 -->
+<div style="padding:15px 10px 0px 0px; display:inline-block; z-index:5;">
+<script charset="euc-kr" src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=09LU&amp;out=script"></script>
+</div>
+<!-- 20180705 티제이튠광고 -->
+<!-- 20180705 티제이튠광고 -->
+<div style="padding:15px 0px 0px 0px; display:inline-block; z-index:5;">
+<script charset="euc-kr" src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=09LV&amp;out=script"></script>
+</div>
+<!-- 20180705 티제이튠광고 -->
+<div class="relation_list" style="margin:0;">
+<div class="titel">
+                    관련기사                                    </div>
+<dl class="">
+<dt><a href="/news/view?tp=1&amp;ud=2020031918100816049">SK엔카닷컴-알레스 아우토, ‘보증수리 서비스’ 맞손</a></dt>
+<dd>2020.03.19</dd>
+</dl>
+<dl class="">
+<dt><a href="/news/view?tp=1&amp;ud=2020021815513950110">SK엔카닷컴 김상범號, 중고차 판도변화…‘고객의 心 읽다’</a></dt>
+<dd>2020.02.18</dd>
+</dl>
+<dl class="">
+<dt><a href="/news/view?tp=1&amp;ud=2019041809350368833">SK엔카닷컴, EV포스트서 ‘나만의 전기차’ 투표한다</a></dt>
+<dd>2019.04.18</dd>
+</dl>
+</div>
+<!--//.relation_list 관련기사 -->
+<p class="cpn">&lt;저작권자 © 온라인 경제미디어 뉴스웨이· 무단 전재 및 재배포 금지&gt;</p>
+<!-- 티제이튠 애드오피 광고 20190220 교체 -->
+<div style="padding:15px 10px 0px 0px; display:inline-block; z-index:5;">
+<script charset="euc-kr" src="//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=0Ax1&amp;out=script"></script>
+</div>
+<!-- //티제이튠 애드오피 광고 20190220 교체 -->
+<div style="padding:15px 10px 0px 0px; display:inline-block; z-index:5;">
+<script charset="euc-kr" src="//ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=0CbO&amp;out=script"></script>
+</div>
+<noscript><a href="http://ads-optima.com/www/delivery/ck.php?n=a23cc2a2&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img alt="" border="0" src="http://ads-optima.com/www/delivery/avw.php?zoneid=7989&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a23cc2a2"/></a></noscript>
+<div style="margin-top:35px;">
+<span class="bannerad_02">AD</span>
+<ul class="text_ad">
+<!-- ADOP SEO Tag E -->
+<!-- 20190527 브레인콘텐츠 교체 20190806 삭제 -->
+<!--
+                    <li><a href="http://www.lottorich.co.kr/event/landing/textlanding.html?m_code=387DM/&xad=newsway&lrpop=yes&jointab2=yes" target='_blank'>▶&nbsp;854회 34억 당첨자 "패턴하나만 찍었다" </a></li>
+                    <li><a href="http://www.lottorich.co.kr/event/landing/textlanding.html?m_code=389DM/&xad=newsway&lrpop=yes&jointab2=yes" target='_blank'>▶&nbsp;로또 1등 당첨됐더니 아내는 연락두절&#63;</a></li>
+-->
+<!--// 20190527 브레인콘텐츠 교체 20190806 삭제 -->
+<!-- 퍼스트 애드 20190617 교체 -->
+<iframe frameborder="0" height="80" scrolling="no" src="https://adbiz.co.kr/newsway_wgd.html" width="100%"></iframe>
+<!--//. 퍼스트 애드 20190617 교체 -->
+</ul>
+</div>
+<!-- 20190130 로또리치 배너 -->
+<div style="margin:  15px 0px;text-align: center;">
+<a href="http://www.lottorich.co.kr/event/landing/textlanding.html?m_code=382DM/&amp;xad=newsway&amp;lrpop=yes&amp;jointab2=yes" target="_blank"><img alt="로또리치" src="http://nimage.newsway.kr/ne_w/banner/banner_20190130_03.jpg"/></a>
+</div>
+<!--// 20190130 로또리치 배너 -->
+<div>
+<div id="livereContainer">
+<!--
+                        개발코드 : MTE2OS8zNzYwMS8zODM3
+                        정식코드 : MTE2OS8yNzI0OS8zODM3
+                    -->
+<div data-id="newsway" data-uid="MTE2OS8yNzI0OS8zODM3" id="lv-container">
+<script type="text/javascript">
+                                                            var refer = "newsway.co.kr/news/view?tp=1&ud=2020052911182471027";
+                            
+                            (function(d, s) {
+                               var j, e = d.getElementsByTagName(s)[0];
+
+                               if (typeof LivereTower === 'function') { return; }
+
+                               j = d.createElement(s);
+                               j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+                               j.async = true;
+
+                               e.parentNode.insertBefore(j, e);
+                           })(document, 'script');
+                        </script>
+</div>
+</div>
+<!--//. sns로그인 후 댓글창 들어가는 영역-->
+</div>
+<!--//. sns로그인 후 댓글창 -->
+<div class="warpVisualnews">
+<div class="titel">포토·영상</div>
+<div class="visualnews">
+<ul>
+<li>
+<a href="/media/photo_list?&amp;sq=11250" title="영장실질심사 마치고 나오는 최신원 SK네트웍스 회장">
+<strong>영장실질심사 마치고 나오는 최신원 SK네트웍스 회장</strong>
+<span class="icon_photo"></span>
+<!--//. 영상 아이콘 -->
+<div class="tmblimg bbg02">
+<img alt="영장실질심사 마치고 나오는 최신원 SK네트웍스 회장" src="http://nimage.newsway.kr/photo/2021/02/17/20210217000085_0240.jpg"/>
+</div>
+</a>
+</li>
+<li>
+<a href="/media/photo_list?&amp;sq=11249" title="영장실질심사 출석하는 최신원 SK네트웍스 회장">
+<strong>영장실질심사 출석하는 최신원 SK네트웍스 회장</strong>
+<span class="icon_photo"></span>
+<!--//. 영상 아이콘 -->
+<div class="tmblimg bbg02">
+<img alt="영장실질심사 출석하는 최신원 SK네트웍스 회장" src="http://nimage.newsway.kr/photo/2021/02/17/20210217000049_0240.jpg"/>
+</div>
+</a>
+</li>
+<li>
+<a href="/media/photo_list?&amp;sq=11248" title="국회 정무위원회 전체회의">
+<strong>국회 정무위원회 전체회의</strong>
+<span class="icon_photo"></span>
+<!--//. 영상 아이콘 -->
+<div class="tmblimg bbg02">
+<img alt="국회 정무위원회 전체회의" src="http://nimage.newsway.kr/photo/2021/02/16/20210216000135_0240.jpg"/>
+</div>
+</a>
+</li>
+<li>
+<a href="/media/photo_list?&amp;sq=11247" title="국회, 기획재정위원회 전체회의">
+<strong>국회, 기획재정위원회 전체회의</strong>
+<span class="icon_photo"></span>
+<!--//. 영상 아이콘 -->
+<div class="tmblimg bbg02">
+<img alt="국회, 기획재정위원회 전체회의" src="http://nimage.newsway.kr/photo/2021/02/16/20210216000125_0240.jpg"/>
+</div>
+</a>
+</li>
+<li>
+<a href="/media/photo_list?&amp;sq=11246" title="비트코인, 사상 최고가 기록">
+<strong>비트코인, 사상 최고가 기록</strong>
+<span class="icon_photo"></span>
+<!--//. 영상 아이콘 -->
+<div class="tmblimg bbg02">
+<img alt="비트코인, 사상 최고가 기록" src="http://nimage.newsway.kr/photo/2021/02/16/20210216000104_0240.jpg"/>
+</div>
+</a>
+</li>
+<li>
+<a href="/media/photo_list?&amp;sq=11245" title="돌봄교실 찾은 우상호 더불어민주당 서울시장 예비후보">
+<strong>돌봄교실 찾은 우상호 더불어민주당 서울시장 예비후보</strong>
+<span class="icon_photo"></span>
+<!--//. 영상 아이콘 -->
+<div class="tmblimg bbg02">
+<img alt="돌봄교실 찾은 우상호 더불어민주당 서울시장 예비후보" src="http://nimage.newsway.kr/photo/2021/02/16/20210216000090_0240.jpg"/>
+</div>
+</a>
+</li>
+<li>
+<a href="/media/photo_list?&amp;sq=11244" title="공정거래위원회-더불어민주당 당정협의">
+<strong>공정거래위원회-더불어민주당 당정협의</strong>
+<span class="icon_photo"></span>
+<!--//. 영상 아이콘 -->
+<div class="tmblimg bbg02">
+<img alt="공정거래위원회-더불어민주당 당정협의" src="http://nimage.newsway.kr/photo/2021/02/16/20210216000041_0240.jpg"/>
+</div>
+</a>
+</li>
+<li>
+<a href="/media/photo_list?&amp;sq=11243" title="코로나19 백신 접종 모의훈련">
+<strong>코로나19 백신 접종 모의훈련</strong>
+<span class="icon_photo"></span>
+<!--//. 영상 아이콘 -->
+<div class="tmblimg bbg02">
+<img alt="코로나19 백신 접종 모의훈련" src="http://nimage.newsway.kr/photo/2021/02/09/20210209000140_0240.jpg"/>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<!--//.visualnews 포토.영상 리스트 -->
+</div>
+<!--//.warpVisualnews 포토.영상 -->
+</div>
+<!--//. rl_pw 기사 오른쪽 영역 -->
+</div>
+<!--//.warpSection0b2 기사내용 -->
+</div>
+<!-- 추가(right)영역 -->
+<div class="rightList">
+<!-- 20180706 티제이튠 광고 -->
+<div class="bannerad_03">
+<script charset="euc-kr" src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=09LP&amp;out=script"></script>
+</div>
+<!-- //20180706 티제이튠 광고 -->
+<div class="warpCardnews01">
+<div class="cardnewsTitle">
+<h5><a href="/card_news/lists?cate_cd=02.07.01" title="카드뉴스">카드뉴스</a></h5>
+<!-- Add Pagination -->
+<div class="swiper-pagination" style="top:20px;"></div>
+<!-- Add Arrows 현 위치 숫자 롤링 -->
+</div>
+<!--//.cardnewsTitle 타이틀영역 -->
+<div class="cDbox" id="jssor_1" style="position:relative;margin:0 auto;top:15px;left:0px;width:280px;height:260px;overflow:hidden;visibility:hidden;">
+<!-- Loading Screen -->
+<div class="jssorl-009-spin" data-u="loading" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;">
+<img src="img/spin.svg" style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;">
+</img></div>
+<div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:280px;height:260px;overflow:hidden;">
+<div>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021809012914304"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/18/20210218000016_0480.png"/></a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021809012914304">배달음식 주문 150% 급증…결국 5.8kg씩 쪘다</a></dd>
+</dl>
+</div>
+<div>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021709253001416"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/17/20210217000033_0480.png"/></a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021709253001416">‘평균 4.1억’ 40대의 자산 관리…<br/>뭘 얼마나 갖고 있을까?</a></dd>
+</dl>
+</div>
+<div>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021608591619704"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/16/20210216000020_0480.png"/></a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021608591619704">‘코로나 덕?’ 수입량 1,100배 증가한<br/>이 식품</a></dd>
+</dl>
+</div>
+<div>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021508524154825"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/15/20210215000016_0480.png"/></a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021508524154825">초중교 입학생 부모가 반드시 챙겨야 할<br/>‘이것’</a></dd>
+</dl>
+</div>
+<div>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021013441705976"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/10/20210210000102_0480.png"/></a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021013441705976">‘편견은 금물’ 못생겼지만 나쁘지 않았어요</a></dd>
+</dl>
+</div>
+</div>
+<!-- Bullet Navigator -->
+<!-- Arrow Navigator -->
+<div class="jssora051" data-autocenter="2" data-scale="0.75" data-scale-left="0.75" data-u="arrowleft" style="width:30px;height:30px;top:10px;left:10px;">
+<img alt="좌측롤링" src="http://nimage.newsway.kr/ne_w/images/btn_left.png" style="position:absolute; top:-42px;"/>
+</div>
+<!--//.jssora051 좌측 버튼 -->
+<div class="jssora051" data-autocenter="2" data-scale="0.75" data-scale-right="0.75" data-u="arrowright" style="width:30px;height:30px;top:10px;right:10px;">
+<img alt="우측 롤링" src="http://nimage.newsway.kr/ne_w/images/btn_right.png" style="position:absolute; top:-35px;"/>
+</div>
+<!--//.jssora051 우측 버튼 -->
+</div>
+<!--//.cDbox 카드뉴스 롤링 전체영역 -->
+<script>Common.jssorSliderInit("jssor_1");</script>
+<!-- #endregion Jssor Slider End -->
+</div>
+<!--//.warpCardnews 카드뉴스 -->
+<!-- 20190711 배철현의 테마 에세이 배너추가 -->
+<div class="opinionBanner" style="padding: 15px 0px 0px 25px;">
+<a href="/news/view?tp=1&amp;ud=2021021510332064507"><img alt="배철현의 테마 에세이" src="http://nimage.newsway.kr/ne_w/images/opinionBanner_190729.jpg"/></a>
+</div>
+<!--//.opinionBanner -->
+<!-- //20190711 배철현의 테마 에세이 배너추가 -->
+<!-- 20170116 티제이튠 광고-->
+<div class="bannerad_03">
+<script src="http://ad.tjtune.com/cgi-bin/PelicanC.dll?impr?pageid=048t&amp;out=script"></script>
+</div>
+<!-- //20170116 티제이튠 광고-->
+<div class="warpPlanning">
+<div class="planningTitle">
+<h5><a href="/plan/total" title="기획&amp;탐사">기획&amp;탐사</a></h5>
+</div>
+<!--//.planningTitle 타이틀영역 -->
+<div class="planning" id="jssor_3" style="position:relative;margin:0 auto;top:15px;left:0px;width:280px;height:140px;visibility:hidden;">
+<div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:280px;height:140px;overflow:hidden;">
+<div class="flat01">
+<ul>
+<li class="matitle2"><a href="/plan/lists?ud=12013">에너지 공기업이 뛴다</a></li>
+<li class="sutitle slideUpOne" data-idx="0">
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021021616334523410">동서발전</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021021616334523410">‘동서발전형 뉴딜’로 한국판 뉴딜 이끈다</a></span>
+</div>
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021021515543544595">중부발전</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021021515543544595">신재생 발전사업 ‘글로벌 영토확장’</a></span>
+</div>
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021020917374854489">서부발전</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021020917374854489">신재생에 통 큰 투자…‘서부발전형 뉴딜’ 가속</a></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="flat02">
+<ul>
+<li class="matitle2"><a href="/plan/lists?ud=12012">ESGD금융시대</a></li>
+<li class="sutitle slideUpOne" data-idx="1">
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021011314203348385">D</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021011314203348385">‘플랫폼 금융’ 시대…‘만능 뱅킹 앱’ 그림자도 돌봐야</a></span>
+</div>
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021011314190865538">G</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021011314190865538">투명한 지배구조…사외이사 역할을 더 키워야</a></span>
+</div>
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021011413462054023">S</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021011413462054023">진화하는 포용적 금융…‘사회적 품질’을 생각하다</a></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="flat03">
+<ul>
+<li class="matitle2"><a href="/plan/lists?ud=12010">10대 그룹을 움직이는 100인</a></li>
+<li class="sutitle slideUpOne" data-idx="2">
+<div class="slideUpOne">
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021012913163033662">‘첫 내부 출신 CEO’ 황현식 LG유플러스 대표</a></span>
+</div>
+<div class="slideUpOne">
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021012913153038878">실적 개선 특명받은 황영근 롯데하이마트 대표</a></span>
+</div>
+<div class="slideUpOne">
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021012913142527559">‘R&amp;D; 전문가’ 황성우 삼성SDS 대표</a></span>
+</div>
+</li>
+</ul>
+</div>
+<div class="flat04">
+<ul>
+<li class="matitle2"><a href="/plan/lists?ud=12008">재계 ESG경영</a></li>
+<li class="sutitle slideUpOne" data-idx="3">
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021011311295449271">KT</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021011311295449271">구현모, ICT로 친환경 경영…지배구조도 ‘으뜸’</a></span>
+</div>
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021011215233730089">LG</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021011215233730089">선대부터 펼쳐온 고객 최우선 경영에 녹아든 ESG</a></span>
+</div>
+<div class="slideUpOne">
+<span class="line"><a class="art_name" href="/news/view?tp=1&amp;ud=2021010814543302398">한화</a></span>
+<span class="line"><a href="/news/view?tp=1&amp;ud=2021010814543302398">김승연 회장과 세 아들, ‘친환경’에 방점 찍다</a></span>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<!-- Bullet Navigator -->
+<div class="jssorb051" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75" data-u="navigator" style="position:absolute;bottom:-5px;right:95px;">
+<div class="i" data-u="prototype" style="width:16px;height:16px;">
+<svg style="position:absolute;top:0;left:0;width:100%;height:100%;" viewbox="0 0 16000 16000">
+<circle class="b" cx="8000" cy="8000" r="5800"></circle>
+</svg>
+</div>
+</div>
+<!-- Arrow Navigator -->
+</div>
+<!--//.cDbox 기획&탐사 롤링 전체영역 -->
+<script>Common.jssorSliderInit("jssor_3");</script>
+<!-- #endregion Jssor Slider End -->
+</div>
+<!--//.warpPlanning 기획탐사 -->
+<!-- 20190219 한국가스공사 -->
+<div class="bannerad_03">
+<a href="#">
+<img alt="한국가스공사" src="http://nimage.newsway.kr/ne_w/banner/banner_20190219.jpg"/>
+</a>
+</div>
+<!-- //20190219 한국가스공사 -->
+<div class="bannerad_03">
+<!-- Dable 상세우측 위젯 시작/ 문의 support@dable.io -->
+<div data-widget_id="2XneQRld" id="dablewidget_2XneQRld" style="height: auto; padding:5px; overflow: visible;">
+<script>
+            (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+            dable('renderWidget', 'dablewidget_2XneQRld');
+            </script>
+</div>
+<!-- Dable 상세우측 위젯 종료/ 문의 support@dable.io -->
+</div>
+<!--//.dablcon 데이블 당신이 좋아할 만한 콘텐츠 -->
+<!-- 20210106 한국투자증권 -->
+<div class="bannerad_03"><a href="http://www.truefriend.com" target="_blank"><img alt="한국투자증권" src="http://nimage.newsway.kr/ne_w/banner/banner_20210106.gif"/></a></div>
+<!-- 20210106 한국투자증권 -->
+<!-- LH한국토지주택공사 -->
+<div class="bannerad_03">
+<a href="http://www.lh.or.kr/" target="_blank"><img alt="집 걱정 없눈 세상을 만드는 LH 한국토지주택공사" src="http://nimage.newsway.kr/banner/banner_20170529_02.jpg"/></a>
+</div>
+<!-- //LH한국토지주택공사 -->
+<div class="asideNewsbox">
+<div class="asideNewsTitle">
+<h5>주요뉴스</h5>
+</div>
+<!--//.asideNewsTitle -->
+<div class="asideNews">
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021818432965868"> ‘취임 1주년’ 윤종원 행장, ‘코로나 지원·디지털 전환·내부 통제’ 강조</a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021818432965868"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/18/20210218000138_0640.jpg"/></a></dd>
+</dl>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021817543695457"> 윤종원 “노조추천이사제, 법 개정 필요…현행법 절차 따를 것”</a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021817543695457"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/18/20210218000138_0640.jpg"/></a></dd>
+</dl>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021818000758968"> 윤종원 “디스커버리 펀드, 분조위 절차 통해 손실보상…내부통제 강화할 것”</a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021818000758968"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/18/20210218000134_0640.jpg"/></a></dd>
+</dl>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021817342977924"> 건설사 올해 수주 목표 보수적으로 잡은 이유</a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021817342977924"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/10/20210210000105_0640.jpg"/></a></dd>
+</dl>
+<dl>
+<dt><a href="/news/view?tp=1&amp;ud=2021021815303776576"> 배달특수에 실적 치솟은 치킨집…서로 다른 전략으로 승부</a></dt>
+<dd><a href="/news/view?tp=1&amp;ud=2021021815303776576"><img alt="" src="http://nimage.newsway.kr/photo/2021/02/18/20210218000097_0640.png"/></a></dd>
+</dl>
+</div>
+<!--//.asideNews 주요뉴스 리스트 -->
+</div>
+<!--//.asideNewsbox 주요뉴스 -->
+<div style="text-align: center;">
+<script src="http://compass.adop.cc/assets/js/adop/adop.js?v=14"></script>
+<ins _adop_type="js" _adop_zon="cc3dfe0b-cfcc-45b1-a123-837f6823549c" _page_url="" class="adsbyadop" style="display:inline-block;width:250px;height:250px;"></ins>
+</div>
+<div class="warpVideo">
+<div class="videoTitle">
+<h5><a href="/media/video_list" title="뉴스웨이TV">뉴스웨이TV</a></h5>
+<a class="tit" href="https://www.youtube.com/channel/UCoFVLuTZ0FBrB54L4fU4uKQ" target="_blank"><img alt="뉴스웨이 구독하기" src="http://nimage.newsway.kr/ne_w/images/sub/tit_right_youtube.gif"/></a>
+</div>
+<dl>
+<dt>
+<a href="/news/view?tp=1&amp;ud=2021021715475743023">
+<span class="pal"></span>
+<span class="bbg"></span>
+<img alt="" src="http://nimage.newsway.kr/photo/2021/02/17/20210217000106_0480.jpg"/>
+</a>
+</dt>
+<dd class="desiGnation">
+<a href="/news/view?tp=1&amp;ud=2021021715475743023">
+<span>뉴스웨이TV</span>
+<p>‘폭발한’ 윤호중…김명수 출석에 양보없는 ‘여야’</p>
+</a>
+</dd>
+</dl>
+</div>
+<!--//.warpVideo 뉴스웨이TV -->
+<div class="bannerad_03"><iframe frameborder="0" height="250" id="a454da79" name="a454da79" scrolling="no" src="http://ads-optima.com/www/delivery/afr.php?zoneid=887&amp;cb=2015060301" width="250"><a href="http://ads-optima.com/www/delivery/ck.php?n=a3d3aa39&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img alt="" border="0" src="http://ads-optima.com/www/delivery/avw.php?zoneid=887&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a3d3aa39"/></a></iframe></div>
+</div>
+<!-- 추가(right)영역 -->
+<input id="checkVal" type="hidden" value="r4"/>
+</div>
+<div class="serviceMap">
+<div class="warpService">
+<div class="service">
+<ul class="sermap">
+<li><a href="/company/company01">회사소개</a></li>
+<li class="ser01"><a href="/company/guide01">개인정보처리방침</a></li>
+<li><a href="/company/guide04">이메일무단수집거부</a></li>
+<li><a href="/company/guide05">청소년보호정책</a></li>
+<li><a href="/company/ethics01">윤리강령</a></li>
+<li><a href="/company/grievance">고충처리</a></li>
+<li><a href="/company/careers01">인재채용</a></li>
+<!-- <li><a href="/company/adpartnership01">제휴안내</a></li>
+                <li><a href="/company/guide02">저작권규약</a></li> -->
+</ul>
+<ul class="bootom_icon">
+<li class="fotmenu" id="section1">전체 서비스보기<i></i></li>
+<li><a href="https://www.facebook.com/newswayon/" target="_blank"><img alt="페이스북" src="http://nimage.newsway.kr/ne_w/images/icon_top_facebook.png"/></a></li>
+<li><a href="https://post.naver.com/ewaynews" target="_blank"><img alt="네이버" src="http://nimage.newsway.kr/ne_w/images/icon_top_naver.png" title="네이버"/></a></li>
+<li><a href="https://www.youtube.com/channel/UCoFVLuTZ0FBrB54L4fU4uKQ" target="_blank"><img alt="유튜브" src="http://nimage.newsway.kr/ne_w/images/icon_top_youtube.png"/></a></li>
+</ul>
+</div>
+<!--//.service -->
+</div>
+<!--//.warpService 서비스메뉴-->
+</div>
+<!--//.serviceMap -->
+<div class="footsiteMap" id="section1b">
+<div class="footst">
+<dl>
+<dt> <a href="/news/section?cate_cd=02.01.00">기업</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.01.01">산업</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.01.02">마켓</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.01.03">부동산</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.01.04">공기업</a>
+</dd> </dl>
+<dl>
+<dt> <a href="/news/section?cate_cd=02.02.00">사람</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.02.01">오너</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.02.02">CEO</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.02.03">뱅커</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.02.04">관료</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.02.05">Stock人</a>
+</dd> </dl>
+<dl>
+<dt> <a href="/news/section?cate_cd=02.03.00">머니</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.03.01">IB</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.03.02">Stock</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.03.03">블록체인</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.03.04">재테크</a>
+</dd> </dl>
+<dl>
+<dt> <a href="/news/section?cate_cd=02.10.00">지배구조</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.10.01">대기업</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.10.02">중견기업</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.10.03">코스닥기업</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.10.04">거버넌스</a>
+</dd> </dl>
+<dl>
+<dt> <a href="/news/section?cate_cd=02.04.00">정책</a>
+</dt> <dd> <a href="/news/section?cate_cd=02.04.01">청와대</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.04.02">국회</a>
+</dd> <dd> <a href="/news/section?cate_cd=02.04.03">세종</a>
+</dd> </dl>
+<ul>
+<li><a href="/plan/total">기획&amp;탐사</a></li>
+<li><a href="/media/video_list">뉴스웨이TV</a></li>
+<li><a href="/media/photo_list">포토뉴스</a></li>
+<li><a href="/news/tong">뉴스通</a></li>
+<li><a href="/opinion/total">오피니언</a></li>
+</ul>
+<dl>
+<dt> <a href="/card_news/total">카드뉴스<span class="mnsup">+</span></a>
+</dt> <dd> <a href="/card_news/lists?cate_cd=02.07.01">카드뉴스</a>
+</dd> <dd> <a href="/card_news/lists?cate_cd=02.07.02">5픽뉴스</a>
+</dd> <dd> <a href="/card_news/lists?cate_cd=02.07.04">스토리뉴스 #더</a>
+</dd> <dd> <a href="/card_news/lists?cate_cd=02.07.03">창업자로부터 온 편지</a>
+</dd> </dl>
+<p>
+<a href="/news/lists">전체뉴스</a>
+<a href="/news/local">로컬뉴스</a>
+</p>
+</div>
+<!--//.footst -->
+</div>
+<!--//.footsiteMap 사이트 맵 -->
+<div class="warpFooter">
+<p><img alt="온라인 경제미디어 뉴스웨이" src="http://nimage.newsway.kr/ne_w/images/footerlogo.png"/></p>
+<address>
+<span>(주)뉴스웨이 |  서울시 용산구 한강대로 308(갈월동) 한국정보통신공사협회회관 7층 |</span>
+<span>등록번호 : 서울, 아00528 |</span>
+<span>등록일자 : 2008.03.10</span><br/>
+<span>발행일자 : 2008.03.10 |</span>
+<span>제호 : 뉴스웨이</span>
+<span>발행인 : 김종현 |</span>
+<span>편집인 : 강 혁 |</span>
+<span>청소년보호책임자 : 안 민</span><br/>
+<span>Tel : 02. 799. 9700 |</span>
+<span>Fax : 02. 799. 9724 |</span>
+<span>mail to webmaster@newsway.co.kr</span><br/>
+<strong>
+    뉴스웨이의 모든 콘텐츠는 저작권법의 보호를 받는 바, 무단 전재·복사·배포 등은 법적 제재를 받을 수 있습니다.<br/>
+<i style="font-size:11px;">Copyright © <b>Newsway.</b> All Rights Reserved.</i>
+</strong>
+</address>
+</div>
+<!--//.warpFooter -->
+<!--//.warpBg -->
+<div style="position:fixed; bottom:30px; right:30px; z-index:999;">
+<a href="#warp">
+<img alt="위로 가기" src="http://nimage.newsway.kr/ne_w/images/top.gif"/>
+</a>
+</div>
+<!--//위로가기top버튼 -->
+</div>
+</div>
+<!-- 구글웹로그 -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-46524644-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- 구글웹로그 -->
+</body>

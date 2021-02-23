@@ -1,0 +1,1258 @@
+현대차그룹-한화큐셀, 전기차 재사용 배터리 기반 태양광 ESS 개발 MOU 체결
+<body oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
+<!--[if lt IE 10]>
+<div id="ie9-guide">
+	<div class="ie9-wrapper border-box">
+		<p class="guide-txt">
+		잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다. 최신 브라우저(Browser) 사용을 권장드립니다!
+		</p>
+
+		<div class="guide-right">
+			<dl class="ie9-down nobr">
+				<dt><i class="icon ie-logo">ie</i></dt>
+				<dd>
+					<span>인터넷 익스플로러 11</span>
+					<a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon cr-logo">chrome</i></dt>
+				<dd>
+					<span>구글 크롬</span>
+					<a href="http://www.google.com/chrome/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+
+			<dl class="ie9-down">
+				<dt><i class="icon ff-logo">firefox</i></dt>
+				<dd>
+					<span>모질라 파이어폭스</span>
+					<a href="http://www.mozilla.or.kr/" target="_blank">다운로드</a>
+				</dd>
+			</dl>
+		</div>
+	</div>
+</div>
+<![endif]-->
+<div class="off-canvas-wrapper">
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+<div class="off-canvas user-canvas position-left custom-nav" data-off-canvas="" id="offCanvas">
+<!-- close //-->
+<button aria-label="Close menu" class="close-button user-point" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// close -->
+<div class="canvas-logo"><img alt="뉴스락" src="/image/canvas-logo.png"/></div>
+<style type="text/css">
+.user-canvas.custom-nav .user-canvas-navs .menu li > a::after, .user-canvas.custom-nav .user-canvas-navs .menu li > a:hover::after {border-top-color:#f58229 !important}
+.user-canvas.custom-nav .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a::after {border-top-color:#f58229 !important}
+.user-canvas.custom-nav .user-canvas-navs .menu li.is-accordion-submenu-parent[aria-expanded="true"] > a, .user-canvas .user-canvas-navs .menu li > a:hover {color:#f58229}
+.user-canvas.custom-nav .user-canvas-navs .menu li > ul > li > a:hover {color:#f58229}
+</style>
+<nav class="user-canvas-navs">
+<!-- 1차 //-->
+<ul class="vertical menu" data-accordion-menu="" data-multi-open="false">
+<li class="group-list "><a class="list-tit " href="#" target="_top">SPECIAL REPORT</a>
+<ul class="sub-list width-1080">
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N5&amp;view_type=tm" target="_top">특별 심층기획</a></li>
+</ul>
+</li>
+<li class="group-list "><a class="list-tit " href="#" target="_top">EXCLUSIVE</a>
+<ul class="sub-list width-1080">
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N52&amp;view_type=tm" target="_top">단독</a></li>
+</ul>
+</li>
+<li class="group-list "><a class="list-tit " href="#" target="_top">FACT OPEN</a>
+<ul class="sub-list width-1080">
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N42&amp;view_type=tm" target="_top">팩트오픈</a></li>
+</ul>
+</li>
+<li class="group-list "><a class="list-tit " href="#" target="_top">ECONOMY</a>
+<ul class="sub-list width-1080">
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N7&amp;view_type=tm" target="_top">경제 일반</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N9&amp;view_type=tm" target="_top">금융 ׀ 증권 ׀ 보험 ׀ 카드</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N45&amp;view_type=tm" target="_top">부동산 동향</a></li>
+</ul>
+</li>
+<li class="group-list "><a class="list-tit " href="#" target="_top">INDUSTRY</a>
+<ul class="sub-list width-1080">
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N8&amp;view_type=tm" target="_top">산업 ׀ 공기업 ׀ 재계</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N18&amp;view_type=tm" target="_top">자동차 ׀ IT전자정보통신</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N11&amp;view_type=tm" target="_top">유통 ׀ 중기</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N10&amp;view_type=tm" target="_top">건설 ׀ 플랜트</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N28&amp;view_type=tm" target="_top">보건 ׀ 제약 ׀ 환경</a></li>
+</ul>
+</li>
+<li class="group-list li_remove"><a class="list-tit a_remove" href="/news/articleList.html?sc_multi_code=S1&amp;view_type=tm" target="_top">SERIES CORNER</a>
+<ul class="sub-list width-1080">
+</ul>
+</li>
+<li class="group-list "><a class="list-tit " href="/news/articleList.html?sc_section_code=S1N7&amp;view_type=tm" target="_top">OPINION</a>
+<ul class="sub-list width-1080">
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N43&amp;view_type=tm" target="_top">뉴스락이 만난 사람들</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N36&amp;view_type=tm" target="_top">오늘 이 사람</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N55&amp;view_type=tm" target="_top">발행인 칼럼</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N3&amp;view_type=tm" target="_top">기자수첩</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N2&amp;view_type=tm" target="_top">전문가 칼럼</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N33&amp;view_type=tm" target="_top">기고</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N34&amp;view_type=tm" target="_top">인사</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleList.html?sc_sub_section_code=S2N35&amp;view_type=tm" target="_top">부고</a></li>
+</ul>
+</li>
+<li class="group-list li_remove"><a class="list-tit a_remove" href="/news/articleList.html?sc_serial_code=SRN19&amp;view_type=tm" target="_top">함께가자 우리 이길을</a>
+<ul class="sub-list width-1080">
+</ul>
+</li>
+<li class="group-list li_remove"><a class="list-tit a_remove" href="/news/articleList.html?sc_sub_section_code=S2N38&amp;view_type=tm" target="_top">보도자료 AD</a>
+<ul class="sub-list width-1080">
+</ul>
+</li>
+</ul>
+</nav>
+<script type="text/javascript">
+$(document).ready(function (){
+	$(".li_remove").removeClass("is-accordion-submenu-parent");
+	$(".a_remove").on("click", function(){
+		location.href = $(this).attr("href");
+	});
+});
+</script>
+<div class="canvas-banner">
+<a href="http://www.inc.or.kr" target="_blank"><img border="0" height="40" src="/image/canvas-banner.png" width="160"/></a>
+<a href="https://copyrightok.kr/" target="_blank"><img border="0" src="/bannerpop/uploads/image/16105901001359698540.png" style="margin-top:10px" width="130"/></a>
+<!--<a href="https://copyrightok.kr/" target="_blank"><img src="/bannerpop/uploads/image/1561537625190210912.png" width="130" height="130" border="0" style="margin-top:10px"></a>-->
+</div>
+</div>
+<div class="off-canvas-content" data-off-canvas-content="">
+<!-- wrap //-->
+<div class="min-width-1080" id="user-wrap">
+<!-- header //-->
+<header class="posi-re float-center" id="user-header">
+<!-- 상단 HTML //-->
+<div class="clearfix text-center">
+</div>
+<!--// 상단 HTML -->
+<!-- 메뉴 //-->
+<script type="text/javascript">
+<!--
+//메뉴 스타일 불러옴 : 메뉴 /script/menubar.js 와 같이 사용되어야 함
+//submenuStyle	: 서브메뉴 펼침 스타일 (horizon : 가로로, vertical : 세로 슬라이딩)
+var exceptIdx = new Array(); //제외할 메뉴 인덱스번호 (0부터 시작:type integer)
+var submenuStyle="vertical";
+//-->
+</script>
+<style type="text/css">
+#nav-header {background-color:#f58229}
+#user-nav .mega-menu li.megaline > a.a-hover {color:#f58229}
+#user-nav .mega-menu li.megaline .sub-menu-vertical {border-color:#f58229;border-top-color:transparent}
+#nav-header .user-search .user-search-form button {background-color:#f58229}
+</style>
+<!-- 메뉴 시작 //-->
+<div id="header-wrapper">
+<!-- 로고영역 //-->
+<header id="nav-header">
+<div id="user-top">
+<div class="float-center width-1080">
+<!-- 시작/즐겨찾기 -->
+<ul class="user-mark">
+<li><a href="#" id="favorite" title="즐겨찾기"><i aria-hidden="true" class="fa fa-home"></i> 시작페이지로</a></li>
+<li><a href="javascript:bookmark()"><i aria-hidden="true" class="fa fa-star"></i> 즐겨찾기추가</a></li>
+</ul>
+</div>
+</div>
+<div class="float-center width-1080" id="nav-header-wrapper">
+<div class="dis-table">
+<div class="dis-table-cell user-banner">
+<!-- -->
+<link href="/css/weather.style.css" rel="stylesheet"/>
+<div class="clearfix">
+<div class="weather-widget medium rolling">
+<label>2021.02.18(목)</label>
+<ul>
+<li>
+<dl>
+<dd><strong>서울</strong> -4℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>경기</strong> -4℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>인천</strong> -3℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>광주</strong> -1℃</dd>
+<dd class="good"><u>미세먼지</u> 좋음</dd>
+<dt><i class="meto user-point">H</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>대전</strong> -3℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>대구</strong> -2℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>울산</strong> -1℃</dd>
+<dd class="good"><u>미세먼지</u> 좋음</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>부산</strong> -1℃</dd>
+<dd class="good"><u>미세먼지</u> 좋음</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>강원</strong> -3℃</dd>
+<dd class="good"><u>미세먼지</u> 좋음</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>충북</strong> -4℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>충남</strong> -2℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>전북</strong> -2℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">H</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>전남</strong> -1℃</dd>
+<dd class="good"><u>미세먼지</u> 좋음</dd>
+<dt><i class="meto user-point">H</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>경북</strong> -2℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>경남</strong> -1℃</dd>
+<dd class="good"><u>미세먼지</u> 좋음</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>제주</strong> 2℃</dd>
+<dd class="good"><u>미세먼지</u> 좋음</dd>
+<dt><i class="meto user-point">H</i></dt>
+</dl>
+</li>
+<li>
+<dl>
+<dd><strong>세종</strong> -2℃</dd>
+<dd class="common"><u>미세먼지</u> 보통</dd>
+<dt><i class="meto user-point">B</i></dt>
+</dl>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+$('.weather-widget.medium.rolling ul').slick({
+	arrows: false,
+	dots: false,
+	fade: true,
+	infinite: true,
+	speed: 300,
+	autoplay: true,
+	swipe: false,
+	autoplaySpeed: 4000
+});
+</script> </div>
+<div class="dis-table-cell user-logo"><a href="http://www.newslock.co.kr" target="_top"><img alt="뉴스락" src="/image/logo/watermark_20190607053255.png"/></a></div>
+<div class="dis-table-cell user-banner">
+<!-- 검색 //-->
+<div class="user-search">
+<button class="user-search-btn" type="button"><i class="s7-search"></i><span class="show-for-sr">검색버튼</span></button>
+<fieldset class="user-search-form">
+<form action="/news/articleList.html" method="post" name="head-search">
+<input name="sc_area" type="hidden" value="A"/>
+<input name="view_type" type="hidden" value="sm"/>
+<label class="show-for-sr" for="search">기사검색</label>
+<input id="search" name="sc_word" onkeydown="if(event.keyCode==13){if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');return false;}}" placeholder="검색어를 입력하세요" title="기사검색" type="text"/>
+<button onclick="if(this.form.sc_word.value != ''){this.form.submit();}else{alert('검색어를 입력해주세요');this.form.sc_word.focus();return false;}" title="기사검색" type="button"><span>검색</span></button>
+</form>
+</fieldset>
+</div>
+<!--// 검색 -->
+<!-- sns //-->
+<ul class="sns-group">
+<li><a href="https://www.facebook.com/newslock.co.kr" target="_blank"><i class="icon-facebook"></i></a></li>
+<li><a href="https://twitter.com/newslock7" target="_blank"><i class="icon-twitter"></i></a></li>
+<li><a href="https://m.post.naver.com/faustutopia" target="_blank"><i class="icon-post"></i></a></li>
+<li><a href="https://story.kakao.com/newslock" target="_blank"><i class="icon-story"></i></a></li>
+<li><a href="http://newslock.me/" target="_blank"><i class="icon-blog"></i></a></li>
+</ul>
+<!--// sns -->
+<!-- 최종편집 -->
+<div class="user-intro">UPDATED. 2021-02-18 18:28 (목) </div>
+</div>
+</div>
+</div>
+<!-- 메뉴바 //-->
+<nav id="user-nav">
+<div class="float-center width-1080" id="user-nav-wrapper">
+<!-- 전체 -->
+<button class="all-section user-point" data-toggle="offCanvas" type="button"><i class="fa fa-bars fa-fw"></i></button>
+<!-- 섹션 //-->
+<!--<ul id="mega-menu" class="mega-menu">
+											<li class="megaline"><a href="#" target="_top">SPECIAL REPORT</a>
+							<ul class="sub-menu-vertical">
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N5&view_type=tm" target="_top">특별 심층기획</a></li>
+															</ul>
+						</li>
+											<li class="megaline"><a href="#" target="_top">EXCLUSIVE</a>
+							<ul class="sub-menu-vertical">
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N52&view_type=tm" target="_top">단독</a></li>
+															</ul>
+						</li>
+											<li class="megaline"><a href="#" target="_top">FACT OPEN</a>
+							<ul class="sub-menu-vertical">
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N42&view_type=tm" target="_top">팩트오픈</a></li>
+															</ul>
+						</li>
+											<li class="megaline"><a href="#" target="_top">ECONOMY</a>
+							<ul class="sub-menu-vertical">
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N7&view_type=tm" target="_top">경제 일반</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N9&view_type=tm" target="_top">금융 ׀ 증권 ׀ 보험 ׀ 카드</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N45&view_type=tm" target="_top">부동산 동향</a></li>
+															</ul>
+						</li>
+											<li class="megaline"><a href="#" target="_top">INDUSTRY</a>
+							<ul class="sub-menu-vertical">
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N8&view_type=tm" target="_top">산업 ׀ 공기업 ׀ 재계</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N18&view_type=tm" target="_top">자동차 ׀ IT전자정보통신</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N11&view_type=tm" target="_top">유통 ׀ 중기</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N10&view_type=tm" target="_top">건설 ׀ 플랜트</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N28&view_type=tm" target="_top">보건 ׀ 제약 ׀ 환경</a></li>
+															</ul>
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_multi_code=S1&view_type=tm" target="_top">SERIES CORNER</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_section_code=S1N7&view_type=tm" target="_top">OPINION</a>
+							<ul class="sub-menu-vertical">
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N43&view_type=tm" target="_top">뉴스락이 만난 사람들</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N36&view_type=tm" target="_top">오늘 이 사람</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N55&view_type=tm" target="_top">발행인 칼럼</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N3&view_type=tm" target="_top">기자수첩</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N2&view_type=tm" target="_top">전문가 칼럼</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N33&view_type=tm" target="_top">기고</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N34&view_type=tm" target="_top">인사</a></li>
+																	<li class="sub"><a href="/news/articleList.html?sc_sub_section_code=S2N35&view_type=tm" target="_top">부고</a></li>
+															</ul>
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_serial_code=SRN19&view_type=tm" target="_top">함께가자 우리 이길을</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+											<li class="megaline"><a href="/news/articleList.html?sc_sub_section_code=S2N38&view_type=tm" target="_top">보도자료 AD</a>
+							<ul class="sub-menu-vertical">
+															</ul>
+						</li>
+									</ul>-->
+<!--// 섹션 -->
+<div class="top-article">
+<div class="auto-article auto-mr03">
+<div class="auto-container" id="roll_9"><div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36509" target="_top">카카오모빌리티, 칼라일그룹 2억 달러 투자 유치...'스마트 모빌리티' 실현 앞당긴다</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36508" target="_top">한화생명, 지난해 당기순이익 1969억원...전년比 71.8%↑</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36505" target="_top">포스코건설, ESG경영 우수협력사 육성 위한 ESG평가모델 개발 추진</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36504" target="_top">SK건설, 건설사 최초 ‘녹색채권’ 경쟁률 8대 1 기록...공모 흥행</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36503" target="_top">국회도서관, 개관 69주년 기념행사 진행</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36502" target="_top">이마트, 작년 매출액 22조 330억 최대 실적 달성..."올해 5600억 투자"</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36501" target="_top">'잇단 인재' 동국제강...김연극 사장 “모든 질책 받들겠다”</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36500" target="_top">국회 남북국회회담 추진 자문위원회, 오는 22일‧24일 첫 분과회의 개최</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36497" target="_top">우리카드, 4분기 민원건수 가장 적어..."AI로 관리한다"</a></div>
+<div class="dis-none text-left clearfix" id="list_9"><a class="size-14 line-height-3-x auto-fontB onload" href="/news/articleView.html?idxno=36490" target="_top">'애플카 정보 이용'한 현대차 임원들, 무더기 부당이득 의혹...금융위 심리 착수 예고</a></div>
+</div>
+</div><script type="text/javascript">
+<!--
+$(document).ready(function(){
+		
+	$('#roll_9').slick({
+		arrows: false,
+		infinite: true,
+		autoplay: true,
+		vertical: true,
+		verticalSwiping: true,
+		rows: 1,
+		speed: 300,
+		slidesToShow: 1
+	});
+
+});
+//-->
+</script>
+</div>
+<!-- 로그인 -->
+<ul class="user-logbox">
+<li><a href="/member/login.html" target="_top">로그인</a></li>
+<li><a href="/member/index.html" target="_top">회원가입</a></li>
+<li><a href="http://www.newslock.co.kr/news/articleView.html?idxno=28354" onclick="setCookie('view_pc', 'n', 1);" target="_top"><i class="fa fa-mobile fa-fw"></i>모바일웹</a></li>
+</ul>
+</div>
+</nav>
+<!--// 메뉴바 -->
+</header>
+<!--// 로고영역 -->
+</div>
+<!--// 메뉴 끝 -->
+<!--// 메뉴 -->
+</header>
+<!--// header -->
+<!-- container //-->
+<section class="posi-re text-left auto-pady-25 float-center width-1080" id="user-container">
+<!-- layer popup position  -->
+<div class="float-center width-1080" id="layer-popups"></div>
+<!-- 플로팅 좌우 HTML //-->
+<div class="posi-re float-center width-1080"><div class="view-aside left-wing" data-duration="300" data-scroll="n" data-top-margin="5" id="floating_banner_left">
+<!-- 좌측Wing	160x600 -->
+<iframe frameborder="0" height="600" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="http://adex.ednplus.com/xc/h/weqshrsY" topmargin="0" width="160"></iframe></div>
+<div class="view-aside right-wing" data-duration="300" data-scroll="n" data-top-margin="5" id="floating_banner_right">
+<!-- 우측Wing	160x600 -->
+<iframe frameborder="0" height="600" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="http://adex.ednplus.com/xc/h/we2Fkjuq" topmargin="0" width="160"></iframe></div>
+</div> <!--// 플로팅 좌우 HTML -->
+<div class="float-center max-width-1080">
+<!-- 편집패널 //-->
+<div class="clearfix">
+<center>
+<!-- 일반DA 중단 728x90-->
+<iframe frameborder="0" height="90" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="//adex.ednplus.com/xc/h/92WqqFqt" topmargin="0" width="728"></iframe>
+</center>
+</div>
+<!--// 편집패널 -->
+<script type="text/javascript">
+	// 기사면 상단 네비게이션 호출
+	articleHeader.setScroll();
+
+	$(window).scroll(function() {
+        var currY = $(this).scrollTop();
+        var postHeight = $(this).height();
+        var scrollHeight = $('body').height();
+        var scrollPercent = (currY / (scrollHeight - postHeight)) * 100;
+        $('.aht-bar').css('width', scrollPercent +"%");
+    });
+</script>
+<!-- 기사면 상단 네비게이션 //-->
+<div class="default" id="article-header-title">
+<!-- 이전/다음 기사 버튼 //-->
+<button class="aht-btn prev" onclick="javascript:articleHeader.move(
+				'prev',
+				'embargo_date',
+				'1590914681_28354',
+				'S1N2',
+				'S2N18',
+				'');" title="이전기사" type="button"><i class="fa fa-angle-left fa-fw"></i><span class="sr-only">이전</span></button>
+<button class="aht-btn next" onclick="javascript:articleHeader.move(
+				'next',
+				'embargo_date',
+				'1590914681_28354',
+				'S1N2',
+				'S2N18',
+				'');" title="다음기사" type="button"><i class="fa fa-angle-right fa-fw"></i><span class="sr-only">다음</span></button>
+<!--// 이전/다음 기사 버튼 -->
+<!-- 상단 컨텐츠 //-->
+<div class="aht-wrapper width-1080">
+<div class="aht-columns aht-logo"><a href="http://www.newslock.co.kr"><img alt="뉴스락" src="/image/logo/printlogo_20190521111935.png"/></a></div>
+<div class="aht-columns aht-title"><div class="aht-title-view">현대차그룹-한화큐셀, 전기차 재사용 배터리 기반 태양광 ESS 개발 MOU 체결</div></div>
+<div class="aht-columns aht-options">
+<ul class="info-social">
+<li><button class="button options-btn sns-share-btns facebook has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="facebook" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="페이스북" type="button">
+<i class="icon-facebook"></i><span class="show-for-sr">페이스북</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns twitter has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="twitter" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="트위터" type="button">
+<i class="icon-twitter"></i><span class="show-for-sr">트위터</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns story has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="story" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="카카오스토리" type="button">
+<i class="icon-story"></i><span class="show-for-sr">카카오스토리</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns blog has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="blog" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="네이버블로그" type="button">
+<i class="icon-blog"></i><span class="show-for-sr">네이버블로그</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns http has-tip sns_clipboard" data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="http" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="URL복사" type="button">
+<i class="icon-http"></i><span class="show-for-sr">URL복사</span>
+</button></li>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script src="/script/share.sns.js"></script>
+<script>
+	var site_ismobile		= '';			// 현재 모바일접속 여부
+	var kakaojavascriptkey	= '';	// 카카오앱 자바스크립트키
+
+	$(document).ready(function(e) {
+
+		if(kakaojavascriptkey) kakaoinit(kakaojavascriptkey);
+		var sns_clipboard = new Clipboard('.sns_clipboard');
+		sns_clipboard.on('success', function(e) {
+			alert("클립보드에 복사되었습니다. \nCtrl+v해서 원하는 곳에 붙여넣으세요.");
+		});
+
+		$('button.sns-share-btns').on('click', function(e) {
+			
+			var sns		= $(this).data('sharesns');
+			var title	= $(this).data('title');
+			var desc	= $(this).data('desc');
+			var url		= $(this).data('url');
+			var img		= $(this).data('image');
+
+			if(sns == "talk") {
+				sendKakaoTalk(url, title, desc, img);
+			}else if(sns == "story") {
+				shareStory(url, title, desc, img);
+			}else if(sns == "http") {
+
+			}else if(sns == "band") {
+				shareBand(url, title);
+			}else{
+				shareOtherSNS(sns, title, url, img);
+			}
+		});
+
+	});
+</script> <li><button class="button options-btn social has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+</ul>
+</div>
+</div>
+<!--// 상단 컨텐츠 -->
+<!-- 스크롤 상태바 //-->
+<div class="aht-control">
+<div class="aht-bar user-border-top"><span class="show-for-sr">상태바</span></div>
+</div>
+<!--// 스크롤 상태바 -->
+</div>
+<!--// 기사면 상단 네비게이션 -->
+<!-- 기사본문 상단 //-->
+<header class="article-view-header">
+<!-- root //-->
+<nav class="article-head-nav auto-marbtm-10">
+<a href="/">HOME</a>
+<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_section_code=S1N2">경제</a>
+<i class="fa fa-angle-right fa-fw"></i> <a href="/news/articleList.html?sc_sub_section_code=S2N18">자동차 ׀ IT전자정보통신</a>
+</nav>
+<!--// root -->
+<!-- 본문제목 //-->
+<div class="article-header-wrap">
+<div class="article-head-title">현대차그룹-한화큐셀, 전기차 재사용 배터리 기반 태양광 ESS 개발 MOU 체결</div>
+</div>
+<!--// 본문제목 -->
+<!-- head info //-->
+<section class="article-head-info">
+<!-- info //-->
+<div class="info-text">
+<ul class="no-bullet auto-marbtm-0 line-height-6">
+<li><i class="fa fa-user-o fa-fw"></i> 김재민 기자</li>
+<li><i class="fa fa-clock-o fa-fw"></i> 승인 2020.05.31 17:44</li>
+<li>
+<i class="fa fa-commenting-o fa-fw"></i> 댓글
+						0					</li>
+<li class="cus-btn"><a href="/com/jb.html" target="blank"><i class="fa fa-commenting-o fa-fw"></i>제보하기</a></li>
+<li class="cus-btn"><a href="/com/com-6.html" target="blank"><i class="fa fa-commenting-o fa-fw"></i>반론요청</a></li>
+</ul>
+</div>
+<!--// info -->
+<ul class="info-social">
+<li><button class="button options-btn sns-share-btns facebook has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="facebook" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="페이스북" type="button">
+<i class="icon-facebook"></i><span class="show-for-sr">페이스북</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns twitter has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="twitter" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="트위터" type="button">
+<i class="icon-twitter"></i><span class="show-for-sr">트위터</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns story has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="story" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="카카오스토리" type="button">
+<i class="icon-story"></i><span class="show-for-sr">카카오스토리</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns blog has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="blog" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="네이버블로그" type="button">
+<i class="icon-blog"></i><span class="show-for-sr">네이버블로그</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns http has-tip sns_clipboard" data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="http" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="URL복사" type="button">
+<i class="icon-http"></i><span class="show-for-sr">URL복사</span>
+</button></li>
+<li><button class="button options-btn social has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+<li><button class="button options-btn defalut has-tip" data-disable-hover="false" data-tooltip="" onclick="articlePrint('28354')" title="프린트" type="button"><i class="icon-printer"></i><span class="show-for-sr">프린트</span></button></li>
+<li><button class="button options-btn defalut has-tip" data-disable-hover="false" data-tooltip="" onclick="articleMail('28354')" title="메일보내기" type="button"><i class="icon-email-b"></i><span class="show-for-sr">메일보내기</span></button></li>
+<li class="fonts-option">
+<button class="button options-btn fonts-btn" type="button"><i class="icon-plus"></i><span class="show-for-sr">글씨키우기</span></button>
+<ul class="fonts-option-panel no-bullet">
+<li>
+<input class="fontsize-radio" id="font-size15_2" name="fontsize2" title="15px" type="radio" value="font-size15"/>
+<label class="size-15" for="font-size15_2"></label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size16_2" name="fontsize2" title="16px" type="radio" value="font-size16"/>
+<label class="size-16" for="font-size16_2"></label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size17_2" name="fontsize2" title="17px" type="radio" value="font-size17"/>
+<label class="size-17" for="font-size17_2"></label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size18_2" name="fontsize2" title="18px" type="radio" value="font-size18"/>
+<label class="size-18" for="font-size18_2"></label>
+</li>
+<li>
+<input class="fontsize-radio" id="font-size19_2" name="fontsize2" title="19px" type="radio" value="font-size19"/>
+<label class="size-19" for="font-size19_2"></label>
+</li>
+<!-- <li>
+                        <input type="radio" name="fontsize2" class="fontsize-radio" id="font-size20_2" value="font-size20" title="20px">
+                        <label for="font-size20_2" class="size-20"></label>
+                    </li> -->
+</ul>
+</li>
+<!-- li><button type="button" class="options-btn has-tip" title="번역" data-open="article-lang" data-disable-hover="false" data-tooltip><i class="fa fa-language"></i></button></li -->
+</ul>
+<div class="reveal gray" data-reveal="" id="article-sns">
+<div class="reveal-header">
+<div class="reveal-title">이 기사를 공유합니다</div>
+</div>
+<section class="reveal-container">
+<div class="article-sns-group">
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="facebook" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" type="button">
+<div class="sns-btn-icons facebook"><i class="icon-facebook"></i></div>페이스북			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="twitter" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" type="button">
+<div class="sns-btn-icons twitter"><i class="icon-twitter"></i></div>트위터			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="story" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" type="button">
+<div class="sns-btn-icons story"><i class="icon-story"></i></div>카카오스토리			</button>
+<button class="sns-btns sns-share-btns " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="blog" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" type="button">
+<div class="sns-btn-icons blog"><i class="icon-blog"></i></div>네이버블로그			</button>
+<button class="sns-btns sns-share-btns sns_clipboard" data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="http" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" type="button">
+<div class="sns-btn-icons user-bg"><i class="icon-http"></i></div>URL복사			</button>
+</div>
+</section>
+<!-- close //-->
+<button aria-label="Close modal" class="close-button" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// close -->
+</div>
+</section>
+</header>
+<!--// 기사본문 상단 -->
+<hr/>
+<!-- article view wrapper //-->
+<div class="user-content">
+<!-- 기사본문 내용 //-->
+<section class="user-snb">
+<div class="user-snb-wrapper">
+<!-- contents //-->
+<article class="article-veiw-body view-page">
+<!-- 편집패널 //-->
+<div class="clearfix">
+<!-- 본문하단	725x200 -->
+<center>
+<!--<iframe src="http://adex.ednplus.com/xc/h/weVcn5dn" width="725" height="200" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"></iframe>-->
+<iframe frameborder="0" height="220" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="//adex.ednplus.com/xc/h/Qp6KM7dd" topmargin="0" width="670"></iframe>
+</center>
+</div>
+<!--// 편집패널 -->
+<div class="" id="article-view-content-div" itemprop="articleBody">
+<div style="text-align:center">
+<figure class="photo-layout image photo_23452 max-width-600 float-center" data-idxno="23452" data-type="photo" style="display:inline-block"><img alt="왼쪽부터 오재혁 현대차그룹 상무, 김희철 한화큐셀 사장, 지영조 현대차그룹 사장, 홍정권 한화큐셀 상무가 기념촬영을 하고 있다. 사진 현대차그룹 제공 [뉴스락]" src="/news/photo/202005/28354_23452_4650.jpg"/>
+<figcaption>왼쪽부터 오재혁 현대차그룹 상무, 김희철 한화큐셀 사장, 지영조 현대차그룹 사장, 홍정권 한화큐셀 상무가 기념촬영을 하고 있다. 사진 현대차그룹 제공 [뉴스락]</figcaption>
+</figure>
+</div><div style="float:right; padding:10px 0 15px 15px;"><!-- 본문내	250x250 -->
+<iframe frameborder="0" height="250" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="http://adex.ednplus.com/xc/h/we8U6Bv6" topmargin="0" width="250"></iframe></div>
+<p>[뉴스락] 현대차그룹과 글로벌 태양광 선도기업 한화큐셀이 전기차 재사용 배터리 기반 태양광 연계 에너지 저장장치(Energy Storage System, 이하 ESS) 공동 개발 및 글로벌 사업 전개를 위한 전략적 협력을 추진한다고 31일 밝혔다.</p>
+<p>현대차그룹과 한화큐셀은 지난 29일 한화그룹 본사 사옥(서울시 중구 소재)에서 지영조 현대차그룹 사장, 김희철 한화큐셀 사장 등 관계자가 참석한 가운데 ‘태양광 연계 ESS 공동 개발 및 사업 협력’을 위한 업무협약을 체결했다.</p>
+<p>이번 협약은 전기차에서 회수한 배터리와 태양광 시스템을 연계한 신사업 협력을 골자로 하며, ▲전기차 재사용 배터리 기반 가정용/전력용 ESS 제품 공동 개발 및 한화큐셀 독일 연구소 내 태양광 발전소를 활용한 실증 전개 ▲양사 보유 고객 및 인프라를 활용한 시범 판매 및 태양광 연계 대규모 ESS 프로젝트 공동 발굴 및 수행 등이 주요 내용이다.</p>
+<p>전 세계적으로 태양광 등 재생에너지 비중이 늘어남에 따라 재생에너지의 효율적 사용을 돕는 ESS에 대한 수요도 함께 증가하고 있다.</p>
+<p>블룸버그 뉴에너지 파이낸스(BNEF: Bloomberg New Energy Finance)는 2040년 재생에너지 발전 비중이 40%까지 확대됨에 따라, 2017년 3기가와트아워(GWh) 수준이었던 세계 ESS 시장 역시 2040년 379기가와트아워 수준으로 약 128배 성장할 것으로 전망했다.</p>
+<p>기존 리튬이온배터리를 활용한 ESS의 높은 가격은 초기 시스템 도입에 있어 다소 걸림돌로 작용해왔다.</p>
+<p>현대차그룹과 한화큐셀이 공동으로 개발하는 ESS는 전기차 배터리를 재사용해 시스템 구축 비용을 대폭 낮춰 ESS를 대규모로 보급할 수 있는 솔루션이다. 이번 협력을 통해 가격 경쟁력을 갖춘 시스템을 시장에 출시해 향후 재생에너지 보급에 기여할 것으로 기대된다.</p>
+<p>현대차그룹은 글로벌 태양광 선도기업 한화큐셀과의 협력을 통해 태양광 연계 ESS의 안정적인 판로를 확보하고, 한화큐셀은 태양광 발전 설비와 가격 경쟁력 있는 ESS 패키지 상품 공급을 통해 재생에너지 산업 전반을 아우르는 토털 에너지 솔루션 기업으로서의 도약을 기대하고 있다.</p>
+<p>지영조 현대차그룹 전략기술본부장(사장)은 “이번 협력을 통해 재생에너지 공급 변동성을 효과적으로 최소화함으로써 재생에너지의 대규모 보급을 활성화하고, 전기차 배터리 재사용을 최대화함으로써 전기차의 친환경 가치 사슬을 완성할 것”이라고 말했다.</p>
+<p>김희철 한화큐셀 사장은 “이번 협력으로 양사 간 우수 R&amp;D 역량을 공유하고, 경쟁력 있는 제품 개발을 통해 태양광 모듈부터 ESS까지 제공하는 토털 에너지 솔루션 기업으로서 세계 에너지 시장에서 입지를 공고히 다질 것”이라고 밝혔다.</p>
+<p>양사는 MOU와 동시에 공동개발협약(JDA)을 체결, 유럽/북미 지역을 대상으로 한 태양광 연계 가정용/전력용 ESS에 대한 공동개발을 즉시 시작한다.</p>
+<p>현대차그룹은 각 설비의 인터페이스 설계 및 보호 협조 제어 공동 설계를 통해 성능 및 안전성이 확보된 제품을 개발한다는 계획이다.</p>
+<p>오재혁 현대차그룹 미래기술연구실장(상무)는 “이번 JDA를 통해 양사는 안전성, 고객 편의성, 가격 경쟁력을 갖춘 태양광 등 친환경 재생에너지 연계 ESS 제품을 확보하고 글로벌 시장 진출을 가속화할 것”이라고 밝혔다.</p>
+<p>한편, 현대차그룹은 이번 한화큐셀과의 협력뿐 아니라 한국수력원자력, 바르질라(Wärtsilä), OCI등 ESS 관련 글로벌 기업들과의 협력을 강화해오고 있으며 이를 통해 전기차 배터리 재사용 ESS사업 성공을 위해 다양한 노력을 하고 있다.</p>
+<div class="view-copyright">저작권자 © 뉴스락 무단전재 및 재배포 금지</div>
+<div class="view-editors">
+<div class="float-right">
+<div class="profile-images">
+<img alt="김재민 기자" src="/news/photo/member/kim-jm85_20190611020513.jpg"/>
+</div>
+<strong>김재민 기자</strong>
+<a class="articles" href="/news/articleList.html?sc_area=I&amp;sc_word=kim-jm85">다른기사 보기</a>
+<a class="names" href="mailto:koreaincap@daum.net">koreaincap@daum.net</a>
+</div>
+</div>
+</div>
+<div class="article-view-sns">
+<ul class="info-social">
+<li><button class="button options-btn sns-share-btns facebook has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="facebook" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="페이스북" type="button">
+<i class="icon-facebook"></i><span class="show-for-sr">페이스북</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns twitter has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="twitter" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="트위터" type="button">
+<i class="icon-twitter"></i><span class="show-for-sr">트위터</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns story has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="story" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="카카오스토리" type="button">
+<i class="icon-story"></i><span class="show-for-sr">카카오스토리</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns blog has-tip " data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="blog" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="네이버블로그" type="button">
+<i class="icon-blog"></i><span class="show-for-sr">네이버블로그</span>
+</button></li>
+<li><button class="button options-btn sns-share-btns http has-tip sns_clipboard" data-clipboard-text="http://www.newslock.co.kr/news/articleView.html?idxno=28354" data-desc="%5B%EB%89%B4%EC%8A%A4%EB%9D%BD%5D%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%B4%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20%EC%97%90%EB%84%88%EC%A7%80%20%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98%28Energy%20Storage%20System%2C%20%EC%9D%B4%ED%95%98%20ESS%29%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%82%AC%EC%97%85%20%EC%A0%84%EA%B0%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%84%EB%9E%B5%EC%A0%81%20%ED%98%91%EB%A0%A5%EC%9D%84%20%EC%B6%94%EC%A7%84%ED%95%9C%EB%8B%A4%EA%B3%A0%2031%EC%9D%BC%20%EB%B0%9D%ED%98%94%EB%8B%A4.%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%EA%B3%BC%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%EC%9D%80%20%EC%A7%80%EB%82%9C%2029%EC%9D%BC%20%ED%95%9C%ED%99%94%EA%B7%B8%EB%A3%B9%20%EB%B3%B8%EC%82%AC%20%EC%82%AC%EC%98%A5%28%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A4%91%EA%B5%AC%20%EC%86%8C%EC%9E%AC%29%EC%97%90%EC%84%9C%20%EC%A7%80%EC%98%81%EC%A1%B0%20%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9%20%EC%82%AC%EC%9E%A5%2C%20%EA%B9%80%ED%9D%AC%EC%B2%A0%20%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%20%EC%82%AC%EC%9E%A5%20%EB%93%B1%20%EA%B4%80%EA%B3%84%EC%9E%90%EA%B0%80%20%EC%B0%B8%EC%84%9D%ED%95%9C%20%EA%B0%80%EC%9A%B4%EB%8D%B0%20%E2%80%98%ED%83%9C%EC%96%91%EA%B4%91%20%EC%97%B0%EA%B3%84%20ESS%20%EA%B3%B5%EB%8F%99%20%EA%B0%9C%EB%B0%9C%20%EB%B0%8F%20%EC%82%AC%EC%97%85%20%ED%98%91%EB%A0%A5%E2%80%99%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%97%85%EB%AC%B4%ED%98%91%EC%95%BD%EC%9D%84%20%EC%B2%B4%EA%B2%B0%ED%96%88%EB%8B%A4.%EC%9D%B4%EB%B2%88%20%ED%98%91%EC%95%BD%EC%9D%80%20%EC%A0%84%EA%B8%B0%EC%B0%A8%EC%97%90%EC%84%9C%20%ED%9A%8C%EC%88%98%ED%95%9C%20%EB%B0%B0%ED%84%B0%EB%A6%AC%EC%99%80%20%ED%83%9C%EC%96%91%EA%B4%91%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EC%97%B0%EA%B3%84%ED%95%9C" data-disable-hover="false" data-image="http://www.newslock.co.kr/news/photo/202005/28354_23452_4650.jpg" data-sharesns="http" data-title="%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9-%ED%95%9C%ED%99%94%ED%81%90%EC%85%80%2C%20%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%B0%ED%84%B0%EB%A6%AC%20%EA%B8%B0%EB%B0%98%20%ED%83%9C%EC%96%91%EA%B4%91%20ESS%20%EA%B0%9C%EB%B0%9C%20MOU%20%EC%B2%B4%EA%B2%B0" data-tooltip="" data-url="http%3A%2F%2Fwww.newslock.co.kr%2Fnews%2FarticleView.html%3Fidxno%3D28354" title="URL복사" type="button">
+<i class="icon-http"></i><span class="show-for-sr">URL복사</span>
+</button></li>
+<li><button class="button options-btn social has-tip" data-disable-hover="false" data-open="article-sns" data-tooltip="" title="기사공유하기" type="button"><i class="icon-share"></i><span class="show-for-sr">기사공유하기</span></button></li>
+</ul>
+</div>
+<!-- 편집패널 //-->
+<div class="clearfix">
+<!-- 본문하단	725x200 -->
+<center>
+<!--<iframe src="http://adex.ednplus.com/xc/h/weVcn5dn" width="725" height="200" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"></iframe>-->
+<iframe frameborder="0" height="220" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="//adex.ednplus.com/xc/h/Qp6KM7dd" topmargin="0" width="670"></iframe>
+</center>
+</div>
+<!--// 편집패널 -->
+</article>
+<!--// contents -->
+<hr/>
+<!-- 편집패널 //-->
+<div class="clearfix">
+</div>
+<!--// 편집패널 -->
+<div class="vote-container"></div>
+<script src="http://www.newslock.co.kr/vote/vote.js" type="text/javascript"></script>
+<script>
+	jQuery( document ).ready(function() {
+		vote.voteCheck(
+			jQuery('#reply-write-btn, .reply-container'),			// 폐쇄시 제거할 영역
+			'S',													// 실명제 구분값
+			'/news/articleView.html'						// 리턴URL
+		);
+	});
+</script>
+<!-- 댓글삭제 //-->
+<div class="reveal gray" data-reveal="" id="reply-delete-modal">
+<header class="reveal-header">
+<div class="reveal-title">댓글삭제</div>
+</header>
+<section class="reveal-container">
+<!-- msg //-->
+<div class="reveal-msg">
+			삭제한 댓글은 다시 <span class="user-point">복구할 수 없습니다.</span><br/>
+			그래도 삭제하시겠습니까?
+		</div>
+<!--// msg -->
+<form action="articleReplyDelete.php" id="reply-delete-form" method="post" name="replyForm">
+<input id="reply-delete-mode" name="mode" placeholder="삭제모드" type="hidden" value="">
+<input id="reply-delete-idxno" name="idxno" placeholder="삭제번호" type="hidden" value="">
+<input id="reply-delete-reply-parent-idxno" name="reply_parent_idxno" placeholder="삭제부모번호" type="hidden" value="">
+<input id="reply-delete-parent-idxno" name="parent_idxno" placeholder="기사번호" type="hidden" value="28354">
+<input id="reply-delete-reply-page" name="reply_page" placeholder="페이징" type="hidden" value="1">
+<input id="reply-delete-reply-all" name="replyAll" placeholder="전체보기" type="hidden" value="">
+<input id="reply-delete-reply-sc-order-by" name="reply_sc_order_by" placeholder="댓글정렬" type="hidden" value="I">
+<!-- 비밀번호 //-->
+<fieldset class="row expanded small-collapse medium-uncollapse" id="delete-password-field">
+<div class="small-12 medium-3 columns">
+<label class="text-left medium-text-right medium-middle" for="password"><strong class="key-point">비밀번호</strong></label>
+</div>
+<div class="small-12 medium-9 columns">
+<input class="required" id="password" maxlength="20" name="password" placeholder="비밀번호 입력" title="비밀번호" type="password"/>
+</div>
+</fieldset>
+<!--// 비밀번호 -->
+<footer class="clearfix">
+<div class="float-right small-float-center">
+<button class="button user-bg small-expanded"><i class="fa fa-trash-o fa-fw"></i> <strong>삭제</strong></button>
+</div>
+</footer>
+</input></input></input></input></input></input></input></form>
+</section>
+<!-- 닫기 //-->
+<button aria-label="Close modal" class="close-button" data-close="" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// 닫기 -->
+</div>
+<!--// 댓글삭제 -->
+<!-- 댓글 //-->
+<article class="article-reply" id="reply">
+<header class="reply-header">
+<strong>댓글</strong>
+<span class="text-muted">0</span> </header>
+<!-- 댓글쓰기 //-->
+<button class="reply-trick" type="button">댓글입력 권한이 없습니다.</button>
+<section class="reply-container" id="reply-container" style="display:none">
+<div class="reply-comment">
+<form action="articleReply.php" id="reply-form" method="post" name="replyForm">
+<input id="reply-insert-article-idxno" name="parent_idxno" type="hidden" value="28354">
+<input id="reply-insert-user-id" name="user_id" type="hidden" value="">
+<input id="reply-insert-mode" name="mode" type="hidden" value="input"/>
+<input id="g-recaptcha-response" name="g-recaptcha-response" type="hidden" value=""/>
+<input id="reply-page" name="reply_page" placeholder="페이징" type="hidden" value="1"/>
+<input id="reply-all" name="replyAll" placeholder="전체보기" type="hidden" value=""/>
+<input id="reply-sc-order-by" name="reply_sc_order_by" placeholder="댓글정렬" type="hidden" value="I"/>
+<header class="cmt-header">
+<!-- 로그인버튼 //-->
+<div class="logbox">
+<a class="logbox-btn active" href="/member/login.html?backUrl=/news/articleView.html?idxno=28354#reply"><i class="login-logo"></i><span class="show-for-sr">로그인</span></a>
+<!--<button type="button" class="logbox-btn"><i class="icon-facebook fa-fw"></i><span class="show-for-sr">페이스북</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-twitter fa-fw"></i><span class="show-for-sr">트위터</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-naver fa-fw"></i><span class="show-for-sr">네이버</span></button>
+					<button type="button" class="logbox-btn"><i class="icon-talk fa-fw"></i><span class="show-for-sr">카카오</span></button>-->
+</div>
+<!--// 로그인버튼 -->
+<!-- 로그인 이름 //-->
+<div class="login-member" id="login-member"></div>
+<!--// 로그인 이름 -->
+<div class="float-right reply-name" style="display:none">
+<span class="dis-inblock reply-write-name">
+<label class="sr-only" for="name">이름</label>
+<input id="reply-insert-name" name="name" placeholder="이름" size="10" title="이름" type="text" value=""/>
+</span>
+<span class="dis-inblock reply-write-password">
+<label class="sr-only" for="password">비밀번호</label>
+<input id="reply-insert-password" name="password" placeholder="비밀번호" size="10" title="비밀번호" type="password" value=""/>
+</span>
+</div>
+</header>
+<!-- 댓글입력 //-->
+<section class="cmt-container">
+<label class="sr-only" for="content">내용</label>
+<textarea class="min-height-80 reply-content required" id="content" name="content" placeholder="권리침해, 욕설 및 특정 대상을 비하하는 내용을 게시할 경우 이용약관 및 관련법률에 의해 제해될 수 있습니다. 공공기기에서는 사용 후 로그아웃 해주세요." rows="3" title="내용"></textarea>
+</section>
+<!--// 댓글입력 -->
+<!-- 댓글등록버튼 //-->
+<footer class="cmt-footer">
+<span class="reply-textnum text-muted"><strong id="reply-cur-text">0</strong> / 400</span>
+<button class="button user-bg" type="submit"><i class="fa fa-comments-o fa-fw"></i> 등록</button>
+</footer>
+<!--// 댓글등록버튼 -->
+</input></input></form>
+</div>
+</section>
+<!--// 댓글쓰기 -->
+<!-- 댓글쓰기인증 //-->
+<div class="reveal gray" data-reveal="" id="reply-modal">
+<header class="reveal-header">
+<div class="reveal-title">댓글쓰기</div>
+</header>
+<section class="reveal-container">
+<!-- msg //-->
+<div class="reveal-msg">
+					계정을 선택하시면 <span class="user-point">로그인·계정인증</span>을 통해<br/> 댓글을 남기실 수 있습니다.
+				</div>
+<!--// msg -->
+<div class="reply-login">
+<div class="button-group nd-white large">
+<a class="button expanded" href="/member/login.html?backUrl=/news/articleView.html?idxno=28354#reply" id="btn-login" type="button"><i class="login-logo"></i>회원 로그인</a>
+<!--<button type="button" class="button expanded"><i class="icon-facebook fa-fw"></i>페이스북</button>
+						<button type="button" class="button expanded"><i class="icon-twitter fa-fw"></i>트위터</button>
+						<button type="button" class="button expanded"><i class="icon-naver fa-fw"></i>네이버</button>
+						<button type="button" class="button expanded"><i class="icon-talk fa-fw"></i>카카오</button>-->
+</div>
+<div class="clearfix" id="nomember-info" style="display:none">
+<hr>
+<!-- 이름 //-->
+<fieldset class="row expanded small-collapse medium-uncollapse">
+<div class="small-12 medium-3 columns">
+<label class="text-left medium-text-right medium-middle" for="name"><strong class="key-point">이름</strong></label>
+</div>
+<div class="small-12 medium-9 columns">
+<input class="required auto-marbtm-5" id="nomember-name" maxlength="20" name="name" placeholder="이름" title="이름" type="text"/>
+</div>
+</fieldset>
+<!--// 이름 -->
+<!-- 비밀번호 //-->
+<fieldset class="row expanded small-collapse medium-uncollapse">
+<div class="small-12 medium-3 columns">
+<label class="text-left medium-text-right medium-middle" for="password"><strong class="key-point">비밀번호</strong></label>
+</div>
+<div class="small-12 medium-9 columns">
+<input class="required auto-marbtm-5" id="nomember-password" maxlength="20" name="password" placeholder="비밀번호" title="비밀번호" type="password"/>
+</div>
+</fieldset>
+<!--// 비밀번호 -->
+<!-- 캡챠 //-->
+<fieldset class="row expanded small-collapse medium-uncollapse">
+<div class="small-12 medium-3 columns">
+<label class="text-left medium-text-right medium-middle" for="kcaptcha"><strong class="key-point">자동등록방지</strong></label>
+</div>
+<div class="small-12 medium-9 columns">
+<div class="input-group auto-marbtm-5">
+<script type="text/javascript">
+									var captchaContainer = null;
+									var reCapVal;
+									var loadCaptcha = function() {
+										grecaptcha.render('captcha_container', {
+											'sitekey' : '6Le9kaMUAAAAAMCq-LhqZT1OeB4n0GLppRFRtA6S',
+											'callback' : function(response) {												
+												reCapVal = response;	
+												$("#nomember-captcha").val( reCapVal );
+											}
+										});
+									};
+									</script>
+<!-- Google reCAPTCHA HEAD script S -->
+<div id="captcha_container"></div><!-- Google reCAPTCHA weiget -->
+<input id="nomember-captcha" name="captcha" title="구글캡차" type="hidden"/>
+<!-- Google reCAPTCHA FOOTER script S -->
+<script async="" defer="" src="https://www.google.com/recaptcha/api.js?onload=loadCaptcha&amp;render=explicit"></script>
+</div>
+</div>
+</fieldset>
+<!--// 캡챠 -->
+<hr/>
+<footer class="clearfix">
+<div class="float-right small-float-center">
+<button class="button user-bg small-expanded" id="no-member-write"><i class="fa fa-plus-circle fa-fw"></i> <strong>확인</strong></button>
+</div>
+</footer>
+</hr></div>
+</div>
+</section>
+<!-- 닫기 //-->
+<button aria-label="Close modal" class="close-button" data-close="" id="login-close-button" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<!--// 닫기 -->
+</div>
+<!--// 댓글쓰기인증 -->
+<!-- page //-->
+<!--// page -->
+</article>
+<!--// 댓글 -->
+<script src="http://www.newslock.co.kr/script/reply.js"></script>
+<script>		
+	reply.parent_idxno = "28354";										// 게시글 번호
+	reply.captchaEnable = "Y";								// 캡차사용여부 		
+
+	reply.replyAll = "";											// 전체보기 		
+	reply.reply_sc_order_by = "I";						// 정렬
+	reply.reply_page = "1";										// 페이지
+	
+	$("#reply-write-btn").on('click', {reply_parent_idxno:''}, reply.replyWrite);		// 댓글쓰기 이벤트 
+	$("#no-member-write").on('click',reply. noMemberCheck);								// 비회원 글쓰기 이벤트
+	$("#btn-nomember-write").on('click', function(){$("#nomember-info").show()});		// 비회원 글쓰기 SHOW 
+	$(".comments-more-btn").on('click', reply.viewOption);								// 댓글옵션보이기 이벤트
+	$(".reply-delete-btn").on('click', reply.setDeleteOption);							// 댓글삭제 이벤트
+	$(".vote-btn").on('click', reply.setVote);											// 추천반대 이벤트
+	$(".comments-reply").on('click', reply.getSubReplyView);							// 답글보기 이벤트		
+	$("#content").on("keyup", {reply_parent_idxno:''}, reply.getTextLength);			// 글자계산
+	$(document).on('closed.zf.reveal', '[data-reveal]', reply.modalCloser);				// 모달 CLOSE	이벤트 핸들러	
+</script>
+<!-- 편집패널 //-->
+<div class="clearfix">
+<!--200220_중앙선거관리--><script type="text/javascript">var ___BANNER = "ban_1603540567";</script><script charset="utf-8" id="ban_1603540567" src="http://www.newslock.co.kr/bannerpop/uploads/js/238.js?1603540567" type="text/javascript"></script><!--//200220_중앙선거관리--><!-- 본문하단	725x200 -->
+<center>
+<!--<iframe src="http://adex.ednplus.com/xc/h/weVcn5dn" width="725" height="200" frameborder="0" scrolling="no" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"></iframe>-->
+<iframe frameborder="0" height="220" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="//adex.ednplus.com/xc/h/Qp6KM7dd" topmargin="0" width="670"></iframe>
+</center><!-- Dable 스타일1 위젯 시작/ 문의 support@dable.io -->
+<!--<div id="dablewidget_KoEpG8XB" data-widget_id="KoEpG8XB">
+  <script>
+  (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+  dable('renderWidget', 'dablewidget_KoEpG8XB');
+  </script>
+</div>-->
+<!-- Dable 스타일1 위젯 종료/ 문의 support@dable.io -->
+<!-- Dable 하A_그리드8_EMPTY 위젯 시작/ 문의 http://dable.io -->
+<div data-widget_id="w7W39472" id="dablewidget_w7W39472">
+<script>
+(function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable'));
+dable('renderWidget', 'dablewidget_w7W39472');
+</script>
+</div>
+<!-- Dable 하A_그리드8_EMPTY 위젯 종료/ 문의 http://dabl-->
+</div>
+<!--// 편집패널 -->
+</div>
+</section>
+<!--// 기사본문 내용 -->
+<!-- 기사본문 우측 //-->
+<aside class="user-aside">
+<!--한국유나이티드제약--><script type="text/javascript">var ___BANNER = "ban_1613534326";</script><script charset="utf-8" id="ban_1613534326" src="http://www.newslock.co.kr/bannerpop/uploads/js/321.js?1613534326" type="text/javascript"></script><!--//한국유나이티드제약--><!--LG배너--><script type="text/javascript">var ___BANNER = "ban_1606383687";</script><script charset="utf-8" id="ban_1606383687" src="http://www.newslock.co.kr/bannerpop/uploads/js/355.js?1606383687" type="text/javascript"></script><!--//LG배너--><!--신한금융지주--><script type="text/javascript">var ___BANNER = "ban_1609298396";</script><script charset="utf-8" id="ban_1609298396" src="http://www.newslock.co.kr/bannerpop/uploads/js/359.js?1609298396" type="text/javascript"></script><!--//신한금융지주--><!--엘지유플러스--><script type="text/javascript">var ___BANNER = "ban_1608774561";</script><script charset="utf-8" id="ban_1608774561" src="http://www.newslock.co.kr/bannerpop/uploads/js/358.js?1608774561" type="text/javascript"></script><!--//엘지유플러스--><!--신한은행--><script type="text/javascript">var ___BANNER = "ban_1608514797";</script><script charset="utf-8" id="ban_1608514797" src="http://www.newslock.co.kr/bannerpop/uploads/js/328.js?1608514797" type="text/javascript"></script><!--//신한은행--><!--우리카드--><script type="text/javascript">var ___BANNER = "ban_1605494619";</script><script charset="utf-8" id="ban_1605494619" src="http://www.newslock.co.kr/bannerpop/uploads/js/344.js?1605494619" type="text/javascript"></script><!--//우리카드--><!-- 일반DA 우측1 300x250 -->
+<iframe frameborder="0" height="250" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="//adex.ednplus.com/xc/h/92WJdUvV" topmargin="0" width="300"></iframe><!--사시사색--><script type="text/javascript">var ___BANNER = "ban_1604473913";</script><script charset="utf-8" id="ban_1604473913" src="http://www.newslock.co.kr/bannerpop/uploads/js/342.js?1604473913" type="text/javascript"></script><!--//사시사색--><!--100세 시대--><script type="text/javascript">var ___BANNER = "ban_1604540703";</script><script charset="utf-8" id="ban_1604540703" src="http://www.newslock.co.kr/bannerpop/uploads/js/343.js?1604540703" type="text/javascript"></script><!--//100세 시대--><!--전국전통시장탐방기--><script type="text/javascript">var ___BANNER = "ban_1604381445";</script><script charset="utf-8" id="ban_1604381445" src="http://www.newslock.co.kr/bannerpop/uploads/js/335.js?1604381445" type="text/javascript"></script><!--//전국전통시장탐방기--><!--대한민국 굿잡스--><script type="text/javascript">var ___BANNER = "ban_1604472985";</script><script charset="utf-8" id="ban_1604472985" src="http://www.newslock.co.kr/bannerpop/uploads/js/341.js?1604472985" type="text/javascript"></script><!--//대한민국 굿잡스--><!--통도서--><script type="text/javascript">var ___BANNER = "ban_1604395918";</script><script charset="utf-8" id="ban_1604395918" src="http://www.newslock.co.kr/bannerpop/uploads/js/339.js?1604395918" type="text/javascript"></script><!--//통도서--><!--뉴스락앤피플--><script type="text/javascript">var ___BANNER = "ban_1604385414";</script><script charset="utf-8" id="ban_1604385414" src="http://www.newslock.co.kr/bannerpop/uploads/js/337.js?1604385414" type="text/javascript"></script><!--//뉴스락앤피플--><!--아리송한 경제용어--><script type="text/javascript">var ___BANNER = "ban_1604397353";</script><script charset="utf-8" id="ban_1604397353" src="http://www.newslock.co.kr/bannerpop/uploads/js/340.js?1604397353" type="text/javascript"></script><!--//아리송한 경제용어-->
+<style type="text/css">	
+	#INC_TAB_I_2_container .tabs-navs .tabs-item a {color:#66676c}
+	#INC_TAB_I_2_container .tabs-navs .tabs-item.active a {color:#e77201}
+	#INC_TAB_I_2_container .tabs-panel {min-height:281px}
+	</style>
+<div class="tabs-wrap type-I" id="INC_TAB_I_2_container">
+<ul class="tabs-navs expanded" id="INC_TAB_I_2">
+<li class="tabs-item active"><a data-tabs-target="#panel1" href="/news/articleList.html?sc_serial_code=SRN23&amp;view_type=sm" target="_top">마켓포토</a></li>
+<li class="tabs-item"><a data-tabs-target="#panel2" href="/news/articleList.html?sc_sub_section_code=S2N37&amp;view_type=sm" target="_top">카드뉴스</a></li>
+<li class="tabs-item"><a data-tabs-target="#panel3" href="/news/articleList.html?sc_sub_section_code=S2N44&amp;view_type=sm" target="_top">스마트씨팜</a></li>
+</ul>
+<div class="tabs-panel active" id="panel1">
+<div class="auto-article auto-pa02-1">
+<ul><li class="auto-content">
+<a href="/news/articleView.html?idxno=36453" target="_top"><div class="auto-images cover line height-210" style="background-image:url(/news/photo/202102/36453_31986_4515.jpg)">
+<img alt="[마켓포토] 이마트, 역대 최대 물량 '딸기 챔피언' 딸기 행사 진행" src="/news/photo/202102/36453_31986_4515.jpg"/>
+</div><div class="auto-mary-5">
+<div class="size-13 line-height-3-x auto-fontB onload"><strong>[마켓포토] 이마트, 역대 최대 물량 '딸기 챔피언' 딸기 행사 진행</strong></div>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=32652" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/202011/32652_28025_615_v150.jpg)">
+<span class="show-for-sr">[마켓포토] GS25베트남, aT와 11월 11일 ‘떡볶이데이’ 진행</span>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=32244" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/202010/32244_27607_2124_v150.jpg)">
+<span class="show-for-sr">[마켓포토] "연중 최대행사  '쓱데이'에서 만나요"</span>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=30323" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/202008/30323_25536_2217_v150.jpg)">
+<span class="show-for-sr">이마트, 추석 맞아 건강기능식품 사전예약 선물세트 확대</span>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tabs-panel" id="panel2">
+<div class="auto-article auto-pa02-1">
+<ul><li class="auto-content">
+<a href="/news/articleView.html?idxno=36180" target="_top"><div class="auto-images cover line height-210" style="background-image:url(/news/photo/202102/36180_31683_3855.jpg)">
+<img alt="잠들어있는 내 돈을 깨우자...휴면재산 찾기 3종 세트" src="/news/photo/202102/36180_31683_3855.jpg"/>
+</div><div class="auto-mary-5">
+<div class="size-13 line-height-3-x auto-fontB onload"><strong>잠들어있는 내 돈을 깨우자...휴면재산 찾기 3종 세트</strong></div>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=35982" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/202102/35982_31451_492_v150.jpg)">
+<span class="show-for-sr">[뉴스락 카드뉴스] 맹견보험 가입 안하면 '300만원 과태료'...가입 견종은?</span>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=35051" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/202101/35051_30439_254_v150.jpg)">
+<span class="show-for-sr">[뉴스락 카드뉴스] 펜데믹 위기에 대응 전략은</span>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=34722" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/202101/34722_30056_1911_v150.jpg)">
+<span class="show-for-sr">[카드뉴스] 2021년 신축년 달라지는 의약·복지제도</span>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tabs-panel" id="panel3">
+<div class="auto-article auto-pa02-1">
+<ul><li class="auto-content">
+<a href="/news/articleView.html?idxno=28635" target="_top"><div class="auto-images cover line height-210" style="background-image:url(/news/photo/202006/28635_23738_5650.jpg)">
+<img alt="한화그룹, 친환경 숲 조성 통해 기후변화 적극 대응한다" src="/news/photo/202006/28635_23738_5650.jpg"/>
+</div><div class="auto-mary-5">
+<div class="size-13 line-height-3-x auto-fontB onload"><strong>한화그룹, 친환경 숲 조성 통해 기후변화 적극 대응한다</strong></div>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=27177" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/202004/27177_22200_1056_v150.jpg)">
+<span class="show-for-sr">한국농수산대학, 사이버 강의 통한 농수산업 교육에 새로운 모델 개발</span>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=26530" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/202003/26530_21541_651_v150.jpg)">
+<span class="show-for-sr">정밀 농업 벤처기업 긴트, 시리즈 A 투자 유치</span>
+</div>
+</a>
+</li>
+<li class="auto-content">
+<a href="/news/articleView.html?idxno=18269" target="_top"><div class="auto-images cover line height-41" style="background-image:url(/news/thumbnail/201905/18269_13879_437_v150.jpg)">
+<span class="show-for-sr">대한한돈협회, 농식품부와 아프리카돼지열병 예방 캠페인 펼쳐</span>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<script>$('#INC_TAB_I_2_container').tabslet({
+		mouseevent: 'hover', 
+		attribute: 'data-tabs-target', 
+		animation: false
+	});</script>
+<div class="box-margins height-20"></div><article class="box-skin line header-line header-bg">
+<header class="header"><strong><span class="user-point">인기</span>기사</strong></header>
+<section class="content"><div class="auto-article auto-db01">
+<ul><li class="clearfix"><div class="number count1 user-bg">1</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=35844" target="_top">카카오톡 신기능 '카톡 멀티프로필' 등장...개인 정보 유출 우려에 사용 망설이는 이용자들</a></li>
+<li class="clearfix auto-martop-8"><div class="number count2 user-bg">2</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36451" target="_top">남양주 진관산업단지 '대동플라스틱' 직원 114명 코로나19 확진</a></li>
+<li class="clearfix auto-martop-8"><div class="number count3 user-bg">3</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36394" target="_top">[위기의 건설업계 긴급진단 ⑭ 코오롱글로벌]  순항 중 연이은 잡음...그룹 '캐시카우' 부담 가중</a></li>
+<li class="clearfix auto-martop-8"><div class="number count4 default-bg">4</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=35637" target="_top">홈플러스, '부진 책임' 임일순 대표 퇴임에도 우려 나오는 이유</a></li>
+<li class="clearfix auto-martop-8"><div class="number count5 default-bg">5</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=35575" target="_top">현대건설, 작년 신규 수주 약 28조원...코로나19에도 12% 상승했다</a></li>
+<li class="clearfix auto-martop-8"><div class="number count6 default-bg">6</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36389" target="_top">롯데그룹, 호텔롯데·롯데GRS 등 계열사 줄줄이 세무조사 받아...왜?</a></li>
+<li class="clearfix auto-martop-8"><div class="number count7 default-bg">7</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=35569" target="_top">한전, ODA 활용한 에너지밸리기업 해외시장 진출 지원 업무 협약 체결</a></li>
+<li class="clearfix auto-martop-8"><div class="number count8 default-bg">8</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=36224" target="_top">SK아이이테크놀로지, 국내 최초 '100% 친환경 전력'으로 공장 가동한다</a></li>
+<li class="clearfix auto-martop-8"><div class="number count9 default-bg">9</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=35526" target="_top">태영건설 '과천 르센토 데시앙 ' 신축아파트 현장 근로자, 5t 콘크리트에 깔려 사망..."하청업체 직원"</a></li>
+<li class="clearfix auto-martop-8"><div class="number count10 default-bg">10</div><a class="size-14 line-height-4-x auto-fontA onload" href="/news/articleView.html?idxno=35579" target="_top">[뉴스락&amp;피플] 심기준 한국스마트헬스케어협회 회장, "기술·제품 있어도 상용화 어려워...안타깝다"</a></li>
+</ul>
+</div></section>
+</article><div class="box-margins height-20 "></div>
+<!--코로나현광판--><script type="text/javascript">var ___BANNER = "ban_1604398130";</script><script charset="utf-8" id="ban_1604398130" src="http://www.newslock.co.kr/bannerpop/uploads/js/287.js?1604398130" type="text/javascript"></script><!--//코로나현광판--><!--2--><script type="text/javascript">var ___BANNER = "ban_1590240537";</script><script charset="utf-8" id="ban_1590240537" src="http://www.newslock.co.kr/bannerpop/uploads/js/296.js?1590240537" type="text/javascript"></script><!--//2--><!--하나은행--><script type="text/javascript">var ___BANNER = "ban_1604390887";</script><script charset="utf-8" id="ban_1604390887" src="http://www.newslock.co.kr/bannerpop/uploads/js/338.js?1604390887" type="text/javascript"></script><!--//하나은행--><!--삼성증권--><script type="text/javascript">var ___BANNER = "ban_1602565232";</script><script charset="utf-8" id="ban_1602565232" src="http://www.newslock.co.kr/bannerpop/uploads/js/331.js?1602565232" type="text/javascript"></script><!--//삼성증권--><article class="box-skin design-7">
+<header class="header"><strong><span class="user-point">최신</span>기사</strong></header>
+<section class="content"><div class="auto-article auto-dl04">
+<ul><li class="auto-column">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36509" target="_top">카카오모빌리티, 칼라일그룹 2억 달러 투자 유치...'스마트 모빌리티' 실현 앞당긴다</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36509" style="background-image:url(/news/thumbnail/202102/36509_32045_524_v150.jpg)" target="_top">
+<span class="show-for-sr">카카오모빌리티, 칼라일그룹 2억 달러 투자 유치...'스마트 모빌리티' 실현 앞당긴다</span>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36508" target="_top">한화생명, 지난해 당기순이익 1969억원...전년比 71.8%↑</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36508" style="background-image:url(/news/thumbnail/202102/36508_32042_5132_v150.jpg)" target="_top">
+<span class="show-for-sr">한화생명, 지난해 당기순이익 1969억원...전년比 71.8%↑</span>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36505" target="_top">포스코건설, ESG경영 우수협력사 육성 위한 ESG평가모델 개발 추진</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36505" style="background-image:url(/news/thumbnail/202102/36505_32040_315_v150.jpg)" target="_top">
+<span class="show-for-sr">포스코건설, ESG경영 우수협력사 육성 위한 ESG평가모델 개발 추진</span>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36504" target="_top">SK건설, 건설사 최초 ‘녹색채권’ 경쟁률 8대 1 기록...공모 흥행</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36504" style="background-image:url(/news/thumbnail/202102/36504_32039_2638_v150.jpg)" target="_top">
+<span class="show-for-sr">SK건설, 건설사 최초 ‘녹색채권’ 경쟁률 8대 1 기록...공모 흥행</span>
+</a></li>
+<li class="auto-column auto-padtop-25">
+<div class="size-14 auto-padbtm-8"><a class="line-height-3-2x auto-fontA onload" href="/news/articleView.html?idxno=36503" target="_top">국회도서관, 개관 69주년 기념행사 진행</a></div><a class="auto-images cover line max-width-165 height-100" href="/news/articleView.html?idxno=36503" style="background-image:url(/news/thumbnail/202102/36503_32037_1727_v150.jpg)" target="_top">
+<span class="show-for-sr">국회도서관, 개관 69주년 기념행사 진행</span>
+</a></li>
+</ul>
+</div></section>
+</article><div class="box-margins height-20 "></div>
+<!-- 일반DA 우측1 300x250 -->
+<iframe frameborder="0" height="250" leftmargin="0" marginheight="0" marginwidth="0" scrolling="no" src="//adex.ednplus.com/xc/h/92WJdUvV" topmargin="0" width="300"></iframe><!--넷마블--><script type="text/javascript">var ___BANNER = "ban_1605782841";</script><script charset="utf-8" id="ban_1605782841" src="http://www.newslock.co.kr/bannerpop/uploads/js/351.js?1605782841" type="text/javascript"></script><!--//넷마블--><!--유니세프--><script type="text/javascript">var ___BANNER = "ban_1605617418";</script><script charset="utf-8" id="ban_1605617418" src="http://www.newslock.co.kr/bannerpop/uploads/js/345.js?1605617418" type="text/javascript"></script><!--//유니세프-->
+</aside>
+<!--// 기사본문 우측 -->
+</div>
+<!--// article view wrapper -->
+<!-- 편집패널 //-->
+<div class="auto-martop-20 clearfix">
+</div>
+<!--// 편집패널 -->
+</div>
+</section>
+<!--// container -->
+<!-- footer //-->
+<footer class="user-style-black" id="user-footer">
+<div class="float-center width-1080">
+<div class="footer-menu">
+<!-- logo //-->
+<div class="footer-columns user-logo"><img alt="뉴스락" src="/image/logo/downlogo_20190521111935.png"/></div>
+<!--// logo -->
+<div class="footer-columns">
+<!-- nav //-->
+<nav class="user-nav">
+<a class="deco-none" href="/com/com-1.html"><strong>매체소개</strong></a>
+<a class="deco-none" href="/com/jb.html"><strong>기사제보</strong></a>
+<a class="deco-none" href="/com/ad.html"><strong>광고문의</strong></a>
+<a class="deco-none" href="/com/bp.html"><strong>불편신고</strong></a>
+<a class="deco-none" href="/com/privacy.html"><strong>개인정보취급방침</strong></a>
+<a class="deco-none" href="/com/youthpolicy.html"><strong>청소년보호정책</strong></a>
+<a class="deco-none" href="/com/emailno.html"><strong>이메일무단수집거부</strong></a>
+<a class="deco-none" href="/rss/"><strong>RSS</strong></a>
+</nav>
+<!--// nav  -->
+<address class="user-address">
+<ul class="no-bullet">
+<li class="bars">서울특별시 영등포구 국회대로 66길 23 산정빌딩 6층 601호</li>
+<li class="bars">대표전화 : 02-782-0710</li>
+<li>팩스 : 02-782-0711</li>
+<!--<li class="bars">법인명 : 뉴스락</li>-->
+<li class="bars clear">제호 : 뉴스락</li>
+<li class="bars">등록번호 : 서울 아 04386</li>
+<li class="bars">등록일 : 2017-02-21</li>
+<!--<li class="bars">발행일 : </li>-->
+<li class="bars">발행·편집인 : 황동진</li>
+<li>청소년보호책임자 : 황동진</li>
+<li class="bars clear"> 뉴스락 법률자문 : K.E.Y 종합법률사무소  <!-- 음장복 변호사 --> </li>
+<li> 세무자문 : 쿠택스세무사</li>
+<li class="clear auto-martop-20">뉴스락 모든 콘텐츠(영상,기사, 사진)는 저작권법의 보호를 받는 바, 무단 전재와 복사, 배포 등을 금합니다.</li>
+<li class="clear">C<a class="deco-none" href="http://www.newslock.co.kr/admin/adminLoginForm.html">o</a>pyright © 2021 뉴스락. <a href="http://www.newslock.co.kr/news/articleView.html?idxno=28354" onclick="setCookie('view_pc', 'n', 1);">All</a> rights reserved. mail to <a class="deco-none" href="mailto:newslock@naver.com">newslock@naver.com</a></li>
+</ul>
+<a class="ndsoft" href="http://www.ndsoft.co.kr/" target="_blank"><img alt="ND소프트" src="/image/ndsoft.gif"/></a>
+</address>
+</div>
+</div>
+</div>
+</footer>
+<!--// footer -->
+<!-- 하단 HTML //-->
+<div class="clearfix text-center">
+</div>
+<!--// 하단 HTML -->
+<!-- back to the top //-->
+<button class="back-to-top" id="back-to-top" title="위로" type="button"><i class="s7-angle-up"><span class="show-for-sr">위로</span></i></button>
+<!--// back to the top -->
+</div>
+<!--// wrap -->
+</div>
+</div>
+</div>
+<script>
+// Popup Json
+var ___popup = [];
+bannerpop.popup();
+</script>
+<script type="text/javascript">
+<!--
+// back to the top
+$(document).scroll(function(){
+	var sDocumentHeight = $(document).height() - $(window).height();
+	if($(document).scrollTop() > 0){
+		$('#back-to-top').fadeIn();
+	}else{
+		$('#back-to-top').fadeOut();
+	}
+});
+
+$('#back-to-top').click(function(){
+	$('html, body').animate( {scrollTop:0}, 100);
+});
+//-->
+</script>
+<!-- POP-Under -->
+<!-- <script src='http://ad.about.co.kr/mad/html/newslock/article07/middle_middle'></script> -->
+</body>

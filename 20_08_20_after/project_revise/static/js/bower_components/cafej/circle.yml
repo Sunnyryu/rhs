@@ -1,0 +1,14 @@
+dependencies:
+  pre:
+    - pip install awscli
+
+test:
+  override:
+    - echo 'no test'
+
+deployment:
+  release:
+    tag: /release-.*/
+    commands:
+      - aws s3 cp --recursive test/ s3://$S3_BUCKET/
+

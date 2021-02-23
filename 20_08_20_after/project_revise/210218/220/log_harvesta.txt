@@ -1,0 +1,4 @@
+5	https://sports.donga.com/article/all/20201004/103228648/1	HTTPSConnectionPool(host='sports.donga.com', port=443): Max retries exceeded with url: /article/all/20201004/103228648/1 (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1108)')))
+
+수집한 문서 개수: 12개
+걸린 시간: 0m 22s

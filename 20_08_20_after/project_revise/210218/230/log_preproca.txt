@@ -1,0 +1,11 @@
+4/11	./210218/230/E_K_01/D_05.txt	unknown
+5/11	./210218/230/E_K_01/D_04.txt	unknown
+7/11	./210218/230/E_K_01/N_02.txt	unknown
+8/11	./210218/230/E_K_01/D_02.txt	unknown
+9/11	./210218/230/E_K_01/D_06.txt	unknown
+10/11	./210218/230/E_K_01/D_03.txt	unknown
+11/11	./210218/230/E_K_01/D_01.txt	unknown
+Useless : 0 (0.0%)
+Unknown : 7 (63.6%)
+Hit : 4 (36.4%)
+걸린 시간: 0m 01s
