@@ -25,7 +25,8 @@ from django.core import serializers
 from django.core.serializers.json import DjangoJSONEncoder
 import csv
 import os.path
-
+from dotenv import load_dotenv
+load_dotenv()
 # Create your views here.
 def index(request):
 
@@ -307,8 +308,10 @@ def anal(request):
         #    print([(token, sp_matrix[i, word2id[token]]) for token in sent.split()])
 
         # POS tag a sentence
-        shutil.copy('text.txt', '/home/sunny/.pyenv/versions/3.8.2/lib/python3.8/site-packages/konlpy/data/corpus/kolaw/a.txt')
+        kolaw_file = os.getenv("FILE_WHERE")
+        shutil.copy('text.txt', kolaw_file)
         s = kolaw.open('a.txt').read()  # 한국 법률 말뭉치
+        print(s)
         words = Mecab().pos(s)
         print(words,"000")
 

@@ -1,0 +1,18 @@
+1/23	./210309/141/E_K_01/D_12.txt	unknown
+4/23	./210309/141/E_K_01/D_07.txt	unknown
+6/23	./210309/141/E_K_01/D_05.txt	unknown
+7/23	./210309/141/E_K_01/D_04.txt	unknown
+11/23	./210309/141/E_K_01/D_02.txt	unknown
+12/23	./210309/141/E_K_01/D_08.txt	unknown
+13/23	./210309/141/E_K_01/N_08.txt	unknown
+16/23	./210309/141/E_K_01/D_06.txt	unknown
+17/23	./210309/141/E_K_01/D_10.txt	unknown
+18/23	./210309/141/E_K_01/D_03.txt	unknown
+19/23	./210309/141/E_K_01/D_11.txt	unknown
+21/23	./210309/141/E_K_01/D_09.txt	unknown
+22/23	./210309/141/E_K_01/D_01.txt	unknown
+23/23	./210309/141/E_K_01/N_05.txt	unknown
+Useless : 0 (0.0%)
+Unknown : 14 (60.9%)
+Hit : 9 (39.1%)
+걸린 시간: 0m 00s
