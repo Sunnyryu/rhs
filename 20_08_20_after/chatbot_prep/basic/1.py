@@ -6,4 +6,3 @@ cnt = int(sys.argv[2])
 
 for i in range(cnt):
     print(i,msg)
-

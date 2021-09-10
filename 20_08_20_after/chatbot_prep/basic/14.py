@@ -16,6 +16,7 @@ cr4 = cr1 - cr2
 print(cr4)
 
 dr1 = np.array([ [1,2],[3,4],[5,6] ])
+print(dr1)
 dr2 = np.array([ [7,8],[9,10]])
 dr3 = np.matmul(dr1,dr2)
 print(dr3)

@@ -35,7 +35,7 @@ bow2 = komoran.nouns(sentence2)
 bow3 = komoran.nouns(sentence3)
 
 bow = bow1 + bow2 + bow3 #(단어 묶음 리스트를 하나로 합침)
-
+print(bow)
 word_dics = []
 for token in bow:
     if token not in word_dics:

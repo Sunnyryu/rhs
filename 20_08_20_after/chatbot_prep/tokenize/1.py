@@ -7,6 +7,7 @@ morphs = kkma.morphs(text)
 print(morphs)
 
 pos = kkma.pos(text)
+print(pos)
 nouns = kkma.nouns(text)
 print(nouns)
 
