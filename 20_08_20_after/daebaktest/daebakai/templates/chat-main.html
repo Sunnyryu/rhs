@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+{% block body %}
+  <div class="message_main">
+  <div class="message_holder">
+  </div>
+    <form action="" method="POST" name="chatform">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+      <div id="userInput">
+        <input id ='textInput' type="text" name="message" class="message" style='font-size:15px;' placeholder="Message"/ required>
+        <input id='buttonInput' class="btn btn-info" type="submit" value="send"/>
+      </div>
+    </form>
+</div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript">
+
+      const socket = io.connect('http://' + document.domain + ':' + location.port+ '/chat');
+
+      socket.on('connect', function(){
+        socket.emit('joined', {});
+      } )
+      $( 'form[name=chatform]' ).on( 'submit', function( e ) {
+        e.preventDefault()
+        let user_name = '{{my_name}}'
+        let user_input = $( 'input.message' ).val()
+        socket.emit( 'customer', {
+          user_name : user_name,
+          message : user_input
+        } )
+        $( 'input.message' ).val( '' ).focus()
+      } )
+      socket.on( 'hello daebakbot', function (msg){
+        console.log(msg)
+        if( typeof msg.name !== 'undefined' ) {
+        $( 'div.message_holder' ).append(
+          `<p class='botText ${msg.a_number}'>
+          <span class='text-break'>
+          <b style="color: #000"> ${msg.name}  </b> ${msg.message} <br/>
+          ${msg.korean_message}<br/>
+          ${msg.korean_diction}<br/>
+            </span>
+          </p>`
+
+      )}
+
+      })
+
+
+      socket.on( 'customer send', function( msg ) {
+        if( typeof msg.user_name !== 'undefined' ) {
+            $( 'div.message_holder' ).append( '<p class="userText"><span><b style="color: #000">'+msg.user_name+'</b> '+msg.message+'</span></p>'
+        )}
+        let robot_text = document.querySelectorAll(".botText");
+        let a_number = robot_text[robot_text.length -1].getAttribute('class').split(" ")[1]
+        socket.emit('robot event', {
+          user_name : msg.user_name,
+          message : msg.message,
+          a_number: a_number
+        })
+      })
+
+      socket.on( 'robot resend', function (msg){
+        console.log(msg.image)
+        if( msg.image !== null && msg.image !== undefined ) {
+          $('div.message_holder' ).append(
+            `<p class="botText Question2">
+            <span>
+            <b style="color: #000"> ${msg.name}  </b> ${msg.message} <br/>
+            ${msg.korean_message}<br/>
+            ${msg.korean_diction}<br/>
+            <a href=${msg.link} target="_blank"><img src=${msg.image} /></a>
+            </span>
+            </p>`
+        ).stop()
+        .animate({scrollTop: $('div.message_holder')[0].scrollHeight}, 500);}
+        else if( typeof msg.name !== 'undefined') {
+          $('div.message_holder' ).append(
+            `<p class="botText Question2">
+            <span>
+            <b style="color: #000"> ${msg.name}  </b> ${msg.message} <br/>
+            ${msg.korean_message}<br/>
+            ${msg.korean_diction}<br/>
+            </span>
+            </p>`
+        ).stop()
+        .animate({scrollTop: $('div.message_holder')[0].scrollHeight}, 500)}
+
+        /*console.log(someElementsItems[someElementsItems.length -1].innerText)*/
+
+      })
+    </script>
+{% endblock %}

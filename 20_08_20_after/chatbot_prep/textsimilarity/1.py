@@ -3,6 +3,7 @@ from konlpy.tag import Komoran
 def word_ngram(bow, num_gram):
     text = tuple(bow)
     ngrams = [text[x:x + num_gram] for x in range(0, len(text))]
+    print(ngrams,"test1")
     return tuple(ngrams)
 
 def similarity(doc1, doc2):

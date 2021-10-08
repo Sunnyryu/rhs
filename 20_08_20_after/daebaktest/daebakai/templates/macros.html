@@ -1,0 +1,41 @@
+{% macro sidebarmenuEstimatesheet() %}
+<nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+    <div class="sidebar-sticky pt-3">
+        <ul class="nav flex-column">
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('estimatesheet.RegisterBusinessinfo')}}">
+                    사업자등록정보
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('estimatesheet.list') }}">
+                    견적서 목록
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{url_for('estimatesheet.root') }}">
+                    견적서 작성하기
+                </a>
+            </li>
+        </ul>      
+    </div>
+    <br>
+    <br>
+    <div class="sidebar-sticky pt-3">
+        <ul class="nav flex-column">
+            <li class="nav-item">
+                <a class="nav-link"  href="{{url_for('product.Main') }}">
+                    상품등록
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link">
+                    상품목록
+                </a>
+            </li>
+           
+        </ul>      
+    </div>
+
+</nav>
+{% endmacro %}

@@ -1,0 +1,743 @@
+{% extends 'base.html' %}
+{% block script%}
+<script>
+    let detectedface = 0;
+</script>
+<script src="/static/js/tracking-min.js"></script>
+<script src="/static/js/face-min.js"></script>
+<script src="/static/js/eye-min.js"></script>
+<script src="/static/js/mouth-min.js"></script>
+<style>
+    .rect {
+        border: 2px solid #a64ceb;
+        left: -1000px;
+        position: absolute;
+        top: -1000px;
+    }
+</style>
+{% endblock %}
+
+{% block title %}
+데이터 베이스 CRUD 테스트
+{% endblock %}
+
+{% block body %}
+
+<style>
+    body {
+        font-family: sans-serif;
+        background-color: #ffffff
+    }
+
+    .file-upload {
+        background-color: #ffffff;
+        width: 90%;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .file-upload-btn {
+        width: 100%;
+        margin: 0;
+        color: #fff;
+        background: #1FB264;
+        border: none;
+        padding: 10px;
+        border-radius: 4px;
+        border-bottom: 4px solid #15824B;
+        transition: all .2s ease;
+        outline: none;
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+
+    .file-upload-btn:hover {
+        background: #1AA059;
+        color: #ffffff;
+        transition: all .2s ease;
+        cursor: pointer;
+    }
+
+    .file-upload-btn:active {
+        border: 0;
+        transition: all .2s ease;
+    }
+
+    .file-upload-content {
+        display: none;
+        text-align: center;
+    }
+
+    .file-upload-input {
+        position: absolute;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        outline: none;
+        opacity: 0;
+        cursor: pointer;
+    }
+
+    .image-upload-wrap {
+        margin-top: 20px;
+        border: 4px dashed #1FB264;
+        position: relative;
+    }
+
+    .image-dropping,
+    .image-upload-wrap:hover {
+        background-color: #1FB264;
+        border: 4px dashed #ffffff;
+    }
+
+    
+    .drag-text {
+        text-align: center;
+    }
+
+    .drag-text h3 {
+        font-weight: 100;
+        text-transform: uppercase;
+        color: #15824B;
+        padding: 60px 0;
+    }
+
+    .file-upload-image {
+        max-height: 200px;
+        max-width: 200px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .remove-image {
+        width: 200px;
+        margin: 0;
+        color: #fff;
+        background: #cd4535;
+        border: none;
+        padding: 10px;
+        border-radius: 4px;
+        border-bottom: 4px solid #b02818;
+        transition: all .2s ease;
+        outline: none;
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+
+    .remove-image:hover {
+        background: #c13b2a;
+        color: #ffffff;
+        transition: all .2s ease;
+        cursor: pointer;
+    }
+
+    .remove-image:active {
+        border: 0;
+        transition: all .2s ease;
+    }
+</style>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="jumbotron p-3">
+                <h2><b>AI 예측</b> </h2>
+
+            </div>
+
+            <form method=POST enctype=multipart/form-data action="{{ url_for('ai_predict.Image') }}">
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+                <input type=file name=file>
+                <input type="submit">
+            </form>
+
+
+
+            <div class="img-container">
+                <div>
+                    <script class="jsbin" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+                    <div class="file-upload">
+                        <!-- <button class="btn btn-success" type="button"
+                            onclick="$('.file-upload-input').trigger( 'click' )">이미지 첨부
+                        </button> -->
+
+                        <div class="image-upload-wrap">
+                            <input class="file-upload-input" type='file' onchange="readURL(this);" accept="image/*" />
+                            <div class="drag-text">
+                                <h3>얼굴 정면 사진을 올려주세요!</h3>
+                            </div>
+                        </div>
+                        <div class="file-upload-content">
+                            <div class="face-container">
+                                <img class="file-upload-image" id="img" src="#" alt="your image" />
+                            </div>
+                            <div id="loading" class="animated bounce">
+                                <div class="spinner-border" role="status">
+                                    <span class="sr-only">Loading...</span>
+                                </div>
+                                <p class="text-center">AI가 당신을 분석중입니다...</p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <canvas id="myChart"></canvas>
+                    </div>
+                    <div class="col-md-6">
+                        <canvas id="myChart2"></canvas>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <canvas id="myChart3"></canvas>
+                    </div>
+                    <div class="col-md-6">
+                        <canvas id="myChart4"></canvas>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <canvas id="myChart5"></canvas>
+                    </div>
+                    <div class="col-md-6">
+                        <canvas id="myChart6"></canvas>
+                    </div>
+                </div>
+
+
+
+                <div id="label-container"></div>
+                <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+                <script
+                    src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+                <script type="text/javascript">
+                    // More API functions here:
+
+
+
+                    // 피로도 zone1 ~ zone4
+                    //const URL = "https://teachablemachine.withgoogle.com/models/0pTEc9Ua5/";
+
+                    // 나이마추기
+                    //  const URL = "https://teachablemachine.withgoogle.com/models/MbVPfeaJh/";
+
+                    // 국가별 
+                    //const urlMale = "https://teachablemachine.withgoogle.com/models/OOR9QqeCy/";
+                    //const testURL = "https://teachablemachine.withgoogle.com/models/roUOBuaLg/";
+
+
+                    var totaldata = new Array();
+                    var totalcount = 0;
+                    let model, labelContainer, maxPredictions;
+
+                    // Load the image model and setup the image
+                    async function init(URL) {
+                        const modelURL = URL + "model.json";
+                        const metadataURL = URL + "metadata.json";
+
+                        // load the model and metadata
+                        // Refer to tmImage.loadFromFiles() in the API to support files from a file picker
+                        // or files from your local hard drive
+                        // Note: the pose library adds "tmImage" object to your window (window.tmImage)
+                        model = await tmImage.load(modelURL, metadataURL);
+                        maxPredictions = model.getTotalClasses();
+
+
+                        labelContainer = document.getElementById("label-container");
+                        for (let i = 0; i < maxPredictions; i++) { // and class labels
+                            labelContainer.appendChild(document.createElement("div"));
+                        }
+
+                    }
+
+
+                    // run the  image through the image model
+                    async function predict() {
+                        // predict can take in an image, video or canvas html element
+                        var image = document.getElementById("img")
+                        const prediction = await model.predict(image, false);
+
+                        // prediction.sort((a, b) => parseFloat(b.probability) - parseFloat(a.probability));
+
+
+                        return prediction;
+                    }
+                </script>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+<script>
+
+    function readURL(input) {
+        if (input.files && input.files[0]) {
+
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                $('.image-upload-wrap').hide();
+                $('#loading').show();
+                $('.file-upload-image').attr('src', e.target.result);
+                
+                $('.file-upload-content').show();
+                
+
+            };
+
+            reader.readAsDataURL(input.files[0]);
+
+
+            setTimeout(function () { detect(); }, 200);
+
+            setTimeout(function () {
+                if (detectedface > 0) {
+                    RUN_AI();
+                }
+                else {
+                    alert("얼굴 정면 사진을 올려주세요");
+                    removeUpload();
+                }
+            }, 300);
+
+        } else {
+            removeUpload();
+        }
+    }
+
+    function removeUpload() {
+        location.reload();
+        //     $('.file-upload-input').replaceWith($('.file-upload-input').clone());
+        //     $('.file-upload-content').hide();
+        //     $('.image-upload-wrap').show();
+        // }
+        // $('.image-upload-wrap').bind('dragover', function () {
+        //     $('.image-upload-wrap').addClass('image-dropping');
+        // });
+        // $('.image-upload-wrap').bind('dragleave', function () {
+        //     $('.image-upload-wrap').removeClass('image-dropping');
+        // });
+    }
+</script>
+<script>
+    function drawchart(id, labelname, charttype, labelnames, data, maxclassname, maxprobability) {
+        var ctx = document.getElementById(id).getContext('2d');
+        var labelnames = labelnames;
+
+        var chart = new Chart(ctx, {
+            // The type of chart we want to create
+            type: charttype,
+
+            // The data for our dataset
+            data: {
+                labels: labelnames,
+                datasets: [{
+                    label: labelname,
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)'
+                    ],
+                    borderWidth: 1,
+                    data: data
+                }]
+            },
+
+            // Configuration options go here
+            options: {}
+        });
+
+
+        SendDataToServer("{{url_for('ai_predict.Main')}}", maxclassname, maxprobability);
+    }
+
+</script>
+<script>
+    function ProcessImage(url, filedata) {
+
+        console.log(filedata)
+        $.ajax({
+            type: 'POST',
+            url: url,
+            data: filedata,
+            contentType: false,
+            cache: false,
+            processData: false,
+            async: false,
+            success: function (data) {
+                console.log('이미지전송성공!');
+
+            },
+        });
+    }
+
+    function SendDataToServer(url, value, value2) {
+
+
+        $.ajax({
+            type: 'GET', // type
+            url: url, // request login.Checkemail
+            data: { 'maxclassname': value, 'maxprobability': value2 },
+
+            error: function () {
+                console.log("통신실패!!");
+            },
+            success: function (data) { // get the response
+                console.log("통신성공");
+            } // end success
+        }); // ajax end
+
+
+
+    }
+</script>
+
+
+<script>
+
+    function detect() {
+
+
+        let img = document.getElementById('img');
+        let tracker = new tracking.ObjectTracker(['face', 'eye', 'mouth']);
+
+
+
+        tracker.setStepSize(1.7);
+
+        tracking.track('#img', tracker);
+
+        $("div").removeClass("rect");
+
+        tracker.on('track', function (event) {
+            detectedface = event.data.length;
+
+            event.data.forEach(function (rect) {
+                plot(rect.x + 10, rect.y, rect.width + 20, rect.height + 30);
+
+            });
+
+        });
+
+
+
+        function plot(x, y, w, h) {
+            let rect = document.createElement('div');
+            document.querySelector('.face-container').appendChild(rect);
+            rect.classList.add('rect');
+            rect.style.width = w + 'px';
+            rect.style.height = h + 'px';
+            rect.style.left = (img.offsetLeft + x) + 'px';
+            rect.style.top = (img.offsetTop + y) + 'px';
+
+
+
+        };
+
+
+
+
+    };
+</script>
+<script>
+    function RUN_AI() {
+
+        // ai 가 보는 나라
+        init('https://teachablemachine.withgoogle.com/models/roUOBuaLg/').then(function () {
+            predict().then((data) => {
+
+                let className = new Array;
+                let probability = new Array;
+                let location = 0;
+                let max = 0.0001;
+
+
+
+
+                for (var i = 0; i < data.length; i++) {
+
+                    if (data[i]['className'] == '일본') data[i]['className'] = '한국';
+
+
+                    if (max < data[i]['probability']) {
+                        max = data[i]['probability'];
+                        location = i;
+
+                    }
+
+
+                    className.push(data[i]['className']);
+                    probability.push(data[i]['probability']);
+                }
+
+                console.log(data)
+
+                drawchart('myChart', 'ai가보는 국적', 'line', className, probability, data[location]['className'], data[location]['probability']);
+
+
+
+
+                totaldata[0] = data[location]['className'];
+                totaldata[1] = data[location]['probability'];
+                totalcount += 1;
+
+
+            });
+
+
+            $('#loading').hide();
+
+
+        });
+
+        // ai 가 보는 나이
+        init('https://teachablemachine.withgoogle.com/models/MbVPfeaJh/').then(function () {
+            predict().then((data) => {
+
+                let className = new Array;
+                let probability = new Array;
+                let location = 0;
+                let max = 0.0001;
+
+
+
+
+
+                for (var i = 0; i < data.length; i++) {
+
+                    if (data[i]['className'] == 'baby') data[i]['className'] = '동안';
+                    if (data[i]['className'] == 'one') data[i]['className'] = '십대';
+                    if (data[i]['className'] == 'two') data[i]['className'] = '이십대';
+                    if (data[i]['className'] == 'three') data[i]['className'] = '삼십대';
+                    if (data[i]['className'] == 'four') data[i]['className'] = '사십대';
+                    if (data[i]['className'] == 'five') data[i]['className'] = '노인';
+
+                    if (max < data[i]['probability']) {
+                        max = data[i]['probability'];
+                        location = i;
+                    }
+
+
+                    className.push(data[i]['className'])
+                    probability.push(data[i]['probability'])
+                }
+
+                console.log(data)
+
+                drawchart('myChart2', 'ai가보는 나이', 'line', className, probability, data[location]['className'], data[location]['probability']);
+
+
+
+
+            });
+
+
+            $('#loading').hide();
+
+
+        });
+
+        // ai 가 보는 BTS와 궁합
+        init('https://teachablemachine.withgoogle.com/models/j1coSMhQ0/').then(function () {
+            predict().then((data) => {
+
+                let className = new Array;
+                let probability = new Array;
+                let location = 0;
+                let max = 0.0001;
+
+
+
+
+
+                for (var i = 0; i < data.length; i++) {
+
+                    className.push(data[i]['className'])
+                    probability.push(data[i]['probability'])
+
+                    if (max < data[i]['probability']) {
+                        max = data[i]['probability'];
+                        location = i;
+                    }
+
+                }
+
+                console.log(data)
+
+                drawchart('myChart3', 'ai가보는 BTS 궁합', 'line', className, probability, data[location]['className'], data[location]['probability']);
+
+
+            });
+
+
+            $('#loading').hide();
+
+
+        });
+
+        // ai 가 보는 당신의 얼굴형
+        init('https://teachablemachine.withgoogle.com/models/xLKfhg9Xn/').then(function () {
+            predict().then((data) => {
+
+                let className = new Array;
+                let probability = new Array;
+                let location = 0;
+                let max = 0.0001;
+
+
+
+
+
+                for (var i = 0; i < data.length; i++) {
+
+                    switch (data[i]['className']) {
+                        case 'round': data[i]['className'] = '둥근형'; break;
+                        case 'long': data[i]['className'] = '긴형'; break;
+                        case 'rt': data[i]['className'] = '사각형'; break;
+                        case 'angular': data[i]['className'] = '마른형'; break;
+                        case 'egg': data[i]['className'] = '달걀형'; break;
+
+                    }
+
+                    if (max < data[i]['probability']) {
+                        max = data[i]['probability'];
+                        location = i;
+                    }
+
+
+                    className.push(data[i]['className'])
+                    probability.push(data[i]['probability'])
+                }
+
+                console.log(data)
+
+                drawchart('myChart4', 'ai가보는 당신의 얼굴형', 'line', className, probability, data[location]['className'], data[location]['probability']);
+
+
+            });
+
+
+            $('#loading').hide();
+
+
+        });
+
+        // ai 가 보는 당신의 얼굴 점수 여자기준
+        init('https://teachablemachine.withgoogle.com/models/v-pibV298/').then(function () {
+            predict().then((data) => {
+
+                let className = new Array;
+                let probability = new Array;
+                let location = 0;
+                let max = 0.0001;
+
+
+
+
+
+                for (var i = 0; i < data.length; i++) {
+                    switch (data[i]['className']) {
+                        case 'normal': data[i]['className'] = '평범'; break;
+                        case 'ok': data[i]['className'] = '괜찮음'; break;
+                        case 'hansome': data[i]['className'] = '미인'; break;
+                        case 'veryOk': data[i]['className'] = '꽤 괜찮음'; break;
+                        case 'veryHansome': data[i]['className'] = '완전미인'; break;
+
+                    }
+
+                    if (max < data[i]['probability']) {
+                        max = data[i]['probability'];
+                        location = i;
+                    }
+
+
+                    className.push(data[i]['className'])
+                    probability.push(data[i]['probability'])
+                }
+
+                console.log(data)
+
+                drawchart('myChart5', 'ai가보는 당신의 여자기준얼굴점수', 'bar', className, probability, data[location]['className'], data[location]['probability']);
+
+
+            });
+
+
+            $('#loading').hide();
+
+
+        });
+
+        // ai 가  여자, 남자
+        init('https://teachablemachine.withgoogle.com/models/75TvaZIbQ/').then(function () {
+            predict().then((data) => {
+
+                let className = new Array;
+                let probability = new Array;
+                let location = 0;
+                let max = 0.0001;
+
+
+
+
+
+                for (var i = 0; i < data.length; i++) {
+
+
+                    if (max < data[i]['probability']) {
+                        max = data[i]['probability'];
+                        location = i;
+                    }
+
+
+                    className.push(data[i]['className'])
+                    probability.push(data[i]['probability'])
+                }
+
+
+
+                console.log(data)
+
+                drawchart('myChart6', 'ai가보는 당신은 남자여자', 'line', className, probability, data[location]['className'], data[location]['probability']);
+
+
+            });
+
+
+            $('#loading').hide();
+
+
+        });
+
+
+    };
+
+</script>
+
+<!-- Copyright (c) 2020 by Aaron Vanston (https://codepen.io/aaronvanston/pen/yNYOXR)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ -->
+
+{% endblock %}

@@ -15,7 +15,9 @@ print(dics)
 
 # one hot encoding
 nb_classes = len(dics)
+print(nb_classes)
 targets = list(dics.values())
+print(targets)
 one_hot_targets = np.eye(nb_classes)[targets]
 # eye function => 단위 행렬로 바꿔줌
 print(one_hot_targets)

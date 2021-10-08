@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+{% block title %}
+BBS
+{% endblock %}
+
+{% block body %}
+
+{% if 'loggedin' in session %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="jumbotron p-3">
+
+                <h2>
+                    <b>  {{session['id']}}/{{ROW.author_id}} {{ROW.title}}</b>
+                    
+                    {% if session['id'] == ROW.author_id %}
+                    <div class="float-right">
+                        <a type="button" class="btn btn-warning" href="{{url_for('bbs.Update', id = ROW.id)}}">수정</a>
+                        <a type="button" class="btn btn-danger" href="{{url_for('bbs.Delete', id = ROW.id)}}">삭제</a>
+                    </div>
+                    {% endif %}
+                </h2>
+            </div>
+
+            
+            {{ROW.content|safe}}
+
+            <br><br>
+            <div class="text-right">
+                {{ROW.name}}
+                <br>
+                {{ROW.date}}
+            </div>
+            <br><br>
+
+            {% for ROWCOMMENT in ROWCOMMENTS%}
+
+            <br>
+            {{ ROWCOMMENT.name}} {{ROWCOMMENT.date }} : <br><br> {{ ROWCOMMENT.content }}
+            <br>
+
+            {% endfor %}
+
+
+            <br><br>
+
+
+            <div class="col-md-9">
+                <form action="{{url_for('bbs.Write_comment')}}" method="POST">
+                    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+                    <input type="hidden" name="parent_id" value="{{ROW.id}}" />
+                    <div class="text-right">
+                        <textarea class="form-control mb-2" name="content" required="1"></textarea>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">등록</button>
+                </form>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('#summernote').summernote('code'
+
+        );
+    });
+</script>
+
+{% endif %}
+{% endblock %}

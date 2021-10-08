@@ -1,0 +1,92 @@
+<div class="chat-button">
+  <input id='daebakbot_button' class="btn btn-success" type="submit" value="daebakbot" onClick="delButton()" />
+  <input type="submit" id="close_button" class="btn btn-success" value="close" onClick="delButton2()"/>
+</div>
+<div class="daebak_minibot">
+  <div class="daebak_minichat">
+
+  </div>
+  <form action="" method="POST" name="minichatform">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+    <div id="miniInput">
+      <input id ='minitextInput' type="text" name="minimessage" class="minimessage" placeholder="Message"/ required>
+      <input id='minibuttonInput' class="btn btn-info" type="submit" value="send"/>
+    </div>
+  </form>
+</div>
+<script type="text/javascript">
+
+  const minisocket = io.connect('http://' + document.domain + ':' + location.port+ '/');
+
+  minisocket.on('connect', function(){
+    minisocket.emit('minijoined', {});
+  } )
+  $( 'form[name="minichatform"]' ).on( 'submit', function( e ) {
+    e.preventDefault()
+    let user_name = '{{session['name']}}'
+    let user_input = $( 'input.minimessage' ).val()
+    minisocket.emit( 'minicustomer', {
+      user_name : user_name,
+      message : user_input
+    } )
+    $( 'input.minimessage' ).val( '' ).focus()
+  } )
+  minisocket.on( 'mini hello daebakbot', function (msg){
+    console.log(msg)
+    if( typeof msg.name !== 'undefined' ) {
+    $( 'div.daebak_minichat' ).append(
+      `<p class='minibotText ${msg.a_number}'>
+      <span class='text-break'>
+      <b style="color: #000"> ${msg.name}  </b> ${msg.message} <br/>
+      ${msg.korean_message}<br/>
+      ${msg.korean_diction}<br/>
+        </span>
+      </p>`
+
+  )}
+
+  })
+
+
+  minisocket.on( 'mini customer send', function( msg ) {
+    if( typeof msg.user_name !== 'undefined' ) {
+        $( 'div.daebak_minichat' ).append( '<p class="miniuserText"><span><b style="color: #000">'+msg.user_name+'</b> '+msg.message+'</span></p>'
+    ).stop().animate({scrollTop: $('div.daebak_minichat')[0].scrollHeight}, 1000);}
+    let robot_text = document.querySelectorAll(".minibotText");
+    let a_number = robot_text[robot_text.length -1].getAttribute('class').split(" ")[1]
+    minisocket.emit('mini robot event', {
+      user_name : msg.user_name,
+      message : msg.message,
+      a_number: a_number
+    })
+  })
+
+  minisocket.on( 'mini robot resend', function (msg){
+    console.log(msg.image)
+    if( msg.image !== null && msg.image !== undefined ) {
+      $('div.daebak_minichat' ).append(
+        `<p class="minibotText Question2">
+        <span>
+        <b style="color: #000"> ${msg.name}  </b> ${msg.message} <br/>
+        ${msg.korean_message}<br/>
+        ${msg.korean_diction}<br/>
+        <a href=${msg.link} target="_blank"><img src=${msg.image} /></a>
+        </span>
+        </p>`
+    ).stop().animate({scrollTop: $('div.daebak_minichat')[0].scrollHeight}, 1000);}
+    else if( typeof msg.name !== 'undefined') {
+      $('div.daebak_minichat' ).append(
+        `<p class="minibotText Question2">
+        <span>
+        <b style="color: #000"> ${msg.name}  </b> ${msg.message} <br/>
+        ${msg.korean_message}<br/>
+        ${msg.korean_diction}<br/>
+        </span>
+        </p>`
+    ).stop().animate({scrollTop: $('div.daebak_minichat')[0].scrollHeight}, 1000);
+  }
+
+    /*console.log(someElementsItems[someElementsItems.length -1].innerText)*/
+
+  })
+</script>

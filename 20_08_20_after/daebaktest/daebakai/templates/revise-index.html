@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% block title %}data revise{% endblock %}
+{% block body %}
+<form action="{{url_for('revise.Product_list')}}" method="GET">
+<div class="search">
+    <input type="search" name="comment" class="search-box" />
+    <span class="search-button">
+      <span class="search-icon"></span>
+    </span>
+  </div>
+</form>
+<br>
+<br>
+
+  <!-- Page Content -->
+  
+  <div class="container">
+    <form action="{{url_for('revise.Upload')}}" method="POST", enctype = "multipart/form-data">
+      <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+      <h4>csv file:</h4>
+      <input class="btn btn-sm btn-outline-secondary" type="file" name="file" required>
+      <input type="submit" value="upload">
+    </form>
+    <br>
+    <form action="{{url_for('revise.Download')}}" method="GET">
+      <h4>company name:</h4>
+      <input type="text" name="vendor" id="vendor">
+      <input class="btn btn-sm btn-outline-secondary" type="submit" value="download">
+    </form>  
+    <br>
+    <div class="row">
+        {% for row in rows %}
+        <div class="col-lg-3 col-md-6 mb-4">
+          <div class="card h-100">
+            <a class="nave-link" href="{{url_for('revise.Product_revise', handle=row['handle'])}}"><img class="card-img-top" src="{{row['image_src']}}" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a class="nave-link" href="{{url_for('revise.Product_revise', handle=row['handle'])}}">{{row['title']}}</a>
+              </h4>
+              <a class="nave-link" href="{{url_for('revise.Product_revise', handle=row['handle'])}}"><h5>${{row['variant_price']}}</h5></a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    {{ pagination.links }}  
+
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+<script>
+  $('.search-button').click(function(){
+    $(this).parent().toggleClass('open');
+  });
+</script>
+{% endblock %} 

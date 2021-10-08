@@ -1,0 +1,125 @@
+/*@screen-xs-min:320px;
+@screen-xs-max: 767px;
+@screen-sm-min: 768px;
+@screen-sm-max: 991px;
+@screen-md-min: 992px;
+@screen-md-max: 1199px;
+@screen-lg-min: 1200px;*/
+@media screen and (max-width: 767px){
+.message_main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 60px;
+    background-color: lightblue;
+
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px ){
+.message_main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    margin-top: 60px;
+    background-color: lightblue;
+
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px){
+.message_main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    margin-top: 60px;
+    background-color: lightblue;
+
+    }
+}
+@media screen and  (min-width: 1200px){
+.message_main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    margin-top: 60px;
+    background-color: lightblue;
+
+}
+.message_holder {
+  max-height: 500px;
+  overflow: auto;
+}
+
+}
+
+
+
+
+#userInput {
+    width: 100%;
+
+    margin-top: 60px;
+
+}
+
+#textInput {
+    width: 84.5%;
+    border: lightgrey;
+    font-family: monospace;
+    font-size: 15px;
+    margin-left: 15px;
+    height: 40px;
+    border-bottom: 3px solid lightblue;
+}
+
+#buttonInput {
+    width: 10%;
+    padding: 3px;
+    font-family: monospace;
+    font-size: 15px;
+    height:39px;
+    float: right;
+    margin-right: 1%;
+    border-bottom: 3px solid lightblue;
+}
+
+.userText {
+    padding-right: 15px;
+    color: black;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: right;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.userText span {
+    background-color: #dcf8c5;
+    padding: 10px;
+    border-radius: 2px;
+
+}
+
+.botText {
+    color: black;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+    word-break: keep-all;
+    max-width: 55%;
+}
+
+.botText span {
+    background-color: white;
+    padding: 10px;
+    border-radius: 2px;
+    object-fit: cover;
+    display: inline-block;
+
+}
+.botText span a img {
+  max-width: 80%;
+  margin: 0;
+}

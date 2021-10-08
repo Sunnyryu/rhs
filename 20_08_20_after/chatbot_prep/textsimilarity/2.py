@@ -4,6 +4,7 @@ from numpy import dot
 from numpy.linalg import norm
 
 def cos_sim(vec1, vec2):
+    print(dot(vec1, vec2), norm(vec1), norm(vec2), "test1")
     return dot(vec1, vec2) / (norm(vec1) * norm(vec2))
 
 def make_term_doc_mat(sentence_bow, word_dics):

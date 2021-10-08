@@ -1,0 +1,12 @@
+<div class="daebak_minibot">
+  <div class="daebak_minichat">
+
+  </div>
+  <form action="" method="POST">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+    <div id="miniInput">
+      <input id ='minitextInput' type="text" name="message" class="message" placeholder="Message"/ required>
+      <input id='minibuttonInput' class="btn btn-info" type="submit" value="send"/>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,247 @@
+{% extends 'base.html' %}
+{% block title %}
+Estimate sheet
+{% endblock %}
+
+{% block body %}
+
+{% if 'loggedin' in session %}
+<style>
+    canvas {
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+    }
+</style>
+
+<body>
+
+    <div class="container-fluid">
+        <div class="row">
+            {{ sidebarmenuEstimatesheet() }}
+
+            <main role="main" class="col-md-9 col-lg-10 px-md-4">
+
+                <table class="table table-bordered">
+                    <thead class="thead-light">
+
+                        <th style="width: 20%">견적을 받으실 분</th>
+                        <th style="width: 20%">이메일</th>
+                        <th style="width: 15%">견적날짜</th>
+                        <th style="width: 45%">메모</th>
+                    </thead>
+                    <tbody>
+                        <td>
+                            {{ROW.recipient}}
+                        </td>
+                        <td>
+                            {{ROW.email}}
+                        </td>
+                        <td>
+                            {{ROW.date }}
+                        </td>
+
+                        <td>
+                            {{ROW.memo}}
+                        </td>
+                    </tbody>
+                </table>
+                <form action="{{url_for('estimatesheet.Print',id=ROW.id)}}"  method="POST">
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+                <table class="table order-list table-bordered">
+                    <thead class="thead-light">
+                        <tr>
+                            <th style="width: 5%">순번</th>
+                            <th style="width: 25%">품목</th>
+                            <th style="width: 7%">규격</th>
+                            <th style="width: 10%">수량</th>
+                            <th style="width: 7%">단가+VAT</th>
+                            <th style="width: 10%">단가</th>
+                            <th style="width: 15%">공급가액</th>
+                            <th style="width: 10%">세액</th>
+                            <th style="width: 15%">합계</th>
+                            
+                        </tr>
+
+                    </thead>
+                   
+                    <tbody>
+                        {% for count in range(ROW.counter) %}
+                       
+                        <tr>
+                            <td>{{count+1}}</td>
+                            <td><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="{{'name{}'.format(count)}}" name="{{'name{}'.format(count)}}" value="{{ ROW['name{}'.format(count)] }}" /></td>
+                            <td><input type="text" readonly style="text-align: right" class="form-control"
+                                        id="{{'code{}'.format(count)}}" name="{{'code{}'.format(count)}}" value="{{ ROW['code{}'.format(count)] }}" /></td>
+    
+                            <td><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="{{'quantity{}'.format(count)}}" name="{{'quantity{}'.format(count)}}" value="{{ ROW['quantity{}'.format(count)] }}" />
+                            </td>
+                            <td><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="{{'price{}'.format(count)}}" name="{{'price{}'.format(count)}}" value="{{ ROW['price{}'.format(count)] }}" /></td>
+
+
+                            <td><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="{{'priceNonVat{}'.format(count)}}" name="{{'priceNonVat{}'.format(count)}}" /></td>
+                            <td><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="{{'sumNonVat{}'.format(count)}}" name="{{'sumNonVat{}'.format(count)}}" /></td>
+                            <td><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="{{'VAT{}'.format(count)}}" name="{{'VAT{}'.format(count)}}" /></td>
+                            <td><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="{{'SUM{}'.format(count)}}" name="{{'SUM{}'.format(count)}}" /></td>
+
+
+                        </tr>
+                       
+                        {% endfor %}
+                    </tbody>
+                    <tfoot>
+                        <tr>
+
+                            <th></th>
+                            <th><span id="rowinfo"></th>
+                            <th></th>
+                            <th></th>
+
+                            <th><input type="text" readonly style="text-align: right" class="form-control" id="counter"
+                                    name="counter" value="{{ROW.counter}}" hidden> </th>
+                            <th><input type="text" readonly style="text-align: right" class="form-control" id="sum"
+                                    name="sum" hidden></th>
+                            <th><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="grandsumNonVat" name="grandsumNonVat"></th>
+                            <th><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="grandvat" name="grandvat"></th>
+                            <th><input type="text" readonly style="text-align: right" class="form-control"
+                                    id="grandtotal" name="grandtotal"></th>
+
+
+
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <div>
+                     
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" checked  >
+                        <label class="form-check-label" for="inlineRadio1">표준견적서</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+                        <label class="form-check-label" for="inlineRadio2">간이영수증</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+                        <label class="form-check-label" for="inlineRadio3">거래명세서</label>
+                    </div>
+                        
+                        
+                    <input type="submit" class="btn btn-info" value="   PDF파일 생성     " />
+                   
+                  
+                </div>
+            </form>
+
+            </main>
+        </div>
+    </div>
+
+
+
+</body>
+<script>
+
+    var counter = 0;
+    $(document).ready(function () {
+
+        update();
+    });
+
+
+
+    function calculateGrandTotal() {
+        var grandTotal = 0, grandsumNonVat = 0, grandVat = 0;
+        $("table.order-list").find('input[id^="SUM"]').each(function () {
+            grandTotal += +removecomma($(this).val());
+        });
+
+        $("table.order-list").find('input[id^="VAT"]').each(function () {
+            grandVat += +removecomma($(this).val());
+        });
+
+        $("table.order-list").find('input[id^="sumNonVat"]').each(function () {
+            grandsumNonVat += +removecomma($(this).val());
+        });
+        
+        $("#grandsumNonVat").val(comma(grandsumNonVat));
+        $("#grandvat").val(comma(grandVat));
+        $("#grandtotal").val(comma(grandTotal));
+        $("#sum").val(grandTotal);
+
+
+    }
+    function update() {
+
+     
+        counter = $("#counter").val();
+    
+
+
+        for (let i = 0; i < counter; i++) {
+            let price = $("#price" + i).val();
+            let quantity = $("#quantity" + i).val()
+            let SUM = quantity * price;
+            let sumNonVat = parseInt(SUM / 1.1);
+            let VAT = SUM - sumNonVat;
+            let priceNonVat = parseInt(sumNonVat / quantity);
+
+
+            $("#quantity"+i).val(comma(quantity));
+            $("#price"+i).val(comma(price));
+            $("#priceNonVat" + i).val(comma(priceNonVat));
+            $("#sumNonVat" + i).val(comma(sumNonVat));
+            $("#VAT" + i).val(comma(VAT));
+            $("#SUM" + i).val(comma(SUM));
+
+        }
+
+        
+        calculateGrandTotal();
+      
+
+
+        $("#rowinfo").html("총 " + counter + "품목 합계");
+
+    }
+
+    function comma(num) {
+            return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }
+
+        function removecomma(num) {
+            return num.replace(/,/g, '');
+        }
+
+
+        function calculateRow(row) {
+            var price = +row.find('input[name^="price"]').val();
+
+        }
+
+    function getToday() {
+        var date = new Date();
+        var year = date.getFullYear();
+        var month = ("0" + (1 + date.getMonth())).slice(-2);
+        var day = ("0" + date.getDate()).slice(-2);
+
+        return year + "-" + month + "-" + day;
+    }
+
+</script>
+
+
+
+{% endif %}
+
+{% endblock %}

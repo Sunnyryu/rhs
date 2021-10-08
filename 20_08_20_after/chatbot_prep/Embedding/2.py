@@ -18,6 +18,7 @@ print('1 말뭉치 데이터 읽기 완료:', time.time() -start)
 print('2) 형태소에서 명사만 추출 시작')
 komoran = Komoran()
 docs = [komoran.nouns(sentence[1]) for sentence in review_data]
+print(docs, "명사들")
 print('2) 형태소에서 명사만 추출 완료', time.time() -start)
 
 print('3) word2vec 모델 학습 시작')

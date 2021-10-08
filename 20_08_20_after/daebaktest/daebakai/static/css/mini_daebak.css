@@ -1,0 +1,195 @@
+#daebakbot_button {
+  width: 100px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+@media screen and (min-width: 991px){
+#close_button {
+  width: 100px;
+  display: none;
+  position: fixed;
+  right : 0;
+  bottom: 0;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.daebak_minibot{
+  position: fixed;
+  width: 25%;
+  display: none;
+  background-color: lightblue;
+  bottom: 0;
+  right: 0;
+  margin-right: 20px;
+  margin-bottom: 8%;
+}
+.daebak_minichat{
+  overflow: auto;
+  height: 400px;
+}
+
+#minitextInput {
+    width: 84.5%;
+    border: lightgrey;
+    font-family: monospace;
+    font-size: 8px;
+    margin-left: 15px;
+    height: 40px;
+    border-bottom: 3px solid lightblue;
+}
+
+#minibuttonInput {
+    width: 10%;
+    padding: 3px;
+    font-family: monospace;
+    font-size: 8px;
+    height:39px;
+    float: right;
+    margin-right: 1%;
+    border-bottom: 3px solid lightblue;
+}
+
+.miniuserText {
+    padding-right: 15px;
+    color: black;
+    font-family: monospace;
+    font-size: 10px;
+    text-align: right;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.miniuserText span {
+    background-color: #dcf8c5;
+    padding: 10px;
+    border-radius: 2px;
+
+}
+
+.minibotText {
+    color: black;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-family: monospace;
+    font-size: 10px;
+    text-align: left;
+    line-height: 30px;
+    word-break: keep-all;
+    max-width: 55%;
+}
+
+.minibotText span {
+    background-color: white;
+    padding: 10px;
+    border-radius: 2px;
+    object-fit: cover;
+    display: inline-block;
+
+}
+
+.minibotText span a img {
+  max-width: 80%;
+  margin: 0;
+}
+}
+
+@media screen and (max-width: 991px){
+#close_button {
+  width: 100px;
+  display: none;
+  position: fixed;
+  right : 0;
+  bottom: 0;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.daebak_minibot{
+  position: fixed;
+  width: 75%;
+  height: 75%;
+  display: none;
+  background-color: lightblue;
+  bottom: 0;
+  right: 10%;
+  top: 10%;
+  margin-right: 20px;
+  margin-bottom: 8%;
+}
+.daebak_minichat{
+  overflow: auto;
+  height: 95%;
+  margin-top: 5px;
+}
+
+#minitextInput {
+    width: 84.5%;
+    border: lightgrey;
+    font-family: monospace;
+    font-size: 8px;
+    margin-left: 15px;
+    height: 40px;
+    border-bottom: 3px solid lightblue;
+}
+
+#minibuttonInput {
+    width: 10%;
+    padding: 3px;
+    font-family: monospace;
+    font-size: 8px;
+    height:39px;
+    float: right;
+    margin-right: 1%;
+    border-bottom: 3px solid lightblue;
+}
+
+.miniuserText {
+    padding-right: 15px;
+    color: black;
+    font-family: monospace;
+    font-size: 10px;
+    text-align: right;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.miniuserText span {
+    background-color: #dcf8c5;
+    padding: 10px;
+    border-radius: 2px;
+
+}
+
+.minibotText {
+    color: black;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-family: monospace;
+    font-size: 10px;
+    text-align: left;
+    line-height: 30px;
+    word-break: keep-all;
+    max-width: 55%;
+}
+
+.minibotText span {
+    background-color: white;
+    padding: 10px;
+    border-radius: 2px;
+    object-fit: cover;
+    display: inline-block;
+
+}
+
+.minibotText span a img {
+  max-width: 80%;
+  margin: 0;
+}
+}
