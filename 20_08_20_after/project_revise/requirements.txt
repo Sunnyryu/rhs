@@ -32,7 +32,7 @@ scipy==1.6.1
 six==1.15.0
 sklearn==0.0
 soupsieve==2.2
-sqlparse==0.4.1
+sqlparse==0.4.2
 threadpoolctl==2.1.0
 tqdm==4.59.0
 tweepy==3.10.0
